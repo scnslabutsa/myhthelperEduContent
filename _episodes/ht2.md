@@ -9,7 +9,7 @@ Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine t
 
 Hormone therapy slows or stops the growth of hormone-sensitive tumors in two ways:
 
-1. by lowering the amount of estrogen in the body. This can be done by blocking ovarian function (i.e., Zoladex and Lupron); or by blocking estrogen production through drugs called aromatase inhibitors (i.e., Arimidex and Femara and Aromasin); and\
+1. by lowering the amount of estrogen in the body. This can be done by blocking ovarian function (i.e., Zoladex and Lupron); or by blocking estrogen production through drugs called aromatase inhibitors (i.e., Arimidex and Femara and Aromasin); and
 2. by blocking the action of estrogen on breast cancer cells (i.e, Novaldex [tamoxifen] and Evista [raloxifene]).
 
 The hormone therapy a doctor prescribes depends on many factors, including disease characteristics, and if you are pre- or post-menopausal. 
