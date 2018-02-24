@@ -20,7 +20,7 @@ To examine, using the hands and fingers.
 **PARP (poly(ADP-ribose) polymerase) Inhibitors** 
 A class of targeted therapy drugs that block an enzyme involved in DNA repair (called PARP enzyme).
 
-**Partial Mastectomy (see Lumpectomy in [L](/L/index.html))** 
+**Partial Mastectomy (see Lumpectomy in [L](/{{page.root}}/myhthelperEduContent/L/index.html))** 
 
 **Pathologic Response** 
 A measure describing how much of the tumor is left in the breast and lymph nodes after neoadjuvant (before surgery) therapy. The pathologic response gives some information about prognosis. A complete pathologic response means there is no invasive cancer in the tissue removed during breast surgery.
@@ -66,7 +66,7 @@ A method for collecting the individual data from a group of studies, combining t
 
 **Positron Emission Tomography (see PET)** 
 
-**Postmenopausal Hormone Use (see Menopausal Hormone Therapy in [M](/M/index.html))** 
+**Postmenopausal Hormone Use (see Menopausal Hormone Therapy in [M](/{{page.root}}/myhthelperEduContent/M/index.html))** 
 
 **Precision Medicine** 
 Using information about a person's genes, the tumor's genes, molecular characteristics of the tumor and the environment to prevent, diagnose and treat disease (such as the use of targeted therapies ). This may also be known as personalized medicine.
@@ -83,7 +83,7 @@ Women who have regular menstrual periods.
 **Premium (Insurance Premium)** 
 The cost of insurance coverage for a certain period of time.
 
-**Preoperative Chemotherapy (see Neoadjuvant Chemotherapy in [N](/N/index.html))** 
+**Preoperative Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))** 
 
 **Prevalence Rate** 
 The proportion (percentage) of people in a population who have a certain disease, behavior or characteristic at a defined point in time.
@@ -91,7 +91,7 @@ The proportion (percentage) of people in a population who have a certain disease
 **Prevention** 
 Steps taken to lower the risk of a disease.
 
-**Primary Chemotherapy (see Neoadjuvant Chemotherapy in [N](/N/index.html))** 
+**Primary Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))** 
 
 **Primary Tumor** 
 The original cancer.

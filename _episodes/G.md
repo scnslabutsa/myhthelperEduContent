@@ -17,7 +17,7 @@ The part of a cell that contains DNA. The DNA information in a person's genes is
 **Gene Expression** 
 Process in which a gene gets turned on in a cell to make RNA and proteins.
 
-**Gene Expression Profiling (see Tumor Profiling in [T](/T/index.html)) Gene Mutation** 
+**Gene Expression Profiling (see Tumor Profiling in [T](/{{page.root}}/myhthelperEduContent/T/index.html)) Gene Mutation** 
 Any change in the DNA (the information contained in a gene) of a cell. Gene mutations can be harmful, beneficial or have no effect.
 
 **Gene Variant of Uncertain Significance** 

@@ -56,12 +56,12 @@ An uncontrolled growth of abnormal breast cells.
 **Breast Cancer Advocacy** 
 Influencing targeted audiences to promote the support of breast cancer issues.
 
-**Breast Cancer Survivor** (see Survivor in [S](/S/index.html)) \
+**Breast Cancer Survivor** (see Survivor in [S](/{{page.root}}/myhthelperEduContent/S/index.html)) \
 
 **Breast Conserving Surgery (see Lumpectomy) Breast Density** 
 A measure used to describe the relative amounts of fat and tissue in the breasts as seen on a mammogram.
  
-**Breast-Specific Gamma Imaging**  (see Nuclear Medicine Imaging of the Breast in [N](/N/index.html)) \
+**Breast-Specific Gamma Imaging**  (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html)) \
 
 **Breast Imaging Reporting and Data System (BI-RADS®)** 
 A system developed by the American College of Radiology to provide a standard way to describe the findings on a mammogram.

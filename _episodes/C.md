@@ -46,7 +46,7 @@ Mental processes related to understanding, such as reasoning and problem- solvin
 **Cohort Study** 
 A study that follows a large group of people (a cohort) over time.
 
-**Co-Insurance** (see Co-Payment in [C](/C/index.html)) \
+**Co-Insurance** (see Co-Payment in [C](/{{page.root}}/myhthelperEduContent/C/index.html)) \
  
 **Complementary Therapies (Integrative Therapies)** 
 Therapies (such as acupuncture or massage) used in addition to standard medical treatments. Complementary therapies are not used to treat cancer, but they may help improve quality of life and relieve some side effects of treatment or the cancer itself. When complementary therapies are combined with standard medical care, they are often called integrative therapies.

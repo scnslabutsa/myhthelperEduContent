@@ -30,7 +30,7 @@ Surgical biopsy that removes only part of the tumor.
 **Indemnity Policy** 
 A prepayment insurance plan that gives services or a cash payment for medical care needed in times of illness or disability.
 
-**Induction Chemotherapy (see Neoadjuvant Chemotherapy in [N](/N/index.html))**  
+**Induction Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**  
 
 **Inflammatory Breast Cancer (IBC)** 
 A rare and aggressive form of invasive breast cancer. Its main symptoms are
@@ -40,7 +40,7 @@ swelling (inflammation) and redness of the breast. The skin on the breast may lo
 The process through which a person learns about the possible benefits and side effects of a treatment plan and then accepts or declines the treatment. The person is usually asked to sign a consent form, but may stop the treatment at any time and get other medical care.
 
 **Infraclavicular Lymph Nodes** 
-The lymph nodes below the clavicle (collarbone). See Lymph Nodes in [L](/L/index.html).
+The lymph nodes below the clavicle (collarbone). See Lymph Nodes in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
 
 **Insurance Payment Cap** 
 A maximum amount an insurance company will pay out in a given time period.
@@ -48,7 +48,7 @@ A maximum amount an insurance company will pay out in a given time period.
 **Insurance Premium (Premium)** 
 The cost of insurance coverage for a certain period of time.
 
-**Integrative Therapies (see Complementary Therapies in [C](/C/index.html))** 
+**Integrative Therapies (see Complementary Therapies in [C](/{{page.root}}/myhthelperEduContent/C/index.html))** 
 
 **Intraductal** 
 Within the milk duct. Intraductal can describe a benign (not cancerous) or malignant (cancerous) process.

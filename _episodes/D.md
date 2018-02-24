@@ -45,6 +45,6 @@ A canal that carries milk from the lobules to a nipple opening during breastfeed
 **Ductal Carcinoma in Situ (DCIS, Intraductal Carcinoma)** 
 A non-invasive breast cancer that begins in the milk ducts of the breast, but has not invaded nearby breast tissue. Also called stage 0 or pre-invasive breast carcinoma.
 
-**Ductal Papilloma** (see Intraductal Papilloma in [I](/I/index.html)) \ 
+**Ductal Papilloma** (see Intraductal Papilloma in [I](/{{page.root}}/myhthelperEduContent/I/index.html)) \ 
 
 <a href="#top">Back to top of page</a>

@@ -17,7 +17,7 @@ The different combinations and timing for chemotherapy and other drugs.
 **Sclerosing Adenosis** 
 Small, benign (not cancer) breast lumps caused by enlarged lobules. The lumps may be felt and may be painful.
 
-**Scintimammography (see Nuclear Medicine Imaging of the Breast in [N](/N/index.html)) Screening** 
+**Scintimammography (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html)) Screening** 
 A test or procedure used to find cancer or a benign (not cancer) condition in a
 person who does not have any known problems or symptoms.
 
@@ -42,12 +42,12 @@ The surgical removal and testing of the sentinel node(s) (first axillary node(s)
 **Silicone Gel** 
 Medical-grade, solid form of silicone used for breast implants. Silicone implants can mimic the feel of a natural breast better than saline implants.
 
-**Simple Mastectomy (see Total Mastectomy in [T](/T/index.html))**  
+**Simple Mastectomy (see Total Mastectomy in [T](/{{page.root}}/myhthelperEduContent/T/index.html))**  
 
 **Skin-Sparing Mastectomy** 
 A procedure that surgically removes the breast, but keeps intact as much of the skin that surrounds the breast as possible. This skin can then be used in breast reconstruction to cover a tissue flap or an implant instead of having to use skin from other parts of the body.
 
-**Sonogram (see Ultrasound in [U](/U/index.html))**  
+**Sonogram (see Ultrasound in [U](/{{page.root}}/myhthelperEduContent/U/index.html))**  
 
 **Specificity** 
 The proportion (or percentage) of people who truly do not have the condition of interest who test negative for the condition.
@@ -79,7 +79,7 @@ Physician who performs any surgery, including surgical biopsies and other proced
 **Surgical Oncologist** 
 A physician specializing in the treatment of cancer using surgical procedures.
 
-**Survival (see Overall Survival in [O](/O/index.html) and Relative Survival in [R](/R/index.html))**  
+**Survival (see Overall Survival in [O](/{{page.root}}/myhthelperEduContent/O/index.html) and Relative Survival in [R](/{{page.root}}/myhthelperEduContent/R/index.html))**  
 
 **Survivor (Breast Cancer Survivor)** 
 A person living with breast cancer (from the time of diagnosis).

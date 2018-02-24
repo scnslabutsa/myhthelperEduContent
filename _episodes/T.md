@@ -23,7 +23,7 @@ An imaging technique that uses infrared light to measure temperature differences
 **Tissue** 
 A group or layer of cells.
 
-**Tomosynthesis (see  Breast Tomosynthesis in [B](/B/index.html))** 
+**Tomosynthesis (see  Breast Tomosynthesis in [B](/{{page.root}}/myhthelperEduContent/B/index.html))** 
  
 **Total Mastectomy (Simple Mastectomy)** 
 Surgical removal of the breast but no other tissue or nodes. Used for the treatment of ductal carcinoma in situ and, in some cases, breast cancer recurrence. Also used in prophylactic mastectomy.

@@ -33,7 +33,7 @@ breast cancer in postmenopausal women at high risk.
 **Randomized Controlled Trials** 
 Studies where researchers change some participants' behavior or provide a certain therapy to see how it affects health. Participants are randomly assigned (as if by coin toss) to either an intervention group (such as one getting a new drug) or a control group (such as one getting standard treatment).
 
-**Reconstruction (see  Breast Reconstruction in [B](/B/index.html))** 
+**Reconstruction (see  Breast Reconstruction in [B](/{{page.root}}/myhthelperEduContent/B/index.html))** 
  
 **Recurrence (Relapse)** 
 Return of cancer. Local recurrence is the return of cancer to the same breast or the same side chest wall. Distant recurrence is the return of cancer that has spread to other parts of the body, such as the lungs, liver, bones or brain. See Metastases.

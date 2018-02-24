@@ -35,6 +35,6 @@ The cause(s) of a disease.
 **Excisional Biopsy** 
 Surgical procedure that removes the entire abnormal area (plus some surrounding normal tissue) from the breast.
 
-**External Beam Radiation Therapy** (see Radiation Therapy in [R](/R/index.html)) 
+**External Beam Radiation Therapy** (see Radiation Therapy in [R](/{{page.root}}/myhthelperEduContent/R/index.html)) 
 
 <a href="#top">Back to top of page</a>

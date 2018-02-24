@@ -63,7 +63,7 @@ Hormone therapy drugs that lower estrogen levels in the body by blocking aromata
 **Aspirate** 
 To remove fluid and a small number of cells.
 
-**Atrophic Vaginitis** (see Vaginal Atrophy in [V](/V/index.html)) 
+**Atrophic Vaginitis** (see Vaginal Atrophy in [V](/{{page.root}}/myhthelperEduContent/V/index.html)) 
 
 **Atypical Hyperplasia** 
 A benign (not cancer) breast condition where breast cells are growing rapidly (proliferating). The proliferating cells look abnormal under a microscope.

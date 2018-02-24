@@ -13,7 +13,7 @@ Integrative or complementary dietary therapy that includes a mostly vegetarian, 
 **Malignant** 
 Cancerous.
 
-**Mammary Duct (see Duct in [D](D.html))** 
+**Mammary Duct (see Duct in [D](/{{page.root}}/myhthelperEduContent/D/index.html))** 
 
 **Mammary Duct Ectasia** 
 A benign (not cancer) breast condition resulting from inflammation (swelling) and enlargement of the ducts behind the nipple. Often there are no symptoms, but calcifications seen on a mammogram may point to its presence. No treatment is needed if the woman is not having symptoms (burning, pain or itching in the nipple area).
@@ -75,7 +75,7 @@ Surgery that involves connecting small blood vessels.
 **Modified Radical Mastectomy** 
 Surgical removal of the breast, the lining of the chest muscles and some of the lymph nodes in the underarm area. Used to treat early and locally advanced breast cancer.
 
-**Molecular Breast Imaging (see Nuclear Medicine Imaging of the Breast in [N](/N/index.html))**  
+**Molecular Breast Imaging (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**  
 
 **Monoclonal Antibodies** 
 Immune proteins that can locate and bind to cancer cells. They can be used alone

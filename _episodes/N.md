@@ -10,7 +10,7 @@ title: N
 **Naturopathy (Naturopathic Medicine)** 
 A medical system based on a belief in using natural elements to maintain health and to help the body heal itself. It includes therapies such as nutrition and massage.
 
-**Needle Localization (see Wire Localization in [W](/W/index.html))** 
+**Needle Localization (see Wire Localization in [W](/{{page.root}}/myhthelperEduContent/W/index.html))** 
 
 **Neoadjuvant Chemotherapy (Induction Chemotherapy, Primary Chemotherapy,  Preoperative Chemotherapy)** 
 Chemotherapy used as a first treatment. Often used for large or locally-advanced cancers to shrink tumors before surgery.
@@ -34,10 +34,10 @@ A case-control study done within a prospective cohort study. The major advantage
 A breast reconstruction procedure that removes the tumor and margins as well as the fat and other tissue in the breast, but leaves the nipple and areola intact.
 
 **Node-Negative  (Lymph Node-Negative)** 
-Cancer that has not spread to the lymph nodes. See Lymph Node Status in [L](/L/index.html).
+Cancer that has not spread to the lymph nodes. See Lymph Node Status in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
 
 **Node-Positive (Lymph Node-Positive)** 
-Cancer that has spread to the lymph nodes. See Lymph Node Status in [L](/L/index.html).
+Cancer that has spread to the lymph nodes. See Lymph Node Status in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
 
 **Non-Invasive** 
 1. In treatment, describes a procedure that does not penetrate the skin (or any body opening) with a needle or other instrument. \
