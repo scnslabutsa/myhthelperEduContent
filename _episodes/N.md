@@ -49,9 +49,6 @@ Describes a breast lump or abnormal area that cannot be felt but can be seen on 
 **Normal Tissue** 
 Cells that are cancer-free.
 
-**Nuclear Medicine Imaging of the Breast (Molecular Breast Imaging)** 
-A technique under study for use in the early detection of breast cancer. Nuclear medicine imaging uses short-term radioactive agents given through an IV. Cancer cells absorb these agents and can be imaged with a special camera. Nuclear medicine imaging is not a standard breast cancer screening tool. Breast-specific gamma imaging and scintimammography are types of nuclear medicine imaging.
-
 **Nucleus** 
 The part a cell that contains the genetic material DNA. Nuclei is the plural of nucleus.
 

@@ -5,12 +5,6 @@ title: O
 
 <a name="top"></a>
 
-**Observational Study** 
-A research study where participants live their daily lives as usual and report their activities to researchers.
-
-**Odds Ratio** 
-A measure reported in case-control studies that describes the increase (or decrease) in disease risk related to a risk factor. An odds ratio is interpreted in the same way as a relative risk, though it is calculated differently.
-
 **Oncologist** 
 The physician in charge of planning and overseeing cancer treatment.
 

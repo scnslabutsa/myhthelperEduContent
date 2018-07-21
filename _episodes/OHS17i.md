@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Weight Gain
+title: Weight Gain<sup>20</sup>
 ---
 
 Weight gain can be a result of cancer treatment in women with breast cancer for many reasons. It could be due to eating more, but being less active. It could also be due to medications that cause your body to hold extra fluid. It could be due to frequent snacking to avoid nausea. 
@@ -14,7 +14,8 @@ Tips for Managing Weight Gain:
 * Talk with a Dietitian. Ask your healthcare team for a referral to a registered dietician to help develop a plan to meet your nutrition needs without gaining weight.
 
 	− If you meet with a registered dietician, ask him/her to teach you what to look for on nutrition labels so that you can make the healthiest decisions when you’re grocery shopping.
-	- Walk daily. There are so many ways to add walking to your daily routine. 
+
+* Walk daily. There are so many ways to add walking to your daily routine. 
 	- When you’re at work, use a bathroom that is in a different building or different floor.
 	- Walk during your lunch time.
 	- Walk around your neighborhood after dinner.
@@ -38,3 +39,5 @@ Tips for Managing Weight Gain:
 * Exercise Regularly.
 
 	- For tips about how to start an exercise plan, stay motivated, and find different ways to be physically active, please see our section on Physical Activity. [PA1.html](/PA1/index.html), [PA2.html](/PA2/index.html), [PA3.html](/PA3/index.html) and [PA4.html](/PA4/index.html)
+
+<sup>20</sup>American Cancer Society, 2015. Nutrition For The Person With Cancer During Treatment: Weight Gain.	

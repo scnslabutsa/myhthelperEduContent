@@ -1,7 +1,11 @@
 ---
 layout: lesson
-title: Healthy Eating Guidelines
+title: Healthy Eating Guidelines<sup>19,20</sup>
 ---
+
+***Healthy Eating Guidelines*** 
+
+Eating healthy is fun, delicious, and good for your body in countless ways. Here are some guidelines to help you maintain a healthy diet. Learn them, practice them, and share them with your family and friends!
 
 * Eat at least 2 ½ cups of fruits and vegetables every day.
 
@@ -22,3 +26,7 @@ title: Healthy Eating Guidelines
 * Limit alcohol intake to less than 1 drink a day for women and less than 2 drinks a day for men.
 
 * Educate yourself. Always be on the lookout for healthier options. For example: start following healthy cooking blogs, look for free cooking classes at local grocery stores, gyms, or libraries (many times cooking classes are for healthy foods); and ask a registered dietician about food swaps that you can try.
+
+<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+
+<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 

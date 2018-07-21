@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Inflammatory and Anti-inflammatory Foods
+title: Inflammatory and Anti-inflammatory Foods<sup>19,20</sup>
 ---
 Your immune system attacks anything in your body that it recognizes as foreign—such as an invading microbe, plant pollen, or chemical. 
 
@@ -14,7 +14,7 @@ One of the most powerful tools to combat inflammation comes not from the pharmac
 
 Choose the right foods and you may be able to reduce your risk of illness. Consistently pick the wrong ones and you could accelerate the inflammatory process.
 
-**Foods that promote inflammation:**
+***Foods that promote inflammation:***
 
 Try to avoid or limit these foods as much as possible:
 
@@ -27,7 +27,7 @@ Try to avoid or limit these foods as much as possible:
 Not surprisingly, the same foods that contribute to inflammation are generally considered bad for our health, including sodas and refined carbohydrates, as well as red meat and processed meats.
 Unhealthy foods also contribute to weight gain, which is itself a risk factor for inflammation. 
 
-**Foods that combat inflammation:**
+***Foods that combat inflammation:***
 
 Some foods have anti-inflammatory properties that may reduce your cancer risk, according to a recent study at [http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub](http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub). The basic anti-inflammatory diet involves regular consumption of multiple spices and herbs and increased intake of marine fish intake, cruciferous and colorful vegetables and fruit, olive oil, and green and black tea.
 
@@ -48,9 +48,13 @@ To reduce levels of inflammation, aim for an overall healthy diet. If you're loo
 
 In addition to lowering inflammation, a more natural, less processed diet can have noticeable effects on your physical and emotional health.
 
-Healthy Eating Guidelines 
+<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
 
-Eating healthy is fun, delicious, and good for your body in countless ways. Here are some guidelines to help you maintain a healthy diet. Learn them, practice them, and share them with your family and friends!
+<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 
+
+
+
+
 
 
 

@@ -11,9 +11,6 @@ A hormone therapy drug (taken in pill form) used to treat early and advanced sta
 **Targeted Therapy** 
 Drug therapies designed to attack specific molecular agents or pathways involved in the development of cancer. Trastuzumab (Herceptin) is an example of a targeted therapy used to treat breast cancer.
 
-**Tertiles** 
-Categories of an exposure (like body weight or exercise) based on three equal parts of the total number of people in the study.
-
 **Therapeutic Touch** 
 An integrative or complementary therapy where trained practitioners enter a semi-meditative state and hold their hands just above a person’s body to sense energy imbalances due to illness. Healing energy is then said to transfer to the person.
 

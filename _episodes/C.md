@@ -68,9 +68,6 @@ A person who lends support to someone diagnosed with breast cancer, from the tim
 **CT Scan (Computerized Tomography Scan, Computerized Axial Tomography (CAT) Scan)** 
 A series of pictures created by a computer linked to an X-ray machine. The scan gives detailed internal images of the body.
 
-**Cumulative Risk** 
-The sum of a person's chances of developing a disease (like breast cancer) over the course of a lifetime (usually defined as birth up to age 85). For example, the cumulative (lifetime) risk of breast cancer for women is about 1 in 8 (or about 12 percent). This means for every 8 women, one will be diagnosed with breast cancer during her lifetime (up to age 85).
-
 **Cyst** 
 A fluid-filled sac.
 

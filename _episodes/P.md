@@ -17,9 +17,6 @@ Describes a breast lump or abnormal area that can be felt during a clinical brea
 **Palpation** 
 To examine, using the hands and fingers.
 
-**PARP (poly(ADP-ribose) polymerase) Inhibitors** 
-A class of targeted therapy drugs that block an enzyme involved in DNA repair (called PARP enzyme).
-
 **Partial Mastectomy (see Lumpectomy in [L](/{{page.root}}/myhthelperEduContent/L/index.html))** 
 
 **Pathologic Response** 
@@ -33,12 +30,6 @@ The time in a woman’s life prior to menopause when menstrual periods become ir
 
 **Peripherally Inserted Central Catheter (PICC)** 
 A small tube used to deliver medicine to the body through a vein. Instead of being reinserted for each use, a PICC is left in place to allow access for a long period of time (weeks to months).
-
-**Permanent Section** 
-A method used in diagnosis. Thin slices of tissue are processed and put on a slide so that a pathologist can study them under a microscope. These sections are of better quality than frozen sections.
-
-**Perometer** 
-A device that uses infrared light beams to measure limb volume.
 
 **Personalized Medicine** 
 Using information about a person's genes, the tumor’s genes, molecular characteristics of the tumor and the environment to prevent, diagnose and treat disease (such as the use of targeted therapies).This may also be known as precision medicine.
@@ -61,9 +52,6 @@ A part of the brain that controls growth and other glands in the body, such as t
 **Placebo** 
 An inactive medicine sometime used to have a comparison to a new drug in a clinical study. May be called a "sugar pill."
 
-**Pooled Analysis** 
-A method for collecting the individual data from a group of studies, combining them into one large set of data and then analyzing the data as if they came from one big study.
-
 **Positron Emission Tomography (see PET)** 
 
 **Postmenopausal Hormone Use (see Menopausal Hormone Therapy in [M](/{{page.root}}/myhthelperEduContent/M/index.html))** 
@@ -84,9 +72,6 @@ Women who have regular menstrual periods.
 The cost of insurance coverage for a certain period of time.
 
 **Preoperative Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))** 
-
-**Prevalence Rate** 
-The proportion (percentage) of people in a population who have a certain disease, behavior or characteristic at a defined point in time.
 
 **Prevention** 
 Steps taken to lower the risk of a disease.
@@ -123,14 +108,8 @@ Rapidly growing and increasing in number.
 **Prophylactic Mastectomy** 
 Preventive surgery where one or both breasts are removed in order to prevent breast cancer. When both breasts are removed, the procedure is called bilateral prophylactic mastectomy.
 
-**Prospective Study** 
-An observational study that follows people forward in time. See Cohort Study.
-
 **Prosthetic (Breast Prosthetic, Prosthesis)** 
 An artificial breast form that can be worn under clothing after a mastectomy.
- 
-**Protocol** 
-An outline or plan for the use of an experimental drug, treatment or procedure in cancer therapy or diagnosis.
 
 **Punch Biopsy** 
 Removal of a small circle of skin (with a special instrument called a punch or trephine) to be tested for cancer cells.

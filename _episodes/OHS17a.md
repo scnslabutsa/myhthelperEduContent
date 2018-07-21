@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Anxiety
+title: Anxiety<sup>33</sup>
 ---
 
 Anxiety can be feelings of nervousness, feeling like something is about to happen, or just general feelings of unease. Sometimes you are not really sure what you are anxious about. 
@@ -20,6 +20,4 @@ There is a variety of ways to cope with anxiety. Some may work for you, some may
 
 * Medication. If your anxiety symptoms are moderate to severe (in other words, your symptoms are greatly affecting your daily life), you may benefit from medication. Different types of medications are available and are carefully chosen by your doctor by considering your needs, potential side effects, other medications you take, and your medical history.
 
-	- Medication can only be prescribed by medical doctors. Psychiatrists are medical doctors that specialize in mental health issues, so they are more familiar with the types of medications that are prescribed for anxiety. But some primary care doctors may prescribe anxiety medications, as well. 
-	- With most medications that treat anxiety or depression, it can take up to 6 or 8 weeks for the medication to have full effect. You may find improvement within a few weeks or you may find that it will take a while to find the right medication and dose for you.
-
+<sup>33</sup>American Society of Clinical Oncology, 2017. Anxiety.

@@ -30,7 +30,7 @@ Physical activity offers key benefits for cancer patients. It can give you an ex
 
 Just take small steps to make your day more active, and always ask your doctor before starting any exercise program.
 
-**Loss of bone density.** Aromatase can cause loss of bone density, which leads to higher rates of osteoporosis and bone fractures compared to tamoxifen. Your healthcare team can take a baseline measure of your bone density to compare against in the future in order to monitor any changes to your bone density.
+**Loss of bone density<sup>15</sup>.** Aromatase can cause loss of bone density, which leads to higher rates of osteoporosis and bone fractures compared to tamoxifen. Your healthcare team can take a baseline measure of your bone density to compare against in the future in order to monitor any changes to your bone density.
 
 To help prevent bone loss, your doctor may recommend:
 
@@ -43,7 +43,9 @@ To help prevent bone loss, your doctor may recommend:
 
 Just take small steps to make your day more active, and always ask your doctor before starting an exercise program.
 
-**Hot flashes/Night Sweats** are sudden and strong feelings of warmth or heat, especially over the face, neck, and chest. Hot flashes can cause heavy sweating and may leave you chilled. Your doctor may prescribe you non-hormonal medications such as antidepressants or nerve pain medicines that may decrease hot flashes. Beyond medication, there are things you can do to help.
+<sup>15</sup>Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.
+
+**Hot flashes/Night Sweats<sup>7-9</sup>** are sudden and strong feelings of warmth or heat, especially over the face, neck, and chest. Hot flashes can cause heavy sweating and may leave you chilled. Your doctor may prescribe you non-hormonal medications such as antidepressants or nerve pain medicines that may decrease hot flashes. Beyond medication, there are things you can do to help.
 
 Patients should also pay attention to what triggers the hot flashes (i.e., stress, alcohol, spicy foods, caffeine) and avoid those triggers as much as possible. 
 
@@ -61,7 +63,13 @@ Tips to Manage Hot Flashes:
 * Get acupuncture. 
 * Exercise. In addition to helping with joint discomfort and bone loss, exercise can help you with hot flashes.
 
-**Vaginal dryness/Itching.** Vaginal dryness can cause pain during intercourse, soreness, and/or itching. It is one of the most common menopausal symptoms reported by women, and it is important to talk to your physician about it. There are over-the-counter and prescription options to relieve vaginal dryness, so talk with your healthcare team about which option is best for you. 
+<sup>7</sup>Mayo Clinic, 2018. Hot flashes: Diagnosis & treatment.
+
+<sup>8</sup>Mayo Clinic, 2018. Hot flashes: Symptoms & causes.
+
+<sup>9</sup>Susan G. Komen, 2016. Treating menopausal symptoms.
+
+**Vaginal dryness/Itching<sup>9</sup>.** Vaginal dryness can cause pain during intercourse, soreness, and/or itching. It is one of the most common menopausal symptoms reported by women, and it is important to talk to your physician about it. There are over-the-counter and prescription options to relieve vaginal dryness, so talk with your healthcare team about which option is best for you. 
 
 Tips to manage vaginal dryness:
 
@@ -69,7 +77,9 @@ Tips to manage vaginal dryness:
 * Use water- or silicon-based lubricants before sexual intercourse. Lubricants provide a temporary smooth feeling in the vagina; however, they do not provide longer-term moisturization as vaginal moisturizers do.
 * Use over-the-counter anti-fungal creams to provide relief for yeast infections.
 
-**Pain during sex or dyspareunia.** Pain during sex is a legitimate health concern that can affect you and your partner. There are many things that can cause pain during sex, so you should talk to doctor about the type of pain you are experiencing so that s/he can determine what sort of treatment is best for you. Some treatment options that your clinician may be able to offer include:
+<sup>9</sup>Susan G. Komen, 2016. Treating menopausal symptoms.
+
+**Pain during sex or dyspareunia<sup>16</sup>.** Pain during sex is a legitimate health concern that can affect you and your partner. There are many things that can cause pain during sex, so you should talk to doctor about the type of pain you are experiencing so that s/he can determine what sort of treatment is best for you. Some treatment options that your clinician may be able to offer include:
 
 * Vaginal moisturizers are estrogen-free, over-the-counter moisturizers that are used regularly, rather than just at the time of intercourse. It keeps the vaginal area moisturized, unlike a lubricant which only makes the vaginal area slippery and is generally only used at the time of intercourse.
 * Vaginal lubricants that are either water or silicone based are used for sexual activity to increase comfort and pleasure.
@@ -77,5 +87,6 @@ Tips to manage vaginal dryness:
 * Vaginal dilators can be useful for women with pain during penetration. The dilator increases comfort during intercourse by stretching the vagina and reducing tightness. 
 * Vaginal lidocaine is a topical treatment applied to the vaginal opening before sexual intercourse. It can help decrease pain.
 
+<sup>16</sup>American Society of Clinical Oncology, 2017. Sexual Health and Cancer Treatment: Women.
 
 

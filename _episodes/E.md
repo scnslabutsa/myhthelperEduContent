@@ -11,14 +11,10 @@ Cancer that is contained in the breast or has only spread to lymph nodes in the 
 **Edema** 
 Excess fluid in body tissues that causes swelling.
 
-**Endocrine Manipulation (see Hormone Therapy) Endometrial Cancer** 
-Cancer of the endometrium (the lining of the uterus).
+**Endocrine Manipulation** (see Hormone Therapy in [H](/{{page.root}}/myhthelperEduContent/H/index.html)))
 
 **Enzyme** 
 A protein that speeds up biologic reactions in the body.
-
-**Epidemiology** 
-The study of the causes and prevention of disease.
 
 **Estradiol** 
 The most biologically active, naturally occurring estrogen in women.

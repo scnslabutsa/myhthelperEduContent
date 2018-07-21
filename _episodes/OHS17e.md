@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Dry Skin
+title: Dry Skin<sup>37</sup>
 ---
 
 Dry skin can cause itchy skin, so often they two symptoms happen together. 
@@ -14,5 +14,7 @@ Tips for Managing Dry/Itchy Skin:
 * Avoid products that irritate skin (soaps, detergents, creams with fragrance/perfume or alcohol).
 * Avoid products that scratch or scrub (exfoliate) the skin (sponges, loofas, bath scrubs).
 * Shower and bathe with cool or warm water only; hot water can dry the skin even more.
-* If your skin is very dry or cracked, use moisturizers that contain the following ingredients: Salicylic acid, urea, ammonium, lactic acid. These ingredients will soften the skin and allow water to be absorbed.
+* If your skin is very dry or cracked, use moisturizers that contain the following ingredients: Salicylic acid, urea, ammonium lactate, lactic acid. These ingredients will soften the skin and allow water to be absorbed.
 * If your skin is very itchy, use moisturizers that contain menthol, camphor, or pramoxine.
+
+<sup>37</sup>American Society of Clinical Oncology, 2016. Skin Conditions.

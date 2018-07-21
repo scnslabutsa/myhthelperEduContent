@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Constipation
+title: Constipation<sup>34</sup>
 ---
 
 Constipation is when your bowels move less often and stools become harder to pass. It will feel like you need to move your bowels (go number 2), but can’t. 
@@ -13,4 +13,6 @@ Tips to Manage Constipation:
 * Drink extra fluids. 8 to 10 cups of liquids such as water, prune juice, warm juices, teas, or hot lemonade throughout the day can be helpful.
 * If possible, try to increase your physical activity. Not exercising is one of the most common causes of constipation.
 * Only use laxatives as directed by your healthcare team. 
-* In addition to laxatives, you can ask your healthcare team about over-the-counter stool softeners, psyllium fiber, enemas, or suppositories.
+* In addition to laxatives, you can ask your healthcare team about over-the-counter stool softeners, psylilum fiber, enemas, or suppositories.
+
+<sup>34</sup>American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.

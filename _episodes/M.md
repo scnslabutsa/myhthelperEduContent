@@ -39,14 +39,8 @@ The average of a group of numbers.
 **Mean Survival Time** 
 The average time from the start of treatment (or diagnosis) that people in a study stay alive.
 
-**Median** 
-The middle value (50th percentile) of a group of numbers.
-
 **Medical Oncologist** 
 A physician specializing in the treatment of cancer using chemotherapy, hormone therapy and targeted therapy.
-
-**Melatonin** 
-Hormone made by the pineal gland in the brain. It is an important part of the body's internal timing system.
 
 **Menarche** 
 The first menstrual period.
@@ -86,9 +80,6 @@ Number of deaths in a given group of people over a certain period of time.
 
 **MRI (Magnetic Resonance Imaging)** 
 An imaging technique that uses a magnet linked to a computer to make detailed pictures of organs or soft tissues in the body.
-
-**mTOR (Mammalian Target of Rapamycin) Inhibitors** 
-A class of targeted therapy drugs that may increase the benefit of hormone therapy. Everolimus (Afinitor) is an example of an mTOR inhibitor.
 
 **Multifocal Tumors (Multicentric  Tumors)** 
 One or more tumors that develop from the original breast tumor.

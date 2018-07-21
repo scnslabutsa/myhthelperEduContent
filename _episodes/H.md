@@ -34,9 +34,6 @@ Shows whether or not a breast cancer needs hormones to grow. A hormone receptor-
 **Hormone Therapy (Endocrine Therapy, Endocrine  Manipulation)** 
 Treatment that works by keeping cancer cells with hormone receptors from getting the hormones they need to grow.
 
-**Hospice** 
-A philosophy of care focusing on improving quality of life and easing pain and other symptoms at the end stage of a terminal illness. Hospice care also provides support services to patients and their families.
-
 **Hyperplasia (Usual and Atypical Hyperplasia)** 
 A benign (not cancer) breast condition where breast cells are growing rapidly (proliferating). Although hyperplasia is not breast cancer, it increases the risk of breast cancer. In usual hyperplasia, the proliferating cells look normal under a microscope. In atypical hyperplasia, the proliferating cells look abnormal.
 

@@ -5,7 +5,7 @@ title: I
 
 <a name="top"></a>
 
-**Immediate Family Member (First-Degree Relative)** 
+**Immediate Family Member (First-Degree Relative)**
 A person’s mother, father, sister, brother or child.
 
 **Immunotherapy** 
@@ -20,9 +20,6 @@ An "envelope" containing silicone, saline or both, that is used to restore the b
 **In Situ Carcinoma (see Carcinoma in Situ) In-Network Provider** 
 The health care providers and medical centers (hospitals and other treatment
 centers) that are part of a particular group health plan or health maintenance organization (HMO).
-
-**Incidence** 
-The number of new cases of a disease that develop in a specific time period.
 
 **Incisional Biopsy** 
 Surgical biopsy that removes only part of the tumor.

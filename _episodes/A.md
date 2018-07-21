@@ -5,9 +5,6 @@ title: A
 
 <a name="top"></a>
 
-**Absolute Risk** 
-A person's chance of developing a certain disease over a certain time period. The absolute risk of a disease is estimated by looking at a large group of people similar in some way (in terms of age, for example) and counting the number of people in this group who develop the disease over the specified time period. For example, if we followed 100,000 women between the ages of 30 and 34 for one year, about 25 would develop breast cancer. This means the one-year absolute risk of breast cancer for a 30- to 34-year-old woman is 25 per 100,000 women (1 per 4,000 women).
-
 **Acupuncture** 
 Use of very thin needles inserted at precise points on the body that may help control pain and other side effects of treatment or breast cancer itself. It is a type of integrative or complementary therapy.
 
@@ -26,9 +23,6 @@ The absence or stopping of menstrual periods.
 
 **Anesthesia** 
 Loss of feeling or sensation that keeps a person from feeling pain during surgery or other medical procedures. Local or regional anesthesia may be used for a specific part of the body, such as the breast, by injection of a drug into that area. General anesthesia numbs the entire body and puts a person to sleep with drugs that are injected into a vein or inhaled.
-
-**Aneuploid (DNA Ploidy)** 
-The presence of an abnormal number of chromosomes in cancer cells.
 
 **Angiogenesis** 
 The growth of new blood vessels that cells need to grow.

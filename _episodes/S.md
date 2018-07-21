@@ -8,18 +8,11 @@ title: S
 **Saline** 
 A saltwater solution similar to that found in IV fluids. Saline can be used to fill a breast implant.
 
-**Scalp Cooling** 
-The use of a cap filled with a chilled substance during chemotherapy. Scalp cooling is under study as a technique for reducing hair loss due to chemotherapy.
-
 **Schedules** 
 The different combinations and timing for chemotherapy and other drugs.
 
 **Sclerosing Adenosis** 
 Small, benign (not cancer) breast lumps caused by enlarged lobules. The lumps may be felt and may be painful.
-
-**Scintimammography (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html)) Screening** 
-A test or procedure used to find cancer or a benign (not cancer) condition in a
-person who does not have any known problems or symptoms.
 
 **Screening Mammogram** 
 A test used to find early signs of breast cancer in a woman who does not have any known breast problems or symptoms.
@@ -33,9 +26,6 @@ In a summary research table, the specific standards (such as study design and nu
 **Selective Estrogen Receptor Modulator (SERM)** 
 A drug that can either block the effects of estrogen or behave like estrogen, depending on the part of the body being treated. Tamoxifen and raloxifene are SERMs.
 
-**Sensitivity** 
-The proportion (or percentage) of people who truly have the condition of interest who test positive for that condition.
-
 **Sentinel Node Biopsy** 
 The surgical removal and testing of the sentinel node(s) (first axillary node(s) in the underarm area filtering lymph fluid from the tumor site) to see if the node(s) contains cancer cells.
 
@@ -48,9 +38,6 @@ Medical-grade, solid form of silicone used for breast implants. Silicone implant
 A procedure that surgically removes the breast, but keeps intact as much of the skin that surrounds the breast as possible. This skin can then be used in breast reconstruction to cover a tissue flap or an implant instead of having to use skin from other parts of the body.
 
 **Sonogram (see Ultrasound in [U](/{{page.root}}/myhthelperEduContent/U/index.html))**  
-
-**Specificity** 
-The proportion (or percentage) of people who truly do not have the condition of interest who test negative for the condition.
 
 **Stage of Cancer (Cancer Stage)** 
 A way to indicate the extent of the cancer within the body. The most widely used staging method for breast cancer is the TNM system, which uses Tumor size, lymph Node status and the absence or presence of Metastases to classify breast cancers.

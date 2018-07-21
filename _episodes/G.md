@@ -41,9 +41,6 @@ Analyzing DNA to look for a gene mutation that may show an increased risk for de
 **Genome** 
 The total genetic information of an organism.
 
-**Genomics** 
-The study of genes and their functions.
-
 **Glandular Tissue (in the breast)** 
 The tissue in the breast that includes the milk ducts and lobules.
 

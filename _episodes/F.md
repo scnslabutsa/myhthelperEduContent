@@ -35,9 +35,6 @@ The initial (first) therapy used in a person’s cancer treatment.
 **Flow Cytometry** 
 A laboratory test done on tumor tissue to measure the growth rate of the cancer cells and to check if the cells have too much DNA.
 
-**Fluorescence In Situ Hybridization (FISH)** 
-A laboratory test done on breast tumor tissue to find out the number of copies of the HER2/neu gene contained in the cancer cells.
-
 **Frozen Section** 
 Process where a portion of tissue from a surgical biopsy is frozen so a thin slice can be studied to check for cancer. Frozen section results are only preliminary and always need to be confirmed by other methods.
 

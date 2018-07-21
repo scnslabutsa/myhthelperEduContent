@@ -15,22 +15,22 @@ As you go through the different stages of grief and healing, a social support ne
 
 Social support may reduce: 
 
-* Anxiety and stress 
-* Emotional distress and depression 
-* Fatigue 
-* The experience of pain 
+  * Anxiety and stress 
+  * Emotional distress and depression 
+  * Fatigue 
+  * The experience of pain 
 
 Social support may improve: 
 
-* Mood 
-* Self-image 
-* Ability to cope with stress 
-* Sexual function and enjoyment 
-* Feelings of control 
+  * Mood 
+  * Self-image 
+  * Ability to cope with stress 
+  * Sexual function and enjoyment 
+  * Feelings of control 
 
 **Social Support After treatment**
 
 Having social networks can help survivors with recovery and adjusting to life after treatment. One study found that compared to women who were socially isolated, women with social connections (for example, through marriage, close friendships or membership in a religious organization) had: 
 
-* Fewer physical limitations 
-* Less of a decline in their ability to perform daily activities
+  * Fewer physical limitations 
+  * Less of a decline in their ability to perform daily activities

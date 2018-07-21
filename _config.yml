@@ -72,3 +72,8 @@ exclude:
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
+
+#Algolia details
+algolia:
+  application_id: EXUSMIA6UI
+  index_name: jekyll

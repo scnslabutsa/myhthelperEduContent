@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Nausea
+title: Nausea<sup>40</sup>
 ---
 
 There are many ways people describe nausea: sick to my stomach, queasy, or upset stomach. Nausea can have other symptoms that happen at the same time, such as increased saliva, trouble swallowing, or fast heart rate. A person can have nausea with or without vomiting. 
@@ -16,3 +16,5 @@ Tips to Manage Nausea:
 * Avoid foods that are greasy, fried, spicy, or very sweet.
 * Don’t eat in a room that’s warm or that has cooking odors or other smells. Cooking outside on the grill or using boiling bags can reduce cooking odors.
 * Suck on hard candy like peppermint or lemon drops if there’s a bad taste in your mouth. 
+
+<sup>40</sup>American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Nausea.

@@ -17,12 +17,6 @@ A rare benign (not cancer) breast condition similar to a fibroadenoma. A lump ma
 **Bilateral Prophylactic Mastectomy** 
 Surgery where both breasts are removed to prevent breast cancer from developing.
 
-**Biobank (Tissue Repository)** 
-A large collection of tissue samples and medical data that is used for research studies.
-
-**Bioimpedance (Bioelectrical Impedance Analysis)** 
-A method of measuring the amount of fluid in body tissues.
-
 **Biological Therapy** 
 A therapy that targets something specific to the biology of the cancer cell, as opposed to chemotherapy, which attacks all rapidly dividing cells. Often used to describe therapies that use the immune system to fight cancer (immunotherapy). Trastuzumab (Herceptin) is an example of a biological or targeted therapy agent.
 

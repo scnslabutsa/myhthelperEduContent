@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Depression
+title: Depression<sup>36</sup>
 ---
 
 **Symptoms**
@@ -20,11 +20,7 @@ Depression is a common, but serious mood disorder. It causes symptoms that affec
 
 **Treatment for Depression**
 
-Depression—even severe depression—can be treated. Treatment usually involves medications, psychological treatment, or a combination:
-
-* **Antidepressants are medicines that treat depression.** They improve the way your brain uses certain chemicals that control mood or stress. For most medications that treat anxiety or depression, it can take up to 6 or 8 weeks for the medication to have full effect. You may find improvement within a few weeks or you may find that it will take a while to find the right medication and dose for you.
-
-* **Psychological Treatment.** Mental health professionals include licensed counselors, psychologists, and psychiatrists. They provide tools to help you develop coping skills, develop a support system, and reshape negative thoughts. Therapies specific to depression include cognitive-behavioral therapy (CBT), interpersonal therapy (IPT), and problem-solving therapy. 
+Depression—even severe depression—can be treated. Treatment usually involves medications, psychological treatment, or a combination of both:
 
 Things You Can Do:
 
@@ -32,3 +28,5 @@ Things You Can Do:
 * Try not to isolate yourself; try to spend time with other people.
 * Expect your mood to improve gradually, not immediately.
 * Get help. Don’t be afraid or embarrassed to talk to someone about your depression, to ask your doctor about treatment options, or to begin treatment for depression.
+
+<sup>36</sup> National Institute of Mental Health, 2018. Depression.

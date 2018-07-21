@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Diarrhea
+title: Diarrhea<sup>35</sup>
 ---
 
 Diarrhea is frequent, loose, or watery bowel movements. 
@@ -20,3 +20,5 @@ Tips to Manage Diarrhea:
 * Drink and eat high-potassium foods like fruit juices, sports drinks, potatoes with the skin, and bananas.
 
 * Eat small, frequent meals and snacks throughout the day.
+
+<sup>35</sup>American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Diarrhea.

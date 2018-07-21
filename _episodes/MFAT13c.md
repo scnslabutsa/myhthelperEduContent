@@ -3,7 +3,7 @@ layout: lesson
 title: Getting Back To Your Usual Routine
 ---
 
-When you finish treatment, you may still feel tired. Do not fight that—your body needs rest. If you are able, physical activity can help speed the recovery process after treatment.
+When you finish treatment, you may still feel tired. Do not fight that—-your body needs rest. If you are able, physical activity can help speed the recovery process after treatment.
 
 Getting back to the things you used to do, even if it takes some time, will help you feel better. Adopt a healthy lifestyle that includes physical activity and a healthy diet.
 

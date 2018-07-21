@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips for Talking with Your Spouse/Partner
+title: Tips for Talking with Your Spouse/Partner<sup>27</sup>
 ---
 
 * Practice active listening. Active listening means you concentrate on understanding what your partner is saying, rather than thinking about what to say next. For example, restate what your partner said in your own words. Then, ask for feedback to make sure you understand your partner’s point of view.
@@ -15,10 +15,10 @@ title: Tips for Talking with Your Spouse/Partner
 
 * Take your time. One of the pitfalls of any difficult conversation is to rush. Take time to decide what you want to say, and give your partner time as well.
 
-    - Focus on one topic at a time. Avoid bringing up other topics or old arguments.
-    - Take turns talking. Make it a rule not to interrupt each other.
-    - Avoid criticism, sarcasm, name-calling, and insults.
-    - Don’t expect to resolve difficult topics in one conversation. Take your time working things out and agree to continue talking about the subject at another time.
+- Focus on one topic at a time. Avoid bringing up other topics or old arguments.
+- Take turns talking. Make it a rule not to interrupt each other.
+- Avoid criticism, sarcasm, name-calling, and insults.
+- Don’t expect to resolve difficult topics in one conversation. Take your time working things out and agree to continue talking about the subject at another time.
 
 * Consider practicing what you want to say or writing notes for yourself if you have something difficult to share. This may help you prioritize your values and identify your biggest worries.
 
@@ -32,4 +32,6 @@ title: Tips for Talking with Your Spouse/Partner
 
 * Sometimes, it may be helpful for both of you to talk with a neutral person who may be able to help work through different points of view.
 
-    - Don’t be afraid to laugh. Humor may help you and your partner to cope.
+- Don’t be afraid to laugh. Humor may help you and your partner to cope.
+
+<sup>27</sup>American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer
