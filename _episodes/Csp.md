@@ -105,4 +105,6 @@ En el campo de los estudios clínicos, son los requisitos que debe cumplir una p
 Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no el seno en sí. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, lumpectomía, lumpectomía, lumpectomía, mastectomía parcial, mastectomía segmentaria, tilectomía y  tumorectomía.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

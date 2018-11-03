@@ -36,4 +36,6 @@ Las hormonas circulan en el torrente sanguíneo y controlan las funciones de cie
 Aumento del número de células en un órgano o tejido. Estas células parecen normales al microscopio. No son cancerosas, pero se pueden volver cancerosas.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

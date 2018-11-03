@@ -109,4 +109,6 @@ Tipo de tumor que se encuentra en el tejido del seno o la próstata. Con frecuen
 Término que se usa para describir el tumor original o primero en el cuerpo. Las células cancerosas de un tumor primario se pueden diseminar a otras partes del cuerpo y formar tumores nuevos o secundarios. Esto se llama metástasis. Estos tumores secundarios son el mismo tipo de cáncer que el tumor primario. También se llama cáncer primario.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

@@ -27,4 +27,6 @@ Cirugía para extirpar los ganglios linfáticos que se encuentran en la región 
 Una droga química o biológica que ha sido aprobada para ser usada por los investigadores en ensayos clínicos pero que aún no se puede conseguir fuera del ensayo o estudio clínico.
  
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

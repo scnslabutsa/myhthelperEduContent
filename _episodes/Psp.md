@@ -63,4 +63,6 @@ Dispositivo que reemplaza una parte del cuerpo; por ejemplo, una pierna artifici
 Proceso mediante el que se analizan células o tejidos para identificar cambios genéticos que pueden ser signos de una enfermedad o afección, como el cáncer. 
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

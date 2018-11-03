@@ -29,4 +29,6 @@ Describe una masa, bulto o área anormal que no se puede palpar, pero se puede v
 En el campo de la biología, la estructura de la célula que contiene los cromosomas. El núcleo tiene una membrana que lo rodea y es el lugar donde se elabora el ARN con el ADN de los cromosomas.
 
 **Volver arriba** 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

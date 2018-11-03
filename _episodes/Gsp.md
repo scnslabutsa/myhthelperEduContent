@@ -60,4 +60,7 @@ En el ámbito del cáncer, es la descripción de un tumor según cuán anormales
 Descripción de un tumor según cuán anormales se vean las células y los tejidos cancerosos al microscopio y con qué rapidez es posible que las células cancerosas se multipliquen y diseminen. Las células cancerosas de grado bajo tienen un aspecto más parecido al de las células normales y tienden a multiplicarse y diseminarse más lentamente que las células cancerosas de grado alto. Los sistemas de clasificación para cada tipo de cáncer son diferentes. Se usan para ayudar a planificar el tratamiento y determinar el pronóstico. También se llama grado y grado histológico.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+
+

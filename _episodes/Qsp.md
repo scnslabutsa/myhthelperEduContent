@@ -19,4 +19,6 @@ Quimioterapia que se administra como primer paso para reducir el tamaño del tum
 Bolsa de tejido cerrada en forma de saco que se puede formar en cualquier parte del cuerpo. Puede estar llena de líquido, aire, pus u otro material. La mayoría de los quistes son benignos (no cancerosos).
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

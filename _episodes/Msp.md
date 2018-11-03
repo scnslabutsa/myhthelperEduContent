@@ -105,4 +105,6 @@ Mujeres que tienen periodos menstruales regulares. No han llegado a la menopausi
 Cualquier cambio en el ADN (la información contenida en el gen) de una célula. Las mutaciones genéticas pueden ser peligrosas, benéficas o no tener efecto alguno.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

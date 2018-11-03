@@ -45,4 +45,6 @@ Genes que ayudan a limitar el crecimiento celular. Una mutación (cambio) en uno
 A la radiación interna también se le llama braquiterapia. Para esta terapia, se coloca un implante radiactivo dentro o cerca del tumor en el cuerpo. Por lo general, la colocación del implante es un procedimiento que no causa dolor. Dependiendo del tipo de cáncer y del plan de tratamiento, es posible que el implante sea temporal o permanente.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

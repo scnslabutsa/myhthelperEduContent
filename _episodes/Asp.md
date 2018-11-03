@@ -75,4 +75,5 @@ Hueco o fosa debajo del brazo
 Sistema médico originario de la India que se usó durante miles de años. La meta es limpiar el cuerpo y restaurar el equilibrio entre el cuerpo, la mente y el espíritu. Se utilizan regímenes de alimentación, hierbas medicinales, ejercicios, meditación, fisioterapia y otros métodos. Es un tipo de tratamiento de Medicina Complementaria y Alternativa (MCA). También se llama medicina ayurvédica.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>

@@ -36,4 +36,5 @@ Tumor benigno (no canceroso) que, por lo general, se forma tanto en el tejido fi
 Procesos mentales relacionados con el entendimiento, tales como razonamiento y solución de problemas.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>

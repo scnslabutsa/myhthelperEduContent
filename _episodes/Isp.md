@@ -44,4 +44,6 @@ Dentro del conducto lácteo. La palabra intraductal puede describir un proceso b
 En una vena o adentro de esta. Intravenoso, por lo general, se refiere a la manera de administrar un medicamento u otra sustancia a través de una aguja o un tubo introducido en una vena. También se llama IV.
 
  
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

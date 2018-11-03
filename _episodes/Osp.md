@@ -27,4 +27,6 @@ Sustancia que se usaba para tratar el dolor moderado o grave. Los opioides son c
 Afección en la que disminuye la cantidad y el grosor del tejido óseo lo que hace que los huesos se vuelvan débiles y se quiebren más fácil. Las causas de la osteoporosis son la edad avanzada, los cambios hormonales, el consumo de ciertos medicamentos y no comer suficientes alimentos con calcio y vitamina D. Otras causas son ciertos tipos cáncer y tratamientos de cáncer. Es más común en las mujeres blancas y de origen asiático.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

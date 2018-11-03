@@ -43,4 +43,6 @@ Período de tiempo durante el tratamiento y después del mismo en que el pacient
 Aumento heredado del riesgo de padecer de una enfermedad. También se llama predisposición genética.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+

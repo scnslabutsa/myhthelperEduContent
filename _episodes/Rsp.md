@@ -63,4 +63,6 @@ Medición del riesgo de que cierta situación ocurra durante la vida de una pers
 Medida del riesgo de que cierta situación suceda en un grupo en comparación con el riesgo de que la misma situación suceda en otro grupo. En el campo de la investigación del cáncer, el riesgo relativo se usa en los estudios prospectivos (mirada hacia adelante), tales como los estudios de cohorte y los ensayos clínicos. Un riesgo relativo igual a 1 significa que no hay ninguna diferencia entre dos grupos en cuanto a su riesgo de contraer cáncer, sobre la base de si estuvieron o no estuvieron expuestos a una sustancia o factor determinados, o sobre la base de cómo respondieron a dos tratamientos que se comparan. Un riesgo relativo mayor que 1 o menor que 1 significa por lo general significa que la exposición a cierta sustancia o factor determinados aumenta (riesgo relativo mayor de 1) o disminuye (riesgo relativo menor de uno) el riesgo de contraer cáncer, o que los tratamientos que se comparan no tienen los mismos efectos. También se llama cociente de riesgos.
 
 
-<a href="#top">Volver arriba</a>
+<!--a href="#top">Volver arriba</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+
