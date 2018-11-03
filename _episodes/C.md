@@ -78,3 +78,4 @@ A pathologist who specializes in looking at individual cells. A cytopathologist 
 Toxic, or deadly, to cells (cell killing). Often used to describe chemotherapy. Top of Document
 
 <a href="#top">Back to top of page</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

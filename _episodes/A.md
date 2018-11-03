@@ -78,4 +78,6 @@ The lymph nodes in the underarm area.
 **Ayurveda** 
 An integrative or complementary medical system from India that involves diet, exercise, meditation and massage. Ayurveda means "life-knowledge."
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
+

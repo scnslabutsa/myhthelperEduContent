@@ -53,4 +53,5 @@ The relationship between the possible (or expected) side effects and benefits of
 **Risk Factor** 
 Any factor—from a lifestyle choice (such as diet) to genetics to an environmental exposure (such as radiation)—that increases or decreases a person's risk of developing a certain disease.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

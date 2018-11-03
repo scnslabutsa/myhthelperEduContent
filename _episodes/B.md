@@ -69,4 +69,5 @@ A method that may help women become familiar with the normal look and feel of th
 **Breast Tomosynthesis (3D Digital Mammography, Digital Tomosynthesis)** 
 A tool that uses a digital mammography machine to take multiple two dimensional (2D) X-ray images of the breast. Computer software combines the multiple 2D images into a three dimensional image. Breast tomosynthesis is not a standard breast cancer screening tool at this time.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

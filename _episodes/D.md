@@ -47,4 +47,5 @@ A non-invasive breast cancer that begins in the milk ducts of the breast, but ha
 
 **Ductal Papilloma** (see Intraductal Papilloma in [I](/{{page.root}}/myhthelperEduContent/I/index.html)) \ 
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

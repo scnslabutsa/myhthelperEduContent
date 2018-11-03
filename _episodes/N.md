@@ -53,4 +53,6 @@ Cells that are cancer-free.
 The part a cell that contains the genetic material DNA. Nuclei is the plural of nucleus.
 
 **Back to top** 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
+

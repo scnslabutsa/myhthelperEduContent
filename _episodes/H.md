@@ -37,4 +37,5 @@ Treatment that works by keeping cancer cells with hormone receptors from getting
 **Hyperplasia (Usual and Atypical Hyperplasia)** 
 A benign (not cancer) breast condition where breast cells are growing rapidly (proliferating). Although hyperplasia is not breast cancer, it increases the risk of breast cancer. In usual hyperplasia, the proliferating cells look normal under a microscope. In atypical hyperplasia, the proliferating cells look abnormal.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

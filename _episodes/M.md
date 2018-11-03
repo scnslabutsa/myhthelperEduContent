@@ -90,4 +90,5 @@ Use of two or more treatment methods (such as surgery, radiation therapy, chemot
 **Mutation (Gene Mutation)** 
 Any change in the DNA (the information contained in a gene) of a cell. Gene mutations can be harmful, beneficial or have no effect.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

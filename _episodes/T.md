@@ -49,4 +49,5 @@ Biopsy and further surgical treatment done at two separate times.
 **Tyrosine-Kinase Inhibitors** 
 A class of drugs that target enzymes important for cell functions (called tyrosine- kinase enzymes). These drugs can block tyrosine-kinase enzymes at many points along the cancer growth pathway.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

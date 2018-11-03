@@ -47,4 +47,5 @@ The tissue in the breast that includes the milk ducts and lobules.
 **Grade (see Tumor Grade) Guaranteed Renewable Insurance** 
 A health insurance policy that requires the insurance company to renew your policy for a certain amount of time, even if your health condition changes.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

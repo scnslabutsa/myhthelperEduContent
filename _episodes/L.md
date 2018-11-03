@@ -66,4 +66,5 @@ The network of lymph nodes and vessels in the body.
 **Lymphedema** 
 Swelling due to poor draining of lymph fluid that can occur after surgery to remove lymph nodes or after radiation therapy to the area. Most often occurs in the upper limbs (arm, hands or fingers), but can occur in other parts of the body.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

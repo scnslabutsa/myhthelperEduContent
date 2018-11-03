@@ -77,4 +77,5 @@ The emotional and physical health, life and care of a breast cancer survivor fro
 **Systemic (Adjuvant) Treatment** 
 Treatment given in addition to surgery and radiation to treat breast cancer that may have spread to other parts of the body. It may include chemotherapy, targeted therapy and/or hormone therapy.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

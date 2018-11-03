@@ -38,4 +38,5 @@ A laboratory test done on tumor tissue to measure the growth rate of the cancer 
 **Frozen Section** 
 Process where a portion of tissue from a surgical biopsy is frozen so a thin slice can be studied to check for cancer. Frozen section results are only preliminary and always need to be confirmed by other methods.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

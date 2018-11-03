@@ -65,4 +65,5 @@ Cancer that has spread from the original location (milk ducts or lobules) into t
 **Investigational New Drug (New Experimental Treatment)** 
 A chemical or biological drug that has been approved for use by researchers in studies, but is not yet available outside of a clinical trial.
  
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

@@ -114,4 +114,5 @@ An artificial breast form that can be worn under clothing after a mastectomy.
 **Punch Biopsy** 
 Removal of a small circle of skin (with a special instrument called a punch or trephine) to be tested for cancer cells.
 
-<a href="#top">Back to top of page</a>
+<!--a href="#top">Back to top of page</a-->
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
