@@ -1,4 +1,4 @@
-	---
+---
 layout: lesson
 title: Calambres Musculares<sup>38,39</sup>
 ---

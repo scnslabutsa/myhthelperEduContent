@@ -1,4 +1,4 @@
-	---
+---
 layout: lesson
 title: Muscle Cramps<sup>38,39</sup>
 ---
