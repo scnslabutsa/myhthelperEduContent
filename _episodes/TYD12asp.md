@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos Para Hablar con su Doctor
+<!---title: Consejos Para Hablar con su Doctor--->
 ---
 
 * Este preparada. Con frecuencia es útil reunir información sobre sus preocupaciones de salud – de la biblioteca (libros y revistas médicas), de sitios confiables de Internet, o hojas informativas como las que ofrece Komen. Entre más sepa, más cómoda se sentirá al hablar con su doctor.

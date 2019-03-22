@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Talking with Your Family<sup>26</sup>
+<!---title: Talking with Your Family<sup>26</sup>--->
 ---
 
 We need support from others. Cancer diagnosis affects people other than you in many ways. 

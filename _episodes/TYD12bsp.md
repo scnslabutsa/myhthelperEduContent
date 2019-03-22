@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Posibles Preguntas para Hacerle a su Doctor
+<!---title: Posibles Preguntas para Hacerle a su Doctor--->
 ---
 
 * ¿Por qué necesito terapia hormonal?

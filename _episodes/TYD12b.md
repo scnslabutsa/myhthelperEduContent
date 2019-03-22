@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Potential Questions to Ask Your Doctor
+<!---title: Potential Questions to Ask Your Doctor--->
 ---
 
 * Why do I need hormone therapy?  

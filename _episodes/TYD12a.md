@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips to Talk With Your Doctor
+<!---title: Tips to Talk With Your Doctor--->
 ---
 
 * Be prepared. It is often helpful to gather information about your health concerns—from the library (books and medical journals), trusted websites or fact sheets like the ones offered by Komen. The more you know, the more comfortable you will be talking to your doctor.

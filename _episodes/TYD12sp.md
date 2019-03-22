@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Hablando con su Doctor<sup>29,30</sup>
+<!---title: Hablando con su Doctor<sup>29,30</sup>--->
 ---
 
 Nadie conoce su cuerpo mejor que usted misma. Ni su pareja, ni su familia, ni siquiera su doctor.

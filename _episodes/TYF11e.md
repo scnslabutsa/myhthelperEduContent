@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips for Talking with Your Children
+<!---title: Tips for Talking with Your Children--->
 ---
 
 As you talk with your children, listen to their concerns and answer their questions to the best of your ability. Here are some tips to help talk with your children about cancer:

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: What is a Partner?
+<!---title: What is a Partner?-->
 ---
 
 The term may have a different meaning to you than it does to someone else. In general, it means “that person to whom you are closest.” This person is usually (but not always) a nonblood relative and may be your spouse, partner in life, boyfriend, girlfriend and/or your best friend. While it may be difficult right now to find much to be thankful for, having a partner, someone who really cares about you and loves you, is something for which to be truly thankful.

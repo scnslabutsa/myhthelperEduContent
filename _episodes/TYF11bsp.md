@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Mensajes Clave Cuando Hable con su Esposo/Pareja
+<!---title: Mensajes Clave Cuando Hable con su Esposo/Pareja--->
 ---
 
 Cuando hable con su esposo o pareja, piense en estos mensajes clave:

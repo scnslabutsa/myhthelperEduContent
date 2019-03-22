@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: ¿Qué Es un Compañero(a)?
+<!---title: ¿Qué Es un Compañero(a)?--->
 ---
 
 Esta palabra puede tener un significado diferente para usted que para otra persona. En general, se 

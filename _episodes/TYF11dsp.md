@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Hablando con sus Hijos<sup>28</sup>
+<!---title: Hablando con sus Hijos<sup>28</sup>--->
 ---
 
 Los niños a veces escuchan conversaciones. Tienden a preocuparse más si sienten que se les está ocultando algo importante. Como padre o guardián, su primer instinto es proteger a sus hijos de noticias alarmantes, como el cáncer. Sin embargo, evitar el tema puede confundir a los niños y hacerles temer la peor situación posible.

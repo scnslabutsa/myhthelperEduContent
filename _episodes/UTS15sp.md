@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Use Fuentes de Información Confiables32<sup>32</sup> 
+<!---title: Use Fuentes de Información Confiables32<sup>32</sup>--->
 ---
 
 La información de salud, impresa o en Internet, debe venir de fuentes confiables y creíbles

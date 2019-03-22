@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Talking with Your Children<sup>28</sup>
+<!---title: Talking with Your Children<sup>28</sup>--->
 ---
 
 Children often overhear conversations. They tend to worry more if they feel that important news is being kept from them. As a parent or guardian, you may want to protect your children from distressing news, such as cancer. However, avoiding the topic may confuse children and make them fear a worst-case situation.

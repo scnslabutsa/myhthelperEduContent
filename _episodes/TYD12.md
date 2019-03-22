@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Talking with Your Doctor<sup>29,30</sup>
+<!---title: Talking with Your Doctor<sup>29,30</sup>--->
 ---
 
 No one knows more about your body than you do. Not your partner, your parents, or even your doctor. 

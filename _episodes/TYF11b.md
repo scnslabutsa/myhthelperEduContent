@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Key Messages When Talking with Your Spouse/ Partner
+<!---title: Key Messages When Talking with Your Spouse/ Partner--->
 ---
 
 When talking with your spouse or partner think about these key messages: 

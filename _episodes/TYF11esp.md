@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos Para Hablar con sus Hijos
+<!---title: Consejos Para Hablar con sus Hijos--->
 ---
 
 Mientras habla con sus hijos, escuche sus preocupaciones y responda sus preguntas lo mejor que pueda. A continuación, presentamos algunos consejos para ayudarle a hablar sobre el cáncer con sus hijos:

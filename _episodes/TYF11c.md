@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips for Talking with Your Spouse/Partner<sup>27</sup>
+<!---title: Tips for Talking with Your Spouse/Partner<sup>27</sup>--->
 ---
 
 * Practice active listening. Active listening means you concentrate on understanding what your partner is saying, rather than thinking about what to say next. For example, restate what your partner said in your own words. Then, ask for feedback to make sure you understand your partner’s point of view.

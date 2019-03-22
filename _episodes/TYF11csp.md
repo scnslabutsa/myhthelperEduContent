@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos Para Hablar Con Su Esposo/Pareja<sup>27</sup>
+<!---title: Consejos Para Hablar Con Su Esposo/Pareja<sup>27</sup>--->
 ---
 
 * Practique el escuchar activamente. El escuchar activamente significa que se usted se concentra en comprender lo que dice tu pareja, en lugar de pensar en qué decir después. Por ejemplo, repita lo que dijo su pareja con sus propias palabras. Luego, pida comentarios para asegurarse de que entiende el punto de vista de su pareja.

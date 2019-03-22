@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Hablando Con Su Familia<sup>26</sup>
+<!---title: Hablando Con Su Familia<sup>26</sup>--->
 ---
 
 Todos necesitamos apoyo de los demás. El diagnóstico de cáncer no solo la afecta a usted, afecta también a sus seres queridos de muchas maneras.

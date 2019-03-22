@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: X
+<!---title: X--->
 ---
 
 **X-ray** 

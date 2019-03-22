@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Using Trusted Sources of Information<sup>32</sup> 
+<!---title: Using Trusted Sources of Information<sup>32</sup>--->
 ---
 
 Health information, in print or online, should come from trusted, credible sources. 
