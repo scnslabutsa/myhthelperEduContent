@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Do not Smoke<sup>19</sup>
+<!---title: Do not Smoke<sup>19</sup>-->
 ---
 
 Most people know that smoking is bad for your health and the health of people around you. Smoking has been found to increase the risk of breast cancer mortality (death from breast cancer) and overall mortality (death from any cause). 

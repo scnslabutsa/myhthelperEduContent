@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: No Fume<sup>19</sup>
+<!---title: No Fume<sup>19</sup>--->
 ---
 
 La mayoría de las personas ya saben que fumar es malo para su salud y la de las personas que le rodean. Se ha encontrado que fumar aumenta el riesgo de mortalidad por cáncer de seno (muerte por cáncer de seno) y mortalidad general (muerte por cualquier causa).
