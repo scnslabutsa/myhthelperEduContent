@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Volviendo a su Rutina Regular
+<!---title: Volviendo a su Rutina Regular--->
 ---
 
 Cuando termine el tratamiento, usted se puede sentir cansada. No luche contra su cansancio – su cuerpo necesita descansar. Si se siente capaz, la actividad física puede ayudarle a acelerar el proceso de recuperación después del tratamiento.

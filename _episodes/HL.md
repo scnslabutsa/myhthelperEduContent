@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Healthy Lifestyle<sup>24,25</sup>
+<!---title: Healthy Lifestyle<sup>24,25</sup>--->
 ---
 
 For breast cancer survivors, a healthy lifestyle may lower the risk of recurrence, improve survival, improve overall health, and improve quality of life. Making healthy choices can be physically and mentally rewarding, often encouraging yourself to constantly look for healthier choices in your everyday life. There are a few basic characteristics of a healthy life:

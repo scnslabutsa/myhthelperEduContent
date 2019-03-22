@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Anxiety<sup>33</sup>
+<!---title: Anxiety<sup>33</sup>--->
 ---
 
 Anxiety can be feelings of nervousness, feeling like something is about to happen, or just general feelings of unease. Sometimes you are not really sure what you are anxious about. 

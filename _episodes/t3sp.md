@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Beneficios<sup>1</sup>,<sup>4</sup>,<sup>5</sup>
+<!---title: Beneficios<sup>1</sup>,<sup>4</sup>,<sup>5</sup>--->
 ---
 
 El beneficio más importante del tamoxifeno (y drogas similares) es reducir el riesgo de recurrencia del cáncer de seno (que el cáncer vuelva a aparecer) y el riesgo de tener un cáncer nuevo en el otro seno. Sin embargo, para que el tamoxifeno sea efectivo en reducir su riesgo de recurrencia del cáncer del seno, es esencial que usted tome la medicina exactamente como la recetó su doctor. No la suspenda, no salte una dosis o cambie la dosis (por ej. tomar dos pastillas) de ninguna medicina sin tener la aprobación de su doctor. Trate de tomar el tamoxifeno a la misma hora cada día. 

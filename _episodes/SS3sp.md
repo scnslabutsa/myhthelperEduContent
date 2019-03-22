@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Fuentes de Apoyo
+<!---title: Fuentes de Apoyo--->
 ---
 
 **Familia y Amigos**

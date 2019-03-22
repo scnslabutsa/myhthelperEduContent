@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Visitas De Seguimiento
+<!---title: Visitas De Seguimiento--->
 ---
 
 Su médico de atención primaria, su oncólogo o su cirujano le pueden ayudar a planear su atención médica de seguimiento. Al principio, sus citas médicas de seguimiento probablemente se programarán más seguido (por ej., cada tres meses). Entre más tiempo haya estado libre de cáncer, las citas de seguimiento se necesitarán con menos frecuencia. Después de 5 años, típicamente se hacen por lo general una vez al año. Las visitas de seguimiento pueden incluir:

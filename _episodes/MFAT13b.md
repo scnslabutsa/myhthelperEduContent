@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Other Screening Tests
+<!---title: Other Screening Tests--->
 ---
 
 You should continue following your regular health care recommendations:

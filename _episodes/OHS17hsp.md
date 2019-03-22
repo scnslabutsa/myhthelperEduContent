@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Estrés<sup>41</sup>
+<!---title: Estrés<sup>41</sup>--->
 ---
 
 El estrés es una parte natural de nuestras vidas diarias. Cuando enfrenta una situación estresante, su pulso se acelera, respira más rápido, los músculos se tensan y el cerebro usa más oxígeno. 

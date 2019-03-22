@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Ansiedad<sup>33</sup>
+<!---title: Ansiedad<sup>33</sup>--->
 ---
 
 La ansiedad puede ser sensaciones de nerviosismo, sentir como que algo está a punto de suceder, o sensaciones generales de inquietud. A veces usted no está segura de lo que está causando la ansiedad. 

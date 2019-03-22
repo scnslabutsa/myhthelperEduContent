@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips for Physical Activity
+<!---title: Tips for Physical Activity--->
 ---
 
 * Talk to your doctor before you start any type of exercise. 

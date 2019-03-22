@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Beneficios de la Actividad Física<sup>19,22,23</sup>
+<!---title: Beneficios de la Actividad Física<sup>19,22,23</sup>--->
 ---
 
 La actividad física tiene muchos beneficios:

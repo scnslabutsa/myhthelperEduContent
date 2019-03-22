@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Weight Gain<sup>20</sup>
+<!---title: Weight Gain<sup>20</sup>--->
 ---
 
 Weight gain can be a result of cancer treatment in women with breast cancer for many reasons. It could be due to eating more, but being less active. It could also be due to medications that cause your body to hold extra fluid. It could be due to frequent snacking to avoid nausea. 

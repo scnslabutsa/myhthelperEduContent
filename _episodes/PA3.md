@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips to Stay Motivated
+<!---title: Tips to Stay Motivated--->
 ---
 
 * Set short-term and long term goals.

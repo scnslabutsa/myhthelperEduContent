@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Food Recommendations - What is it?<sup>17</sup>
+<!---title: Food Recommendations - What is it?<sup>17</sup>--->
 ---
 
 Talk with your doctor, dietitian or pharmacist about any possible interactions with the therapies that you are receiving and certain foods and herbal supplements. Healthcare providers will need to review, on a case by case basis, whether or not there are herbal supplements that could enhance your treatments. Always ask your doctor or nurse if you have concerns about your nutritional needs, be sure to ask them to repeat or explain anything that’s not clear.

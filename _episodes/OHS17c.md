@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Diarrhea<sup>35</sup>
+<!---title: Diarrhea<sup>35</sup>--->
 ---
 
 Diarrhea is frequent, loose, or watery bowel movements. 

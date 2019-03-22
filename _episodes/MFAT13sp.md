@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Seguimiento Médico después del Tratamiento<sup>31</sup>
+<!---title: Seguimiento Médico después del Tratamiento<sup>31</sup>--->
 ---
 
 Muchas mujeres se sienten aliviadas y entusiasmadas al finalizar el tratamiento del cáncer de seno, ya que esto señala un nuevo comienzo en la vida. Sin embargo, éste también puede ser causa de preocupación para las mujeres que temen que su cáncer pudiera regresar, o que se sienten perdidas sin el mismo nivel de atención de salud de su equipo médico del cáncer.

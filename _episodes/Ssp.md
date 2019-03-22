@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: S
+<!---title: S--->
 ---
 
 <a name="top"></a>

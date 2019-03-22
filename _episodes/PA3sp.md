@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos Para Mantenerse Motivado
+<!---title: Consejos Para Mantenerse Motivado--->
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos para Tener más Actividad Física en su Vida Diaria
+<!---title: Consejos para Tener más Actividad Física en su Vida Diaria--->
 ---
 
 * Camine diariamente. Hay muchas maneras de poder agregar el caminar a su rutina diaria.

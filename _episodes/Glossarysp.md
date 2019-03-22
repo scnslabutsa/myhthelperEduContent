@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Glosario de Temas Relacionados con el Cáncer de Seno<sup>43,44,45</sup>
+title: Glosario de Temas Relacionados con el Cáncer de Seno<!---<sup>43,44,45</sup>--->
 ---
 
 Hay tantas palabras nuevas para aprender que se relacionan con el cáncer de seno. Esta sección ofrece definiciones de las palabras que usted puede oír. Puede usarla para buscar palabras que no entiende. Cuando vaya a cita con el doctor puede pedirle que le explique con más detalle. 

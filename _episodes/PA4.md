@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips to Add Physical Activity to Your Everyday Life
+<!---title: Tips to Add Physical Activity to Your Everyday Life--->
 ---
 
 * Walk daily. There are so many ways to add walking to your daily routine:

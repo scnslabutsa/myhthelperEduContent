@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Calambres Musculares<sup>38,39</sup>
+<!---title: Calambres Musculares<sup>38,39</sup>--->
 ---
 
 Los calambres musculares son contracciones dolorosas de los músculos. Hable con su equipo médico sobre los calambres frecuentes, porque su doctor puede recetarle un medicamento que la puede ayudar.

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: How do hormones affect breast cancers? <sup>1</sup><sup>,</sup><sup>2</sup>
+<!---title: How do hormones affect breast cancers? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
 Some types of breast cancer are affected by hormones in the blood. Hormones are chemical messengers that activate or control certain cells. 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Piel Seca37<sup>37</sup>
+<!---title: Piel Seca37<sup>37</sup>--->
 ---
 
 La piel seca puede causar picazón, por eso con frecuencia estos dos síntomas ocurren juntos. 

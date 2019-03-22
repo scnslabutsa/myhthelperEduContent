@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Fitoquímicos - los combatientes del cáncer en los alimentos que comemos<sup>18</sup>
+t<!---itle: Fitoquímicos - los combatientes del cáncer en los alimentos que comemos<sup>18</sup>--->
 ---
 
 Los fitoquímicos son sustancias químicas de origen vegetal (fito significa planta en griego). Ellos proveen a las plantas con color, olor y sabor. Una vez que las comemos, sin embargo, la investigación muestra que pueden influir de manera útil en los procesos químicos dentro de nuestros cuerpos.

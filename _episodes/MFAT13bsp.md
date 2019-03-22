@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Otras Pruebas de Detección
+<!---title: Otras Pruebas de Detección--->
 ---
 
 Usted debe continuar siguiendo sus recomendaciones regulares de salud:

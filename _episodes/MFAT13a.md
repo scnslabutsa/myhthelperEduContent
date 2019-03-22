@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Follow-up Visits
+<!---title: Follow-up Visits--->
 ---
 
 Your primary care doctor, oncologist or surgeon can help plan your follow-up medical care. At first, your follow-up doctor visits will probably be scheduled for every few months. The longer you have been free of cancer, the less often the appointments are needed. After 5 years, they are typically done about once a year. 

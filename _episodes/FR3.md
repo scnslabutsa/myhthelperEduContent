@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Inflammatory and Anti-inflammatory Foods<sup>19,20</sup>
+<!---title: Inflammatory and Anti-inflammatory Foods<sup>19,20</sup>--->
 ---
 Your immune system attacks anything in your body that it recognizes as foreign—such as an invading microbe, plant pollen, or chemical. 
 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: When might hormone therapy be used<sup>2</sup>? 
+<!---title: When might hormone therapy be used<sup>2</sup>? --->
 ---
 
 Hormone therapy is often used after surgery (called “adjuvant therapy” that follows the primary treatment) to help reduce the risk of the cancer coming back.

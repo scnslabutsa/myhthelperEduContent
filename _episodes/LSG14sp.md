@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Grupos de Apoyo Locales
+<!---title: Grupos de Apoyo Locales--->
 ---
 
 *    **Nombre: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Breast Cancer Foundation (ABCF)**

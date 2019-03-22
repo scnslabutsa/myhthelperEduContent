@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Limit Alcohol Intake<sup>19,21</sup>
+<!---title: Limit Alcohol Intake<sup>19,21</sup>--->
 ---
 
 Limiting alcohol intake is responsible and has many benefits. For starters, drinking alcohol can actually raise cancer risk. The risk increases with the amount of alcohol consumed, which is why it is important to avoid excess drinking. 

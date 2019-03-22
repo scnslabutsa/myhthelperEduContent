@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Phytochemicals - The Cancer Fighters in the Foods We Eat<sup>18</sup>
+<!---title: Phytochemicals - The Cancer Fighters in the Foods We Eat<sup>18</sup>--->
 ---
 
 Phytochemicals are naturally occurring plant chemicals (*phyto* means plant in Greek). They provide plants with color, odor and flavor. Once we eat them, however, research shows they can influence the chemical processes inside our bodies in helpful ways.

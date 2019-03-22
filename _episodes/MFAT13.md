@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Medical Follow-up After Treatment<sup>31</sup>
+<!---title: Medical Follow-up After Treatment<sup>31</sup>--->
 ---
 
 Many women are relieved or excited to be finished with breast cancer treatment, as this may signal a new start in life. At the same time, it can also be a time of worry for women who fear their cancer could come back, or who feel lost without the same level of care from their cancer care team.

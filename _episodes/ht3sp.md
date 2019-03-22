@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: ¿Cuándo se usa la terapia hormonal<sup>2</sup>? 
+<!---title: ¿Cuándo se usa la terapia hormonal<sup>2</sup>? --->
 ---
 
 La terapia hormonal se usa a menudo después de la cirugía (se llama “terapia adyuvante” y se hace después del tratamiento primario) para ayudar a reducir el riesgo de que regrese el cáncer.

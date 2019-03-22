@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Depresión<sup>36</sup>
+<!---title: Depresión<sup>36</sup>--->
 ---
 
 **Síntomas**

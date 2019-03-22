@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Aumento de Peso<sup>20</sup>
+<!---title: Aumento de Peso<sup>20</sup>--->
 ---
 
 El aumento de peso puede ser un resultado del tratamiento de cáncer en las mujeres con cáncer de seno por muchas razones. Puede también deberse a que está comiendo más y está siendo menos activa. Podría deberse a medicamentos que causan que su cuerpo retenga más fluidos. Podría deberse a comer snacks frecuentemente para combatir las náuseas.

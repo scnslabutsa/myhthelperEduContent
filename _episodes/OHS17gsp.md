@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Náuseas<sup>40</sup>
+<!---title: Náuseas<sup>40</sup>--->
 ---
 
 Hay muchas formas en que las personas describen las náuseas: mareo, malestar de estómago, o ganas de vomitar. Las náuseas pueden tener otros síntomas que ocurren al mismo tiempo, como el aumento de la saliva (salivación), dificultad al tragar, o pulso rápido del corazón. Es posible que una persona tenga náuseas con o sin vómito. 

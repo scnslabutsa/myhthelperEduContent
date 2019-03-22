@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Benefits
+<!---title: Benefits--->
 ---
 
 Almost everyone who is going through or has been through cancer can benefit from support. 

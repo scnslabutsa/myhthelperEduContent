@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title:  Cómo manejar efectos secundarios comunes 
+<!---title:  Cómo manejar efectos secundarios comunes --->
 ---
 **Los bochornos (oleadas de calor) y la sudoración nocturna**<sup>7</sup>,<sup>8</sup> son sensaciones repentinas y fuertes de calor, especialmente en la cara, el cuello y el pecho. Los bochornos pueden causar sudoración fuerte y lo cual puede causarle frio. Su doctor le puede recetar medicamentos sin hormonas tales como antidepresivos o medicinas para el dolor neural, que le pueden disminuir los bochornos. Fuera de medicamentos, hay ciertas cosas que puedes hacer para aliviar estos síntomas.
 

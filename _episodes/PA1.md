@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Benefits of Physical Activity<sup>19,22,23</sup>
+<!---title: Benefits of Physical Activity<sup>19,22,23</sup>--->
 ---
 
 Physical activity has many benefits:

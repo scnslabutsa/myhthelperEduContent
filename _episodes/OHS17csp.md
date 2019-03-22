@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Diarrea<sup>35</sup>
+<!---title: Diarrea<sup>35</sup>--->
 ---
 
 La diarrea es el movimiento intestinal frecuente, flojo o líquido. 

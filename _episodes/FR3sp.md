@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Alimentos inflamatorios y anti-inflamatorios<sup>19,20</sup>
+<!---title: Alimentos inflamatorios y anti-inflamatorios<sup>19,20</sup>--->
 ---
 Su sistema inmune ataca cualquier cosa en su cuerpo que reconozca como extraño-- como un microbio invasor, el polen de las plantas o productos químicos.
 

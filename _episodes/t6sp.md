@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Medicinas para evitar mientras está tomando tamoxifeno
+<!---title: Medicinas para evitar mientras está tomando tamoxifeno--->
 ---
 
 Algunos medicamentos pueden interferir con el tamoxifeno. Si está tomando alguna medicina, o antes de tomar cualquier medicina, hable con su doctor sobre las posibles interacciones que pueda tener con el tamoxifeno y que otras opciones de tratamiento puede tener.  

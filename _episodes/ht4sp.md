@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: La Importancia de Completar la Terapia Hormonal
+<!---title: La Importancia de Completar la Terapia Hormonal--->
 ---
 
 El beneficio más importante de la terapia hormonal es reducir la posibilidad que vuelva a aparecer el cáncer de seno y el riesgo de desarrollar un cáncer nuevo en el otro seno.

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Sources of Support
+<!---title: Sources of Support--->
 ---
 
 **Family and Friends**

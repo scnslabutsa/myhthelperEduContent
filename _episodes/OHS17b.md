@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Constipation<sup>34</sup>
+<!---title: Constipation<sup>34</sup>--->
 ---
 
 Constipation is when your bowels move less often and stools become harder to pass. It will feel like you need to move your bowels (go number 2), but can’t. 

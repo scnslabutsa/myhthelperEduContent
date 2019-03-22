@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title:  Efectos Secundarios Posibles<sup>6</sup>
+<!---title:  Efectos Secundarios Posibles<sup>6</sup>--->
 ---
 Los efectos secundarios más comunes del tamoxifeno son los síntomas de menopausia. 
 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Stress<sup>41</sup>
+<!---title: Stress<sup>41</sup>--->
 ---
 
 Stress is a natural part of our daily lives. When you face a stressful situation, your pulse quickens, you breathe faster, your muscles tense, and your brain uses more oxygen.

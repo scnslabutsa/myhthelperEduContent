@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Importance of completing your hormone therapy treatment
+<!---title: Importance of completing your hormone therapy treatment--->
 ---
 
 The most important benefit of hormone therapy is to reduce the chance of breast cancer returning and the risk of a new cancer developing in the other breast. 

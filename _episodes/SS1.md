@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: What is Social Support?
+<!---title: What is Social Support?--->
 ---
 
 Social support is the emotional support, practical help, advice and other benefits you get from interactions with your co-survivors. Co-survivors may include: 

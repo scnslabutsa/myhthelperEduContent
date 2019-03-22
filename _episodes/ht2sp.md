@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: ¿Qué es terapia hormonal y cómo actúa? <sup>1</sup><sup>,</sup><sup>2</sup>
+<!---title: ¿Qué es terapia hormonal y cómo actúa? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
 La terapia hormonal (llamada también terapia hormonal, tratamiento con hormonas o terapia endocrina) es una forma de terapia sistémica, lo que significa que llega a las células cancerosas en cualquier parte del cuerpo y no solo al seno. Se recomienda para mujeres con cáncer de seno positivo para receptores de hormonas (ER+ y/o PR+), y no ayuda a las mujeres que tienen cáncer negativo para receptores de hormonas (ambos ER- y PR-).

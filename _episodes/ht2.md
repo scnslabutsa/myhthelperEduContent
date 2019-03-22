@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: What is hormone therapy for breast cancer and how does it work? <sup>1</sup><sup>,</sup><sup>2</sup>
+<!---title: What is hormone therapy for breast cancer and how does it work? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
 Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine therapy) is systemic therapy. That means it reaches cancer cells anywhere in the body, not just the breasts. Hormone therapy is recommended for women with hormone receptor-positive (ER-positive and/or PR-positive) breast cancers, not for women with tumors that are hormone-negative. 

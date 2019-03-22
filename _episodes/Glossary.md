@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Glossary of Breast Cancer Related Terms<sup>43,44,45</sup>
+title: Glossary of Breast Cancer Related Terms<!---<sup>43,44,45</sup>--->
 ---
 
 There are so many new words to learn that relate to breast cancer. This section provides definitions for some words you may hear. You can use it to look up words you do not understand. You may even want to take it with you to your doctors’ appointments and ask them to explain in more detail.

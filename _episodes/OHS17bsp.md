@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Estreñimiento<sup>34</sup>
+<!---title: Estreñimiento<sup>34</sup>--->
 ---
 
 El estreñimiento es cuando sus intestinos se muevan con menor frecuencia, lo que hace que la materia fecal se endurezca y sea difícil de evacuar. Va a sentir que necesita ir al baño (a hacer el número 2) pero no pude. 

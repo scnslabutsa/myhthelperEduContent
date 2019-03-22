@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Muscle Cramps<sup>38,39</sup>
+<!---title: Muscle Cramps<sup>38,39</sup>--->
 ---
 
 Muscle cramps are painful contractions of one or more of your muscles. Talk to your healthcare team about frequent cramping, because your doctor may be able to prescribe a medication that can help you. 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Local Support Groups
+<!---title: Local Support Groups--->
 ---
 
 *    **Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American Breast Cancer Foundation (ABCF)**

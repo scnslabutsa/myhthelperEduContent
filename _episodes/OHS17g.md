@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Nausea<sup>40</sup>
+<!---title: Nausea<sup>40</sup>--->
 ---
 
 There are many ways people describe nausea: sick to my stomach, queasy, or upset stomach. Nausea can have other symptoms that happen at the same time, such as increased saliva, trouble swallowing, or fast heart rate. A person can have nausea with or without vomiting. 

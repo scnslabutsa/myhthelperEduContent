@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Healthy Eating Guidelines<sup>19,20</sup>
+<!---title: Healthy Eating Guidelines<sup>19,20</sup>--->
 ---
 
 ***Healthy Eating Guidelines*** 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Recomendaciones de alimentos<sup>17</sup>
+<!---title: Recomendaciones de alimentos<sup>17</sup>--->
 ---
 
 Hable so su médico, nutricionista o farmacéutico acerca de las interacciones posibles con las terapias que está recibiendo y ciertos suplementos nutricionales y herbales. Su equipo médico va a necesitar revisar, caso por caso, si hay suplementos naturales o herbales que pudieran aumentar el efecto de sus tratamientos. Siempre pregunte a su doctor o enfermera si usted tiene preocupaciones sobre sus necesidades nutricionales, y asegúrese de pedirles que repitan o expliquen cualquier cosa que no esté clara.

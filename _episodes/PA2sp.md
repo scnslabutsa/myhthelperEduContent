@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos de Actividad Física
+<!---title: Consejos de Actividad Física--->
 ---
 
 * Hable con su doctor antes de comenzar cualquier tipo de ejercicio.

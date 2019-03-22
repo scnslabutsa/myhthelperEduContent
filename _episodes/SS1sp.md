@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: ¿Qué es el Apoyo Social?
+<!---title: ¿Qué es el Apoyo Social?--->
 ---
 
 El apoyo social es el apoyo emocional, la ayuda práctica, los consejos y otros beneficios que usted recibe al interactuar con sus co-sobrevivientes. Los co-sobrevivientes pueden incluir:

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Beneficios
+<!---title: Beneficios--->
 ---
 
 Casi todas las personas que están pasando o han tenido cáncer pueden beneficiarse al recibir apoyo.

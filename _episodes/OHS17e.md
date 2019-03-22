@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Dry Skin<sup>37</sup>
+<!---title: Dry Skin<sup>37</sup>--->
 ---
 
 Dry skin can cause itchy skin, so often they two symptoms happen together. 

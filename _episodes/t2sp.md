@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: ¿Cómo se toma el tamoxifeno<sup>3</sup>? 
+<!---title: ¿Cómo se toma el tamoxifeno<sup>3</sup>? --->
 ---
 
 * El tamoxifeno viene en forma de pastilla.

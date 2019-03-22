@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Pautas de Alimentación Saludable<sup>19,20</sup>
+<!---title: Pautas de Alimentación Saludable<sup>19,20</sup>--->
 ---
 
 ***Pautas de Alimentación Saludable*** 
