@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Cómo manejar los efectos secundarios comunes
+<!---title: Cómo manejar los efectos secundarios comunes--->
 ---
 
 **Dolor muscular y de las articulaciones.** El dolor de las articulaciones es un síntoma común de los inhibidores de aromatasa. Hable con su equipo médico si el dolor de las articulaciones se hace molesto. Su doctor podría recomendar:

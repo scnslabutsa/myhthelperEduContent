@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips to Remain Motivated
+<!---title: Tips to Remain Motivated--->
 ---
 
 * Hormone therapy can reduce the risk of breast cancer recurrence and the risk of a new cancer developing in the other breast.

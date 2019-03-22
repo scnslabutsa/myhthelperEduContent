@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos para Mantenerse Adherente a su Tratamiento (cumplir con su tratamiento)
+<!---title: Consejos para Mantenerse Adherente a su Tratamiento (cumplir con su tratamiento)--->
 ---
 
 * Programe una alarma en su teléfono para recordarle tomar su medicamento. ¡No la apague hasta que se haya tomado su pastilla! Si la alarma suena en un momento en que no puede tomar la pastilla, oprima el botón de repetición de la alarma y su teléfono le recordará otra vez más tarde.

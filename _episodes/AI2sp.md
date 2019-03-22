@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title:  ¿Cómo se toman los inhibidores de aromatasa<sup>13</sup>? 
+<!---title:  ¿Cómo se toman los inhibidores de aromatasa<sup>13</sup>? --->
 ---
 
 * Los inhibidores de aromatasa vienen en forma de pastilla.

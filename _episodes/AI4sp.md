@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title:  Beneficios<sup>13</sup><sup>,</sup><sup>14</sup> 
+<!---title:  Beneficios<sup>13</sup><sup>,</sup><sup>14</sup> --->
 ---
 
 Para mujeres con cáncer de seno positivo para receptores hormonales, el tratamiento con inhibidores de aromatasa (por si solo o después de varios años de tomar tamoxifeno) disminuye el riesgo de:

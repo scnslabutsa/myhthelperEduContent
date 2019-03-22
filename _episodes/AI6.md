@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: How to manage common side effects
+<!---title: How to manage common side effects--->
 ---
 
 **Joint and muscle pain.** Joint pain is commonly experienced by people taking aromatase inhibitors. Talk with your healthcare team about troublesome joint pain. Your doctor may recommend:

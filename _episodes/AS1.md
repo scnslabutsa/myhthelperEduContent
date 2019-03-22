@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Tips to Remain Adherent to Your Treatment
+<!---title: Tips to Remain Adherent to Your Treatment--->
 ---
 
 * Set a reminder on your phone. Only dismiss your alarm once you have actually taken your pill! If your reminder goes off during a time when you cannot take your pill, hit snooze and your phone will remind you again later.

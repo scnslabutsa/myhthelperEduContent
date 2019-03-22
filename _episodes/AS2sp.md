@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Consejos para Permanecer Motivada
+<!---title: Consejos para Permanecer Motivada--->
 ---
 
 * La terapia hormonal puede disminuir el riesgo de recurrencia de cáncer de seno y también el riesgo de desarrollar cáncer en el otro seno. 

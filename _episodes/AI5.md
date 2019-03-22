@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Potential side effects<sup>15</sup>
+<!---title: Potential side effects<sup>15</sup>--->
 ---
 The most common side effects of aromatase inhibitors are joint stiffness or joint pain and menopausal symptoms. Keep in mind these side effects may also be caused by other conditions. Many women do not experience all symptoms and in general, they can be successfully treated with over-the-counter medication. Please ask your doctor about what s/he recommends to manage these side effects:
 

@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Programas de Asistencia 
+<!---title: Programas de Asistencia--->
 ---
 
 *   **Nombre: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alamo Breast Cancer Foundation (ABCF) – Línea de ayuda**
