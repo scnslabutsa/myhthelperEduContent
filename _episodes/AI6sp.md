@@ -29,7 +29,7 @@ La actividad física ofrece beneficios claves para las pacientes con cáncer. Le
 
 Simplemente tome algunos pasos para hacer su día más activo y siempre pregúntele a su doctor antes de empezar cualquier rutina o programa de ejercicio.
 
-**Pérdida de la densidad ósea<sup>15</sup>.** Comparada con el tamoxifeno, los inhibidores de aromatasa pueden causar pérdida de la densidad ósea, lo cual aumenta el riesgo de osteoporosis y de fracturas de los huesos. Su equipo médico puede ordenarle un examen para tomar una medida base de su densidad ósea antes de empezar el tratamiento y poder monitorear así cualquier cambio en su densidad ósea causada por el medicamento. 
+**Pérdida de la densidad ósea.** Comparada con el tamoxifeno, los inhibidores de aromatasa pueden causar pérdida de la densidad ósea, lo cual aumenta el riesgo de osteoporosis y de fracturas de los huesos. Su equipo médico puede ordenarle un examen para tomar una medida base de su densidad ósea antes de empezar el tratamiento y poder monitorear así cualquier cambio en su densidad ósea causada por el medicamento. 
 
 Para prevenir la pérdida de densidad ósea, su doctor podría recomendar: 
 
@@ -42,10 +42,7 @@ Para prevenir la pérdida de densidad ósea, su doctor podría recomendar:
 
 Simplemente tome algunos pasos para hacer su día más activo y siempre pregúntele a su doctor antes de empezar cualquier rutina o programa de ejercicio.
 
-
-<sup>15</sup>Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.
-
-**Los bochornos (oleadas de calor) y la sudoración nocturna<sup>7-9</sup>** son sensaciones repentinas y fuertes de calor, especialmente en la cara, el cuello y el pecho. Los bochornos pueden causar sudoración fuerte y lo cual puede causarle frio. Su doctor le puede recetar medicamentos sin hormonas tales como antidepresivos o medicinas para el dolor neural, que le pueden disminuir los bochornos. Fuera de medicamentos, hay ciertas cosas que puedes hacer para aliviar estos síntomas.
+**Los bochornos (oleadas de calor) y la sudoración nocturna.** son sensaciones repentinas y fuertes de calor, especialmente en la cara, el cuello y el pecho. Los bochornos pueden causar sudoración fuerte y lo cual puede causarle frio. Su doctor le puede recetar medicamentos sin hormonas tales como antidepresivos o medicinas para el dolor neural, que le pueden disminuir los bochornos. Fuera de medicamentos, hay ciertas cosas que puedes hacer para aliviar estos síntomas.
 
 Las pacientes deben también poner atención a las cosas que le causan los bochornos (por ej., el estrés, el alcohol, la comida picante, la cafeína) y evitarlas tanto como les sea posible. 
 
@@ -63,14 +60,7 @@ Consejos para manejar bochornos:
 * Hágase acupuntura
 * Haga ejercicio. Además de ayudarle con el dolor de las articulaciones y la pérdida de masa ósea, el ejercicio puede ayudarle con los bochornos.
 
-
-<sup>7</sup>Mayo Clinic, 2018. Hot flashes: Diagnosis & treatment.
-
-<sup>8</sup>Mayo Clinic, 2018. Hot flashes: Symptoms & causes.
-
-<sup>9</sup>Susan G. Komen, 2016. Treating menopausal symptoms.
-
-**Sequedad vaginal/picazón<sup>9</sup>.** La sequedad vaginal puede causar dolor durante el sexo, dolor vaginal y picazón. Es uno de los síntomas de menopausia que las mujeres reportan más frecuentemente y es importante que usted hable con su doctor acerca de este síntoma. Hay medicamentos de venta libre y otros que su doctor puede recetar para aliviar la sequedad vaginal, así que hable con su equipo médico sobre cual opción es mejor para usted. 
+**Sequedad vaginal/picazón.** La sequedad vaginal puede causar dolor durante el sexo, dolor vaginal y picazón. Es uno de los síntomas de menopausia que las mujeres reportan más frecuentemente y es importante que usted hable con su doctor acerca de este síntoma. Hay medicamentos de venta libre y otros que su doctor puede recetar para aliviar la sequedad vaginal, así que hable con su equipo médico sobre cual opción es mejor para usted. 
 
 Consejos para manejar la sequedad vaginal:
 
@@ -78,10 +68,7 @@ Consejos para manejar la sequedad vaginal:
 * Use lubricantes a base de agua o silicona antes de tener relaciones sexuales. Esto le dará una sensación temporal de suavidad en la vagina; sin embargo, estos hidratantes no ofrecen una hidratación a largo plazo como lo hacen los hidratantes vaginales. 
 * Use cremas para hongos vaginales de venta libre para aliviar las infecciones causadas por hongos vaginales.
 
-
-<sup>9</sup>Susan G. Komen, 2016. Treating menopausal symptoms.
-
-**Dolor durante el sexo o dispareunia<sup>16</sup>.** El dolor durante el sexo es un problema de salud legítimo que le puede afectar a usted y a su compañero. Hay muchas cosas que pueden causar dolor durante el sexo, por lo que debe hablar con su doctor sobre el tipo de dolor que está experimentando para que pueda determinar que tratamiento es mejor para usted. Algunas opciones de tratamientos incluyen:
+**Dolor durante el sexo o dispareunia.** El dolor durante el sexo es un problema de salud legítimo que le puede afectar a usted y a su compañero. Hay muchas cosas que pueden causar dolor durante el sexo, por lo que debe hablar con su doctor sobre el tipo de dolor que está experimentando para que pueda determinar que tratamiento es mejor para usted. Algunas opciones de tratamientos incluyen:
 
 * Los hidrantes vaginales, son hidrantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 
 * Los lubricantes vaginales que están hechos a base de agua o silicona son usados durante las relaciones sexuales para aumentar el placer y la comodidad. 
@@ -89,6 +76,16 @@ Consejos para manejar la sequedad vaginal:
 * Los dilatadores vaginales pueden ser útiles para mujeres con dolor durante la penetración. El dilatador aumenta la comodidad durante el acto sexual al estirar la vagina y reducir la estrechez. 
 * La lidocaína vaginal es un tratamiento tópico que se aplica en la apertura vaginal antes del acto sexual y puede ayudar a disminuir el dolor.
 
-<sup>16</sup>American Society of Clinical Oncology, 2017. Sexual Health and Cancer Treatment: Women.
+**References:**
+
+<span style="font-size:15px;">Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.</span>
+		
+<span style="font-size:15px;">Mayo Clinic, 2018. Hot flashes: Diagnosis & treatment.</span>
+			
+<span style="font-size:15px;">Mayo Clinic, 2018. Hot flashes: Symptoms & causes.</span>
+				
+<span style="font-size:15px;">Susan G. Komen, 2016. Treating menopausal symptoms.</span>
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2017. Sexual Health and Cancer Treatment: Women.</span>
 
 

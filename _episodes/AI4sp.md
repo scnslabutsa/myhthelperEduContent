@@ -11,6 +11,8 @@ Para mujeres con cáncer de seno positivo para receptores hormonales, el tratami
 
 Entre las mujeres posmenopáusicas con cáncer de seno positivo para receptores hormonales, los inhibidores de aromatasa (solos o tomados después del tamoxifeno) ofrecen el mismo beneficio o un beneficio ligeramente mayor comparado con tomar solo el tamoxifeno. 
 
-<sup>13</sup>Susan G. Komen, 2018. Aromatase Inhibitors.
+**References:**
 
-<sup>14</sup>Breastcancer.org, 2018. Aromatase Inhibitors.
+<span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>
+
+<span style="font-size:15px;">Breastcancer.org, 2018. Aromatase Inhibitors.</span>

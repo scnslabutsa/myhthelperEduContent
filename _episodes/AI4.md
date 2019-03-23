@@ -11,6 +11,8 @@ For women with hormone receptor-positive breast cancer, treatment with aromatase
 
 Among postmenopausal women with hormone receptor-positive breast cancer, aromatase inhibitors (alone or after tamoxifen) offer the same or slightly greater benefit compared to tamoxifen alone.
 
-<sup>13</sup>Susan G. Komen, 2018. Aromatase Inhibitors.
+**References:**
 
-<sup>14</sup>Breastcancer.org, 2018. Aromatase Inhibitors.
+<span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>
+
+<span style="font-size:15px;">Breastcancer.org, 2018. Aromatase Inhibitors.</span>

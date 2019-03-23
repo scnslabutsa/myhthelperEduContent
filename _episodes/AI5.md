@@ -21,5 +21,7 @@ The most common side effects of aromatase inhibitors are joint stiffness or join
 * Increased cholesterol
 * Mood swings and depression
 
-<sup>15</sup>Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.
+**References:**
+
+<span style="font-size:15px;">Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.</span>
 
