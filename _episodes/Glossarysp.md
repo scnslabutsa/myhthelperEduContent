@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: lesson_glossary
 title: Glosario de Temas Relacionados con el Cáncer de Seno<!---<sup>43,44,45</sup>--->
 ---
 

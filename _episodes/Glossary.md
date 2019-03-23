@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: lesson_glossary
 title: Glossary of Breast Cancer Related Terms<!---<sup>43,44,45</sup>--->
 ---
 
