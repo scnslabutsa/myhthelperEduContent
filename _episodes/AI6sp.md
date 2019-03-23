@@ -76,7 +76,7 @@ Consejos para manejar la sequedad vaginal:
 * Los dilatadores vaginales pueden ser útiles para mujeres con dolor durante la penetración. El dilatador aumenta la comodidad durante el acto sexual al estirar la vagina y reducir la estrechez. 
 * La lidocaína vaginal es un tratamiento tópico que se aplica en la apertura vaginal antes del acto sexual y puede ayudar a disminuir el dolor.
 
-**References:**
+**Fuentes:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.</span>
 		

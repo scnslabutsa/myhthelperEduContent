@@ -7,6 +7,6 @@ layout: lesson
 * Exemestane (Aromasin)
 * Letrozole (Femara)
 
-**References:**
+**Fuentes:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>

@@ -29,5 +29,6 @@ Cosas que Usted Puede Hacer
 * Espere que su estado de ánimo mejore gradualmente, no de manera inmediata
 * Busque ayuda. No tenga miedo o vergüenza de hablar con alguien sobre su depresión, de preguntarle a su doctor sobre opciones de tratamiento, o de empezar tratamiento para la depresión.
 
+**Fuentes:**
 
-<sup>36</sup> National Institute of Mental Health, 2018. Depression.
+<span style="font-size:15px;">National Institute of Mental Health, 2018. Depression.</span>

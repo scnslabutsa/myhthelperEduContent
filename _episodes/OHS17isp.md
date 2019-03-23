@@ -37,5 +37,6 @@ Consejos para Manejar el Aumento de Peso:
 * Haga Ejercicio Regularmente
     - Para consejos sobre cómo empezar un plan de ejercicio, permanecer motivada, y encontrar maneras diferentes de estar activa físicamente, por favor vaya a la sección Consejos de Actividad Física [PA1sp.html](/PA1sp/index.html), [PA2sp.html](/PA2sp/index.html), [PA3sp.html](/PA3sp/index.html) and [PA4sp.html](/PA4sp/index.html)
  
+**Fuentes:**
 
-<sup>20</sup>American Cancer Society, 2015. Nutrition For The Person With Cancer During Treatment: Weight Gain.	
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition For The Person With Cancer During Treatment: Weight Gain.</span>	

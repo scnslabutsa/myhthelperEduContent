@@ -9,5 +9,7 @@ A veces se inicia también antes de la cirugía (se llama “terapia neoadyuvant
 
 La terapia hormonal puede usarse también para tratar cánceres que han reaparecido después del tratamiento o que se han propagado a otras partes del cuerpo.
 
-<sup>2</sup>American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer
+**Fuentes:**
+
+<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
 

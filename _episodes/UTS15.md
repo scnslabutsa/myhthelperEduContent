@@ -9,4 +9,6 @@ Government agencies, hospitals, universities, and medical journals and books pro
 
 There are many websites, books, and magazines that provide health information to the public, but not all of them are trustworthy. Please click [https://www.youtube.com/watch?v=augrvuHd1OM](https://www.youtube.com/watch?v=augrvuHd1OM) to watch this short educational YouTube video.
 
-<sup>32</sup>National Cancer Institute, 2017. Using Trusted Resources
+**References:**
+
+<span style="font-size:15px;">National Cancer Institute, 2017. Using Trusted Resources</span>

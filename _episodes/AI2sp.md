@@ -7,6 +7,6 @@ layout: lesson
 * Se toma una pastilla todos los días.
 * Se toma por 5-10 años. 
 
-**References:**
+**Fuentes:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>

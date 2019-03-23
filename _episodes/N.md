@@ -2,9 +2,6 @@
 layout: lesson
 <!---title: N--->
 ---
-
-#N
-
 <a name="top"></a>
 
 **Naturopathy (Naturopathic Medicine)** 

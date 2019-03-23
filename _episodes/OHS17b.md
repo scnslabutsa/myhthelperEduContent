@@ -15,4 +15,6 @@ Tips to Manage Constipation:
 * Only use laxatives as directed by your healthcare team. 
 * In addition to laxatives, you can ask your healthcare team about over-the-counter stool softeners, psylilum fiber, enemas, or suppositories.
 
-<sup>34</sup>American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.
+**References:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.</span>

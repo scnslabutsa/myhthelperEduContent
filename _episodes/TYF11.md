@@ -11,4 +11,6 @@ Talking about cancer is challenging. If you have trouble talking with your partn
 
 Finding support from others will not only help you—it could also help your partner.
 
-<sup>26</sup>American Society of Clinical Oncology, 2016. Family Life.
+**References:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Family Life.</span>

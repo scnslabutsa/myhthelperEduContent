@@ -34,4 +34,6 @@ layout: lesson
 
 - Don’t be afraid to laugh. Humor may help you and your partner to cope.
 
-<sup>27</sup>American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer
+**References:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer</span>

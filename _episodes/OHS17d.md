@@ -29,4 +29,6 @@ Things You Can Do:
 * Expect your mood to improve gradually, not immediately.
 * Get help. Don’t be afraid or embarrassed to talk to someone about your depression, to ask your doctor about treatment options, or to begin treatment for depression.
 
-<sup>36</sup> National Institute of Mental Health, 2018. Depression.
+**References:**
+
+<span style="font-size:15px;">National Institute of Mental Health, 2018. Depression.</span>

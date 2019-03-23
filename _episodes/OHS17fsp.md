@@ -18,6 +18,8 @@ Consejos para Prevenir los Calambres Musculares:
 * El ejercicio ligero, como montar una bicicleta estacionaria por unos pocos minutos antes ir a dormir, puede también prevenir los calambres nocturnos.
 
 
-<sup>38</sup>Mayo Clinic, 2017. Muscle Cramp: Diagnosis & treatment. 
+**Fuentes:**
 
-<sup>39</sup>American Cancer Society,2015. Leg Cramps.
+<span style="font-size:15px;">Mayo Clinic, 2017. Muscle Cramp: Diagnosis & treatment.</span> 
+
+<span style="font-size:15px;">American Cancer Society,2015. Leg Cramps.</span>

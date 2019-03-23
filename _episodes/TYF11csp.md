@@ -37,5 +37,6 @@ layout: lesson
 
 * No tenga miedo de reír. El humor puede ayudarle a usted y a su pareja a enfrentar este tiempo difícil.
 
+**Fuentes:**
 
-<sup>27</sup>American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer
+<span style="font-size:15px;">American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer</span>

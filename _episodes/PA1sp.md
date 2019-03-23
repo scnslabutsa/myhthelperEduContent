@@ -25,9 +25,10 @@ La American Cancer Society (ACS) recomienda que los sobrevivientes de cáncer to
 * Preponerse hacer al o menos 150 minutos de ejercicio por semana
 * Incluir ejercicios de fortalecimiento muscular (usando pesas o resistencia) al menos 2 días por semana
 
+**Fuentes:**
 
-<sup>22</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 
-<sup>23</sup>American Society of Clinical Oncology, 2016. Physical Activity Tips for Survivors.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Physical Activity Tips for Survivors.</span>
 
-<sup>24</sup>American Cancer Society, 2014. Physical Activity and the Cancer Patient.
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>

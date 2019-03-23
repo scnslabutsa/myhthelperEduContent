@@ -16,11 +16,12 @@ Adicionalmente, el tamoxifeno puede tener beneficios de salud extras:
 * El tamoxifeno puede mejorar los niveles de colesterol en la sangre al reducir los niveles de LDL (el colesterol malo), lo que a su vez reduce el riesgo de enfermedades del corazón. 
 * El tamoxifeno puede ayudar a mantener la densidad ósea, lo que a su vez puede reducir el riesgo de osteoporosis y fracturas en mujeres posmenopáusicas.
 
+**Fuentes:**
 
-<sup>1</sup>National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet
+<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
 
-<sup>4</sup>Susan G. Komen, 2018. Tamoxifen.
+<span style="font-size:15px;">Susan G. Komen, 2018. Tamoxifen.</span>
 
-<sup>5</sup>Breastcancer.org, 2016. Extending Aromatase Inhibitor Use Beyond 5 Years May Benefit Some Women
+<span style="font-size:15px;">Breastcancer.org, 2016. Extending Aromatase Inhibitor Use Beyond 5 Years May Benefit Some Women</span>
 
 

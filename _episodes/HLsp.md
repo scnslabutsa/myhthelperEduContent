@@ -14,6 +14,8 @@ Para los sobrevivientes de cáncer de seno, un estilo de vida saludable puede re
 * Protegerse de los peligros de la exposición al sol
 
 
-<sup>24</sup>Susan G. Komen, 2017, Survivorship Topics.
+**Fuentes:**
 
-<sup>25</sup>American Cancer Society, n.d.. Be Healthy after Treatment.
+<span style="font-size:15px;">Susan G. Komen, 2017, Survivorship Topics.</span>
+
+<span style="font-size:15px;">American Cancer Society, n.d.. Be Healthy after Treatment.</span>

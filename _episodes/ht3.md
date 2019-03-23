@@ -9,5 +9,7 @@ Sometimes it is started before surgery (called “neoadjuvant therapy” that is
 
 Hormone therapy can also be used to treat cancers that have come back after treatment or that have spread to other parts of the body.
 
-<sup>2</sup>American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer
+**References:**
+
+<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
 

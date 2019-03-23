@@ -19,5 +19,6 @@ Hay diferentes maneras para enfrentar la ansiedad. Algunas formas pueden funcion
 
 * **Medicamentos.** Si sus síntomas de ansiedad son moderados o severos (en otras palabras, están interfiriendo con su vida diaria), es posible que los medicamentos la ayuden. Existen diferentes tipos de medicamentos disponibles y su doctor elegirá cuidadosamente los adecuados para usted, con base en sus necesidades, los efectos secundarios posibles, otros medicamentos que usted este tomando y su historia médica. 
 
+**Fuentes:**
 
-<sup>33</sup>American Society of Clinical Oncology, 2017. Anxiety.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2017. Anxiety.</span>

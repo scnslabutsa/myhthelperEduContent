@@ -18,10 +18,11 @@ La terapia de hormonas hace lento o detiene el crecimiento de tumores sensibles 
 2. Evitando que el estrógeno actúe en las células cancerosas del seno (por ej., Novaldex [tamoxifeno] y Evista [raloxifeno]).
 
 La terapia hormonal que el doctor formula depende de muchos factores, incluyendo las características de la enfermedad y si usted ha llegado o no a la menopausia (cambio de vida).
- 
 
-<sup>1</sup>National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet
+**Fuentes:** 
 
-<sup>2</sup>American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer
+<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
+
+<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
 
 

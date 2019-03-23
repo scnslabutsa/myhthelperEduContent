@@ -25,8 +25,10 @@ The American Cancer Society (ACS) recommends that cancer survivors take these ac
 * Aim for at least 150 minutes of exercise per week
 * Include strength training exercises (using weight or resistance) at least 2 days per week
 
-<sup>22</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+**References:**
 
-<sup>23</sup>American Society of Clinical Oncology, 2016. Physical Activity Tips for Survivors.
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 
-<sup>24</sup>American Cancer Society, 2014. Physical Activity and the Cancer Patient.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Physical Activity Tips for Survivors.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>

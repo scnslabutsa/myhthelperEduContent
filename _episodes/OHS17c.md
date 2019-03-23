@@ -21,4 +21,6 @@ Tips to Manage Diarrhea:
 
 * Eat small, frequent meals and snacks throughout the day.
 
-<sup>35</sup>American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Diarrhea.
+**References:**
+
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Diarrhea.</span>

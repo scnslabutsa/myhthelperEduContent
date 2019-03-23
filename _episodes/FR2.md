@@ -39,4 +39,6 @@ Phytochemicals at [http://www.aicr.org/reduce-your-cancer-risk/diet/elements_phy
 
 Foods to fight cancer [http://www.aicr.org/foods-that-fight-cancer/](http://www.aicr.org/foods-that-fight-cancer/)  
 
-<sup>18</sup>American Institute for Cancer Research, n.d.. Phytochemicals: The Cancer Fighters in Your Foods.
+**References:**
+
+<span style="font-size:15px;">American Institute for Cancer Research, n.d.. Phytochemicals: The Cancer Fighters in Your Foods.</span>

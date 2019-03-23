@@ -17,5 +17,6 @@ Consejos para Manejar la Piel Seca:
 * Si su la piel está muy seca y agrietada, use humectantes que contengan ácido salicílico, urea, ammonium lactate o ácido láctico. Estos ingredientes le suavizaran la piel y permitirán que se absorba el agua. 
 * Si su piel le pica mucho, use humectantes que tengan mentol, alcanfor o pramoxina. 
 
+**Fuentes:**
 
-<sup>37</sup>American Society of Clinical Oncology, 2016. Skin Conditions.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Skin Conditions.</span>

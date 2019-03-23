@@ -19,9 +19,7 @@ Consejos para Manejar el Estrés:
 * Pídale ayuda a su familia, amigos, o compañeros de trabajo cuando necesite apoyo adicional para finalizar algo. 
 
 
-<sup>41</sup>American Society of Clinical Oncology, 2017. Managing Stress.
-
-Consejos para Manejar el Estrés<sup>42</sup>:
+Consejos para Manejar el Estrés:
 
 - Haga ejercicio regularmente. Caminar moderadamente por sólo 30 minutos al día puede levantarle el ánimo y reducir el estrés.
 - Programe actividades sociales. Saque tiempo para ver a su familia y amigos. 
@@ -33,4 +31,8 @@ Consejos para Manejar el Estrés<sup>42</sup>:
 - Vaya a la sección sobre Ansiedad para leer sobre diferentes técnicas de relajación.
  [OHS17asp.html](/OHS17asp/index.html)
 
-<sup>42</sup>American Cancer Society, 2018. 6 Tips for Managing Stress
+**Fuentes:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2017. Managing Stress.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2018. 6 Tips for Managing Stress</span>

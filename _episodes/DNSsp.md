@@ -15,6 +15,6 @@ Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos qu
 
 * Smokefree.gov: texto y programa en línea
 
-**References:**
+**Fuentes:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>

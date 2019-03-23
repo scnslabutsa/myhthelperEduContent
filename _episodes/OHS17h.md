@@ -18,9 +18,8 @@ Tips to Reduce Stress:
 * Remind yourself about the things you have done, and not about all the things you haven’t done. Break down tasks into smaller steps; it’s easier to see progress you’re making when you can check things off along the way.
 * Ask for help from family, friends, or coworkers when you just need some extra support to get something done.
 
-<sup>41</sup>American Society of Clinical Oncology, 2017. Managing Stress.
 
-Tips to Manage Stress<sup>42</sup>:
+Tips to Manage Stress:
 
 * Exercise regularly. Just 30 minutes per day of moderate walking can boost your mood and reduce stress.
 * Schedule social activities. Make time to see your family and friends.
@@ -31,4 +30,8 @@ Tips to Manage Stress<sup>42</sup>:
 * Learn a new hobby. Trying new and challenging activities can give you a sense of accomplishment and is also a way to set time aside for yourself.  
 * Go to the section on Anxiety to read about different relaxation techniques. [OHS17a.html](/OHS17a/index.html)
 
-<sup>42</sup>American Cancer Society, 2018. 6 Tips for Managing Stress
+**References:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2017. Managing Stress.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2018. 6 Tips for Managing Stress</span>

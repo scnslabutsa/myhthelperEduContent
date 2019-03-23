@@ -55,10 +55,11 @@ Para reducir los niveles de inflamación, tenga como meta el consumo de una diet
 
 Además de reducir la inflamación, una dieta más natural y menos procesada puede tener efectos notables en su salud física y emocional.
 
+**Fuentes:**
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 
-<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain.</span>
 
 
 

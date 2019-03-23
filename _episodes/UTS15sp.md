@@ -11,4 +11,6 @@ proporcionar información incorrecta o errónea. Si una fuente hace afirmaciones
 
 Hay muchos sitios web, libros, y revistas que brindan información de salud al público, pero no todos son confiables. Haga clic [https://www.youtube.com/watch?v=augrvuHd1OM](https://www.youtube.com/watch?v=augrvuHd1OM) para ver este video educativo corto de YouTube.
 
-<sup>32</sup>National Cancer Institute, 2017. Using Trusted Resources
+**Fuentes:**
+
+<span style="font-size:15px;">National Cancer Institute, 2017. Using Trusted Resources</span>

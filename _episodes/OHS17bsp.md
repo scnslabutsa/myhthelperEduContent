@@ -15,5 +15,6 @@ Consejos para manejar el estreñimiento:
 * Solo use laxantes como lo indique su equipo médico. 
 * Adicionalmente a los laxantes, usted le puede preguntar a su equipo médico sobre suavizantes de heces, enemas o supositorios de venta libre.
 
+**Fuentes:**
 
-<sup>34</sup>American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.</span>

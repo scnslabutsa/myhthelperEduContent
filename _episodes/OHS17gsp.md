@@ -17,5 +17,6 @@ Consejos para Manejar las Náuseas:
 * No coma en un cuarto que esté caliente o que tenga olores de concina y/o otros olores. Cocinar afuera en la parrilla o usando bolsas para hervir alimentos puede reducir los olores al cocinar. 
 * Chupe caramelos duros como los de canela o limón si tiene un mal sabor en la boca.
 
+**Fuentes:**
 
-<sup>40</sup>American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Nausea.
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Nausea.</span>

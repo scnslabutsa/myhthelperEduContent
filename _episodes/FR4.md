@@ -27,6 +27,8 @@ Eating healthy is fun, delicious, and good for your body in countless ways. Here
 
 * Educate yourself. Always be on the lookout for healthier options. For example: start following healthy cooking blogs, look for free cooking classes at local grocery stores, gyms, or libraries (many times cooking classes are for healthy foods); and ask a registered dietician about food swaps that you can try.
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+**References:**
 
-<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain.</span>

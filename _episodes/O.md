@@ -32,5 +32,4 @@ Treatment for ductal carcinoma in situ (DCIS) or a small, invasive breast cancer
 **Overall Survival (Overall Survival Rate, Survival)** 
 The percentage of people alive for a certain period of time after diagnosis with a disease (such as breast cancer) or treatment for a disease.
 
-<a href="#top">Back to top of page</a>
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>

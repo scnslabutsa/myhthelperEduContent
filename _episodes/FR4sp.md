@@ -28,7 +28,8 @@ Comer saludable es divertido, delicioso y bueno para su cuerpo en formas innumer
 
 * Edúquese usted misma. Siempre busque las opciones más saludables. Por ejemplo: comience a seguir los blogs en Internet de cocina saludable, busque clases gratuitas de cocina en los supermercados locales, los gimnasios o las bibliotecas (muchas veces las clases de cocina son para preparar alimentos saludables); y pregúntele a una nutricionista registrada sobre los intercambios de alimentos que puede probar.
 
+**Fuentes:**
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 
-<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain.</span>

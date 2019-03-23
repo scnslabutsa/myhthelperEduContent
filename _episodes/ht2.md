@@ -20,8 +20,10 @@ Hormone therapy slows or stops the growth of hormone-sensitive tumors in two way
 
 The hormone therapy a doctor prescribes depends on many factors, including disease characteristics, and if you are pre- or post-menopausal. 
 
-<sup>1</sup>National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet
+**References:**
 
-<sup>2</sup>American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer
+<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
+
+<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
 
 

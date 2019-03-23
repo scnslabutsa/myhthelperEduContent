@@ -17,4 +17,6 @@ Tips for Managing Dry/Itchy Skin:
 * If your skin is very dry or cracked, use moisturizers that contain the following ingredients: Salicylic acid, urea, ammonium lactate, lactic acid. These ingredients will soften the skin and allow water to be absorbed.
 * If your skin is very itchy, use moisturizers that contain menthol, camphor, or pramoxine.
 
-<sup>37</sup>American Society of Clinical Oncology, 2016. Skin Conditions.
+**References:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Skin Conditions.</span>

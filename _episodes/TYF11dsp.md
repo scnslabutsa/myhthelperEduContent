@@ -7,5 +7,6 @@ Los niños a veces escuchan conversaciones. Tienden a preocuparse más si siente
 
 Es importante recordar que los niños comparten información entre ellos. Toda la familia, incluyendo sus hermanos y padres, deben trabajar juntos para decidir qué y qué tanta información se les dará a los niños sobre el diagnóstico de cáncer de un familiar. Esto puede ayudar a evitar que se transmita información confusa e errónea entre los niños.
 
+**Fuentes:**
 
-<sup>28</sup>American Society of Clinical Oncology, 2017. Talking with Your Children About Cancer.
+<span style="font-size:15px;">American Society of Clinical Oncology, 2017. Talking with Your Children About Cancer.</span>

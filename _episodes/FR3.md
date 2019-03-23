@@ -48,9 +48,11 @@ To reduce levels of inflammation, aim for an overall healthy diet. If you're loo
 
 In addition to lowering inflammation, a more natural, less processed diet can have noticeable effects on your physical and emotional health.
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+**References:**
 
-<sup>20</sup>American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain. 
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2015. Nutrition for The Person with Cancer During Treatment: Weight Gain.</span>
 
 
 

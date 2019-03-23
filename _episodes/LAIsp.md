@@ -10,7 +10,8 @@ En general, las recomendaciones son:
 * No más de 1 bebida al día para las mujeres
 * No más de 2 bebidas al día para los hombres
 
+**Fuentes:**
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 
-<sup>21</sup>American Cancer Society, 2017. Alcohol Use and Cancer 
+<span style="font-size:15px;">American Cancer Society, 2017. Alcohol Use and Cancer</span> 

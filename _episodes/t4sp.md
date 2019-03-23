@@ -30,5 +30,6 @@ Llame a su doctor inmediatamente si experimenta cualquier de los siguientes sín
 * Dolor de cabeza fuerte y repentino
 * Flujo vaginal
 
+**Fuentes:**
 
-<sup>6</sup>Susan G. Komen, 2018. Side effects of tamoxifen.
+<span style="font-size:15px;">Susan G. Komen, 2018. Side effects of tamoxifen.</span>

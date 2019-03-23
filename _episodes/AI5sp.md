@@ -21,7 +21,7 @@ Los efectos secundarios más comunes de los inhibidores de aromatasa son rigidez
 * Colesterol alto
 * Cambios de humor y depresión
 
-**References:**
+**Fuentes:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.</span>
 
