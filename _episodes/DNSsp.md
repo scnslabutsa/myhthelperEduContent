@@ -7,7 +7,7 @@ La mayoría de las personas ya saben que fumar es malo para su salud y la de las
 
 Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos que le pueden ayudar a crear un plan para dejar de fumar:
 
-* Quitxt: programa de mensajes de texto móvil
+* [Quitxt](http://quitxt.org/9): programa de mensajes de texto móvil
 
 * Yesquit.org:  consejería telefónica o programa en línea 
 
@@ -15,4 +15,6 @@ Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos qu
 
 * Smokefree.gov: texto y programa en línea
 
-<sup>19</sup>Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.
+**References:**
+
+<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
