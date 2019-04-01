@@ -106,5 +106,5 @@ Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rode
 
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>
 

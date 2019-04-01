@@ -28,5 +28,5 @@ Afección en la que disminuye la cantidad y el grosor del tejido óseo lo que ha
 
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>
 

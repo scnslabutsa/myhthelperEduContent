@@ -37,4 +37,4 @@ Procesos mentales relacionados con el entendimiento, tales como razonamiento y s
 
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>

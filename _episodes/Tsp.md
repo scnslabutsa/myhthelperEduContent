@@ -110,5 +110,5 @@ Término que se usa para describir el tumor original o primero en el cuerpo. Las
 
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>
 

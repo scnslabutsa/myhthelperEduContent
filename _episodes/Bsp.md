@@ -46,5 +46,5 @@ A la radiación interna también se le llama braquiterapia. Para esta terapia, s
 
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>
 

@@ -12,5 +12,5 @@ Afección por la que los tejidos que revisten el interior de la vagina (canal de
 Una mutación genética que actualmente no se conoce si aumenta el riesgo de cáncer de seno.
 
 <!--a href="#top">Volver arriba</a-->
-<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al Glosario</a>
+<a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossarysp/index.html">Volver al inicio</a>
 
