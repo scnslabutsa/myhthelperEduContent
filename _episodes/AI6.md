@@ -77,7 +77,7 @@ Tips to manage vaginal dryness:
 * Vaginal dilators can be useful for women with pain during penetration. The dilator increases comfort during intercourse by stretching the vagina and reducing tightness. 
 * Vaginal lidocaine is a topical treatment applied to the vaginal opening before sexual intercourse. It can help decrease pain.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Side Effects of Aromatase Inhibitors.</span>
 

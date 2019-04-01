@@ -10,7 +10,7 @@ In general, recommendations are:
 * No more than 1 drink a day for women
 * No more than 2 drinks a day for men
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 

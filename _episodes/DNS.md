@@ -12,6 +12,6 @@ If you need help quitting smoking, here are some valuable resources that help yo
 * **American Cancer Society** [https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html](https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html): helpful information about smoking cessation
 * [Smokefree.gov](https://smokefree.gov/): text and online program 
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>

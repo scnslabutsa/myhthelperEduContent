@@ -9,7 +9,7 @@ Las agencias gubernamentales, los hospitales, las universidades, y las revistas 
 brindan información basada en evidencia son confiables. Con mucha frecuencia, otras fuentes pueden 
 proporcionar información incorrecta o errónea. Si una fuente hace afirmaciones que son demasiado buenas para ser ciertas- recuerde que generalmente no son ciertas.
 
-Hay muchos sitios web, libros, y revistas que brindan información de salud al público, pero no todos son confiables. Haga clic [https://www.youtube.com/watch?v=augrvuHd1OM](https://www.youtube.com/watch?v=augrvuHd1OM) para ver este video educativo corto de YouTube.
+Hay muchos sitios web, libros, y revistas que brindan información de salud al público, pero no todos son confiables. Para más información visite la página web del National Cancer Institute [https://www.cancer.gov/espanol/cancer/manejo-del-cancer/uso-de-recursos-fidedignos](https://www.cancer.gov/espanol/cancer/manejo-del-cancer/uso-de-recursos-fidedignos).
 
 **Fuentes:**
 
