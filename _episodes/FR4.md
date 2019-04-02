@@ -3,8 +3,6 @@ layout: lesson
 <!---title: Healthy Eating Guidelines<sup>19,20</sup>--->
 ---
 
-***Healthy Eating Guidelines*** 
-
 Eating healthy is fun, delicious, and good for your body in countless ways. Here are some guidelines to help you maintain a healthy diet. Learn them, practice them, and share them with your family and friends!
 
 * Eat at least 2 ½ cups of fruits and vegetables every day.
@@ -27,7 +25,7 @@ Eating healthy is fun, delicious, and good for your body in countless ways. Here
 
 * Educate yourself. Always be on the lookout for healthier options. For example: start following healthy cooking blogs, look for free cooking classes at local grocery stores, gyms, or libraries (many times cooking classes are for healthy foods); and ask a registered dietician about food swaps that you can try.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 

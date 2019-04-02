@@ -3,8 +3,6 @@ layout: lesson
 <!---title: Pautas de Alimentación Saludable<sup>19,20</sup>--->
 ---
 
-***Pautas de Alimentación Saludable*** 
-
 Comer saludable es divertido, delicioso y bueno para su cuerpo en formas innumerables. Aquí hay algunas pautas para ayudarle a mantener una dieta saludable. ¡Apréndalas, practíquelas, y compártalas con su familia y amigos!
 
 

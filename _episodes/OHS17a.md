@@ -20,6 +20,6 @@ There is a variety of ways to cope with anxiety. Some may work for you, some may
 
 * Medication. If your anxiety symptoms are moderate to severe (in other words, your symptoms are greatly affecting your daily life), you may benefit from medication. Different types of medications are available and are carefully chosen by your doctor by considering your needs, potential side effects, other medications you take, and your medical history.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2017. Anxiety.</span>

@@ -7,6 +7,6 @@ Talk with your doctor, dietitian or pharmacist about any possible interactions w
 
 At the moment, many practitioners are being conservative in their recommendations of unstudied herbs. Please see [ods.od.nih.gov](ods.od.nih.gov) for more information on specific herbs. On the other hand, dietary sources of herbs—such as parsley, thyme, oregano and many others—are great sources of vitamins, minerals and healthy plant compounds. Adding herbs to your meals is a great idea for most people.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Memorial Sloan Kettering Cancer Center, 2016. Nutrition and Breast Cancer: Making Health Diet Decisions</span>

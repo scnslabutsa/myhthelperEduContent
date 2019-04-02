@@ -40,6 +40,6 @@ Tips for Managing Weight Gain:
 
 	- For tips about how to start an exercise plan, stay motivated, and find different ways to be physically active, please see our section on Physical Activity. [PA1.html](/PA1/index.html), [PA2.html](/PA2/index.html), [PA3.html](/PA3/index.html) and [PA4.html](/PA4/index.html)
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Cancer Society, 2015. Nutrition For The Person With Cancer During Treatment: Weight Gain.</span>	

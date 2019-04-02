@@ -3,8 +3,6 @@ layout: lesson
 <!---title: Depression<sup>36</sup>--->
 ---
 
-**Symptoms**
-
 Depression is a common, but serious mood disorder. It causes symptoms that affect how you feel, think, and handle daily activities. Let your doctor know if you have been experiencing some of the following signs and symptoms most of the day, nearly every day, for at least two weeks:
 
 * Persistent sad, anxious, or “empty” mood
@@ -29,6 +27,6 @@ Things You Can Do:
 * Expect your mood to improve gradually, not immediately.
 * Get help. Don’t be afraid or embarrassed to talk to someone about your depression, to ask your doctor about treatment options, or to begin treatment for depression.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">National Institute of Mental Health, 2018. Depression.</span>

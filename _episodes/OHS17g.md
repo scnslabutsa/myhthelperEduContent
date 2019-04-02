@@ -17,6 +17,6 @@ Tips to Manage Nausea:
 * Don’t eat in a room that’s warm or that has cooking odors or other smells. Cooking outside on the grill or using boiling bags can reduce cooking odors.
 * Suck on hard candy like peppermint or lemon drops if there’s a bad taste in your mouth. 
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Cancer Society, 2015. Nutrition for the Person with Cancer During Treatment: Nausea.</span>

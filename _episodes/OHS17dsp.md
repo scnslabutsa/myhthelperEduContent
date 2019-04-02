@@ -3,8 +3,6 @@ layout: lesson
 <!---title: Depresión<sup>36</sup>--->
 ---
 
-**Síntomas**
-
 La depresión es un trastorno común pero serio del estado del ánimo. Causa síntomas que pueden afectar cómo se siente, piensa y maneja las actividades diarias. Infórmele a su doctor si ha estado experimentado alguno de los siguientes señales y síntomas la mayor parte del día, casi todos los días, o durante al menos dos semanas:
 
 * Sentirse triste, ansiosa, o con estado de ánimo vacío en forma persistente

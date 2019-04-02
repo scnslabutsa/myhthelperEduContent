@@ -48,7 +48,7 @@ To reduce levels of inflammation, aim for an overall healthy diet. If you're loo
 
 In addition to lowering inflammation, a more natural, less processed diet can have noticeable effects on your physical and emotional health.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
 

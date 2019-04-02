@@ -28,9 +28,9 @@ Tips to Manage Stress:
 * Laugh! Laughter reduces stress. See a funny movie, read a funny book, or look at old family videos.
 * Write in a journal. Journaling is a private way to express your feelings and is an opportunity to put your feelings into words.
 * Learn a new hobby. Trying new and challenging activities can give you a sense of accomplishment and is also a way to set time aside for yourself.  
-* Go to the section on Anxiety to read about different relaxation techniques. [OHS17a.html](/OHS17a/index.html)
+* Go to the section on Anxiety to read about different relaxation techniques. [Anxiety](https://scnslabutsa.github.io/myhthelperEduContent/OHS17a/index.html)
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2017. Managing Stress.</span>
 

@@ -14,7 +14,7 @@ For breast cancer survivors, a healthy lifestyle may lower the risk of recurrenc
 * Protecting yourself from the dangers of sun exposure
 
 
-**Sources**
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2017, Survivorship Topics.</span>
 

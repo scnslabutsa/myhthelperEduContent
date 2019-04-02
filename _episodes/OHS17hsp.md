@@ -19,7 +19,7 @@ Consejos para Manejar el Estrés:
 * Pídale ayuda a su familia, amigos, o compañeros de trabajo cuando necesite apoyo adicional para finalizar algo. 
 
 
-Consejos para Manejar el Estrés:
+Otros Consejos Útiles:
 
 - Haga ejercicio regularmente. Caminar moderadamente por sólo 30 minutos al día puede levantarle el ánimo y reducir el estrés.
 - Programe actividades sociales. Saque tiempo para ver a su familia y amigos. 
@@ -29,7 +29,7 @@ Consejos para Manejar el Estrés:
 - Escriba en un diario. Esta es una manera privada de expresar sus sentimientos y es una oportunidad de poner palabras a sus sentimientos. 
 - Aprenda un pasatiempo nuevo. Probar actividades nuevas y desafiantes puede darle un sentido de logro y es también una forma sacar tiempo para usted misma. 
 - Vaya a la sección sobre Ansiedad para leer sobre diferentes técnicas de relajación.
- [OHS17asp.html](/OHS17asp/index.html)
+ [Ansiedad](https://scnslabutsa.github.io/myhthelperEduContent/OHS17asp/index.html)
 
 **Fuentes:**
 

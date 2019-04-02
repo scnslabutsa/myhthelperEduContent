@@ -7,6 +7,12 @@ layout: lesson
 * You take one pill every day.
 * It is taken for 5-10 years.
 
-**References:**
+***Common aromatase inhibitors brand names***
+
+* Anastrazole (Arimidex)
+* Exemestane (Aromasin)
+* Letrozole (Femara)
+
+**Sources:**
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>

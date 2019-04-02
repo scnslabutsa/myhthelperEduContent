@@ -18,7 +18,7 @@ Tips to Prevent Muscle Cramps:
 * Stretch before bed if you tend to have cramps at night.
 * Light exercise, such as riding a stationary bicycle for a few minutes before bedtime, can also prevent cramps while you’re sleeping.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">Mayo Clinic, 2017. Muscle Cramp: Diagnosis & treatment.</span> 
 

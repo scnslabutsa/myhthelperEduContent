@@ -5,7 +5,7 @@ layout: lesson
 
 Some types of breast cancer are affected by hormones in the blood. Hormones are chemical messengers that activate or control certain cells. 
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
 

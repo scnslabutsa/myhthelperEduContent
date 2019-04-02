@@ -3,8 +3,6 @@ layout: lesson
 <!---title: C-->
 ---
 
-<a name="top"></a>
-
 **Cachexia** 
 Loss of appetite and weight.
 

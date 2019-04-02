@@ -2,6 +2,15 @@
 layout: lesson
 <!---title: Tips for Talking with Your Spouse/Partner<sup>27</sup>--->
 ---
+When talking with your spouse or partner think about these key messages: 
+
+* Couples often find it hard to talk about difficult or sad topics. This means that they may shy away from talking about the intense emotions and changes that come with a cancer diagnosis.
+
+* Talk openly and honestly with your spouse or partner. It is also helpful to sensitively listen to your partner’s thoughts and feelings.
+
+* You should also discuss practical concerns, such as treatment options and changes in routines, and future plans. 
+
+* Consider joining a support group or talking with a trained counselor to help you each cope in your own way.
 
 * Practice active listening. Active listening means you concentrate on understanding what your partner is saying, rather than thinking about what to say next. For example, restate what your partner said in your own words. Then, ask for feedback to make sure you understand your partner’s point of view.
 
@@ -34,6 +43,6 @@ layout: lesson
 
 - Don’t be afraid to laugh. Humor may help you and your partner to cope.
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2018. Talking With Your Spouse or Partner About Cancer</span>
