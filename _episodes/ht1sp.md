@@ -3,7 +3,7 @@ layout: lesson
 <!---title: ¿Cómo afectan las hormonas el cáncer de seno? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
-Algunos tipos de cáncer de seno son afectados por hormonas en la sangre.  Las hormonas son sustancias que funcionan como mensajeros químicos en el cuerpo y activan o controlan ciertas células.  
+Algunos tipos de cáncer de seno son afectados por hormonas en la sangre.  Las hormonas son sustancias que funcionan como mensajeros químicos en el cuerpo y activan o controlan ciertas células.   
 
 **Fuentes:**
 
