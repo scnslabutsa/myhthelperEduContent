@@ -17,8 +17,9 @@ La actividad física tiene muchos beneficios:
 * Disminuye los síntomas de fatiga
 * Ayuda a controlar el peso
 * Mejora la calidad de su vida
+* Ayuda a dormir mejor
 
-La American Cancer Society (ACS) recomienda que los sobrevivientes de cáncer tomen estas acciones:
+La American Cancer Society (ACS) recomienda que los sobrevivientes de cáncer:
 
 * Participar en actividad física regular
 * Evitar la inactividad
