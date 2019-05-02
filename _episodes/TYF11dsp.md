@@ -3,21 +3,23 @@ layout: lesson
 <!---title: Hablando con sus Hijos<sup>28</sup>--->
 ---
 
-Los niños a veces escuchan conversaciones. Tienden a preocuparse más si sienten que se les está ocultando algo importante. Como padre o guardián, su primer instinto es proteger a sus hijos de noticias alarmantes, como el cáncer. Sin embargo, evitar el tema puede confundir a los niños y hacerles temer la peor situación posible.
+Los niños a veces escuchan conversaciones. Ellos tienden a preocuparse más si sienten que se les está ocultando algo importante. Como padre o guardián, su primer instinto es proteger a sus hijos de noticias alarmantes, como el cáncer. Sin embargo, evitar el tema puede confundir a los niños y hacerles temer la peor situación posible.
 
-Es importante recordar que los niños comparten información entre ellos. Toda la familia, incluyendo sus hermanos y padres, deben trabajar juntos para decidir qué y qué tanta información se les dará a los niños sobre el diagnóstico de cáncer de un familiar. Esto puede ayudar a evitar que se transmita información confusa e errónea entre los niños.
+Es importante recordar que los niños comparten información entre ellos. Toda la familia, incluyendo sus hermanos y padres, deben trabajar juntos para decidir qué y qué tanta información se les dará a los niños sobre el diagnóstico de cáncer de un familiar. Esto puede ayudar a evitar que se transmita información confusa y errónea entre los niños.
+
+**Consejos Para Hablar con sus Hijos**
 
 Mientras habla con sus hijos, escuche sus preocupaciones y responda sus preguntas lo mejor que pueda. A continuación, presentamos algunos consejos para ayudarle a hablar sobre el cáncer con sus hijos:
 
-* Use la palabra “cáncer”. Esto le dará a sus hijos información específica y reduce la confusión y los malos entendidos, especialmente si la escuchan usando esta palabra con otros.
+* Use la palabra “cáncer”. Esto les dará a sus hijos información específica y reduce la confusión y los malos entendidos, especialmente si la escuchan usando esta palabra con otros.
 
-* Use un lenguaje apropiado para su edad. Los niños más pequeños necesitan explicaciones simples. En los niños más grandes, una explicación más detallada les ayuda a reducir los sentimientos de impotencia y miedo.
+* Use un lenguaje apropiado para su edad. Con los niños más pequeños necesitan explicaciones simples. En los niños más grandes, una explicación más detallada les ayuda a reducir los sentimientos de impotencia y miedo.
 
-* Asegúreles de que entiendan que el cáncer no es contagioso.
+* Asegúrese que entienden que el cáncer no es contagioso.
 
 * Hágales saber que está bien que tengan muchos sentimientos diferentes. Explíqueles que usted también tiene muchos de esos mismos sentimientos.
 
-* Sea honesto al responder preguntas. Está bien decir: "No sé".
+* Sea honesta al responder sus preguntas. Está bien decir: "No sé".
 
 * Trate de mantener las rutinas de sus hijos de la manera más constante posible, pero prepárelos para las cosas que cambiarán.
 
@@ -39,6 +41,6 @@ Mientras habla con sus hijos, escuche sus preocupaciones y responda sus pregunta
 
 * Anime a toda su familia para que hablen entre ellos, de tal manera que no haya confusión entre los niños en la familia.
 
-**Fuentes:**
+**Fuente:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2017. Talking with Your Children About Cancer.</span>

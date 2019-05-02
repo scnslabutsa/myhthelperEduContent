@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Mensajes Clave Cuando Hable con su Esposo/Pareja--->
 ---
 
-Cuando hable con su esposo o pareja, piense en estos mensajes clave:
+Cuando hable con su esposo o pareja, piense también en estos mensajes clave:
 
 * A las parejas a veces les resulta difícil hablar sobre temas difíciles o tristes. Esto significa que pueden evitar hablar sobre emociones intensas y los cambios que vienen con un diagnóstico de cáncer.
 
