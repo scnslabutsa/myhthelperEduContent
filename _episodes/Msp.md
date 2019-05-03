@@ -12,10 +12,10 @@ Terapia nutricional complementaria o integrativa que incluye una nutrición pred
 Canceroso. Las células malignas pueden invadir y destruir tejidos cercanos y diseminarse hasta otras partes del cuerpo.
 
 **Mamografía**
-Uso de una máquina de rayos X o una computadora para crear una imagen del seno.
+Uso de una máquina de rayos X o una computadora para crear una imagen del seno. También se llama Mamograma.
 
 **Mamograma de Detección Temprana (Mamograma de Tamizaje)**
-Examen que usa para encontrar el cáncer del seno temprano en mujeres que no tienen síntomas o problemas conocidos del seno.
+Examen que usa para encontrar el cáncer de seno temprano en mujeres que no tienen síntomas o problemas conocidos del seno. También se llama mamografía de detección temprana o mamografía de tamizaje.
 
 **Mamografía de Diagnóstico**
 Radiografía de los senos que se utiliza para verificar la presencia de cáncer de seno después de que se encuentra un nódulo u otro signo o síntoma de cáncer.
@@ -42,40 +42,40 @@ En el campo de la medicina, se refiere a un nudo en el cuerpo. Este puede obedec
 Cirugía para extraer parte o todo del seno. Hay diferentes tipos de mastectomía que son distintas según la cantidad de tejido y ganglios linfáticos que se extirpan.
 
 **Mastectomía Parcial**
-Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no el seno en sí. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, cuadrantectomía, lumpectomía, mastectomía segmentaria, tilectomía, y tumorectomía.
+Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no el seno en sí. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para conservar el seno (la mama), cirugía para preservar la el seno (la mama), cuadrantectomía, lumpectomía, mastectomía segmentaria, tilectomía, y tumorectomía.
 
 **Mastectomía Preservadora de la Piel**
-Un procedimiento quirúrgico que remueve el seno, pero mantiene intacta tanto como sea posible la piel que rodea el seno. Esta piel puede usarse en la reconstrucción del seno para cubrir un tejido de colgajo o un implante de seno en lugar de usar piel de otras partes del cuerpo. 
+Un procedimiento quirúrgico que remueve el seno, pero mantiene tan intacta como sea posible la piel que rodea el seno. Esta piel puede usarse en la reconstrucción del seno para cubrir un tejido de colgajo o un implante de seno en lugar de usar piel de otras partes del cuerpo. 
 
 **Mastectomía Preservadora del Pezón**
 Un procedimiento de reconstrucción del seno que remueve el tumor y los márgenes como también la grasa y otros tejidos del seno, pero deja el pezón y la aréola intactos.
 
 **Mastectomía Profiláctica (Mastectomía Preventiva)**
-Cirugía para reducir el riesgo de padecer de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía preventiva.
+Cirugía para reducir el riesgo de tener de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía preventiva.
 
 **Mastectomía Profiláctica Bilateral**
 Cirugía para extraer ambos senos con el fin de reducir el riesgo de desarrollar cáncer de seno.
 
 **Mastectomía Radical (Mastectomía Radical de Halsted)**
-Cirugía para el cáncer de seno en la que se extrae el seno, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de seno más a menudo, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado a los músculos del pecho. También se llama mastectomía radical.
+Cirugía para el cáncer de seno en la que se extrae el seno, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de seno más común, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado a los músculos del pecho. 
 
 **Mastectomía Radical Modificada**
-Cirugía del cáncer de seno (mama) en la que se extraen los senos, la mayoría o todos los ganglios linfáticos debajo del brazo y el recubrimiento de los músculos del pecho. A veces, el cirujano también extrae parte de los músculos de la pared torácica.
+Cirugía para el cáncer de seno (mama) en la que se extraen los senos, la mayoría o todos los ganglios linfáticos debajo del brazo y el recubrimiento de los músculos del pecho. A veces, el cirujano también extrae parte de los músculos de la pared torácica.
 
 **Mastectomía Simple (Mastectomía Total)**
 Cirugía para extirpar todo el seno. También se pueden extirpar algunos ganglios linfáticos abajo del brazo. También se llama mastectomía total.
 
 **Mastitis**
-Afección por la que el seno se inflama. Por lo general la causa es una infección y se observa más a menudo en madres que dan el pecho.
+Afección por la que el seno se inflama. Por lo general la causa es una infección y se observa más a menudo en madres que amamantan a sus bebés.
 
 **Mastopatía Diabética**
 Es una complicación poco frecuente de la diabetes mellitus de larga evolución. Esta condición benigna rara (no cancerosa) consiste en pequeñas masas endurecidas en el seno. Es más frecuente en mujeres con diabetes insulinodependiente (Tipo 1).
 
 **Media de Supervivencia**
-El tiempo promedio de duración desde el momento del diagnóstico o el comienzo del tratamiento de una enfermedad, como el cáncer, en el que los pacientes de una enfermedad todavía están vivos. En un ensayo clínico, la medida de la duración de la media de supervivencia permite determinar si el tratamiento es eficaz.
+El tiempo promedio de duración desde el momento del diagnóstico o el comienzo del tratamiento de una enfermedad, como el cáncer, en el que los pacientes de una enfermedad todavía están vivos. En un estudio clínico, la medida de la duración de la media de supervivencia permite determinar si el tratamiento es eficaz.
 
 **Medicina de Precisión o Medicina Personalizada**
-Tipo de medicina que usa la información de los genes, proteínas y ambiente de una persona para prevenir, diagnosticar y tratar la enfermedad. En el caso del cáncer, la usa información específica acerca del tumor de una persona para facilitar el diagnóstico, planificar el tratamiento y determinar si el tratamiento es eficaz, o para dar un pronóstico. Los ejemplos de incluyen el uso de terapias dirigidas para tratar tipos específicos de células cancerosas, como las células de cáncer de seno positivas al HER2, o el uso de pruebas de marcadores tumorales para ayudar en el diagnóstico de cáncer. También se llama medicina personalizada.
+Tipo de medicina que usa la información de los genes, proteínas y ambiente de una persona para prevenir, diagnosticar y tratar la enfermedad. En el caso del cáncer, se usa información específica acerca del tumor de una persona para facilitar el diagnóstico, planificar el tratamiento y determinar si el tratamiento es eficaz, o para dar un pronóstico. Los ejemplos de incluyen el uso de terapias dirigidas para tratar tipos específicos de células cancerosas, como las células de cáncer de seno positivas al HER2, o el uso de pruebas de marcadores tumorales para ayudar en el diagnóstico de cáncer. También se llama medicina personalizada.
 
 **Menarquia**
 La primera menstruación que tiene la mujer. 
@@ -87,7 +87,7 @@ La primera menstruación que tiene la mujer.
 Los procesos químicos por medio de los cuales el cuerpo descompone los alimentos y las medicinas.
 
 **Metástasis**
-Diseminación del cáncer de una parte del cuerpo en donde se formó originalmente a otra parte del cuerpo. Cuando ocurre una metástasis, las células cancerosas se separan del tumor original (primario), viajan a través del sistema sanguíneo o linfático y forman un tumor nuevo en otros órganos o tejidos del cuerpo. El nuevo tumor metastásico es el mismo tipo de cáncer que el tumor primario. Por ejemplo, si el cáncer de seno se disemina al pulmón, las células cancerosas del pulmón son células del cáncer de seno, no son células de cáncer de pulmón. Las formas plural y singular de la palabra metástasis son iguales.
+Diseminación del cáncer de la parte del cuerpo en donde se formó originalmente a otra parte del cuerpo. Cuando ocurre una metástasis, las células cancerosas se separan del tumor original (primario), viajan a través del sistema sanguíneo o linfático y forman un tumor nuevo en otros órganos o tejidos del cuerpo. El nuevo tumor metastásico es el mismo tipo de cáncer que el tumor primario. Por ejemplo, si el cáncer de seno se disemina al pulmón, las células cancerosas del pulmón son células del cáncer de seno, no son células de cáncer de pulmón. Las formas plural y singular de la palabra metástasis son iguales.
 
 **Microcalcificación**
 Depósito pequeño de calcio en el seno que no se puede sentir, pero que se puede detectar en una mamografía. Un conglomerado de estas partículas muy pequeñas del calcio puede indicar la presencia de cáncer.

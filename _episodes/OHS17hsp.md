@@ -5,14 +5,14 @@ layout: lesson
 
 El estrés es una parte natural de nuestras vidas diarias. Cuando enfrenta una situación estresante, su pulso se acelera, respira más rápido, los músculos se tensan y el cerebro usa más oxígeno. 
 
-Consejos para Manejar el Estrés:
+Consejos para manejar el estrés:
 
 * Sea más organizada, haga un calendario/horario con las cosas que debe hacer.
 * Use un planeador diario para mantener un seguimiento de sus citas y actividades
 * Cuando programe actividades, asigne tiempo suficiente para acabar con una actividad antes de empezar la siguiente
 * Programe descansos entre sus actividades
 * Cuente en su calendario el tiempo que le toma para llegar a un determinado sitio 
-* Establece prioridades. Escriba una lista de las tareas que tienes que hacer y organícelas en orden de importancia, considerando la importancia en términos de la vida diaria, pero también en términos de importancia personal para usted.  
+* Establezca prioridades. Escriba una lista de las tareas que tienes que hacer y organícelas en orden de importancia, considerando la importancia en términos de la vida diaria, pero también en términos de importancia personal para usted.  
 * Aprende a decir no a nuevas tareas – practique decir “no” con anticipación. Si decir “no” le es difícil, pregúntele a la persona que le está pidiendo ayuda qué puede ella hacer.  Por ejemplo, empezar la tarea para alguien más o hacer una parte la tarea. 
 * Concéntrese en las cosas que puede controlar y evite dedicar tiempo a los problemas que no puede controlar. Algunas veces el único aspecto que usted puede controlar de un problema, es cómo reacciona al problema. Aprenda cómo sentirse bien con eso.
 * Recuérdese las cosas que ha hecho, y no las cosas que no has hecho. Divida las tareas en pasos pequeños; es más fácil ver el progreso que usted está teniendo cuando puede chequear como cumplidas las partes de la tarea que ha hecho. 

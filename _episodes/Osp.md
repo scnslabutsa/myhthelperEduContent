@@ -9,7 +9,7 @@ layout: lesson
 Médico que tiene una formación especial para diagnosticar y tratar el cáncer. Algunos oncólogos se especializan en un tipo particular de tratamiento del cáncer. Por ejemplo, un radio-oncólogo se especializa en tratar el cáncer con radiación.
 
 **Oncólogo Médico**
-Médico que tiene una formación especial para diagnosticar y tratar el cáncer en adultos mediante quimioterapia, terapia con hormonas, terapia biológica y terapia dirigida. A menudo, un oncólogo médico es el proveedor principal de atención de la salud de alguien que padece de cáncer. Un oncólogo médico también brinda cuidados médicos de apoyo y puede coordinar el tratamiento administrado por otros especialistas. También se llama oncólogo clínico.
+Médico que tiene una formación especial para diagnosticar y tratar el cáncer en adultos mediante quimioterapia, terapia con hormonas, terapia biológica y terapia dirigida. A menudo, un oncólogo médico es el proveedor principal de atención de la salud de alguien que tiene cáncer. Un oncólogo médico también brinda cuidados médicos de apoyo y puede coordinar el tratamiento administrado por otros especialistas. También se llama oncólogo clínico.
 
 **Oncólogo Radiólogo**
 Un doctor que tiene un entrenamiento especial para tratar el cáncer usando radiación.

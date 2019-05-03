@@ -39,10 +39,7 @@ Una silicona de forma sólida de grado médico, usada para los implantes de seno
 Nombres oficiales que no son marcas por los cuales se conocen los medicamentos. Los nombres genéricos suelen hacer referencia al nombre químico del medicamento.
 
 **Genético**
-Relacionado con los genes. La mayoría de los genes son secuencias de ADN que contienen información para producir moléculas de ARN o proteínas específicas que tienen funciones importantes en una célula. La información en los genes pasa de padres a hijos. A veces, ciertos cambios en los genes afectan el riesgo de una persona de enfermar; por ejemplo, de cáncer. Estos cambios se pueden heredar o se pueden presentar con la edad o la exposición a factores ambientales como la alimentación, el ejercicio, los medicamentos y las sustancias químicas.
-
-**Genético**
-Relacionado con los genes. La mayoría de los genes son secuencias de ADN que contienen información para producir moléculas de ARN o proteínas específicas que tienen funciones importantes en una célula. La información en los genes pasa de padres a hijos. A veces, ciertos cambios en los genes afectan el riesgo de una persona de enfermar; por ejemplo, de cáncer. Estos cambios se pueden heredar o se pueden presentar con la edad o la exposición a factores ambientales como la alimentación, el ejercicio, los medicamentos y las sustancias químicas.
+Relacionado con los genes. La mayoría de los genes son secuencias de ADN que contienen información para producir moléculas de ARN o proteínas específicas que tienen funciones importantes en una célula. La información en los genes pasa de padres a hijos. A veces, ciertos cambios en los genes afectan el riesgo en una persona de tener una enfermedad; por ejemplo, riesgo de tener cáncer. Estos cambios se pueden heredar o se pueden presentar con la edad o la exposición a factores ambientales como la alimentación, el ejercicio, los medicamentos y las sustancias químicas.
 
 **Genoma**
 El conjunto completo de ADN (material genético) en un organismo. 
@@ -53,11 +50,8 @@ El conjunto completo de ADN (material genético) en un organismo.
 **Glándula Pituitaria**
 Una parte del cerebro que controla el crecimiento y a otras glándulas del cuerpo, como los ovarios.
 
-**Grado**
+**Grado o Grado del Tumor**
 En el ámbito del cáncer, es la descripción de un tumor según cuán anormales se vean las células y los tejidos cancerosos al microscopio y con qué rapidez es posible que las células cancerosas se multipliquen y diseminen. Las células cancerosas de grado bajo tienen un aspecto más parecido al de las células normales y tienden a multiplicarse y diseminarse más lentamente que las células cancerosas de grado alto. Los sistemas de clasificación para cada tipo de cáncer son diferentes. Se usan para ayudar a planificar el tratamiento y determinar el pronóstico. También se llama grado del tumor y grado histológico.
-
-**Grado Del Tumor**
-Descripción de un tumor según cuán anormales se vean las células y los tejidos cancerosos al microscopio y con qué rapidez es posible que las células cancerosas se multipliquen y diseminen. Las células cancerosas de grado bajo tienen un aspecto más parecido al de las células normales y tienden a multiplicarse y diseminarse más lentamente que las células cancerosas de grado alto. Los sistemas de clasificación para cada tipo de cáncer son diferentes. Se usan para ayudar a planificar el tratamiento y determinar el pronóstico. También se llama grado y grado histológico.
 
 
 <!--a href="#top">Volver arriba</a-->

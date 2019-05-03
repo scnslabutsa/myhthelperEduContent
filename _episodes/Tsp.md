@@ -6,7 +6,7 @@ layout: lesson
 <a name="top"></a>
 
 **Tamoxifeno (Citrato De Tamoxifeno)**
-Medicamento que se usa para tratar ciertos tipos de cáncer de seno en mujeres y hombres. Asimismo, se usa para prevenir el cáncer de seno en las mujeres que padecieron de carcinoma ductal in situ (células anormales en los conductos del seno) y que tienen un riesgo alto de contraer cáncer de seno. El tamoxifeno también está en estudio para el tratamiento de otros tipos de cáncer. Bloquea los efectos de la hormona estrógeno en el seno. El tamoxifeno es un tipo de antiestrógeno. También se llama citrato de tamoxifeno.
+Medicamento que se usa para tratar ciertos tipos de cáncer de seno en mujeres y hombres. Asimismo, se usa para prevenir el cáncer de seno en las mujeres con carcinoma ductal in situ (células anormales en los conductos del seno) y que tienen un riesgo alto de tener cáncer de seno. El tamoxifeno también está en estudio para el tratamiento de otros tipos de cáncer. El tamoxifeno bloquea los efectos de la hormona estrógeno en el seno. El tamoxifeno es un tipo de antiestrógeno. También se llama citrato de tamoxifeno.
 
 **Tasa relativa de supervivencia**
 Forma de comparar la supervivencia de personas que padecen de una enfermedad específica con aquellas que no la padecen. Este generalmente es de 5 años desde la fecha del diagnóstico o el principio del tratamiento de aquellos con la enfermedad. Se calcula dividiendo el porcentaje de pacientes con la enfermedad que todavía están vivos al final del período por el porcentaje de personas de la población general del mismo sexo y edad que están vivas al final del mismo período. La tasa relativa de supervivencia muestra si la enfermedad acorta la vida.
@@ -30,7 +30,7 @@ El tratamiento que se administra después del tratamiento principal para reducir
 Muchos pacientes buscan terapia alternativa y complementaria durante y después de recibir atención médica para el cáncer. Estas terapias, que incluyen enfoques muy variados desde acupuntura y medicina herbal hasta oraciones religiosas, ofrecen a los pacientes la oportunidad de probar terapias aparte de la atención médica estándar. Dichas terapias pueden mejorar la calidad de vida y aliviar los síntomas relacionados con el tratamiento y la enfermedad misma.
 
 **Terapia Biológica**
-Tipo de tratamiento para el que se usan sustancias elaboradas por organismos vivos para tratar enfermedades. El cuerpo puede elaborar estas sustancias de forma natural o se producen en un laboratorio. Algunas terapias biológicas estimulan o inhiben el sistema inmunitario para ayudar al cuerpo a combatir el cáncer, las infecciones y otras enfermedades. Otras terapias biológicas atacan células cancerosas específicas y pueden impedir su crecimiento o destruirlas. También disminuyen algunos efectos secundarios de ciertos tratamientos del cáncer. Los tipos de terapia biológica son la inmunoterapia (como las vacunas, las citocinas y algunos anticuerpos), la terapia génica y algunas terapias dirigidas. También se llama bioterapia, terapia modificadora de la respuesta biológica, y terapia MRB.
+Tipo de tratamiento en el que se usan sustancias elaboradas por organismos vivos para tratar enfermedades. El cuerpo puede elaborar estas sustancias de forma natural o se producen en un laboratorio. Algunas terapias biológicas estimulan o inhiben el sistema inmunitario para ayudar al cuerpo a combatir el cáncer, las infecciones y otras enfermedades. Otras terapias biológicas atacan células cancerosas específicas y pueden impedir su crecimiento o destruirlas. También disminuyen algunos efectos secundarios de ciertos tratamientos del cáncer. Los tipos de terapia biológica son la inmunoterapia (como las vacunas, las citocinas y algunos anticuerpos), la terapia génica y algunas terapias dirigidas. También se llama bioterapia, terapia modificadora de la respuesta biológica, y terapia MRB.
 
 **Terapias Complementarias (Terapias Integrativas)**
 Terapias (como la acupuntura o los masajes) usadas en adición a los tratamientos médicos estándar. Las terapias complementarias no se usan para tratar el cáncer, pero pueden mejorar la calidad de vida de los pacientes y aliviar algunos de los efectos secundarios del tratamiento de cáncer.  Cuando las terapias complementarias se combinan con el cuidado de salud estándar, generalmente se llaman terapias integrativas. 
@@ -50,7 +50,7 @@ Uso de radiación de alta energía proveniente de rayos X, rayos gamma, neutrone
 **Terapia de Radiación con Rayo Externo (ver Radioterapia)**
 
 **Terapia Dirigida**
-Tipo de tratamiento en el que se usan medicamentos u otras sustancias para identificar y combatir tipos específicos de células cancerosas y que causa menos daño a las células normales. Algunas terapias dirigidas impiden la acción de ciertas enzimas, proteínas u otras moléculas que participan en el crecimiento y diseminación de las células cancerosas. Otros tipos de terapia dirigida ayudan al sistema inmunitario a destruir las células cancerosas o a llevar sustancias tóxicas directamente a estas y destruirlas. La terapia dirigida puede producir menos efectos secundarios que otros tipos de tratamiento del cáncer. La mayoría de terapias dirigidas son medicamentos de moléculas pequeñas o anticuerpos monoclonales.
+Tipo de tratamiento en el que se usan medicamentos u otras sustancias para identificar y combatir tipos específicos de células cancerosas y que causa menos daño a las células normales. Algunas terapias dirigidas impiden la acción de ciertas enzimas, proteínas u otras moléculas que participan en el crecimiento y diseminación de las células cancerosas. Otros tipos de terapia dirigida ayudan al sistema inmunitario a destruir las células cancerosas o a llevar sustancias tóxicas directamente a éstas y destruirlas. La terapia dirigida puede producir menos efectos secundarios que otros tipos de tratamiento del cáncer. La mayoría de las terapias dirigidas son medicamentos de moléculas pequeñas o anticuerpos monoclonales.
 
 **Terapia Hormonal (Terapia Endocrina)**
 Tratamiento que agrega, bloquea o extrae hormonas. Para ciertos trastornos (como la diabetes o la menopausia), se administran hormonas para ajustar las concentraciones bajas de hormonas. Las hormonas hacen que ciertos cánceres crezcan (como el cáncer de próstata o de seno). Es posible que se administren hormonas u otros medicamentos para bloquear las hormonas naturales del cuerpo y de esta manera demorar o impedir el crecimiento de un cáncer. A veces, se necesita una cirugía para extirpar la glándula que produce cierta hormona. También se llama terapia con hormonas, terapia hormonal, y tratamiento con hormonas.
@@ -79,8 +79,8 @@ En el campo de la medicina, procedimiento en el que se usa una cámara infrarroj
 **Tinción Hematocilina-Eosina**
 Un examen de laboratorio que le da color a las estructuras celulares para que puedan identificarse. 
 
-**Tomografía Con Emisión De Positrones (Tomografía Computarizada)**
-Procedimiento para el que se combinan imágenes de una tomografía con emisión de positrones (TEP) con una tomografía computarizada (TC). Las TEP y TC se realizan al mismo tiempo con el mismo aparato. Esta combinación produce imágenes más detalladas de áreas del interior del cuerpo que la de cada exploración por separado. Una tomografía con emisión de positrones-tomografía computarizada sirve para diagnosticar una enfermedad como el cáncer, planificar un tratamiento o verificar si el tratamiento es eficaz. También se llama TEP-TC.
+**Tomografía con Emisión de Positrones (Tomografía Computarizada)**
+Procedimiento en el que se combinan imágenes de una tomografía con emisión de positrones (TEP) con una tomografía computarizada (TC). Las TEP y TC se realizan al mismo tiempo con el mismo aparato. Esta combinación produce imágenes más detalladas de áreas del interior del cuerpo que la de cada exploración por separado. Una tomografía con emisión de positrones y tomografía computarizada sirve para diagnosticar una enfermedad como el cáncer, planificar un tratamiento o verificar si el tratamiento es eficaz. También se llama TEP-TC.
 
 **Tomosíntesis del Seno**
 Procedimiento en el que se usan rayos X para tomar una serie de imágenes del interior del seno desde ángulos diferentes. Se usa una computadora para crear imágenes tridimensionales del seno usando rayos X. La tomosíntesis del seno se usa para verificar si hay cáncer de seno u otros cambios en el seno, como masas anormales, quistes o calcificaciones (depósitos de calcio). Es posible que permita a los médicos observar el tejido del seno, incluso el tejido denso, de manera más clara que la mamografía bidimensional. Esto hace que sea más fácil encontrar tumores u otros cambios del seno. También se llama mamografía 3D y mamografía tridimensional.
@@ -91,13 +91,14 @@ Forma de medicina complementaria y alternativa que se basa en la creencia de que
 **Trastuzumab**
 Medicamento que se usa para tratar el cáncer de seno que es positivo al HER2 (expresa el receptor 2 del factor de crecimiento epidérmico humano). También se usa con otros medicamentos para tratar el cáncer de estómago que es positivo al HER2, que todavía no fue tratado y se diseminó hasta otras partes del cuerpo. Está en estudio para el tratamiento de otros tipos de cáncer. El trastuzumab se une al HER2 en la superficie de las células cancerosas que son positivas al HER y las destruye. Es un tipo de anticuerpo monoclonal. También se llama Herceptin y Ogivri.
 
-**Tratamiento Estándar (Estándar De Atención, Tratamiento De Referencia)**
+**Tratamiento Estándar (Estándar de Atención, Tratamiento de Referencia)**
 Tratamiento que los expertos en medicina aceptan como apropiado para determinado tipo de enfermedad y que los profesionales de la salud usan de manera amplia. También se llama atención médica estándar, estándar de atención, y tratamiento de referencia.
 
 **Tratamiento Local**
 Tratamiento que se dirige a un órgano específico o un área limitada del cuerpo, como el seno o un crecimiento anormal en la piel. Los siguientes son ejemplos de tratamientos locales que se usan para tratar el cáncer: cirugía, radioterapia, crioterapia, terapia láser y terapia tópica (medicamento en una loción o crema que se aplica sobre la piel).
-Tratamiento Sistémico (Adyuvante)
-Tratamiento que se da en adición a la cirugía y la radiación para tratar el cáncer de seno que puede haberse diseminado a otras partes del cuerpo. Puede incluir quimioterapia, terapia dirigida y/o terapia hormonal.
+
+**Tratamiento Sistémico (Adyuvante)**
+Tratamiento que se da en adición a la cirugía y a la radiación para tratar el cáncer de seno que puede haberse diseminado a otras partes del cuerpo. Puede incluir quimioterapia, terapia dirigida y/o terapia hormonal.
 
 **Tumor**
 Masa anormal de tejido que resulta cuando las células se multiplican más de lo debido o no mueren cuando debieran. Los tumores pueden ser benignos (no cancerosos) o malignos (cancerosos). También se llama neoplasia.
@@ -106,7 +107,7 @@ Masa anormal de tejido que resulta cuando las células se multiplican más de lo
 Tipo de tumor que se encuentra en el tejido del seno o la próstata. Con frecuencia, es grande y abultado, y de crecimiento rápido. Puede ser benigno (no canceroso) o maligno (canceroso), y se puede diseminar hasta otras partes del cuerpo. También se llama cistosarcoma filoides y CSF.
 
 **Tumor Primario**
-Término que se usa para describir el tumor original o primero en el cuerpo. Las células cancerosas de un tumor primario se pueden diseminar a otras partes del cuerpo y formar tumores nuevos o secundarios. Esto se llama metástasis. Estos tumores secundarios son el mismo tipo de cáncer que el tumor primario. También se llama cáncer primario.
+Término que se usa para describir el tumor original o primer tumor en el cuerpo. Las células cancerosas de un tumor primario se pueden diseminar a otras partes del cuerpo y formar tumores nuevos o secundarios. Esto se llama metástasis. Estos tumores secundarios son el mismo tipo de cáncer que el tumor primario. También se llama cáncer primario.
 
 
 <!--a href="#top">Volver arriba</a-->

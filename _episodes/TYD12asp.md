@@ -5,9 +5,9 @@ layout: lesson
 
 Nadie conoce su cuerpo mejor que usted misma. Ni su pareja, ni su familia, ni siquiera su doctor.
 
-Cuando hable con cualquier medico sobre su salud, recuerde que usted tiene información importante que ellos pueden usar. Usted conoce los cambios que tiene su cuerpo y cualquier problema que pueda estar teniendo. Comparta esa información. La comunicación honesta y abierta entre usted y su doctor es una de las mejores maneras de asegurarse que usted reciba la atención médica que necesita.
+Cuando hable con cualquier doctor sobre su salud, recuerde que usted tiene información importante que ellos pueden usar. Usted conoce los cambios que tiene su cuerpo y cualquier problema que pueda estar teniendo. Comparta esa información. La comunicación honesta y abierta entre usted y su doctor es una de las mejores maneras de asegurarse que usted reciba la atención médica que necesita.
 
-* Este preparada. Con frecuencia es útil reunir información sobre sus preocupaciones de salud – de la biblioteca (libros y revistas médicas), de sitios confiables de Internet, o hojas informativas como las que ofrece Komen. Entre más sepa, más cómoda se sentirá al hablar con su doctor.
+* Esté preparada. Con frecuencia es útil reunir información sobre sus preocupaciones de salud – de la biblioteca (libros y revistas médicas), de sitios confiables de Internet, o hojas informativas como las que ofrece Komen. Entre más sepa, más cómoda se sentirá al hablar con su doctor.
 
 * Organice sus preguntas con anticipación. Usted debe ser capaz de hablar abierta y honestamente con su doctor sobre el cáncer de seno, para asegurarse de que todas sus preguntas sean respondidas. 
 
@@ -19,8 +19,3 @@ Cuando hable con cualquier medico sobre su salud, recuerde que usted tiene infor
 
 * Los doctores son como cualquier otra persona, ellos quieren hacer bien su trabajo. Eso significa hacer todo lo que esté a su alcance para ayudarla a mejorarse. Recuerde, los doctores pueden saber mucho sobre el cáncer de seno, pero en realidad podrían no entender o no darse cuenta por todo lo que usted está pasando. Comparta sus sentimientos e inquietudes con su doctor para que él pueda ayudarla.
 
-**Fuentes:**
-
-<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Questions to Ask Your Health Care Team.</span>
-
-<span style="font-size:15px;">Susan G. Komen, 2017. Facts for life: talking with your doctor.</span>

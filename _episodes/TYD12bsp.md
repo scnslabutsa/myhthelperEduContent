@@ -5,7 +5,7 @@ layout: lesson
 
 * ¿Por qué necesito terapia hormonal?
 
-* ¿Qué pruebas se hicieron en mi tumor? ¿Cuál fue el resultado del receptor de estrógeno y del receptor progesterona de mi tumor? ¿Cómo afecta este resultado mi plan de tratamiento?
+* ¿Qué pruebas se hicieron en mi tumor? ¿Cuál fue el resultado del receptor de estrógeno y del receptor de progesterona de mi tumor? ¿Cómo afecta este resultado mi plan de tratamiento?
 
 * ¿Qué terapia hormonal me recomienda y por qué?
 
@@ -58,3 +58,10 @@ layout: lesson
 * ¿Dónde puedo encontrar un grupo de apoyo para personas con cáncer de seno (o cáncer en general)?
 
 * ¿Qué debo considerar antes del tratamiento si quisiera tener un hijo después de haber recibido tratamiento para el cáncer de seno?
+
+
+**Fuentes:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Questions to Ask Your Health Care Team.</span>
+
+<span style="font-size:15px;">Susan G. Komen, 2017. Facts for life: talking with your doctor.</span>

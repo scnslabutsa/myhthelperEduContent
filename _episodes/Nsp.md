@@ -3,12 +3,10 @@ layout: lesson
 <!---title: N--->
 ---
 
-#N
-
 <a name="top"></a>
 
 **Naturoterapia** 
-Sistema de prevención de enfermedades que también sirve como tratamiento, que evita el uso de medicamentos y cirugía. La naturoterapia se basa en el uso de sustancias naturales como el aire, el agua, la luz, el calor y el masaje para ayudar al cuerpo a curarse. También usa productos herbarios, nutrición, acupuntura y aromatoterapia como formas de tratamiento.
+Sistema de prevención de enfermedades que también sirve como tratamiento, que evita el uso de medicamentos y cirugía. La naturoterapia se basa en el uso de sustancias naturales como el aire, el agua, la luz, el calor y el masaje para ayudar al cuerpo a curarse. También usa productos a base de hierbas, nutrición, acupuntura y aromatoterapia como formas de tratamiento.
 
 **Necrosis grasa** 
 Afección benigna por la que el tejido adiposo del seno u otros órganos se daña por una lesión, cirugía o radioterapia. El tejido adiposo del seno puede ser reemplazado por un quiste o por tejido cicatrizal, que se puede palpar como una masa redonda y firme. La piel alrededor de la masa puede tener aspecto rojo, magullado o con hoyuelos.

@@ -6,13 +6,13 @@ layout: lesson
 <a name="top"></a>
 
 **Factor De Riesgo**
-Algo que puede aumentar la probabilidad de padecer de una enfermedad. Algunos ejemplos de factores de riesgo para el cáncer son: edad, antecedentes familiares de ciertos cánceres, consumo de productos del tabaco, exposición a la radiación u otras sustancias químicas, infecciones por ciertos virus o bacterias, y ciertos cambios genéticos.
+Algo que puede aumentar la probabilidad de tener una enfermedad. Algunos ejemplos de factores de riesgo para el cáncer son: edad, antecedentes familiares de ciertos cánceres, consumo de tabaco, exposición a la radiación u otras sustancias químicas, exposición la radiación solar, consumo excesivo de alcohol, infecciones con ciertos virus o bacterias, y ciertos cambios genéticos.
 
 **Factor Predictivo**
-Afección u observación que ayuda a predecir si el cáncer de una persona responderá a un tratamiento específico. Un factor predictivo (predisponente) también puede describir algo que aumenta el riesgo de una persona de presentar una afección o enfermedad.
+Observación que ayuda a predecir si el cáncer de una persona responderá a un tratamiento específico. Un factor predictivo (predisponente) también puede describir algo que aumenta el riesgo de una persona de presentar una enfermedad.
 
 **Factor Pronóstico**
-Situación, afección o característica del paciente que puede usarse para calcular la probabilidad de recuperación de una enfermedad o la probabilidad de que la enfermedad vuelva a aparecer.
+Situación, enfermedad, afección o característica del paciente que puede usarse para calcular la probabilidad de recuperación de una enfermedad o la probabilidad de que la enfermedad vuelva a aparecer.
 
 **Falso Negativo**
 Resultado de una prueba que indica que una persona no tiene una enfermedad o afección determinada cuando, en realidad, la tiene.
@@ -30,7 +30,7 @@ Estudio del modo en que los genes de una persona afectan la manera en que respon
 Constituye los rasgos observables de un individuo, tales como la altura, el color de ojos, y el grupo sanguíneo. La contribución genética al fenotipo se llama genotipo. Algunos rasgos son determinados en gran medida por el genotipo, mientras que otros rasgos están determinados en gran medida por factores ambientales.
 
 **Fibroadenoma**
-Tumor benigno (no canceroso) que, por lo general, se forma tanto en el tejido fibroso como glandular del seno. Los fibroadenomas son los tumores benignos del seno más comunes.
+Tumor benigno (no canceroso) que, por lo general, se forma tanto en el tejido fibroso como en el tejido glandular del seno. Los fibroadenomas son los tumores benignos más comunes del seno.
 
 **Función Cognitiva**
 Procesos mentales relacionados con el entendimiento, tales como razonamiento y solución de problemas.

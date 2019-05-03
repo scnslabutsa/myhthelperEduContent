@@ -30,7 +30,7 @@ Extracción de una muestra de tejido mediante una aguja ancha para observarla ba
 Extracción y examen de uno o varios ganglios centinelas, que son los primeros ganglios linfáticos a los que es probable que las células cancerosas se diseminen desde el tumor primario. Para identificar los ganglios linfáticos centinelas, el cirujano inyecta una sustancia radiactiva, un tinte azul o ambos cerca del tumor. A continuación, el cirujano usa sonda para encontrar los ganglios linfáticos centinela teñidos con el tinte. Luego, el cirujano extrae los ganglios centinelas para determinar si tienen células cancerosas.
 
 **Biopsia Excisional**
-Procedimiento quirúrgico que remueve toda el área anormal (mas algo de tejido normal circundante) del seno.
+Procedimiento quirúrgico que remueve toda el área anormal (más algo del tejido normal circundante) del seno.
 
 **Biopsia por Incisión (Biopsia Incisional)** 
 Procedimiento quirúrgico en el que se extirpa una parte de un nódulo o un área sospechosa para realizar un diagnóstico. Luego, el tejido se examina bajo un microscopio para verificar si hay signos de enfermedad.

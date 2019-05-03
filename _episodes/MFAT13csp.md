@@ -11,3 +11,6 @@ Lo crea usted o no, puede llegar el día en que ya no se preocupe por el cáncer
 
 A veces hay grupos de apoyo para personas en etapas específicas de la enfermedad o la recuperación. Puede encontrar grupos que son manejados por sobrevivientes de cáncer de seno. Estos grupos pueden ser una fuente de ayuda, de información y de apoyo.
 
+**Fuente:**
+
+<span style="font-size:15px;">American Cancer Society, 2017. Living as a breast cancer survivor: follow up care after breast cancer treatment</span>

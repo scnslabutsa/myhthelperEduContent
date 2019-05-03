@@ -7,7 +7,7 @@ La ansiedad puede ser sensaciones de nerviosismo, sentir como que algo está a p
 
 Hay diferentes maneras para enfrentar la ansiedad. Algunas formas pueden funcionar para usted, y otras no. Inténtelas y hable con su doctor o un consejero profesional para encontrar las mejores opciones para usted. 
 
-* **Técnicas de relajación.** Cualesquiera de estas técnicas pueden usarse sola o en combinación con otros tipos de tratamiento.
+* **Técnicas de relajación.** Cualquiera de estas técnicas puede usarse sola o en combinación con otros tipos de tratamiento.
     - Respiración profunda. Es una técnica que involucra respirar profundamente, contener la respiración por unos pocos segundos, y lentamente exhalar la respiración. 
     - Relajación muscular progresiva. Es una técnica que involucra la contracción y luego la relajación de todos los músculos de su cuerpo siguiendo cierto orden. 
     - Imágenes dirigidas. Esta técnica usa palabras y sonidos para ayudarle a imaginar escenarios, experiencias y sensaciones positivos. 
@@ -19,6 +19,6 @@ Hay diferentes maneras para enfrentar la ansiedad. Algunas formas pueden funcion
 
 * **Medicamentos.** Si sus síntomas de ansiedad son moderados o severos (en otras palabras, están interfiriendo con su vida diaria), es posible que los medicamentos la ayuden. Existen diferentes tipos de medicamentos disponibles y su doctor elegirá cuidadosamente los adecuados para usted, con base en sus necesidades, los efectos secundarios posibles, otros medicamentos que usted este tomando y su historia médica. 
 
-**Fuentes:**
+**Fuente:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2017. Anxiety.</span>

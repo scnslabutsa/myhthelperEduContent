@@ -6,10 +6,10 @@ layout: lesson
 <a name="top"></a>
 
 **Ecografía**
-Procedimiento en el que se usan ondas de sonido de alta energía para observar los tejidos y órganos del cuerpo. Las ondas de sonido crean ecos que formas imágenes de los tejidos y órganos en una pantalla de computadora (ecograma). La ecografía se puede usar para ayudar a diagnosticar enfermedades, como el cáncer. También se puede usar durante el embarazo para revisar el feto (bebé que no ha nacido) y durante procedimientos médicos, como biopsias. También se llama ultrasonografía.
+Procedimiento en el que se usan ondas de sonido de alta energía para observar los tejidos y órganos del cuerpo. Las ondas de sonido crean ecos que formas imágenes de los tejidos y órganos en una pantalla de computador (ecograma). La ecografía se puede usar para ayudar a diagnosticar enfermedades, como el cáncer. También se puede usar durante el embarazo para revisar el feto (bebé que no ha nacido) y durante procedimientos médicos, como biopsias. También se llama ultrasonografía.
 
 **Ectasia de Conducto Mamario**
-Afección benigna (no cancerosa) por la que un conducto galactóforo debajo del pezón se ensancha y engrosa. Esto puede hacer que este conducto se bloquee y se acumule líquido en su interior. Por lo general, no produce síntomas, pero, a veces, sale secreción espesa del pezón, o hay enrojecimiento o sensibilidad del pezón y del tejido mamario cercano. La ectasia de conducto mamario es más común en las mujeres que se acercan a la menopausia o pasaron por ella. También se llama ectasia ductal.
+Afección benigna (no cancerosa) por la que un conducto galactóforo debajo del pezón se ensancha y engrosa. Esto puede hacer que este conducto se bloquee y se acumule líquido en su interior. Por lo general, no produce síntomas, pero a veces, sale secreción espesa del pezón, o hay enrojecimiento o sensibilidad del pezón y del tejido mamario cercano. La ectasia de conducto mamario es más común en las mujeres que se acercan a la menopausia o pasaron por ella. También se llama ectasia ductal.
 
 **Edema**
 Hinchazón causada por el exceso de líquido en los tejidos del cuerpo.
@@ -18,7 +18,7 @@ Hinchazón causada por el exceso de líquido en los tejidos del cuerpo.
 Afección en la que se encuentran células anormales en el pezón. Los síntomas generalmente incluyen picazón y sensación de ardor, y una afección similar a un eccema alrededor del pezón. También, el pezón puede supurar o sangrar.
 
 **Ensayos Clínicos o Estudios Clínicos**
-Tipo de estudio de investigación en el que se comprueba si un abordaje médico nuevo funciona bien en las personas. En estos estudios se prueban nuevos métodos de detección, prevención, diagnóstico o tratamiento de una enfermedad. También se llama estudio clínico.
+Tipo de estudio de investigación en el que se comprueba si un abordaje médico nuevo funciona bien en las personas. En estos estudios se prueban nuevos métodos de detección, prevención, diagnóstico o tratamiento de una enfermedad.
 
 **Enzima**
 Proteína que acelera las reacciones químicas en el cuerpo.
@@ -52,7 +52,7 @@ Tipo de hormona producida por el cuerpo que ayuda a desarrollar y mantener carac
 Causa u origen de una enfermedad.
 
 **Examen Clínico del Seno**
-Examen físico del seno realizado por un proveedor de atención de la salud para verificar la presencia de nódulos u otros cambios. También se llama ECM.
+Examen físico del seno realizado por un profesional de salud para verificar la presencia de nódulos u otros cambios. También se llama ECM.
 
 **Expresión de un Gen (Expresión Génica)**
 Proceso por el cual un gen se activa en una célula para elaborar ARN y proteínas. 

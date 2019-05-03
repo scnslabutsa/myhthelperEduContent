@@ -9,7 +9,7 @@ layout: lesson
 Uso de medicamentos, vitaminas u otros fármacos para tratar de reducir el riesgo de cáncer, retardarlo o evitar que retorne.
 
 **Quimioterapia**
-Tratamiento con medicamentos para interrumpir la formación de células cancerosas, ya sea mediante su destrucción o al impedir su multiplicación. La quimioterapia se administra por la boca, en inyección, por infusión o sobre la piel, según el tipo de cáncer y el estadio en que este se encuentra. Se administra sola o con otros tratamientos como cirugía, radioterapia o terapia biológica.
+Tratamiento con medicamentos para interrumpir la formación de células cancerosas, ya sea mediante su destrucción o al impedir su multiplicación. La quimioterapia se administra oralmente (pastillas), en inyección, por infusión o sobre la piel, según el tipo de cáncer y el estadío (etapa) en que este se encuentra. Se administra sola o con otros tratamientos como cirugía, radioterapia o terapia biológica.
 
 **Quimioterapia Neoadyuvante (Quimioterapia de Inducción, Quimioterapia Primaria, Quimioterapia Prequirúrgica)**
 Quimioterapia que se administra como primer paso para reducir el tamaño del tumor antes del tratamiento principal que generalmente consiste en cirugía. 

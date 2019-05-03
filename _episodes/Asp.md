@@ -12,7 +12,7 @@ Influencia dirigida a ciertas audiencias para promover el apoyo de los asuntos r
 Técnica que consiste en introducir agujas finas en puntos específicos de la piel del cuerpo para controlar el dolor y otros síntomas. Se la considera un tipo de medicina complementaria y alternativa.
  
 **Adenosis Esclerosante** 
-Masas del seno pequeñas y benigna (no cancerosas) causadas por un agrandamiento de los lóbulos. Las masas se pueden palpar y pueden ser dolorosas.
+Masas del seno pequeñas y benignas (no cancerosas) causadas por un agrandamiento de los lóbulos. Las masas se pueden palpar y pueden ser dolorosas.
 
 **ADN** 
 Moléculas del interior de las células que contienen información genética y la transmiten de una generación a otra. También se llama ácido desoxirribonucleico.

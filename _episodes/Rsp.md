@@ -17,7 +17,7 @@ Uso de radiación de alta energía proveniente de rayos X, rayos gamma, neutrone
 **Raloxifeno**
 Ingrediente activo de un medicamento que se usa para reducir el riesgo de cáncer de seno invasivo en las mujeres posmenopáusicas que corren un riesgo alto de desarrollar la enfermedad o que padecen de osteoporosis. También se usa para prevenir y tratar la osteoporosis en las mujeres posmenopáusicas. Asimismo, se usa para prevenir el cáncer de seno en ciertas mujeres premenopáusicas, y para prevenir y tratar otras afecciones. El raloxifeno bloquea los efectos de la hormona estrógeno en el seno y aumenta la cantidad de calcio en los huesos. Es un tipo de modulador selectivo del receptor de estrógeno (MSRE).
 
-**Rayo X**
+**Rayos X**
 Tipo de radiación que se usa para el diagnóstico y el tratamiento de cáncer y otras enfermedades. Cuando se aplican en dosis bajas, los rayos X se usan para diagnosticar enfermedades mediante la creación de imágenes del interior del cuerpo. Cuando se aplican en dosis altas, los rayos X se usan para tratar el cáncer.
 
 **Receptor de la Progesterona**
@@ -57,10 +57,10 @@ Ausencia de todos los signos de cáncer en muestras de tejido obtenidas durante 
 La probabilidad (chance) de que una persona desarrolle una enfermedad durante un periodo especifico de tiempo.
 
 **Riesgo de Por Vida**
-Medición del riesgo de que cierta situación ocurra durante la vida de una persona. En el campo de la investigación del cáncer, se define como la probabilidad de que una persona que está libre de un cierto tipo de cáncer contraerá ese tipo de cáncer durante su vida y morirá por el mismo. Por ejemplo, una mujer sin los factores de riesgo conocidos de cáncer de seno tiene un riesgo de por vida de contraer cáncer de seno de cerca de 12%. Esto significa que 1 de cada 8 mujeres contraerá cáncer de seno durante su vida.
+Medición del riesgo de que cierta situación ocurra durante la vida de una persona. En el campo de la investigación del cáncer, se define como la probabilidad de que una persona que está libre de un cierto tipo de cáncer tenga ese tipo de cáncer durante su vida y muera por el mismo. Por ejemplo, una mujer sin los factores de riesgo conocidos de cáncer de seno tiene un riesgo de por vida de tener cáncer de seno de aproximadamente el 12%. Esto significa que 1 de cada 8 mujeres contraerá cáncer de seno durante su vida.
 
 **Riesgo Relativo**
-Medida del riesgo de que cierta situación suceda en un grupo en comparación con el riesgo de que la misma situación suceda en otro grupo. En el campo de la investigación del cáncer, el riesgo relativo se usa en los estudios prospectivos (mirada hacia adelante), tales como los estudios de cohorte y los ensayos clínicos. Un riesgo relativo igual a 1 significa que no hay ninguna diferencia entre dos grupos en cuanto a su riesgo de contraer cáncer, sobre la base de si estuvieron o no estuvieron expuestos a una sustancia o factor determinados, o sobre la base de cómo respondieron a dos tratamientos que se comparan. Un riesgo relativo mayor que 1 o menor que 1 significa por lo general significa que la exposición a cierta sustancia o factor determinados aumenta (riesgo relativo mayor de 1) o disminuye (riesgo relativo menor de uno) el riesgo de contraer cáncer, o que los tratamientos que se comparan no tienen los mismos efectos. También se llama cociente de riesgos.
+Medida del riesgo de que cierta situación suceda en un grupo en comparación con el riesgo de que la misma situación suceda en otro grupo. En el campo de la investigación del cáncer, el riesgo relativo se usa en los estudios prospectivos (mirada hacia adelante), tales como los estudios de cohorte y los estudios clínicos. Un riesgo relativo igual a 1 significa que no hay ninguna diferencia entre dos grupos en cuanto a su riesgo de tener cáncer, sobre la base de si estuvieron o no estuvieron expuestos a una sustancia o factor determinados, o sobre la base de cómo respondieron a dos tratamientos que se comparan. Un riesgo relativo mayor que 1 o menor que 1 significa por lo general significa que la exposición a cierta sustancia o factor determinados aumenta (riesgo relativo mayor de 1) o disminuye (riesgo relativo menor de uno) el riesgo de tener cáncer, o que los tratamientos que se comparan no tienen los mismos efectos. También se llama cociente de riesgos.
 
 
 <!--a href="#top">Volver arriba</a-->

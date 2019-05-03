@@ -12,13 +12,13 @@ Depósitos del calcio en los tejidos. La calcificación en el seno se puede ver 
 Media del bienestar de una persona y su disfrute general de la vida. Muchos estudios evalúan los efectos del cáncer y su tratamiento en la calidad de vida. En estos estudios se miden aspectos de la sensación de bienestar y la capacidad de una persona para llevar a cabo actividades de la vida diaria.
 
 **Calidad del Cuidado de Salud** 
-Medida que evalúa que tan bien se ha tratado el cáncer del seno o que también se ha cuidado a una persona durante y después del tratamiento.
+Medida que evalúa que tan bien se ha tratado el cáncer de seno o que también se ha cuidado a una persona durante y después del tratamiento.
 
 **Cáncer**
 Nombre dado a las enfermedades en las que hay células anormales que se multiplican sin control y pueden invadir los tejidos cercanos. Las células de cáncer también se pueden diseminar hasta otras partes del cuerpo a través del torrente sanguíneo y el sistema linfático. El carcinoma es un cáncer que empieza en la piel o en los tejidos que revisten o cubren los órganos internos. El sarcoma es un cáncer que empieza en el hueso, el cartílago, la grasa, el músculo, los vasos sanguíneos u otro tejido conjuntivo o de sostén. La leucemia es un cáncer que comienza en un tejido donde se forman las células sanguíneas, como la médula ósea, y hace que se produzca un gran número de células sanguíneas anormales y que estas entren en la sangre. El linfoma y el mieloma múltiple son cánceres que empiezan en las células del sistema inmunitario. Los cánceres del sistema nervioso central empiezan en los tejidos del cerebro y la médula espinal. También se llama neoplasia maligna.
 
 **Cáncer de Seno Inflamatorio**
-Tipo de cáncer de seno (mama) en el que el seno aparece enrojecida e hinchada, y se siente caliente. La piel del seno puede parecer que tiene picaduras (como la piel de una naranja). El enrojecimiento y calor se presentan porque las células cancerosas bloquean los vasos linfáticos de la piel.
+Tipo de cáncer de seno (mama) en el que el seno aparece enrojecido e hinchado, y se siente caliente. La piel del seno puede parecer que tiene picaduras (como la piel de una naranja). El enrojecimiento y calor se presentan porque las células cancerosas bloquean los vasos linfáticos de la piel.
 
 **Cáncer de Seno Invasivo**
 Cáncer de seno (mama) que se diseminó del sitio donde comenzó en el seno (conducto lácteo o lóbulo) al tejido sano que la rodea y posiblemente a los ganglios linfáticos y a otras partes del cuerpo. El cáncer ductal invasivo comienza en los conductos lácteos y el cáncer lobulillar invasivo comienza en los lóbulos del seno.
@@ -33,9 +33,9 @@ Cáncer de seno (mama) en el que hay más de un tumor, cada uno de los cuales ha
 Cáncer que se forma en los tejidos del seno. El tipo de cáncer de seno (mama) más común es el carcinoma ductal, que empieza en el revestimiento de los conductos galactóforos (tubos delgados que llevan leche desde los lobulillos de la mama hasta el pezón). Otro tipo de cáncer de seno es el carcinoma lobulillar, que empieza en los lobulillos (glándulas lácteas). El cáncer de seno invasivo es el que se diseminó desde el sitio en que empezó en los conductos mamarios o lobulillos hasta el tejido normal circundante. El cáncer de seno se presenta tanto en hombres como en mujeres, aunque el cáncer de seno masculino es poco frecuente.
 
 **Cáncer de Seno Temprano**
-Cáncer que está contenido en el seno o que no se ha esparcido a los ganglios linfáticos en el área de la axila. Este término describe con frecuencia el estadío I y II del cáncer del seno.
+Cáncer que está contenido en el seno o que no se ha esparcido a los ganglios linfáticos en el área de la axila. Este término describe con frecuencia el estadío I y II del cáncer de seno.
 
-**Cáncer de Seno Triplenegativo**
+**Cáncer de Seno Triple Negativo**
 Describe las células de cáncer de seno (mama) que no tienen receptores de estrógeno, receptores de progesterona o grandes cantidades de la proteína HER2/neu. También se llama cáncer de mama RE negativo, RP negativo, HER2/neu negativo.
 
 **Cáncer Lobulillar in situ (CLIS)**
@@ -48,10 +48,10 @@ Pérdida de peso corporal, masa muscular y debilidad, que se puede presentar en 
 Afección no invasiva en la que se encuentran células anormales en el revestimiento de un conducto del seno. Las células anormales no se diseminaron fuera del conducto hasta otros tejidos del seno. También se llama carcinoma ductal in situ y CDIS.
 
 **Carcinoma in Situ**
-Grupo de células anormales que permanecen en el mismo lugar en el que se formaron. No se diseminaron. Estas células anormales se pueden volver cancerosas y diseminarse hasta los tejidos vecinos sanos. También se llama enfermedad en estadio 0 o etapa 0.
+Grupo de células anormales que permanecen en el mismo lugar en el que se formaron. No se diseminaron. Estas células anormales se pueden volver cancerosas y diseminarse hasta los tejidos vecinos sanos. También se llama enfermedad en estadío 0 o etapa 0.
 
 **Catéter**
-Un tubo pequeño usado para aplicar fluidos en (o sacar fluidos de) el cuerpo.
+Un tubo pequeño usado para aplicar fluidos o sacar fluidos del cuerpo.
 
 **Catéter Venoso Periférico**
 Dispositivo que se usa para extraer sangre y administrar tratamientos, como líquidos intravenosos, medicamentos o transfusiones de sangre. Se introduce en una vena un tubo delgado y flexible; por lo general, en el dorso de la mano, la parte inferior del brazo o el pie. Se introduce una aguja en una vía de acceso para extraer sangre o administrar líquidos.
@@ -96,13 +96,13 @@ Condiciones no cancerosas del seno que pueden resultar en masas o bultos u otras
 Tubo delgado del seno que lleva la leche de los lobulillos mamarios hasta el pezón. También se llama conducto galactóforo.
 
 **Consentimiento Informado**
-Proceso en el que se proporciona a los pacientes información importante, como los riesgos y beneficios posibles de un procedimiento o tratamiento médico, una prueba genética o un ensayo clínico. Esto se hace para ayudar a los pacientes a decidir si se quieren someter a tratamientos o pruebas, o participar en un ensayo clínico. Los pacientes también reciben cualquier información nueva que pudiera afectar su decisión de continuar. También se llama proceso de consentimiento.
+Proceso en el que se proporciona a los pacientes información importante, como los riesgos y beneficios posibles de un procedimiento o tratamiento médico, una prueba genética o un estudio clínico. Esto se hace para ayudar a los pacientes a decidir si se quieren someter a tratamientos o pruebas, o participar en un estudio clínico. Los pacientes también reciben cualquier información nueva que pudiera afectar su decisión de continuar. También se llama proceso de consentimiento.
 
 **Criterios de Selección**
-En el campo de los estudios clínicos, son los requisitos que debe cumplir una persona para ser incluida en un ensayo. Estos requisitos ayudan a asegurar que los pacientes en un ensayo sean similares entre sí con respecto a factores específicos como la edad, el tipo y el estadio del cáncer, el estado general de salud y los tratamientos previos. Cuando todos los participantes cumplen con los mismos criterios de selección, es más probable que los resultados del estudio obedezcan a la intervención que se está probando, y no a otros factores o por casualidad.
+En el campo de los estudios clínicos, son los requisitos que debe cumplir una persona para ser incluida en un estudio. Estos requisitos ayudan a asegurar que los pacientes en un estudio clínico sean similares entre sí con respecto a factores específicos como la edad, el tipo y el estadio del cáncer, el estado general de salud y los tratamientos previos. Cuando todos los participantes cumplen con los mismos criterios de selección, es más probable que los resultados del estudio obedezcan a la intervención que se está probando, y no a otros factores o por casualidad.
 
 **Cuadrantectomía**
-Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no el seno en sí. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, lumpectomía, lumpectomía, lumpectomía, mastectomía parcial, mastectomía segmentaria, tilectomía y  tumorectomía.
+Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no el seno en sí. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para conservar el seno, cirugía para preservar el seno, lumpectomía, mastectomía parcial, mastectomía segmentaria, tilectomía y  tumorectomía.
 
 
 <!--a href="#top">Volver arriba</a-->

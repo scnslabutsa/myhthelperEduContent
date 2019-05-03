@@ -11,6 +11,6 @@ proporcionar información incorrecta o errónea. Si una fuente hace afirmaciones
 
 Hay muchos sitios web, libros, y revistas que brindan información de salud al público, pero no todos son confiables. Para más información visite la página web del National Cancer Institute [https://www.cancer.gov/espanol/cancer/manejo-del-cancer/uso-de-recursos-fidedignos](https://www.cancer.gov/espanol/cancer/manejo-del-cancer/uso-de-recursos-fidedignos).
 
-**Fuentes:**
+**Fuente:**
 
 <span style="font-size:15px;">National Cancer Institute, 2017. Using Trusted Resources</span>

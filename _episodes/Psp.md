@@ -12,10 +12,10 @@ Describe una masa, bulto o área anormal que se puede palpar durante un examen c
 Examen que se realiza haciendo presión sobre la superficie del cuerpo para poder sentir los órganos o los tejidos debajo de la superficie.
 
 **Papiloma Ductal (ver Papiloma Intraductal)**
-Crecimiento benigno (no canceroso), similar a las verrugas, en un conducto lácteo del seno. Por lo general, se encuentra cerca del pezón y puede producir una secreción del pezón. También se llama papiloma intraductal del seno.
+Crecimiento benigno (no canceroso), similar a las verrugas, en un conducto lácteo del seno. Por lo general, se encuentra cerca del pezón y puede producir secreción del pezón. También se llama papiloma intraductal del seno.
 
 **Papiloma Intraductal (Papiloma Ductal)**
-Tumor pequeño y benigno (no canceroso), similar a las verrugas, que crece un conducto lácteo del seno. Por lo general, se encuentra cerca del pezón y puede producir una secreción del pezón.
+Tumor pequeño y benigno (no canceroso), similar a las verrugas, que crece un conducto lácteo del seno. Por lo general, se encuentra cerca del pezón y puede producir secreción del pezón.
 
 **Pariente De Primer Grado**
 Padres, hermanos o hijos. También se llama PPG.
@@ -36,13 +36,13 @@ Sustancia inactiva u otra intervención que tienen la misma apariencia y se admi
 Que predispone o hace tener mayor riesgo de desarrollar una enfermedad
 
 **Prevención**
-En medicina, medidas que se toman para reducir las probabilidades de contraer una enfermedad o afección. Por ejemplo, la prevención de cáncer incluye evitar los factores de riesgo (como tabaquismo, obesidad, falta de ejercicio y exposición a la radiación) y aumentar los factores de protección (como realizar actividad física en forma regular, mantener un peso normal y seguir un régimen saludable de alimentación).
+En medicina, medidas que se toman para reducir las probabilidades de tener una enfermedad o afección. Por ejemplo, la prevención de cáncer incluye evitar los factores de riesgo (como tabaquismo, obesidad, falta de ejercicio y exposición a la radiación) y aumentar los factores de protección (como realizar actividad física en forma regular, mantener un peso normal y seguir un régimen saludable de alimentación).
 
 **Procedimiento en Dos Pasos**
 Biopsia y tratamiento quirúrgico adicional que se hace en pasos separados.
 
 **Progesterona**
-Tipo de hormona elaborada por el cuerpo que juega un papel en el ciclo menstrual y el embarazo. La progesterona también se puede producir en el laboratorio. Puede usarse como un tipo de control de la natalidad y para tratar trastornos de la menstruación, esterilidad, síntomas de la menopausia y otras afecciones.
+Tipo de hormona elaborada por el cuerpo que juega un papel en el ciclo menstrual y en el embarazo. La progesterona también se puede producir en el laboratorio. Puede usarse como un tipo de control de la natalidad y para tratar trastornos de la menstruación, esterilidad, síntomas de la menopausia y otras afecciones.
 
 **Progestina**
 Cualquier sustancia natural o producida en el laboratorio que tiene algunos o todos los efectos biológicos de la progesterona, que es una hormona femenina.
