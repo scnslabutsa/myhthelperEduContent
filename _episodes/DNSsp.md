@@ -9,7 +9,7 @@ Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos qu
 
 * [Quitxt](http://quitxt.org/9): programa de mensajes de texto móvil: Clic [quitxt.org/Spanish/9](quitxt.org/Spanish/9)
 
-* [Yesquit.org](https://www.yesquit.org/):  consejería telefónica o programa en línea 
+* [Yesquit.org](https://www.yesquit.org/sp-default.htm):  consejería telefónica o programa en línea 
 
 * American Cancer Society [https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html](https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html): información útil sobre dejar de fumar
 
