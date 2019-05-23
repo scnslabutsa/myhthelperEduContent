@@ -8,7 +8,7 @@ Most people know that smoking is bad for your health and the health of people ar
 If you need help quitting smoking, here are some valuable resources that help you create a plan to quit smoking: 
 
 * **[Quitxt](http://quitxt.org/9)**: mobile texting program
-* **Yesquit.org**: phone counseling or online program
+* **[Yesquit.org](https://www.yesquit.org/)**: phone counseling or online program
 * **American Cancer Society** [https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html](https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html): helpful information about smoking cessation
 * [Smokefree.gov](https://smokefree.gov/): text and online program 
 
