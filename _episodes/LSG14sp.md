@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Grupos de Apoyo Locales--->
 ---
 
-*    **Nombre:** **American Breast Cancer Foundation (ABCF)**
+*    **Nombre:** **Alamo Breast Cancer Foundation (ABCF)**
 
      **Dirección:** 3014 Rivas St., San Antonio, TX 78228
 
@@ -11,7 +11,7 @@ layout: lesson
     
      **Email:** [sandisues@sbcglobal.net](sandisues@sbcglobal.net)
     
-     **Sito web:** [www.alamobreastcancer.org](www.alamobreastcancer.org) 
+     **Sito web:** [http://alamobreastcancer.org/abcf_site/](http://alamobreastcancer.org/abcf_site/) 
     
      **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
 
@@ -175,7 +175,7 @@ layout: lesson
 
     **Teléfono:** 210-654-7900
 
-    **Sito web:** [www.slewwellness.org](www.slewwellness.org)
+    **Sito web:** [https://www.slewwellness.org/](https://www.slewwellness.org/)
 
     **Servicios:** Un consejero profesional entrenado ofrece consejería emocional para ayudar a las pacientes a identificar sus preocupaciones, considerar soluciones efectivas y encontrar recursos confiables. El asesoramiento nutricional se hace con un nutricionista. También se ofrecen demostraciones de cocina. Hay transporte disponible en camionetas para llevar a las pacientes que participan en el programa hasta y desde las instalaciones.
 
@@ -188,7 +188,7 @@ layout: lesson
 
     **Email:** [info@sakomen.net](info@sakomen.net)
 
-    **Sito web:** [www.komen.org](www.komen.org) y [www.komensanantonio.org](www.komensanantonio.org)
+    **Sito web:** [https://ww5.komen.org/](https://ww5.komen.org/) y [https://komensanantonio.org/](https://komensanantonio.org/)
 
     **Servicios:** Komen San Antonio ofrece un programa de mentores para que las personas se conecten con un sobreviviente y reciban apoyo emocional durante el proceso de cuidado médico.
 

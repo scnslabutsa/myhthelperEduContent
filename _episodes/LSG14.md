@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Local Support Groups--->
 ---
 
-*    American Breast Cancer Foundation (ABCF)
+*    Alamo Breast Cancer Foundation (ABCF)
 
      3014 Rivas St. San Antonio TX 78228
 
@@ -11,7 +11,7 @@ layout: lesson
     
      **Email:** [sandisues@sbcglobal.net](sandisues@sbcglobal.net) 
     
-     **Website:** [www.alamobreastcancer.org](www.alamobreastcancer.org) 
+     **Website:** [http://alamobreastcancer.org/abcf_site/](http://alamobreastcancer.org/abcf_site/) 
     
      **Services:** Offers a breast cancer helpline that is answered by volunteers who have had a breast cancer experience. The helpline is available 24 hours a day and is bilingual.
 
@@ -175,7 +175,7 @@ layout: lesson
 
     210-654-7900
 
-    **Website:** [www.slewwellness.org](www.slewwellness.org)
+    **Website:** [https://www.slewwellness.org/](https://www.slewwellness.org/)
 
     **Services:** Emotional counseling is provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in the program.
 
@@ -188,7 +188,7 @@ layout: lesson
 
     **Email:** [info@sakomen.net](info@sakomen.net)
 
-    **Website:** [www.komen.org](www.komen.org) ; [www.komensanantonio.org](www.komensanantonio.org)
+    **Website:** [https://ww5.komen.org/](https://ww5.komen.org/) ; [https://komensanantonio.org/](https://komensanantonio.org/)
 
     **Services:** Komen San Antonio offers a mentor program for people to connect with a survivor to provide emotional support during the process of care.
 
