@@ -17,3 +17,7 @@ los niños y buscando información en Internet. Su jefe puede incluso ayudarla a
 		
 Sus co-sobrevivientes pueden darle apoyo emocional para ayudarla a aumentar su sentido de autoestima y ayudarla a sentirse amada, cuidada y comprendida. El apoyo social puede ser tan informal como tener un miembro de la familia o un amigo cercano que la escuche con comprensión, o tan formal como participar en un grupo de apoyo para sobrevivientes o visitar a un terapeuta.
 
+**Fuente:**
+
+<span style="font-size:15px;">Susan G. Komen, 2019. Social Support.</span>
+

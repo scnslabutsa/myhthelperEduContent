@@ -39,3 +39,7 @@ Tener redes sociales puede ayudar a las sobrevivientes a recuperarse y adaptarse
 
 * Menos limitaciones físicas
 * Menos disminución en su capacidad para realizar actividades diarias
+
+**Fuente:**
+
+<span style="font-size:15px;">Susan G. Komen, 2019. Social Support.</span>

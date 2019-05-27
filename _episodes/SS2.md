@@ -34,3 +34,7 @@ Having social networks can help survivors with recovery and adjusting to life af
 
   * Fewer physical limitations 
   * Less of a decline in their ability to perform daily activities
+
+**Source:**
+
+<span style="font-size:15px;">Susan G. Komen, 2019. Social Support.</span>

@@ -16,3 +16,6 @@ El cáncer de seno puede causar tensión en las relaciones. Algunas personas not
 
 Aun cuando las relaciones con su familia y amigos no estén tensionadas, otras fuentes de apoyo pueden ser útiles. Afortunadamente, hay muchos recursos de apoyo social incluyendo los grupos de apoyo, las organizaciones religiosas y los proveedores de salud. 
 
+**Fuente:**
+
+<span style="font-size:15px;">Susan G. Komen, 2019. Social Support.</span>
