@@ -8,9 +8,7 @@ layout: lesson
      **Dirección:** 3014 Rivas St., San Antonio, TX 78228
 
      **Teléfono:** 210-431-4415, 210-692-9535 o 210-492-2554 
-    
-     **Email:** [sandisues@sbcglobal.net](sandisues@sbcglobal.net)
-    
+        
      **Sito web:** [http://alamobreastcancer.org/abcf_site/](http://alamobreastcancer.org/abcf_site/) 
     
      **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
