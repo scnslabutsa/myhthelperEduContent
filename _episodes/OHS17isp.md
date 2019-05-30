@@ -35,7 +35,7 @@ Consejos para manejar el aumento de peso:
     - Lee la sección Pautas de Alimentación Saludable para encontrar consejos sobre cómo comer más saludable. [FR4sp.html](https://scnslabutsa.github.io/myhthelperEduContent/FR4sp/index.html)
 
 * Haga Ejercicio Regularmente
-    - Para consejos sobre cómo empezar un plan de ejercicio, permanecer motivada, y encontrar maneras diferentes de estar activa físicamente, por favor vaya a la sección Consejos de Actividad Física [PA1sp.html](https://scnslabutsa.github.io/myhthelperEduContent/https://scnslabutsa.github.io/myhthelperEduContent/PA1sp/index.html), [PA2sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA2sp/index.html), [PA3sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA3sp/index.html) and [PA4sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA4sp/index.html)
+    - Para consejos sobre cómo empezar un plan de ejercicio, permanecer motivada, y encontrar maneras diferentes de estar activa físicamente, por favor vaya a la sección Consejos de Actividad Física [PA1sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA1sp/index.html), [PA2sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA2sp/index.html), [PA3sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA3sp/index.html) and [PA4sp.html](https://scnslabutsa.github.io/myhthelperEduContent/PA4sp/index.html)
  
 **Fuentes:**
 

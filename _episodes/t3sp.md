@@ -22,6 +22,5 @@ Adicionalmente, el tamoxifeno puede tener beneficios de salud extras:
 
 <span style="font-size:15px;">Susan G. Komen, 2018. Tamoxifen.</span>
 
-<span style="font-size:15px;">Breastcancer.org, 2016. Extending Aromatase Inhibitor Use Beyond 5 Years May Benefit Some Women</span>
 
 

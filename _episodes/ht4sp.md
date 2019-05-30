@@ -13,3 +13,9 @@ Si olvida una dosis o dos, no se asuste. Continúe tomando su medicina como la f
 
 La duración del tratamiento, junto con los efectos secundarios, pueden hacer difícil completar la terapia hormonal. Aunque los síntomas de menopausia que están relacionados con la terapia hormonal pueden ser difíciles de manejar, hay cosas que usted puede hacer para aliviar estos síntomas. Si tiene efectos secundarios, <strong>no deje de tomar su medicina</strong>; hable con su doctor sobre cómo puede tratarlos.
 
+**Fuente:**
+
+<span style="font-size:15px;">Susan G. Komen, 2018. Importance of Completing Hormone Therapy.</span>
+
+
+
