@@ -4,6 +4,8 @@ layout: lesson
 ---
 
 **X-ray** 
-Radiation that, at low levels, can be used to make images of the inside of the body. For example, a mammogram is an X-ray image of the breast. At high levels of radiation, X-rays can be used in cancer treatment.
+A type of radiation used in the diagnosis and treatment of cancer and other diseases. In low doses, x-rays are used to diagnose diseases by making pictures of the inside of the body. In high doses, x-rays are used to treat cancer.
 
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
+
+

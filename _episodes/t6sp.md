@@ -26,3 +26,8 @@ Las siguientes medicinas pueden interferir con la efectividad del tamoxifeno:
 **SIEMPRE pregúntele a su doctor** si cualquier medicina que está tomando, o que le hayan recomendado, es compatible o no con compatibles con el tamoxifeno.
 
 **CONSEJO:** Mantenga una lista de todas las medicinas que está tomando (incluyendo las de receta médicas, las de venta libre como los productos naturales a base de hierbas) y muéstresela a su doctor o farmaceuta para asegurar que no hay interacción con el tamoxifeno. 
+
+
+**Fuente:**
+
+<span style="font-size:15px;">Breastcancer.org, 2019. Medicines to Avoid while Taking Tamoxifen.</span>
