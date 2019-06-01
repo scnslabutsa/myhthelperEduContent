@@ -24,3 +24,7 @@ layout: lesson
 * Remember to match your breath to your exercise. The part of any exercise that requires exertion is when you should be exhaling. For example, during a lunge, inhale while you lunge down and exhale when you come back up; during a sit up, inhale when your back is on the floor, exhale when you sit up; for running, try to keep a steady inhale/exhale breathing pace instead of taking non-rhythmic, short breaths; while stretching, exhale while you try to go deeper into the stretch.
 
 * Finish any physical activity with 2-3 minutes of stretching. Hold each stretch for 15-30 seconds. 
+
+**Source:**
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>

@@ -29,9 +29,9 @@ Unhealthy foods also contribute to weight gain, which is itself a risk factor fo
 
 ***Foods that combat inflammation:***
 
-Some foods have anti-inflammatory properties that may reduce your cancer risk, according to a recent study at [http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub](http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub). The basic anti-inflammatory diet involves regular consumption of multiple spices and herbs and increased intake of marine fish intake, cruciferous and colorful vegetables and fruit, olive oil, and green and black tea.
+Some foods have anti-inflammatory properties that may reduce your cancer risk, according to a recent study by Dr. Amelie Ramirez and colleagues at [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/) . The basic anti-inflammatory diet involves regular consumption of multiple spices and herbs and increased intake of marine fish intake, cruciferous and colorful vegetables and fruit, olive oil, and green and black tea.
 
-**[Spices](http://www.aicr.org/enews/2015/11-november/enews-fall-spices-for-cancer-prevention.htmlhttp:/www.aicr.org/enews/2015/11-november/enews-fall-spices-for-cancer-prevention.html)**: 	Cinnamon, ginger, turmeric, black cumin
+**[Spices](http://www.aicr.org/enews/2015/11-november/enews-fall-spices-for-cancer-prevention.html)**: 	Cinnamon, ginger, turmeric, black cumin
 **Herbs**:	Chives, garlic, onion, cloves, rosemary, black pepper, chilies, oregano, thyme, lemongrass
 **Fatty fish**:	Salmon, cod, mackerel, sardines, tuna (fresh or canned)
 **Cooking oils**:	Olive, canola, grapeseed

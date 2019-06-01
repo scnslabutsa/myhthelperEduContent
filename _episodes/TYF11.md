@@ -14,3 +14,4 @@ Finding support from others will not only help you—it could also help your par
 **Sources:**
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2016. Family Life.</span>
+<span style="font-size:15px;">Susan G. Komen, 2017. Facts for Life: Talking with Your Partner.</span>

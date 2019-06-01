@@ -17,7 +17,7 @@ layout: lesson
 *   **Nombre:** **American Cancer Society - Cancer Dialogue Support Groups**
 
     **Dirección:** El Carmen Wellness Center #1 <br>
-                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 18555 Leal Rd, San Antonio TX 78221
+    18555 Leal Rd, San Antonio TX 78221
     
     **Teléfono:** 210-626-2485
 
@@ -65,8 +65,7 @@ layout: lesson
 *   **Nombre:** **Jewish Family & Children’s Services (JFCS)**
 
     **Dirección:** 12500 NW Military Hwy #250, San Antonio TX 78231 (lugar en el Northside)<br>
-    
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1151 Mission Road, San Antonio, TX 78210 (lugar en el Southside)
+    1151 Mission Road, San Antonio, TX 78210 (lugar en el Southside)
 
     **Teléfono:** 210-302-6920 (Northside), 210-533-1112 (Southside)
     

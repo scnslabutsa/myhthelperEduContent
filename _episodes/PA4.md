@@ -31,3 +31,7 @@ layout: lesson
 * Do something while you watch TV. Get light hand weights and do curls, use a stationary bike or treadmill, do squats during commercials.
 
 * Use the stairs instead of the elevator or escalator.
+
+**Source:**
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>

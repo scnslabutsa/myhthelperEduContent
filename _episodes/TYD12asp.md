@@ -19,3 +19,7 @@ Cuando hable con cualquier doctor sobre su salud, recuerde que usted tiene infor
 
 * Los doctores son como cualquier otra persona, ellos quieren hacer bien su trabajo. Eso significa hacer todo lo que esté a su alcance para ayudarla a mejorarse. Recuerde, los doctores pueden saber mucho sobre el cáncer de seno, pero en realidad podrían no entender o no darse cuenta por todo lo que usted está pasando. Comparta sus sentimientos e inquietudes con su doctor para que él pueda ayudarla.
 
+**Fuente:**
+
+<span style="font-size:15px;">Susan G. Komen, 2017. Datos para la Vida: Hablar con su Doctor.</span>
+

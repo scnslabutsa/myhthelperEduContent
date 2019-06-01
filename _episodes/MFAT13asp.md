@@ -15,3 +15,8 @@ Su médico de atención primaria, su oncólogo o su cirujano le pueden ayudar a 
 
 * Examen de densidad ósea cada 1 a 2 años (si tiene un alto riesgo de osteoporosis).
 
+**Fuente:**
+
+<span style="font-size:15px;">American Cancer Society, 2017. Living as a Breast Cancer Survivor. Follow-up Care after Breast Cancer Treatment.</span>
+
+

@@ -13,4 +13,6 @@ A veces hay grupos de apoyo para personas en etapas específicas de la enfermeda
 
 **Fuente:**
 
-<span style="font-size:15px;">American Cancer Society, 2017. Living as a breast cancer survivor: follow up care after breast cancer treatment</span>
+<span style="font-size:15px;">American Cancer Society, 2017. Living as a Breast Cancer Survivor. Follow-up Care after Breast Cancer Treatment.</span>
+
+

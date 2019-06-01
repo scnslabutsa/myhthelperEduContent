@@ -11,5 +11,10 @@ Hablar sobre el cáncer es difícil. Si tiene problemas para hablar con su parej
 	
 Obtener apoyo de otras personas no sólo la va a ayudar – también podría ayudar a su compañero/a.
 
-**Fuente:**
+**Fuentes:**
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Family Life.</span>
+<span style="font-size:15px;">Susan G. Komen, 2017. Datos para la Vida: Hablar con su Compañero.</span>
+
+
 

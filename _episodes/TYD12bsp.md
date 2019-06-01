@@ -62,6 +62,6 @@ layout: lesson
 
 **Fuentes:**
 
+<span style="font-size:15px;">Susan G. Komen, 2017. Datos para la Vida: Hablar con su Doctor.</span>
 <span style="font-size:15px;">American Society of Clinical Oncology, 2016. Questions to Ask Your Health Care Team.</span>
 
-<span style="font-size:15px;">Susan G. Komen, 2017. Facts for life: talking with your doctor.</span>

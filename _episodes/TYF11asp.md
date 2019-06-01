@@ -17,6 +17,7 @@ No teman hablar de sus sentimientos. Ustedes se darán cuenta que, si no expresa
 Piensen en todos los buenos momentos que han compartido. Piensen en los momentos difíciles por los que han pasado. Ustedes los han hecho juntos – y han permanecido unidos. En realidad, para algunas personas, el pasar por algo tan serio, como el cáncer de seno los une aún más. Ustedes comparten sus temores y sus alegrías, y pueden superar el tratamiento y la recuperación del cáncer de seno juntos.
 
 
-**Fuente:**
+**Fuentes:**
 
+<span style="font-size:15px;">Susan G. Komen, 2017. Datos para la Vida: Hablar con su Compañero.</span>
 <span style="font-size:15px;">American Society of Clinical Oncology, 2016. Family Life.</span>

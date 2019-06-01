@@ -11,4 +11,8 @@ layout: lesson
 * Use tablas o calendarios para realizar un seguimiento de todo el ejercicio que hace y el mejoramiento que ha logrado.
 * Recompénsese y piense en todo el bien que ha hecho por su salud.
 
+**Fuente:**
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>
+
 

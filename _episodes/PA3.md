@@ -9,3 +9,8 @@ layout: lesson
 * Get family, friends, or co-workers to exercise with you.
 * Use charts or calendars to keep track of all the exercise you do and improvements you make.
 * Reward yourself and think about all the good you've done.
+
+**Source:**
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>
+

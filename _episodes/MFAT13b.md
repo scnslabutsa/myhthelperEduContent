@@ -32,3 +32,10 @@ Take advantage of your doctor visits. The main purpose of these visits is to ens
 * Receive emotional support.
 * Give you a time to ask questions and share concerns.
 * Discuss medications prescribed by your doctor.
+
+**Source:**
+
+<span style="font-size:15px;">American Cancer Society, 2017. Living as a Breast Cancer Survivor. Follow-up Care after Breast Cancer Treatment.</span>
+
+
+

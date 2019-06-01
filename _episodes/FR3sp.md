@@ -27,7 +27,7 @@ No es sorpresa que los mismos alimentos que contribuyen a la inflamación genera
 
 ***Alimentos que combaten la inflamación:***
 
-Algunos alimentos tienen propiedades antiinflamatorias que pueden reducir el riesgo de cáncer, según un estudio reciente en  [http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub](http://www.sciencedirect.com/science/article/pii/S1551714416301306?via%3Dihub). La dieta antiinflamatoria básica incluye el consumo regular de diferentes especias y hierbas, y aumentar el consumo de pescado de mar, los crucíferos, los vegetales y frutas de diferentes colores, el aceite de oliva y el té verde y negro.
+Algunos alimentos tienen propiedades antiinflamatorias que pueden reducir el riesgo de cáncer, según un estudio reciente realizado por la Dra. Amelie G. Ramirez y colegas ver [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/). La dieta antiinflamatoria básica incluye el consumo regular de diferentes especias y hierbas, y aumentar el consumo de pescado de mar, los crucíferos, los vegetales y frutas de diferentes colores, el aceite de oliva y el té verde y negro.
 
 **Especias**: 	Canela, jengibre, turmeric o cúrcuma, comino negro
 

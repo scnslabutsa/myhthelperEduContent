@@ -18,4 +18,4 @@ Para las sobrevivientes del cáncer de seno, un estilo de vida saludable puede r
 
 <span style="font-size:15px;">Susan G. Komen, 2017, Survivorship Topics.</span>
 
-<span style="font-size:15px;">American Cancer Society, n.d.. Be Healthy after Treatment.</span>
+<span style="font-size:15px;">American Cancer Society, n.d Be Healthy after Treatment.</span>

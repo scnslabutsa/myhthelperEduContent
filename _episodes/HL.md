@@ -18,4 +18,4 @@ For breast cancer survivors, a healthy lifestyle may lower the risk of recurrenc
 
 <span style="font-size:15px;">Susan G. Komen, 2017, Survivorship Topics.</span>
 
-<span style="font-size:15px;">American Cancer Society, n.d.. Be Healthy after Treatment.</span>
+<span style="font-size:15px;">American Cancer Society, n.d Be Healthy after Treatment.</span>

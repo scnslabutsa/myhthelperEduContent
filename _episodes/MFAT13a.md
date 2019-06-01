@@ -11,3 +11,10 @@ Follow-up visits may include:
 * Clinical breast exams every year, as part of your periodic health examination.
 * Pelvic exam and Pap smear every 12 months (if you are taking tamoxifen).
 * Bone density tests every 1 to 2 years (if you are at high risk of osteoporosis).
+
+**Source:**
+
+<span style="font-size:15px;">American Cancer Society, 2017. Living as a Breast Cancer Survivor. Follow-up Care after Breast Cancer Treatment.</span>
+
+
+

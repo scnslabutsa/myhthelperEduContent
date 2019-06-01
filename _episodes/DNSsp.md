@@ -7,13 +7,14 @@ La mayoría de las personas ya saben que fumar es malo para su salud y la de las
 
 Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos que le pueden ayudar a crear un plan para dejar de fumar:
 
-* [Quitxt](http://quitxt.org/9): programa de mensajes de texto móvil: Clic [quitxt.org/Spanish/9](quitxt.org/Spanish/9)
+* [Quitxt](https://quitxt.org/spanish): programa de mensajes de texto móvil: Clic [https://quitxt.org/spanish](https://quitxt.org/spanish)
 
 * [Yesquit.org](https://www.yesquit.org/sp-default.htm):  consejería telefónica o programa en línea 
 
-* American Cancer Society [https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html](https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html): información útil sobre dejar de fumar
+* American Cancer Society [https://www.cancer.org/es/saludable/mantengase-alejado-del-tabaco/guia-para-dejar-de-fumar.html](https://www.cancer.org/es/saludable/mantengase-alejado-del-tabaco/guia-para-dejar-de-fumar.html): información útil sobre dejar de fumar
 
-* Smokefree.gov: texto y programa en línea
+* [Smokefree.gov](https://espanol.smokefree.gov/): texto y programa en línea: Clic [https://espanol.smokefree.gov/](https://espanol.smokefree.gov/)
+
 
 **Fuente:**
 

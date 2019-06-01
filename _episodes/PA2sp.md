@@ -25,3 +25,6 @@ layout: lesson
 
 * Termine cualquier actividad física con 2-3 minutos de estiramiento. Mantenga cada estiramiento por 15-30 segundos.
 
+**Fuente:**
+
+<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>

@@ -14,3 +14,9 @@ Your diagnosis may be shocking at first. The more you and your partner find out 
 Do not be afraid to talk about your feelings. You will find that if you or your partner hold your thoughts, worries and fears inside, they can create a wall between you and may cause you to grow apart. A good place to start may be a simple open-ended question such as: “What makes you feel good today and how can I help you?”
 
 Think about all the good times you have shared. Think about the rough times. You have both made it through them all—and have stayed together. Actually, for some people, going through something very serious, like breast cancer, brings them closer together. Your fears are shared, your joys are shared and both of you can make it through the treatment and recovery from breast cancer together.
+
+**Sources:**
+
+<span style="font-size:15px;">Susan G. Komen, 2017. Facts for Life: Talking with Your Partner.</span>
+<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Family Life.</span>
+

@@ -61,3 +61,7 @@ i.e., joint ache)?
 * Where can I find a support group for people living with breast cancer (or cancer in general)? 
 
 * What do I need to consider before treatment if I would like to have a child after I have been treated for breast cancer?
+
+**Source:**
+
+<span style="font-size:15px;">Susan G. Komen, 2017. Facts for Life: Talking with Your Doctor.</span>
