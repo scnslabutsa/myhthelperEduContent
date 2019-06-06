@@ -7,15 +7,15 @@ Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine t
 
 ***Breast Cancer Types***
 
-* Breast cancers with many hormone receptor cells are called hormone receptor-positive cancers. They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor positive breast cancer.
-
+* Breast cancers with many hormone receptor cells are called hormone receptor-positive cancers. <img align="right" src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HormoneReceptorCells.jpg" class="inline"/>
+They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor positive breast cancer. 
 * Breast cancers with few or no hormone receptor cells are called hormone receptor-negative cancers. They can be estrogen receptor-negative (ER-negative) and/or progesterone receptor-negative (PR-negative).
 
 ***Ways hormone therapy slows or stops growth of hormone-sensitive tumors***
 
 Hormone therapy slows or stops the growth of hormone-sensitive tumors in two ways:
 
-1. by lowering the amount of estrogen in the body. This can be done by blocking ovarian function (i.e., Zoladex and Lupron); or by blocking estrogen production through drugs called aromatase inhibitors (i.e., Arimidex and Femara and Aromasin); and
+1. by lowering the amount of estrogen in the body. This can be done by blocking ovarian function (i.e., Zoladex and Lupron); or by blocking estrogen production through drugs called aromatase inhibitors (i.e., Arimidex and Femara and Aromasin); and <img align="left" src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage.jpg" class="inline"/>
 2. by blocking the action of estrogen on breast cancer cells (i.e, Novaldex [tamoxifen] and Evista [raloxifene]).
 
 The hormone therapy a doctor prescribes depends on many factors, including disease characteristics, and if you are pre- or post-menopausal. 
