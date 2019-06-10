@@ -11,6 +11,9 @@ Tips for Managing Dry/Itchy Skin:
 
 * Use a moisturizing cream at least twice a day.
 * Apply an oil (such as baby oil) or cream after showering, within 15 minutes.
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/skincream.jpg">	
+  </p>	
 * Avoid products that irritate skin (soaps, detergents, creams with fragrance/perfume or alcohol).
 * Avoid products that scratch or scrub (exfoliate) the skin (sponges, loofas, bath scrubs).
 * Shower and bathe with cool or warm water only; hot water can dry the skin even more.

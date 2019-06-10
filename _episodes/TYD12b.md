@@ -7,6 +7,10 @@ layout: lesson
 
 * What tests were done on my tumor? What were the estrogen receptor status and progesterone receptor status of my tumor? How do these affect my treatment plan? 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Whitedoc_patient.PNG"/>	
+</p>	
+
 * Which hormone therapy do you recommend for me and why? 
 
 * How does this therapy treat my breast cancer?

@@ -11,6 +11,9 @@ Tips to Manage Constipation:
 
 * Eat high-fiber foods. Foods high in fiber include fruit, grains and cereal, beans, nuts, and vegetables. Add these foods to your diet slowly to avoid bloating and gas.
 * Drink extra fluids. 8 to 10 cups of liquids such as water, prune juice, warm juices, teas, or hot lemonade throughout the day can be helpful.
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/drinkingWater2.jpg">
+  </p>	
 * If possible, try to increase your physical activity. Not exercising is one of the most common causes of constipation.
 * Only use laxatives as directed by your healthcare team. 
 * In addition to laxatives, you can ask your healthcare team about over-the-counter stool softeners, psylilum fiber, enemas, or suppositories.

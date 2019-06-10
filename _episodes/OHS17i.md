@@ -16,6 +16,11 @@ Tips for Managing Weight Gain:
 	− If you meet with a registered dietician, ask him/her to teach you what to look for on nutrition labels so that you can make the healthiest decisions when you’re grocery shopping.
 
 * Walk daily. There are so many ways to add walking to your daily routine. 
+      
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends_2.PNG">	
+  </p>	
+
 	- When you’re at work, use a bathroom that is in a different building or different floor.
 	- Walk during your lunch time.
 	- Walk around your neighborhood after dinner.
@@ -28,6 +33,10 @@ Tips for Managing Weight Gain:
 	- Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
 
 * Maintain a healthy diet. 
+      
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/mom kid supermarket.jpg">	
+  </p>
 
 	- Limit food portion sizes, especially with high-calorie foods and at restaurants. Most restaurants have serving sizes that far exceed daily calorie recommendations.
 	- Instead of red meat, choose a leaner protein such as: fish, chicken, beans, tofu, lentils.

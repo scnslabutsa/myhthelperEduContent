@@ -8,6 +8,9 @@ Stress is a natural part of our daily lives. When you face a stressful situation
 Tips to Reduce Stress:
 
 * Get organized, make a schedule. 
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/planner.jpg">	
+  </p>	
 * Use a day planner to keep track of your appointments and activities. 
 * When you schedule activities, allow plenty of time to finish one activity before starting the next. 
 * Schedule breaks between activities. 
@@ -22,6 +25,9 @@ Tips to Reduce Stress:
 Tips to Manage Stress:
 
 * Exercise regularly. Just 30 minutes per day of moderate walking can boost your mood and reduce stress.
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends.PNG">	
+  </p>	
 * Schedule social activities. Make time to see your family and friends.
 * Schedule relaxing time. Set aside routine times to do an activity you find relaxing.
 * Do things you enjoy. Eat at your favorite restaurant (or look up the recipe for your favorite meal and try to make it at home), watch your favorite show, walk in your favorite park.

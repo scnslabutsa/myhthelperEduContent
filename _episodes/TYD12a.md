@@ -8,6 +8,10 @@ So when you talk with health care providers about your health, remember that you
 
 * Be prepared. It is often helpful to gather information about your health concerns—from the library (books and medical journals), trusted websites or fact sheets like the ones offered by Komen. The more you know, the more comfortable you will be talking to your doctor.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female%20dr%20and%20patient.jpg"/>	
+</p>
+
 * Organize your questions ahead of time. You should be able to talk openly and honestly with your doctor about breast cancer to make sure all of your questions are answered.
 
 * Be sure to write down any questions you may have. These questions will help your doctor understand and address your specific concerns. Also, be sure to bring some type of voice recorder to capture your conversation so you can refer back to it later.

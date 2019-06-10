@@ -11,6 +11,9 @@ Tips to Manage Nausea:
 
 * Eat 6-8 snacks or small meals a day, instead of 3 large meals.
 * Eat dry foods like crackers, toast, or dry cereal, when you wake up and every few hours throughout the day.
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/biscuit-crackers.jpg">	
+  </p>	
 * Eat foods that don’t have strong smells.
 * Eat cool foods instead of hot or spicy foods.
 * Avoid foods that are greasy, fried, spicy, or very sweet.

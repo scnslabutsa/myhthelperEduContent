@@ -9,11 +9,18 @@ There is a variety of ways to cope with anxiety. Some may work for you, some may
 
 * Relaxation techniques. Any of these techniques may be used alone or together with other types of treatment.
 
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/emotional health.PNG">	
+  </p>	
+
 	- Deep breathing. This technique involves taking deep breaths in, holding your breath for a few seconds, then slowly exhaling your breath. There are different counting methods for deep breathing.
 	− Progressive muscle relaxation. This is a technique that involves tightening and then relaxing all the muscles in your body in a certain order.
 	- Guided Imagery. This technique uses words and sounds to help you imagine positive and relaxing settings, experiences, and feelings. 
 	- Meditation. This is a practice of focusing your attention to the present moment so that other stressors in your life do not disturb your peace. 
 	- Biofeedback. This technique involves paying very close attention to signals in your body so that you can gain control of those signals. For example, your heart rate, your breathing, or tenseness in your face. 
+	<p align="center">
+	<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/yoga2.jpg">	
+	</p>	
 	- Yoga. Yoga combines breathing with certain stretches or postures that promote relaxation. This is also a form of physical activity and is also considered a form of meditation by some people.
 
 * Psychological Treatment. Mental health professionals include licensed counselors, psychologists, and psychiatrists. They provide tools to help you with coping skills, develop a support system, and reshape negative thoughts. Therapy can be individual therapy, couples therapy, family therapy, or group therapy. 
