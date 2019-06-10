@@ -5,6 +5,10 @@ layout: lesson
 
 Almost everyone who is going through or has been through cancer can benefit from support. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/WomenDiverse.PNG"/> 
+</p> 
+
 Support can come in many forms: family, friends, cancer support groups, religious or spiritual groups, online support communities, or one-on-one counselors. What’s best for you depends on your situation and personality. Some people feel safe in peer-support groups or education groups. Others would rather talk in an informal setting, such as church. Others may feel more at ease talking one-on-one with a trusted friend or counselor. Whatever your source of strength or comfort, make sure you have a place to go with your concerns. You need people you can turn to for strength and comfort.
 
 There are many support groups available, see support resources for a list of local support groups. Some resources, such as the American Cancer Society Reach to Recovery program, matches you up with a local volunteer who has had breast cancer. As someone who’s been through the experience, your Reach to Recovery volunteer can answer many of your questions.

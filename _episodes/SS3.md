@@ -7,6 +7,10 @@ layout: lesson
 
 You may already have support from your circle of family and friends. Spouses and partners, as well as children, often play key roles in supporting those they love through the tough times of diagnosis and treatment.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Latino big family.jpg"/> 
+</p> 
+
 **Other Sources**
 
 You may find you also need support from people outside of your existing network. This can be a difficult step, but it is an important one. 

@@ -14,6 +14,10 @@ When talking with your spouse or partner think about these key messages:
 
 * Practice active listening. Active listening means you concentrate on understanding what your partner is saying, rather than thinking about what to say next. For example, restate what your partner said in your own words. Then, ask for feedback to make sure you understand your partner’s point of view.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple.PNG"/> 
+</p> 
+
 * Don’t assume you know what your partner is thinking or feeling, or what your partner will say next. Ask questions if something is unclear. 
 
 * Use “I” statements to describe your feelings rather than blaming your partner. This helps you point out why what you’re saying is important to you. For example, it is more helpful to say “I felt sad when you didn’t go to the doctor’s appointment with me” than to say “You didn’t even come to the doctor’s appointment with me.” In this way, it is less likely to put the other person on the defensive and start an argument than a blaming statement.

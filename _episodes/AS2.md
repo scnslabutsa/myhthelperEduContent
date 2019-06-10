@@ -5,6 +5,10 @@ layout: lesson
 
 * Hormone therapy can reduce the risk of breast cancer recurrence and the risk of a new cancer developing in the other breast.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AApatient taking medicine.PNG"/> 
+</p> 
+
 * Try to see yourself in the future, being healthy and enjoying your loved ones and your life...doing the things you enjoy the most.
 
 * Write down your **no. 1** reason (or maybe even your top 5 reasons) for taking this pill and carry it with you in your wallet to remind you why you do it every day.
