@@ -5,6 +5,10 @@ layout: lesson
 
 Most people know that smoking is bad for your health and the health of people around you. Smoking has been found to increase the risk of breast cancer mortality (death from breast cancer) and overall mortality (death from any cause). 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/broken-cigarette.jpg"/>	
+</p>
+
 If you need help quitting smoking, here are some valuable resources that help you create a plan to quit smoking: 
 
 * **[Quitxt](http://quitxt.org/9)**: mobile texting program

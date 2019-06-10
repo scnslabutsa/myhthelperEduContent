@@ -11,13 +11,25 @@ Eating healthy is fun, delicious, and good for your body in countless ways. Here
 
 * Eat “good” (polyunsaturated and monounsaturated) fats found in foods like  olive and canola oil, nuts and natural nut butters, avocadoes, and olives. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AmericanPlate2.jpg"/>	
+</p>
+
 * Limit food portion sizes, especially with high-calorie foods and at restaurants. Most restaurants have serving sizes that far exceed daily calorie recommendations.
 
 * Limit red and processed meats. Instead, choose a leaner protein such as fish and chicken, and eat beans and lentils more often. For example: instead of beef and broccoli, try tofu with mixed vegetables; instead of a ground beef burger, try a black bean or turkey burger; instead of beef enchiladas with cheese, try chicken enchiladas with a tomatillo sauce.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Plate3.PNG"/>	
+</p>
+
 * Choose 100% whole-grain foods such as 100% whole grain breads, pastas, and cereals, brown rice and quinoa (for example, choose whole wheat bread instead of white bread, brown rice instead of white rice).
 
 * Choose vegetables and fruits instead of calorie-dense foods. For example, eat apple slices with peanut butter instead of having a slice of apple pie; eat roasted potatoes instead of French fries; order a side of vegetables instead of fried okra. Always be on the lookout for a healthier choice.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/colorfulFruits.jpg"/>	
+</p>
 
 * There are also some add-on food items that you should avoid because they are high-calorie, high-fat foods. These include: butter and butter sauces, salt, cream cheese, anything fried, adding extra cheese, mayonnaise, tartar sauce, cream sauces, buttermilk, heavy cream, whipped cream.
 

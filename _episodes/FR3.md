@@ -24,12 +24,20 @@ Try to avoid or limit these foods as much as possible:
 * Red meat (burgers, steaks) and processed meat (hot dogs, sausage)
 * Margarine, shortening, and lard
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/InflammatoryFoodsRedMeat.PNG"/>	
+</p>	
+
 Not surprisingly, the same foods that contribute to inflammation are generally considered bad for our health, including sodas and refined carbohydrates, as well as red meat and processed meats.
 Unhealthy foods also contribute to weight gain, which is itself a risk factor for inflammation. 
 
 ***Foods that combat inflammation:***
 
 Some foods have anti-inflammatory properties that may reduce your cancer risk, according to a recent study by Dr. Amelie Ramirez and colleagues at [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/) . The basic anti-inflammatory diet involves regular consumption of multiple spices and herbs and increased intake of marine fish intake, cruciferous and colorful vegetables and fruit, olive oil, and green and black tea.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Ant_inflammatory_Foods.png"/>	
+</p>
 
 **[Spices](http://www.aicr.org/enews/2015/11-november/enews-fall-spices-for-cancer-prevention.html)**: 	Cinnamon, ginger, turmeric, black cumin
 **Herbs**:	Chives, garlic, onion, cloves, rosemary, black pepper, chilies, oregano, thyme, lemongrass

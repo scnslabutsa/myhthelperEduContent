@@ -9,6 +9,9 @@ layout: lesson
     - Walk during your lunch time.
     - Walk around your neighborhood after dinner.
     - Walk your dog in the morning and before bed; if you don’t have a dog, maybe your neighbor needs help walking their dog.
+    <p align="center">
+    <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/walking-cute-pup.jpg"/> 
+    </p>  
     - Don’t text your children to come to the table for dinner. Walk to their rooms to tell them.
     - Park farther away from building entrances.
     - If you use the bus, get off one stop earlier.
@@ -19,6 +22,10 @@ layout: lesson
 * Ride your bike.
 
 * Do some yard work. Mow the grass or pull out weeds; rake leaves instead of using a leaf blower.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/yardwork.jpg"/> 
+</p> 
 
 * Scrub your bathroom tubs and showers.
 

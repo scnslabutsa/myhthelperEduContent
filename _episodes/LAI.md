@@ -5,6 +5,10 @@ layout: lesson
 
 Limiting alcohol intake is responsible and has many benefits. For starters, drinking alcohol can actually raise cancer risk. The risk increases with the amount of alcohol consumed, which is why it is important to avoid excess drinking. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/alcohol.jpg"/>	
+</p>
+
 In general, recommendations are:
 
 * No more than 1 drink a day for women

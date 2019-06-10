@@ -5,6 +5,10 @@ layout: lesson
 
 Phytochemicals are naturally occurring plant chemicals (*phyto* means plant in Greek). They provide plants with color, odor and flavor. Once we eat them, however, research shows they can influence the chemical processes inside our bodies in helpful ways.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/fruits_veggies.jpg"/>
+</p>
+
 Laboratory studies have shown that phytochemicals have the potential to:
 
 * Stimulate the immune system;
