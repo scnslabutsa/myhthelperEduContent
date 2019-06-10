@@ -6,9 +6,9 @@ layout: lesson
 The most important benefit of hormone therapy is to reduce the chance of breast cancer returning and the risk of a new cancer developing in the other breast. 
 
 Keep in mind that for your treatment to be effective in lowering your risk of new or returning cancer, it is essential that you take the medicine exactly as prescribed by your doctor. 
-    <p align="center">
-       <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/maledoctorandfemalepatient.png"/>
-    </p>
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/maledoctorandfemalepatient.png"/>
+</p>
 
 People who complete the full course have better survival than those who do not. 
 
