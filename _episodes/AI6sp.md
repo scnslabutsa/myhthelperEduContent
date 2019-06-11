@@ -5,6 +5,10 @@ layout: lesson
 
 **Dolor muscular y de las articulaciones.** El dolor de las articulaciones es un síntoma común de los inhibidores de aromatasa. **Hable con su doctor** si el dolor de las articulaciones se hace molesto. Su doctor podría recomendar:
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female Exercising.jpg"/>
+</p>
+
 * Ejercicio suave frecuente
 * Medicinas antiinflamatorias, como la aspirina o el ibuprofeno
 * Calor
@@ -18,6 +22,11 @@ Consejos para manejar el dolor de las articulaciones
 * Envuelva hielo en una toalla o use un paquete de hielo para ponerlo sobre su articulación por 15-20 minutos, unas pocas veces al día
 * Dese un baño de tina con agua tibia o báñese en la regadera con agua tibia para relajar sus músculos y aumentar la circulación.
 
+<p align="center">
+<!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAYogawoman.PNG"/>
+</p>
+
 Para prevenir incomodidad en las articulaciones, es recomendado que se mantenga en movimiento y activa. 
 El ejercicio no tiene que ser complicado ni durar mucho tiempo. Por ejemplo, usted puede:
 
@@ -30,6 +39,10 @@ La actividad física ofrece beneficios claves para las pacientes con cáncer. Le
 Simplemente tome algunos pasos para hacer su día más activo y **siempre pregúntele a su doctor** antes de empezar cualquier rutina o programa de ejercicio.
 
 **Pérdida de la densidad ósea.** Comparada con el tamoxifeno, los inhibidores de aromatasa pueden causar pérdida de la densidad ósea, lo cual aumenta el riesgo de osteoporosis y de fracturas de los huesos. Su doctor puede ordenarle un examen para tomar una medida base de su densidad ósea antes de empezar el tratamiento y para monitorear así cualquier cambio en su densidad ósea causada por el medicamento. 
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female dr and patient.jpg"/>
+</p>
 
 Para prevenir la pérdida de densidad ósea, su doctor podría recomendar: 
 
@@ -45,6 +58,12 @@ Simplemente tome algunos pasos para hacer su día más activo y siempre pregúnt
 **Los bochornos (oleadas de calor) y la sudoración nocturna** son sensaciones repentinas y fuertes de calor, especialmente en la cara, el cuello y el pecho. Los bochornos pueden causar sudoración fuerte, lo que puede causarle frio. Su doctor le puede recetar medicamentos sin hormonas tales como antidepresivos o medicinas para el dolor neural, que le pueden disminuir los bochornos. Además de los medicamentos, hay otras cosas que puede hacer para aliviar estos síntomas.
 
 Las pacientes deben también poner atención a las cosas que le causan los bochornos (por ej., el estrés, el alcohol, la comida picante, la cafeína) y evitarlas tanto como les sea posible. 
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_keepcool.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_layers.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_sprays.PNG"/>
+</p>
 
 Consejos para manejar bochornos:
 
@@ -62,6 +81,11 @@ Consejos para manejar bochornos:
 
 **Sequedad vaginal/picazón.** La sequedad vaginal puede causar dolor durante el sexo, dolor vaginal y picazón. Es uno de los síntomas de menopausia que las mujeres reportan más frecuentemente y es importante que usted hable con su doctor acerca de este síntoma. Hay medicamentos de venta libre y otros que su doctor puede recetar para aliviar la sequedad vaginal, así que hable con su equipo médico sobre cual opción es mejor para usted. 
 
+<p align="center">
+<!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Replens.PNG"/>
+</p>
+
 Consejos para manejar la sequedad vaginal:
 
 * Use hidrantes vaginales regularmente (tales como Replens o Hyalo Gyn). Los hidrantes vaginales no tienen estrógeno. Debido a que no contienen estrógeno, las sobrevivientes del cáncer de seno los pueden usar con seguridad. Se necesita usarlos regularmente, no solamente al momento de tener relaciones sexuales. Los hidrantes vaginales son de venta libre. 
@@ -69,6 +93,11 @@ Consejos para manejar la sequedad vaginal:
 * Use cremas para hongos vaginales de venta libre para aliviar las infecciones causadas por hongos vaginales.
 
 **Dolor durante el sexo o dispareunia.** El dolor durante el sexo es un problema de salud que le puede afectar a usted y a su compañero. Hay muchas cosas que pueden causar dolor durante el sexo, por lo que **debe hablar con su doctor** sobre el tipo de dolor que está experimentando para que pueda determinar que tratamiento es mejor para usted. Algunas opciones de tratamientos incluyen:
+
+<p align="center">
+<!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple2.PNG"/>
+</p>
 
 * Los hidrantes vaginales, son hidrantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 
 * Los lubricantes vaginales que están hechos a base de agua o silicona son usados durante las relaciones sexuales para aumentar el placer y la comodidad. 
