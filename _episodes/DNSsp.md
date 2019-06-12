@@ -5,6 +5,10 @@ layout: lesson
 
 La mayoría de las personas ya saben que fumar es malo para su salud y la de las personas que las rodean. Se ha encontrado que fumar aumenta el riesgo de mortalidad por cáncer de seno (muerte por cáncer de seno) y mortalidad general (muerte por cualquier causa).
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/broken-cigarette.jpg"/>	
+</p>
+
 Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos que le pueden ayudar a crear un plan para dejar de fumar:
 
 * [Quitxt](https://quitxt.org/spanish): programa de mensajes de texto móvil: Clic [https://quitxt.org/spanish](https://quitxt.org/spanish)

@@ -12,13 +12,25 @@ Comer saludable es divertido, delicioso y bueno para su cuerpo en formas innumer
 
 * Coma grasas "buenas" (poliinsaturadas y monoinsaturadas) que se encuentran en alimentos como el aceite de oliva y de canola, mantequillas de maní, aguacates y aceitunas.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AmericanPlate2.jpg"/>	
+</p>
+
 * Limite el tamaño de las porciones de alimentos, especialmente de los alimentos altos en calorías y en los restaurantes. La mayoría de los restaurantes tienen tamaños de porciones que superan ampliamente las recomendaciones diarias de calorías.
 
 * Limite las carnes rojas y procesadas. En su lugar, elija una proteína más magra (sin grasa), como el pescado y el pollo, y consuma frijoles y lentejas con más frecuencia. Por ejemplo: en lugar de carne de res y brócoli, pruebe el tofu con verduras mixtas; en lugar de una hamburguesa de carne de res molida, pruebe una hamburguesa de frijoles negros o una hamburguesa de pavo; en lugar de enchiladas de carne con queso, prueba enchiladas de pollo con salsa de tomatillo.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Plate3.PNG"/>	
+</p>
+
 * Elija alimentos 100% integrales, como pan, pastas y cereales 100% integrales o de grano entero, arroz integral y quinoa (por ejemplo, elija pan de trigo integral en lugar de pan blanco, arroz integral en lugar de arroz blanco).
 
 * Elija vegetales y frutas en lugar de alimentos densos en calorías. Por ejemplo, comer rodajas de manzana con mantequilla de maní, en lugar de una rebanada de pastel de manzana; comer papas asadas en lugar de papas fritas; pida vegetales en lugar de okra frita. Siempre busque y elija las opciones más saludables.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/colorfulFruits.jpg"/>	
+</p>
 
 * También hay algunos complementos de los alimentos que debe evitar, porque son altos en calorías y grasas. Estos incluyen: la mantequilla y salsas de mantequilla, la sal, el queso crema, cualquier cosa frita, agregar queso extra, la mayonesa, la salsa tártara, las salsas cremosas, suero de mantequilla (buttermilk en inglés), crema espesa, crema batida.
 

@@ -22,12 +22,20 @@ Trate de evitar o limitar lo más posible estos alimentos:
 * Carne roja (hamburguesas, carne de res) y carne procesada (perros calientes, salchichas)
 * Margarina, manteca vegetal (shortening en inglés) y manteca de cerdo
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/InflammatoryFoodsRedMeat_Spanish.PNG"/>	
+</p>
+
 No es sorpresa que los mismos alimentos que contribuyen a la inflamación generalmente se consideran malos para nuestra salud, incluyendo las sodas y los carbohidratos refinados, como también la carne roja y las carnes procesadas. Los alimentos no saludables también contribuyen al aumento de peso, el cual es un factor de riesgo para la inflamación.
 
 
 ***Alimentos que combaten la inflamación:***
 
 Algunos alimentos tienen propiedades antiinflamatorias que pueden reducir el riesgo de cáncer, según un estudio reciente realizado por la Dra. Amelie G. Ramirez y colegas ver [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110085/). La dieta antiinflamatoria básica incluye el consumo regular de diferentes especias y hierbas, y aumentar el consumo de pescado de mar, los crucíferos, los vegetales y frutas de diferentes colores, el aceite de oliva y el té verde y negro.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Ant_inflammatory_Foods.png"/>	
+</p>
 
 **Especias**: 	Canela, jengibre, turmeric o cúrcuma, comino negro
 

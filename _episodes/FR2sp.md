@@ -5,6 +5,10 @@ layout: lesson
 
 Los fitoquímicos son sustancias químicas de origen vegetal (fito significa planta en griego). Ellos les dan a las plantas color, olor y sabor. Una vez que las comemos, sin embargo, la investigación muestra que pueden influir de manera útil en los procesos químicos dentro de nuestros cuerpos.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/fruits_veggies.jpg"/>
+</p>
+
 Los resultados de estudios de laboratorio han mostrado que los fitoquímicos tienen el potencial de:
 
 * Estimular el sistema inmune
