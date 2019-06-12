@@ -24,6 +24,11 @@ Usted debe continuar siguiendo sus recomendaciones regulares de salud:
 
 * Tener su vacuna contra la influenza anualmente
 * Hágase regularmente la prueba Pap junto con el examen del Virus del Papiloma Humano (HPV por sus siglas en inglés) cada 3 a 5 años o como lo recomiende su doctor.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/microscope.PNG">	
+</p>
+
 * Si tiene 50 años o más, hágase regularmente exámenes de detección temprana del cáncer de colon. Estos pueden incluir la prueba de sangre oculta en heces (FOBT por sus siglas en inglés) basada en guayacol y la prueba inmunoquímica fecal (FIT por sus siglas en inglés), cada año; y/o sigmoidoscopia flexible o colonoscopia cada 5 a 10 años. Hable con su doctor acerca del examen que sea mejor para usted.
 * Si tiene otros problemas de salud, como diabetes, presión alta, colesterol alto, etc. Usted debe continuar los chequeos regulares y seguir las recomendaciones de su doctor.
 * Si tiene dudas, hable con su doctor acerca de sus preocupaciones y pregúntele quién debe ser responsable de su seguimiento regular de salud. Su equipo médico debe darle un plan de cuidado de supervivencia con consejos y recomendaciones. Pregúnteles sobre esto.

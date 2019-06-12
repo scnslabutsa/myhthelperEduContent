@@ -5,6 +5,10 @@ layout: lesson
 
 Limitar el consumo de alcohol es responsable y tiene muchos beneficios. Para empezar, beber alcohol puede realmente aumentar el riesgo de cáncer. El riesgo aumenta con la cantidad de alcohol que se consume, por esto es importante evitar el consumo en exceso de alcohol.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/alcohol.jpg"/>	
+</p>
+
 En general, las recomendaciones son:
 
 * No más de 1 bebida al día para las mujeres

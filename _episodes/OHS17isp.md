@@ -15,6 +15,11 @@ Consejos para manejar el aumento de peso:
     - Si se reúne con una nutricionista, pídale que le enseñe lo que debe buscar en las etiquetas nutricionales de los alimentos para poder tomar decisiones saludables cuando va al supermercado.
 
 * Camine diariamente. Hay muchas maneras en que puede agregar el caminar a su rutina diaria.
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends_2.PNG">   
+  </p>
+
     - Cuando esté en el trabajo, use un baño que se encuentre en un edificio o en un piso diferente.
     - Camine durante su hora del almuerzo.
     - Camine alrededor de su vecindario después de la cena.
@@ -27,6 +32,11 @@ Consejos para manejar el aumento de peso:
     - Use un podómetro todos los días para ver qué tanto está caminando. ¡Algunas veces el ver que tan poco o que tanto está caminando puede motivarla caminar más!
 
 * Mantener Una Dieta Saludable
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/mom kid supermarket.jpg"> 
+  </p>
+  
     - Limite el tamaño de las porciones de alimentos, especialmente de los alimentos altos en calorías y en los restaurantes. La mayoría de los restaurantes tienen tamaños de porciones que superan ampliamente las recomendaciones diarias de calorías.
     - Limite las carnes rojas y procesadas. En su lugar, elija una proteína más magra (sin grasa), como el pescado y el pollo, y consuma frijoles y lentejas con más frecuencia. Por ejemplo: en lugar de carne de res y brócoli, pruebe el tofu con verduras mixtas; en lugar de una hamburguesa de carne de res molida, pruebe una hamburguesa de frijoles negros o una hamburguesa de pavo; en lugar de enchiladas de carne con queso, prueba enchiladas de pollo con salsa de tomatillo.
     - Elija alimentos 100% integrales, como pan, pastas y cereales 100% integrales o de grano entero, arroz integral y quínoa (por ejemplo, elija pan de trigo integral en lugar de pan blanco, arroz integral en lugar de arroz blanco).

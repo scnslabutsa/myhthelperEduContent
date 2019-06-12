@@ -8,6 +8,11 @@ El estrés es una parte natural de nuestras vidas diarias. Cuando enfrenta una s
 Consejos para manejar el estrés:
 
 * Sea más organizada, haga un calendario/horario con las cosas que debe hacer.
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/planner.jpg">	
+  </p>
+
 * Use un planeador diario para mantener un seguimiento de sus citas y actividades
 * Cuando programe actividades, asigne tiempo suficiente para acabar con una actividad antes de empezar la siguiente
 * Programe descansos entre sus actividades
@@ -22,6 +27,11 @@ Consejos para manejar el estrés:
 Otros Consejos Útiles:
 
 - Haga ejercicio regularmente. Caminar moderadamente por sólo 30 minutos al día puede levantarle el ánimo y reducir el estrés.
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends.PNG">	
+  </p>	
+  
 - Programe actividades sociales. Saque tiempo para ver a su familia y amigos. 
 - Programe tiempo para relajarse. Como rutina, incluya en su calendario tiempo para realizar una actividad que usted considera relajante. 
 - Haga las cosas que disfrute. Coma en su restaurante favorito (o busque la receta de su comida favorita y prepárela en casa), mire su programa favorito, o camine en su parque favorito. 

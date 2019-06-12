@@ -11,6 +11,11 @@ Consejos para manejar las náuseas:
 
 * Consuma de 6 a 8 comidas pequeñas o snacks al día, en lugar de 3 comidas grandes.
 * Coma alimentos secos, como galletas, tostadas, o cereal seco, cuando se levante y a intervalos varias veces al día. 
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/biscuit-crackers.jpg">	
+  </p>
+   
 * Coma alimentos que no tengan olores fuertes.
 * Consuma comidas frías en lugar de comidas caliente o picantes.
 * Evite los alimentos grasos, fritos, picantes o muy dulces.

@@ -11,6 +11,11 @@ Consejos para manejar la piel seca:
 
 * Use crema humectante al menos dos veces al día
 * Aplique un aceite (como aceite de bebé) o crema después de bañarse, entre 15 minutes después de hacerlo.
+  
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/skincream.jpg">	
+  </p>
+
 * Evite usar productos que irriten la piel (jabones, detergentes, cremas o perfumes con alcohol)
 * Evite usar productos que raspen o exfolien la piel, como esponjas, exfoliantes de baño o esponjas vegetales. 
 * Báñese en la ducha o en la tina solamente con agua fresca o tibia; el agua caliente puede secar la piel aún más. 

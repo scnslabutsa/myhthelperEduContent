@@ -9,7 +9,12 @@ Hable con su doctor si usted no ha tenido un movimiento intestinal por 3 días o
 
 Consejos para manejar el estreñimiento:
 * Consuma alimentos ricos en fibra. Los alimentos con alta fibra incluyen frutas, granos y cereales, frijoles, nueces, y vegetales. Añada estos alimentos a su dieta lentamente para evitar la inflamación y los gases. 
-* Beba fluidos extra. Tomar de 8-10 tazas de líquidos tales como agua, jugo de ciruela pasa, jugos tibios, tés o limonada caliente durante el día pueden ser de ayuda.  
+* Beba fluidos extra. Tomar de 8-10 tazas de líquidos tales como agua, jugo de ciruela pasa, jugos tibios, tés o limonada caliente durante el día pueden ser de ayuda. 
+
+  <p align="center">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/drinkingWater2.jpg">
+  </p>	 
+    
 * Si le es posible, aumente su actividad física. No hacer ejercicio es una de las causas de estreñimiento más comunes.
 * Solo use laxantes como lo indique su doctor. 
 * Adicionalmente a los laxantes, usted le puede preguntar a su doctor sobre suavizantes de heces, enemas o supositorios de venta libre.

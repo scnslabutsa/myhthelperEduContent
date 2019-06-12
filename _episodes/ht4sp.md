@@ -7,6 +7,10 @@ El beneficio más importante de la terapia hormonal es reducir la posibilidad de
 
 Tenga en cuenta que para que su tratamiento sea efectivo en reducir su riesgo de que el cáncer aparezca otra vez, es esencial que tome su medicina exactamente como la formuló su doctor.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/maledoctorandfemalepatient.png"/>
+</p>
+
 Las mujeres que completan el curso completo de su tratamiento tienen una mejor supervivencia que las que no lo hacen. 
 
 Si olvida una dosis o dos, no se asuste. Continúe tomando su medicina como la formuló su doctor. 
