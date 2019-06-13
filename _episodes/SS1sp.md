@@ -12,6 +12,10 @@ El apoyo social es el apoyo emocional, la ayuda práctica, los consejos y otros 
 * Proveedores de servicios de salud
 * Otros sobrevivientes de cáncer
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/TwoAAwomen.PNG"/> 
+</p> 
+
 Los co-sobrevivientes dan apoyo de muchas maneras diferentes. Por ejemplo, un oncólogo da información, esperanza y consejos sobre su diagnóstico y tratamiento y sobre lo que usted está experimentando. Los amigos y familiares pueden dar ayuda práctica, como ofrecer transporte hacia y desde el sitio de tratamiento o ayudar con la limpieza, comprando y preparando alimentos, cuidando a 
 los niños y buscando información en Internet. Su jefe puede incluso ayudarla a encontrar maneras de balancear su trabajo y su horario de tratamiento.
 		

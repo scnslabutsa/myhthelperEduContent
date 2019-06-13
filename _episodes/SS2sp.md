@@ -4,6 +4,10 @@ layout: lesson
 ---
 
 Casi todas las personas que están pasando o han tenido cáncer pueden beneficiarse al recibir apoyo.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/WomenDiverse.PNG"/> 
+</p> 
     
 El apoyo puede venir en muchas formas: familia, amigos, grupos de apoyo para el cáncer, grupos 
 religiosos o espirituales, comunidades de apoyo en Internet o consejeros personales. Lo que es mejor 

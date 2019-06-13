@@ -9,6 +9,11 @@ layout: lesson
     - Camine durante su hora del almuerzo.
     - Camine alrededor de su vecindario después de la cena.
     - Saque a caminar a su perro por la mañana y antes de acostarse; si no tiene un perro, tal vez su vecino necesite ayuda para sacar a caminar al suyo.
+
+    <p align="center">
+    <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/walking-cute-pup.jpg"/> 
+    </p>
+
     - No envíe mensajes de texto a sus hijos para que vengan a la mesa a cenar. Camine hasta sus habitaciones para decirles que la cena está lista.
     - Estaciónese lejos de las entradas de los edificios.
     - Si usa el autobús, bájese una parada antes.
@@ -19,6 +24,10 @@ layout: lesson
 * Ande en bicicleta.
 
 * Haga trabajo en el jardín. Corte el pasto (zacate) o quite las malas hierbas; rastrille las hojas en lugar de usar un soplador de hojas.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/yardwork.jpg"/> 
+</p>
 
 * Limpie y restriegue a mano sus bañeras y duchas.
 
