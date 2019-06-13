@@ -9,6 +9,11 @@ Estos son algunos consejos cuando hable con su esposo o pareja:
 * Use frases usando "yo" para describir sus sentimientos en lugar de culpar a su pareja. Esto ayuda a señalar por qué lo que está diciendo es importante para usted. Por ejemplo, es más útil decir "Yo me sentí triste cuando no fuiste a la cita del doctor conmigo" que decir "Ni siquiera fuiste a la consulta del doctor conmigo". De esta manera, es menos probable poner a la otra persona a la defensiva y comenzar una discusión con una frase de culpabilidad.
 * Sea específica y clara. Por ejemplo, "herir" podría significar tristeza o desilusión. Es más efectivo hacer una petición que culpar o avergonzar a su pareja. Por ejemplo, en lugar de decir "tú no me ayudas en la casa", sea más específica. En lugar de decir "Nunca me ayudas", diga "Después de preparar la cena, ¿puedes por favor ayudarme a limpiar la cocina?"
 * Si se enoja o se pone emocional, no se apresure, tome su tiempo. Respirar profundamente o salir del cuarto puede ser más útil que forzarse a continuar conversando cuando está enojada o emocional. En lugar de apresurarse, espere hasta que esté más calmada.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple.PNG"/> 
+</p> 
+
 * Tome su tiempo. Uno de los riesgos de cualquier conversación difícil es apresurarse. Tome tiempo para decidir lo que quiere decir y dele tiempo a su pareja también.
 * Enfóquese en un tema a la vez. Evite mencionar otros temas o argumentos antiguos.
 * Tomen turnos para hablar. Establezcan como regla no interrumpirse el uno al otro.

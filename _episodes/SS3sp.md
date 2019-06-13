@@ -7,6 +7,10 @@ layout: lesson
 
 Usted puede tener ya apoyo de círculo familiar y de amigos. Los esposos y compañeros, como también los hijos, frecuentemente juegan roles clave dando apoyo a sus seres queridos en los momentos difíciles del diagnóstico y el tratamiento.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Latino big family.jpg"/> 
+</p> 
+
 **Otras Fuentes**
 
 Puede que usted encuentre que necesita también a otras personas fuera de su red de apoyo existente. 

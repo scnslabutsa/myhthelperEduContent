@@ -7,6 +7,10 @@ layout: lesson
 
 * ¿Qué pruebas se hicieron en mi tumor? ¿Cuál fue el resultado del receptor de estrógeno y del receptor de progesterona de mi tumor? ¿Cómo afecta este resultado mi plan de tratamiento?
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Whitedoc_patient.PNG"/>	
+</p>
+
 * ¿Qué terapia hormonal me recomienda y por qué?
 
 * ¿Cómo trata la terapia hormonal mi cáncer de seno?

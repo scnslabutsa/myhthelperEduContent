@@ -3,7 +3,11 @@ layout: lesson
 <!---title: Use Fuentes de Información Confiables32<sup>32</sup>--->
 ---
 
-La información de salud, impresa o en Internet, debe venir de fuentes confiables y creíbles
+La información de salud, impresa o en Internet, debe venir de fuentes confiables y creíbles.
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/TrustedSources_Spanish.PNG">	
+</p>
 
 Las agencias gubernamentales, los hospitales, las universidades, y las revistas médicas y libros que 
 brindan información basada en evidencia son confiables. Con mucha frecuencia, otras fuentes pueden 

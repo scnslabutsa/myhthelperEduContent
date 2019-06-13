@@ -9,6 +9,10 @@ Cuando hable con cualquier doctor sobre su salud, recuerde que usted tiene infor
 
 * Esté preparada. Con frecuencia es útil reunir información sobre sus preocupaciones de salud – de la biblioteca (libros y revistas médicas), de sitios confiables de Internet, o hojas informativas como las que ofrece Komen. Entre más sepa, más cómoda se sentirá al hablar con su doctor.
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female%20dr%20and%20patient.jpg"/>	
+</p>
+
 * Organice sus preguntas con anticipación. Usted debe ser capaz de hablar abierta y honestamente con su doctor sobre el cáncer de seno, para asegurarse de que todas sus preguntas sean respondidas. 
 
 * Asegúrese de escribir cualquier pregunta que usted quiera hacer. Estas preguntas le ayudarán a su doctor a comprender y dar respuesta a sus preocupaciones específicas. Además, asegúrese de ir con alguien que la acompañe o de traer algún tipo de grabadora de voz para capturar su conversación y poder así volver a oírla más adelante.

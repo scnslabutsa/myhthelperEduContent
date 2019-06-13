@@ -6,6 +6,10 @@ Los efectos secundarios más comunes del tamoxifeno son los síntomas de menopau
 
 Tenga en cuenta que estos efectos secundarios pueden ser causados por otras condiciones. Muchas mujeres no experimentan todos los síntomas. En general, los síntomas pueden ser tratados exitosamente con medicamentos de venta libre (sin receta médica). Por favor pregúntele a su doctor(a) qué le recomienda para manejar estos efectos secundarios. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hotflashes.jpg"/>
+</p>
+
 ***Efectos secundarios comunes:***
 
 * Sensaciones repentinas de calor (bochornos, oleadas de calor) y sudoración nocturna

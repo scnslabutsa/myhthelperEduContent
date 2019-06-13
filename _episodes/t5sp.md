@@ -6,6 +6,12 @@ layout: lesson
 
 Las pacientes deben también poner atención a las cosas que le causan los bochornos (por ej., el estrés, el alcohol, la comida picante, la cafeína) y evitarlas tanto como les sea posible. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_keepcool.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_layers.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Hotflashes_sprays.PNG"/>
+</p>
+
 Consejos para manejar bochornos: 
 * Evite la cafeína y las bebidas calientes
 * Evite las comidas picantes o muy calientes
@@ -23,6 +29,11 @@ Consejos para manejar bochornos:
 **Periodos irregulares o manchado entre periodos.** Si usted es premenopáusica y está tomando tamoxifeno, puede tener irregularidades menstruales, sangrado vaginal, o parar de tener sus periodos menstruales por completo. Dependiendo de su edad, sus periodos pueden continuar durante o después que completar su tratamiento con tamoxifeno. Por favor hable con su doctor si está teniendo periodos irregulares o manchado entre sus periodos, y discuta con él, cualquier preocupación relacionada que pueda tener.
 
 **Pérdida del deseo sexual.** La terapia hormonal puede causar pérdida del deseo sexual. Muchas mujeres tienen dificultad con problemas que afectan la sexualidad después del diagnóstico de cáncer de seno. Hable con su doctor si usted está experimentando pérdida del deseo sexual, él le puede tratar los síntomas físicos que afectan su vida sexual. Un profesional de salud mental (por ej., un psicólogo, terapeuta sexual o trabajador social) o un consejero también le puede recomendar tratamientos disponibles o servicios de apoyo. 
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/whitedoc_AApatient.PNG"/>
+</p>
+
 * Los grupos de apoyo pueden ofrecer un lugar seguro para hablar sobre sus problemas con otras mujeres que la entienden a un nivel personal. 
 * Para encontrar especialistas entrenados en tratamiento de salud sexual para sobrevivientes de cáncer, refiérase a la American Association of Sexuality Educators, Counselors and Therapists (AASECT) en [https://www.aasect.org/](https://www.aasect.org/), o al International Society for the Study of Women’s Sexual Health (ISSWSH) en [http://www.isswsh.org/](http://www.isswsh.org/).
 
@@ -30,6 +41,11 @@ Consejos para manejar bochornos:
 **Sequedad vaginal/picazón.** La sequedad vaginal puede causar dolor durante el sexo, dolor vaginal y picazón. Es uno de los síntomas de menopausia que las mujeres reportan más frecuentemente y es importante que usted hable con su doctor acerca de este síntoma. Hay medicamentos de venta libre y otros que su doctor le puede recetar para aliviar la sequedad vaginal, así que hable con su equipo médico sobre cual opción es mejor para usted. 
 
 Consejos para manejar la sequedad vaginal:
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Replens.PNG"/>
+</p>
+
 * Use hidratantes vaginales regularmente (tales como Replens o Hyalo Gyn). Los hidratantes vaginales no tienen estrógeno. Debido a que no contienen estrógeno, las sobrevivientes del cáncer de seno los pueden usar con seguridad. Se necesita usarlos regularmente, no solamente al momento de tener relaciones sexuales. Los hidratantes vaginales son de venta libre. 
 * Use lubricantes a base de agua o silicona antes de tener relaciones sexuales. Esto le dará una sensación temporal de suavidad en la vagina; sin embargo, estos hidratantes no ofrecen una hidratación a largo plazo como lo hacen los hidratantes vaginales. 
 * Use cremas para hongos vaginales de venta libre para aliviar las infecciones causadas por hongos vaginales.
@@ -38,6 +54,11 @@ Consejos para manejar la sequedad vaginal:
 **Dolor durante el sexo o dispareunia.** El dolor durante el sexo es un problema de salud que le puede afectar a usted y a su compañero. Hay muchas cosas que pueden causar dolor durante el sexo, por lo que es importante hablar con su doctor sobre el tipo de dolor que está experimentando para que pueda determinar que tratamiento es mejor para usted.
 
 Algunas opciones de tratamientos incluyen:
+
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple2.PNG"/>
+</p>
+
 * Los hidratantes vaginales, son hidratantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 
 * Los lubricantes vaginales que están hechos a base de agua o silicona son usados durante las relaciones sexuales para aumentar el placer y la comodidad. 
 * La terapia física del suelo pélvico es útil para mujeres con músculos tensos o débiles. Trabajar en la salud de los músculos del piso pélvico puede ayudar mantener los músculos relajados y disminuir el dolor durante el sexo.
@@ -49,6 +70,10 @@ Algunas opciones de tratamientos incluyen:
 
 Muchas cosas, incluyendo los tratamientos de cáncer, no comer suficiente, no dormir bien, depresión, y ciertas medicinas, entre otras, pueden causar fatiga. 
 
+<p align="center">
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/talkingwithdoctor.PNG"/>
+</p>
+
 Consejos para manejar la fatiga:
 * <strong>Hable con su doctor </strong>si usted se siente fatigada todo el tiempo. Si hay una causa médica, su doctor podrá tratarla.  
 * Trate de priorizar sus actividades. Haga las tareas más importantes cuando tenga más energía.
@@ -59,7 +84,6 @@ Consejos para manejar la fatiga:
 * No tome grandes cantidades de vitaminas o minerales sin consultar primero con su doctor. Las dosis grandes de algunos suplementos alimenticios pueden tener efectos dañinos.
 
 **Fuentes:**
-
 
 <span style="font-size:15px;">Mayo Clinic, 2018. Hot flashes: Symptoms & causes.</span>
 
