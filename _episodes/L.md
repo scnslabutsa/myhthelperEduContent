@@ -11,8 +11,6 @@ The process of producing milk and breastfeeding a child.
 **Large Veins (Deep Veins)** 
 The large veins deep inside the legs that carry blood from the legs back to the heart.
 
-**Late-Stage Cancer (see Metastatic Breast Cancer in [M](/{{page.root}}/myhthelperEduContent/M/index.html))** 
-
 **Lesion** 
 Area of abnormal tissue.
 

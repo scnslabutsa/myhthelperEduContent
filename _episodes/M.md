@@ -33,9 +33,6 @@ Surgical removal of the breast. The exact procedure depends on the diagnosis. Se
 **Mastitis** 
 An inflammation (swelling) of the breast usually occurring during breastfeeding. Symptoms include pain, nipple discharge, fever, redness and hardness over an area of the breast.
 
-**Mean** 
-The average of a group of numbers.
-
 **Mean Survival Time** 
 The average time from the start of treatment (or diagnosis) that people in a study stay alive.
 

@@ -26,7 +26,7 @@ Tratamiento de un cáncer que pudo haber desaparecido por sí solo o nunca haber
 **Sobreviviente**
 Persona que permanece viva y sigue funcionando después de superar dificultades graves o enfermedades potencialmente mortales. En el ámbito del cáncer, una persona se considera sobreviviente desde el momento del diagnóstico hasta la etapa final de la vida.
 
-**Sonogram (ver Ultrasonido)**
+**Sonograma (ver [Ultrasonido](https://scnslabutsa.github.io/myhthelperEduContent/Usp/index.html))**
 
 **Supervivencia**
 En lo referente al cáncer, la supervivencia se enfoca en la salud y la vida de una persona después del tratamiento de cáncer hasta el final de la vida. Esta incluye aspectos relacionados con los asuntos físicos, psicosociales y económicos relacionados con el cáncer, más allá de la fase de diagnóstico y tratamiento. La supervivencia incluye asuntos relacionados con la capacidad de obtener atención de salud y tratamiento de seguimiento, los efectos tardíos del tratamiento, los segundos cánceres y la calidad de vida. Los miembros de la familia, los amigos y las personas que cuidan al enfermo también forman parte del proceso que constituye la supervivencia.

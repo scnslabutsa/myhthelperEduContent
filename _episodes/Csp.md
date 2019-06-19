@@ -56,6 +56,9 @@ Un tubo pequeño usado para aplicar fluidos o sacar fluidos del cuerpo.
 **Catéter Venoso Periférico**
 Dispositivo que se usa para extraer sangre y administrar tratamientos, como líquidos intravenosos, medicamentos o transfusiones de sangre. Se introduce en una vena un tubo delgado y flexible; por lo general, en el dorso de la mano, la parte inferior del brazo o el pie. Se introduce una aguja en una vía de acceso para extraer sangre o administrar líquidos.
 
+**Centigray Centigrays, centésimas de Gray)**
+Un centigray describe la cantidad de radiación absorbida por el cuerpo y es equivalente a 1 RAD (por sus siglas en inglés, dosis de radiación absorbida).
+
 **Cirugía Conservadora de Seno (Lumpectomía)**
 Operación quirúrgica para extirpar el cáncer y un poco del tejido que lo rodea, pero no todo el seno. También es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacerles una biopsia. Además, a veces se extrae parte del revestimiento de la pared del pecho cuando el cáncer está cerca de este. También se llama cirugía para preservar la mama, cuadrantectomía, lumpectomía, mastectomía parcial, mastectomía segmentaria, tilectomía, y tumorectomía.
 
