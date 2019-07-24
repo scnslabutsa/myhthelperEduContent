@@ -18,7 +18,7 @@ layout: lesson
     - Park farther away from building entrances.
     - If you use the bus, get off one stop earlier.
     - If you need to go somewhere within walking distance, walk  instead of drive.
-    - Form a walking club with your co-workers to help you stay motivated to talk during the workday.
+    - Form a walking club with your co-workers to help you stay motivated to walk during the workday.
     - Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
 
 * Ride your bike.

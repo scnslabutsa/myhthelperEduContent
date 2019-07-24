@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Dry Skin<sup>37</sup>--->
 ---
 
-Dry skin can cause itchy skin, so often they two symptoms happen together. 
+Dry skin can cause itchy skin, so often the two symptoms happen together. 
 
 Your doctor may be able to prescribe you a topical steroid cream. Talk with your healthcare team about how severely and how often you experience dry or itchy skin.
 

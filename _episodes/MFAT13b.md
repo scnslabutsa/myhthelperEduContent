@@ -29,7 +29,7 @@ You should continue following your regular health care recommendations:
 * If you have other health conditions such as diabetes, high blood pressure, high cholesterol, etc. You should continue regular check-ups and follow your doctor’s recommendations. 
 * If you have doubts, talk to your doctor about your concerns, and ask him/her who should be responsible for your regular follow-up care. Your medical team should provide a survivorship care plan with advice and recommendations. Ask them about it.
 
-Take advantage of your doctor visits. The main purpose of these visits is to ensure you treatment plan is going as expected and to provide any support you need, such as:
+Take advantage of your doctor visits. The main purpose of these visits is to ensure your treatment plan is going as expected and to provide any support you need, such as:
 
 * Talk about ways you may lower your risk of recurrence.
 * Talk about any problems you have with medications, such as hormone therapy.

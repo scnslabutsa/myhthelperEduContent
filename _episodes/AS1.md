@@ -7,7 +7,7 @@ layout: lesson
 
 * Put your pill bottle somewhere you can see it every day. A good example is next to your toothbrush or coffee maker—-whatever works for you.
 
-* Make it part of one of your routine. For example:
+* Make it part of one of your routines. For example:
 
    * Morning routine: after you brush your teeth or when you drink your morning coffee.
 

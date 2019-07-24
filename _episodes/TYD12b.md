@@ -29,7 +29,7 @@ layout: lesson
 
 * What should I do if side effects/symptoms worsen and interfere with my daily life?
 
-* What type of over-the-counter mediation may I take for specific symptoms/side effects (
+* What type of over-the-counter medication may I take for specific symptoms/side effects (
 i.e., joint ache)?
 
 * What are the risks if I stop taking the hormone therapy or if I skip a dose?
