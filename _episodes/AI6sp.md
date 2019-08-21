@@ -41,7 +41,7 @@ Simplemente tome algunos pasos para hacer su día más activo y **siempre pregú
 **Pérdida de la densidad ósea.** Comparada con el tamoxifeno, los inhibidores de aromatasa pueden causar pérdida de la densidad ósea, lo cual aumenta el riesgo de osteoporosis y de fracturas de los huesos. Su doctor puede ordenarle un examen para tomar una medida base de su densidad ósea antes de empezar el tratamiento y para monitorear así cualquier cambio en su densidad ósea causada por el medicamento. 
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female dr and patient.jpg"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female dr and patient2.jpg"/>
 </p>
 
 Para prevenir la pérdida de densidad ósea, su doctor podría recomendar: 
@@ -96,7 +96,7 @@ Consejos para manejar la sequedad vaginal:
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple2.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.PNG"/>
 </p>
 
 * Los hidrantes vaginales, son hidrantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 

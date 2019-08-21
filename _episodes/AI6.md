@@ -42,7 +42,7 @@ Just take small steps to make your day more active, and always ask your doctor b
 **Loss of bone density.** Aromatase can cause loss of bone density, which leads to higher rates of osteoporosis and bone fractures compared to tamoxifen. Your healthcare team can take a baseline measure of your bone density to compare against in the future in order to monitor any changes to your bone density.
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female dr and patient.jpg"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Female dr and patient2.jpg"/>
 </p>
 
 To help prevent bone loss, your doctor may recommend:
@@ -97,7 +97,7 @@ Tips to manage vaginal dryness:
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple2.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.PNG"/>
 </p>
 
 * Vaginal moisturizers are estrogen-free, over-the-counter moisturizers that are used regularly, rather than just at the time of intercourse. It keeps the vaginal area moisturized, unlike a lubricant which only makes the vaginal area slippery and is generally only used at the time of intercourse.

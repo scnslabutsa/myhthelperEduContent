@@ -4,7 +4,7 @@ layout: lesson
 ---
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAdoctorandpatient.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAdoctor_with_patient.png"/>
 </p>
 
 For women with hormone receptor-positive breast cancer, treatment with aromatase inhibitors (alone or after several years of tamoxifen) lowers the risk of:

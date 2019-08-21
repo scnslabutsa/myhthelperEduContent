@@ -5,7 +5,7 @@ layout: lesson
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAdoctorandpatient.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAdoctor_with_patient.png"/>
 </p>
 
 Para mujeres con cáncer de seno positivo para receptores hormonales, el tratamiento con inhibidores de aromatasa (por si solo o después de varios años de tomar tamoxifeno) disminuye el riesgo de:

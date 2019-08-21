@@ -7,7 +7,7 @@ layout: lesson
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HowAromataseI_work_Spanish.png"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work_Spanish.png"/>
 </p>
 
 **Fuentes:**
