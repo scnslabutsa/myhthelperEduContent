@@ -9,7 +9,7 @@ Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine t
 
 * Breast cancers with many hormone receptor cells are called hormone receptor-positive cancers. 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HormoneReceptorCells.jpg"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HormoneReceptorCells.png"/>
 </p>
 They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor positive breast cancer. 
 
@@ -21,7 +21,7 @@ Hormone therapy slows or stops the growth of hormone-sensitive tumors in two way
 
 1. By lowering the amount of estrogen in the body. This can be done by blocking ovarian function (i.e., Zoladex and Lupron); or by blocking estrogen production through drugs called aromatase inhibitors (i.e., Arimidex and Femara and Aromasin); and 
       <p align="center">
-       <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage.jpg"/>
+       <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage.png"/>
       </p>
 
 2. By blocking the action of estrogen on breast cancer cells (i.e, Novaldex [tamoxifen] and Evista [raloxifene]).
