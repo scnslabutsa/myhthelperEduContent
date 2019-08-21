@@ -96,7 +96,7 @@ Consejos para manejar la sequedad vaginal:
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.png"/>
 </p>
 
 * Los hidrantes vaginales, son hidrantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 

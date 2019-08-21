@@ -97,7 +97,7 @@ Tips to manage vaginal dryness:
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.png"/>
 </p>
 
 * Vaginal moisturizers are estrogen-free, over-the-counter moisturizers that are used regularly, rather than just at the time of intercourse. It keeps the vaginal area moisturized, unlike a lubricant which only makes the vaginal area slippery and is generally only used at the time of intercourse.
