@@ -6,7 +6,7 @@ layout: lesson
 * La terapia hormonal puede disminuir el riesgo de recurrencia del cáncer de seno y también el riesgo de desarrollar un cáncer nuevo en el otro seno. 
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AApatient taking medicine.PNG"/> 
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_female_taking_medicine.jpg"/> 
 </p> 
 
 * Trate de verse a sí misma en el futuro, con buena salud y disfrutando sus seres queridos y su vida…haciendo las cosas que más disfruta.

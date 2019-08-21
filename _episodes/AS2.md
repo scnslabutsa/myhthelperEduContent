@@ -6,7 +6,7 @@ layout: lesson
 * Hormone therapy can reduce the risk of breast cancer recurrence and the risk of a new cancer developing in the other breast.
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AApatient taking medicine.PNG"/> 
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_female_taking_medicine.jpg"/> 
 </p> 
 
 * Try to see yourself in the future, being healthy and enjoying your loved ones and your life...doing the things you enjoy the most.
