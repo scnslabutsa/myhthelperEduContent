@@ -4,7 +4,7 @@ layout: lesson
 ---
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage_Spanish.jpg"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage_Spanish.png"/>
 </p>
 
 El tamoxifeno y otras drogas similares interfieren con la capacidad del estrógeno de estimular el crecimiento de las células del cáncer de seno. El tamoxifeno se usa tanto en mujeres que son pre o posmenopáusicas (que no han llegado o ya han llegado a la menopausia). Estas drogas hacen más lento o detienen el crecimiento de los tumores evitando que las células cancerosas reciban las hormonas que necesitan para crecer. El tamoxifeno se une al receptor en la célula cancerosa y bloquea al estrógeno para que no se una al receptor de la célula. 

@@ -56,7 +56,7 @@ Consejos para manejar la sequedad vaginal:
 Algunas opciones de tratamientos incluyen:
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AAcouple2.PNG"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAcouple2.PNG"/>
 </p>
 
 * Los hidratantes vaginales, son hidratantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 
