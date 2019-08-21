@@ -13,7 +13,7 @@ Social support is the emotional support, practical help, advice and other benefi
   * Other cancer survivors
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/TwoAAwomen.PNG"/> 
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_AAmotherdaughter.jpg"/> 
 </p> 
 
 Co-survivors give support in many different ways. For example, an oncologist provides information, hope and advice regarding your diagnosis and treatment and what you are experiencing. Friends and family may give practical help, like offering rides to and from treatments or helping with cleaning, cooking, grocery shopping, child care and looking up information on the Internet. Your boss may even help you find ways to balance your job and treatment schedule. 
