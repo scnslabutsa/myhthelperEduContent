@@ -27,7 +27,7 @@ Hormone therapy slows or stops the growth of hormone-sensitive tumors in two way
        <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/hormoneReceptorBlockage.png"/>
       </p>
 
-2. By blocking the action of estrogen on breast cancer cells (i.e, Novaldex [tamoxifen] and Evista [raloxifene]).
+2. By blocking the action of estrogen on breast cancer cells (i.e, Novaldex [tamoxifen] and Fareston [toremifene]).
 
 The hormone therapy a doctor prescribes depends on many factors, including disease characteristics, and if you are pre- or post-menopausal. 
 
