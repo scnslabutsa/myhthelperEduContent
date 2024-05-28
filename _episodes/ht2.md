@@ -3,7 +3,8 @@ layout: lesson
 <!---title: What is hormone therapy for breast cancer and how does it work? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
-Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine therapy) is systemic therapy. That means it reaches cancer cells anywhere in the body, not just the breasts. Hormone therapy is recommended for women with hormone receptor-positive (ER-positive and/or PR-positive) breast cancers, not for women with tumors that are hormone-negative. 
+Breast cancer cells have receptors (proteins) that attach to estrogen and progesterone, which helps them grow. Treatments that stop these hormones from attaching to these receptors are called hormone therapy (also called hormonal therapy, hormone treatment, or endocrine therapy). This is systemic therapy, which means it reaches cancer cells anywhere in the body, not just the breasts. Hormone therapy is recommended for women with hormone receptor-positive (ER-positive and/or PR-positive) breast cancers, not for women with hormone-negative tumors.
+ 
 
 ***Breast Cancer Types***
 
@@ -11,7 +12,9 @@ Hormone therapy (also called hormonal therapy, hormone treatment, or endocrine t
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HormoneReceptorCells.png"/>
 </p>
-They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor positive breast cancer. 
+They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor-positive breast cancer. 
+
+* For ER-positive and PR-positive breast cancers, blocking or slowing estrogen and progesterone from attaching to receptors can help keep the cancer from growing and spreading.
 
 * Breast cancers with few or no hormone receptor cells are called hormone receptor-negative cancers. They can be estrogen receptor-negative (ER-negative) and/or progesterone receptor-negative (PR-negative).
 
@@ -31,8 +34,8 @@ The hormone therapy a doctor prescribes depends on many factors, including disea
 
 **Sources:**
 
-<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
+<span style="font-size:15px;">National Cancer Institute, 2023. Treating Breast Cancer. Hormone Therapy for Breast Cancer</span>
 
-<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
+<span style="font-size:15px;">American Cancer Society, 2022. Hormone Therapy for Breast Cancer</span>
 
 
