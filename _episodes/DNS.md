@@ -3,19 +3,21 @@ layout: lesson
 <!---title: Do not Smoke<sup>19</sup>-->
 ---
 
-Most people know that smoking is bad for your health and the health of people around you. Smoking has been found to increase the risk of breast cancer mortality (death from breast cancer) and overall mortality (death from any cause). 
+Most people know that smoking is bad for your health and the health of people around you. Tobacco use remains the leading preventable cause of death in the US, causing 1 in 5 deaths each year.
+ 
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/broken-cigarette.jpg"/>	
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/cigarette.png"/>	
 </p>
 
 If you need help quitting smoking, here are some valuable resources that help you create a plan to quit smoking: 
 
-* **[Quitxt](http://quitxt.org/9)**: mobile texting program
-* **[Yesquit.org](https://www.yesquit.org/)**: phone counseling or online program
-* **American Cancer Society** [https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html](https://www.cancer.org/healthy/stay-away-from-tobacco/guide-quitting-smoking.html): helpful information about smoking cessation
-* [Smokefree.gov](https://smokefree.gov/): text and online program 
+* Quitxt: mobile texting program. Please text iquit for English or lodejo for Spanish to 844-332-2878
+* Yesquit.org: phone counseling or online program
+* American Cancer Society [https://www.cancer.org/cancer/risk-prevention/tobacco/guide-quitting-smoking.html](https://www.cancer.org/cancer/risk-prevention/tobacco/guide-quitting-smoking.html): helpful information about smoking cessation (quitting smoking)
+* Smokefree.gov: text and online program 
 
 **Sources:**
 
-<span style="font-size:15px;">Susan G. Komen, 2017. Healthy Lifestyles for Breast Cancer Survivors.</span>
+<span style="font-size:15px;">American Cancer Society, 2020. Health Risks of Smoking Tobacco.</span>
+<span style="font-size:15px;">Susan G. Komen, 2023. Healthy Lifestyles for Breast Cancer Survivors.</span>
