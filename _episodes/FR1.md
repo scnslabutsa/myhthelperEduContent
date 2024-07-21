@@ -5,8 +5,13 @@ layout: lesson
 
 Talk with your doctor, dietitian or pharmacist about any possible interactions with the therapies that you are receiving and certain foods and herbal supplements. Healthcare providers will need to review, on a case by case basis, whether or not there are herbal supplements that could enhance your treatments. Always ask your doctor or nurse if you have concerns about your nutritional needs, be sure to ask them to repeat or explain anything that’s not clear.
 
-At the moment, many practitioners are being conservative in their recommendations of unstudied herbs. Please see [https://ods.od.nih.gov/](https://ods.od.nih.gov/) for more information on specific herbs. On the other hand, dietary sources of herbs—such as parsley, thyme, oregano and many others—are great sources of vitamins, minerals and healthy plant compounds. Adding herbs to your meals is a great idea for most people.
+At the moment, many practitioners are being conservative in their recommendations of unstudied herbs. Please see [https://ods.od.nih.gov/](https://ods.od.nih.gov/) for more information on specific herbs. On the other hand, dietary sources of herbs—such as parsley, thyme, oregano and many others—are great sources of vitamins, minerals and healthy plant compounds. Adding these herbs to your meals is a great idea for most people.
+
 
 **Source:**
 
-<span style="font-size:15px;">Memorial Sloan Kettering Cancer Center, 2016. Nutrition and Breast Cancer: Making Health Diet Decisions</span>
+<span style="font-size:15px;">American Cancer Society, 2022. Benefits of Good Nutrition During Cancer Treatment.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2021. Are Dietary Supplements Safe?</span>
+
+<span style="font-size:15px;">Memorial Sloan Kettering Cancer Center, 2023. Nutrition and Breast Cancer: Making Health Diet Decisions</span>
