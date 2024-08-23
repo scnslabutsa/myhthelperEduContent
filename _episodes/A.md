@@ -4,78 +4,117 @@ layout: lesson
 
 <a name="top"></a>
 
-**Acupuncture** 
-Use of very thin needles inserted at precise points on the body that may help control pain and other side effects of treatment or breast cancer itself. It is a type of integrative or complementary therapy.
+**Acupuncture**
+The technique of inserting thin needles through the skin at specific points on the body to control pain and
+other symptoms. It is a type of complementary and alternative medicine. Each point is thought to control
+the feeling of pain in a different part of the body.
 
-**Adjuvant (Systemic) Therapy** 
-Treatment given in addition to surgery and radiation to treat breast cancer that may have spread to other parts of the body. It may include chemotherapy, targeted therapy and/or hormone therapy.
-Advocacy (see Breast Cancer Advocacy)
- 
-**Alopecia** 
-Hair loss.
+**Adjuvant Therapy**
+Additional cancer treatment given after the primary treatment to lower the risk that the cancer will come
+back. Adjuvant therapy may include chemotherapy, radiation therapy, hormone therapy, targeted therapy,
+or biological therapy. Also called co-adjuvant therapy, adjuvant treatment, and co-adjuvant treatment.
 
-**Alternative Therapy** 
-Any therapy used instead of standard medical treatments such as surgery, chemotherapy and hormone therapy. Alternative therapies are different from integrative and complementary therapies, which are used in addition to standard treatments. Alternative therapies have not been shown to be effective in treating breast cancer, so it is not safe to use them.
+**Advocacy (see Breast Cancer Advocacy)**
 
-**Amenorrhea** 
-The absence or stopping of menstrual periods.
+**Alopecia**
+Hair loss, which can include loss of hair on your head, body hair, eyebrows, and eyelashes as well as pubic
+hair. This often happens with chemotherapy treatment or radiation therapy. In most cases, the hair grows
+back after treatment ends.
 
-**Anesthesia** 
-Loss of feeling or sensation that keeps a person from feeling pain during surgery or other medical procedures. Local or regional anesthesia may be used for a specific part of the body, such as the breast, by injection of a drug into that area. General anesthesia numbs the entire body and puts a person to sleep with drugs that are injected into a vein or inhaled.
+**Alternative Therapy**
+Treatment that is used along with standard treatment, but is not considered standard. Standard treatments
+are based on the results of scientific research and are currently accepted and widely used. Less research
+has been done for most types of complementary therapy. Complementary therapy includes acupuncture,
+dietary supplements, massage therapy, hypnosis, and meditation. For example, acupuncture may be used
+with certain drugs to help lessen cancer pain or nausea and vomiting. Also called complementary medicine
+and complementary treatment.
 
-**Angiogenesis** 
-The growth of new blood vessels that cells need to grow.
+**Amenorrhea**
+The absence or stopping of menstrual periods, which is sometimes caused by homone treatments or
+cancer treatments.
 
-**Antibody** 
-A protein made by white blood cells that is part of the body’s immune system. Each antibody binds to a certain antigen (foreign substance, such as bacteria) and helps the body fight the antigen.
+**Anesthesia**
+Loss of feeling or numbness caused by drugs or other substances to keep patients from feeling pain during
+surgery or other procedures.
+* Local or regional anesthesia numbs only a certain area, so you won’t feel pain there.
+* General anesthesia causes loss of consciousness (puts you into a deep sleep so you don’t feel pain).
 
-**Antibody Therapy** 
-A drug containing an antibody that is specially made to target certain cancer cells. See Antibody.
+**Angiogenesis**
+The creation of new blood vessels. Some cancer treatments work by blocking angiogenesis, which helps
+keep blood from reaching (“feeding”) the tumor.
 
-**Anti-carcinogen** 
-An agent that counteracts carcinogens (cancer causing agents).
+**Antibody**
+A protein made by white blood cells that is part of the body’s immune system. Each antibody binds to a
+certain antigen (foreign substance, such as bacteria) and helps the body fight the antigen.
 
-**Antiemetic** 
+**Antibody Therapy**
+Treatment that uses antibodies to help the body fight cancer, infection, or other diseases. Antibodies are
+proteins made by the immune system that bind to specific markers on cells or tissues. Monoclonal
+antibodies are a type of antibody made in the laboratory that can be used in diagnosis or treatment. In
+cancer treatment, monoclonal antibodies may kill cancer cells directly, they may block development of
+tumor blood vessels, or they may help the immune system kill cancer cells.
+
+**Anti-carcinogen**
+A medicine, substance, or procedure used to fight cancer.
+
+**Antiemetic**
 A medicine that prevents or relieves nausea and vomiting.
 
-**Antigen** 
-A substance that causes the body to make an immune response. This immune response often involves making antibodies.
- 
-**Antioxidant** 
-A substance that protects the body from damage by oxidizing agents. Oxidizing agents are always present in the body and are often beneficial. However, when large amounts of oxidants are present in cells, they can cause damage, especially to DNA. This can lead to abnormal cell growth. Antioxidants include beta-carotene and vitamins A, C and E.
+**Antigen**
+Any foreign substance that causes the body’s immune system to respond by making antibodies. Antigens
+include toxins, chemicals, bacteria, viruses, or other substances that come from outside the body. Body
+tissues and cells, including cancer cells, also have antigens on them that can cause an immune response.
+These antigens can also be used as markers in laboratory tests to find those tissues or cells.
 
-**Apoptosis** 
-A normal cell process in which a genetically programmed series of events leads to the death of a cell. Cancer cells may block apoptosis.
+**Antioxidant**
+Substances that protect cells from damage caused by oxidizing agents. Oxidizing agents are always
+present in the body and can be helpful. However, when large amounts of oxidants are present in cells, they
+can cause damage, especially to DNA. This can lead to abnormal cell growth. Antioxidants might reduce
+risk of some cancers. Antioxidants include beta-carotene and vitamins A, C and E.
 
-**Areola** 
+**Apoptosis**
+A type of cell death in which a series of molecular steps in a cell lead to its death. This is one method the
+body uses to get rid of unneeded or abnormal cells. The process of apoptosis may be blocked in cancer
+cells. Also called programmed cell death.
+
+**Areola**
 The darkly shaded circle of skin surrounding the nipple.
 
-**Aromatase Inhibitors** 
-Hormone therapy drugs that lower estrogen levels in the body by blocking aromatase, an enzyme that converts other hormones into estrogen. Aromatase inhibitors are used to treat postmenopausal women with hormone-receptor positive breast cancer.
+**Aromatase Inhibitors**
+Hormone therapy drugs that lower estrogen levels in the body by blocking aromatase, an enzyme that
+turns other hormones into estrogen. Aromatase inhibitors are used to treat postmenopausal women with
+hormone-receptor positive breast cancer. Examples include anastrozole (Arimidex®), letrozole (Femara®),
+and exemestane (Aromasin®).
 
-**Aspirate** 
-To remove fluid and a small number of cells.
+**Aspirate**
+To remove fluid and a small number of cells. It could also mean to accidentally inhale food or liquids into
+the lungs.
 
-**Atrophic Vaginitis** (see Vaginal Atrophy in [V](/{{page.root}}/myhthelperEduContent/V/index.html)) 
+**Atrophic Vaginitis (see Vaginal Atrophy)**
 
-**Atypical Hyperplasia** 
-A benign (not cancer) breast condition where breast cells are growing rapidly (proliferating). The proliferating cells look abnormal under a microscope.
-Although atypical hyperplasia is not breast cancer, it increases the risk of breast cancer.
+**Atypical Hyperplasia**
+A benign (not cancer) condition in which cells look abnormal under a microscope and are increased in
+number.
 
-**Autologous** 
-A blood donation or tissue graft from a person’s own body rather than from a donor. For example, autologous breast reconstruction techniques use skin and tissue flaps (grafts) from a person’s own body.
+**Autologous**
+Use of a person’s own blood or tissue in a medical procedure, rather than a donor. For example,
+autologous breast reconstruction uses a woman’s own tissue to rebuild her breast.
 
-**Axilla** 
+**Axilla**
 The underarm area.
 
-**Axillary Dissection (Axillary Sampling)** 
-Surgical procedure to remove some or all of the lymph nodes from the underarm area so that the nodes can be examined under a microscope to check whether or not cancer cells are present.
- 
-**Axillary Lymph Nodes** 
+**Axillary Dissection (Axillary Sampling)**
+Removal of the lymph nodes in the armpit (the axillary nodes). They are looked at with a microscope to see
+if they contain cancer.
+
+**Axillary Lymph Nodes**
 The lymph nodes in the underarm area.
 
-**Ayurveda** 
-An integrative or complementary medical system from India that involves diet, exercise, meditation and massage. Ayurveda means "life-knowledge."
+**Ayurveda**
+A medical system from India that has been used for thousands of years. The goal is to cleanse the body
+and to restore balance to the body, mind, and spirit. It uses diet, herbal medicines, exercise, meditation,
+breathing, physical therapy, and other methods. It is a type of Complementary and Alternative Medicine
+(CAM) therapy. Also called Ayurvedic medicine.
 
 <!--a href="#top">Back to top of page</a>-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
