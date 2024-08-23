@@ -14,7 +14,7 @@ Additional cancer treatment given after the primary treatment to lower the risk 
 back. Adjuvant therapy may include chemotherapy, radiation therapy, hormone therapy, targeted therapy,
 or biological therapy. Also called co-adjuvant therapy, adjuvant treatment, and co-adjuvant treatment.
 
-**Advocacy (see Breast Cancer Advocacy)**
+**Advocacy (see Breast Cancer Advocacy in [B](/{{page.root}}/myhthelperEduContent/B/index.html))**
 
 **Alopecia**
 Hair loss, which can include loss of hair on your head, body hair, eyebrows, and eyelashes as well as pubic
@@ -90,7 +90,7 @@ and exemestane (Aromasin®).
 To remove fluid and a small number of cells. It could also mean to accidentally inhale food or liquids into
 the lungs.
 
-**Atrophic Vaginitis (see Vaginal Atrophy)**
+**Atrophic Vaginitis (see Vaginal Atrophy in [V](/{{page.root}}/myhthelperEduContent/V/index.html))**
 
 **Atypical Hyperplasia**
 A benign (not cancer) condition in which cells look abnormal under a microscope and are increased in
