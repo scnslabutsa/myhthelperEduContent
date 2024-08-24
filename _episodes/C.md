@@ -3,77 +3,78 @@ layout: lesson
 <!---title: C-->
 ---
 
-**Cachexia** 
-Loss of appetite and weight.
+**Cachexia**
 
-**Calcifications** 
-Deposits of calcium in the breast that appear as bright, white spots on a mammogram. Most calcifications are not cancer. However, tight clusters or lines of tiny calcifications (called microcalcifications) can be a sign of breast cancer.
+A significant loss of weight and muscle mass caused by loss of appetite and poor nutrition.
 
-**Cancer** 
-General name for over 100 diseases with uncontrolled cell growth.
-Cancer Staging (see Staging) Carcinoma in Situ(in Situ Carcinoma)
-Condition where abnormal cells are found in the milk ducts or lobules of the breast, but not in the surrounding breast tissue. In situ means "in place." See ductal carcinoma in situ and lobular carcinoma in situ.
- 
-**Case-Control Study** 
-An observational study that looks at two groups–one with people who already have the outcome of interest (cases), and one with people who do not (controls). For example, the cases may be women with breast cancer and the controls may be cancer-free women. The two groups are then compared to see if any characteristic was more common in the past history of one group compared to the other.
+**Calcifications**
 
-**Case Series** 
-A health care provider’s observations of a group of patients who are given a certain type of  treatment.
+Tiny calcium deposits within the breast, seen alone or in clusters. They are often found on a mammogram as bright, white spots. Very small deposits may be called microcalcifications. They are a sign of changes within the breast that may need to be followed by more mammograms, or by a biopsy.
 
-**Catheter** 
-A small tube used to deliver fluids to (or remove them from) the body.
+**Cancer**
 
-**Centigray  (Centigrays)** 
-One centigray describes the amount of radiation absorbed by the body and is equivalent to 1 RAD (radiation absorbed dose).
+A group of diseases in which cells in the body change and grow out of control. Most types of cancer cells form a lump, or mass called a tumor. Not all tumors are cancer. A tumor that is not cancer is called benign. A cancerous tumor is called malignant. A cancerous tumor can invade and destroy healthy tissue (malignant).
 
-**Chemoprevention** 
+**Carcinoma In Situ (In situ carcinoma)**
+
+A group of abnormal cells that remain in the place where they first formed. They have not spread. These abnormal cells may become cancer and spread into nearby normal tissue. Also called stage 0 disease.
+
+**Catheter**
+
+A small tube used to deliver fluids to (or remove them from) the body, like an IV catheter.
+
+**Cell Proliferation**
+
+An increase in the number of cells as a result of cell growth and cell division.
+
+**Chemoprevention**
+
 A drug or combination of drugs used to lower the risk of breast cancer in cancer- free women at higher risk.
 
-**Chemotherapy** 
-A drug or combination of drugs that kills cancer cells in various ways.
+**Chemotherapy**
 
-**Clinical Breast Examination (CBE)** 
+Treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Chemotherapy may be given by mouth, injection, or infusion, or on the skin, depending on the type and stage of the cancer being treated. It may be given alone or with other treatments, such as surgery, radiation therapy, or biologic therapy.
+
+**Clinical Breast Examination (CBE)**
+
 A physical exam done by a health care provider to check the look and feel of the breasts and underarm for any changes or abnormalities (such as lumps).
 
-**Clinical Trials** 
-Research studies that test the benefits of possible new ways to detect, diagnose, treat or prevent disease. People volunteer to take part in these studies.
+**Clinical Trials**
+Research studies that test the benefits of new methods of screening, prevention, diagnosis, or treatment of a disease. People volunteer to participate in these studies.
 
-**Cognitive (function)** 
-Mental processes related to understanding, such as reasoning and problem- solving.
+**Cognitive (function)**
+Mental processes related to understanding, such as reasoning and problem-solving.
 
-**Cohort Study** 
-A study that follows a large group of people (a cohort) over time.
+**Complementary Therapies (Integrative Therapies) (See Alternative Therapies in [A](/{{page.root}}/myhthelperEduContent/A/index.html))**
 
-**Co-Insurance** (see Co-Payment in [C](/{{page.root}}/myhthelperEduContent/C/index.html)) \
- 
-**Complementary Therapies (Integrative Therapies)** 
-Therapies (such as acupuncture or massage) used in addition to standard medical treatments. Complementary therapies are not used to treat cancer, but they may help improve quality of life and relieve some side effects of treatment or the cancer itself. When complementary therapies are combined with standard medical care, they are often called integrative therapies.
+**Computer-assisted detection (CAD)**
 
-**Computer-assisted detection (CAD)** 
 Software developed to help radiologists find suspicious areas on a digital mammogram.
-Computerized Axial Tomography (CAT) Scan (see CT Scan) 95% Confidence Interval (95% CI)
-A statistical concept that shows there is a 95 percent probability the 'true' measure is found within a range of measures computed from a single study. For example, if the 95% confidence interval for a survival rate is 75 to 90 percent, there is a 95 percent chance the true survival rate falls between 75 and 90 percent.
 
-**Co-Payment (Co-Insurance)** 
-In an insurance plan, the portion of medical costs a person must pay (the portion not covered by his/her insurance policy).
+**Core Needle Biopsy**
 
-**Core Needle Biopsy** 
-A needle biopsy that uses a hollow needle to remove samples of tissue from an abnormal area in the breast.
+A needle biopsy that uses a hollow needle to remove samples of tissue from an abnormal area (lump or cyst) in the breast. A pathologist looks at these samples with a microscope to see if cancer cells are present.
 
-**Co-Survivor** 
+**Co-Survivor**
+
 A person who lends support to someone diagnosed with breast cancer, from the time of diagnosis through treatment and beyond. Co-survivors may include family members, spouses or partners, friends, health care providers and colleagues.
 
-**CT Scan (Computerized Tomography Scan, Computerized Axial Tomography (CAT) Scan)** 
-A series of pictures created by a computer linked to an X-ray machine. The scan gives detailed internal images of the body.
+**CT Scan (Computerized Tomography Scan, Computerized Axial Tomography (CAT) Scan)**
 
-**Cyst** 
-A fluid-filled sac.
+A series of pictures taken by a computer linked to an X-ray machine. The scan gives detailed images of the organs and tissues and can help doctors find cancers, the tumor’s size and shape, and how well the treatment is working.
 
-**Cytopathologist** 
-A pathologist who specializes in looking at individual cells. A cytopathologist is needed to interpret the results of fine needle aspiration.
+**Cyst**
 
-**Cytotoxic** 
-Toxic, or deadly, to cells (cell killing). Often used to describe chemotherapy. Top of Document
+Pockets of tissue that can form anywhere in the body and may be filled with fluid, air, or pus. Cysts are usually not cancer (benign).
+
+
+**Cytopathologist**
+
+A pathologist who specializes in looking at individual cells. A cytopathologist is needed to understand the results of fine needle aspiration.
+
+**Cytotoxic**
+
+Toxic, or deadly, to cells (cell killing). Often used to describe chemotherapy.
 
 <!--a href="#top">Back to top of page</a-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
