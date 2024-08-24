@@ -5,45 +5,52 @@ layout: lesson
 
 <a name="top"></a>
 
-**Deductible (Insurance Deductible)** 
-The pre-set amount of medical costs a person must pay before insurance payments begin.
+**Definitive Surgery**
 
-**Definitive Surgery** 
 All of the known tumor is removed and no follow-up surgery is needed.
 
-**Diabetic Mastopathy** 
+**Diabetic Mastopathy**
+
 A rare benign (not cancer) breast condition that consists of small hard masses in the breast. It occurs most often in women with insulin-dependent (type 1) diabetes.
 
-**Diagnosis** 
-Identification of a disease from its signs and symptoms.
+**Diagnosis**
 
-**Diagnostic Mammogram** 
+Identifying a disease or condition by its signs or symptoms, and by using health histories, physical exams, imaging tests, lab tests, or biopsy to help make a diagnosis.
+
+**Diagnostic Mammogram**
+
 A mammogram used to check symptoms of breast cancer (such as a lump) or an abnormal finding noted on a screening mammogram or clinical breast exam. It involves two or more X-ray views of the breast.
 
-**Diagnostic Radiologist (Radiologist)** 
-A health care provider who specializes in the diagnosis of diseases using X-rays.
+**Diagnostic Radiologist (Radiologist)**
 
-**Diploid (DNA Ploidy)** 
+A doctor who has special training in creating and interpreting pictures of areas inside the body. The pictures are made with x-rays, sound waves, or other types of energy.
+
+**Diploid (DNA Ploidy)**
+
 The presence of a normal number of chromosomes in cancer cells.
- 
-**Disease-Free Survival Rate** 
-Percent of people alive and without disease at a certain time (often five years or 10 years) after treatment Those who die from causes other than the disease under study are not included in this measure.
 
-**Distant Recurrence (see Metastases) DNA (Deoxyribonucleic Acid)** 
+**Disease-Free Survival**
+
+In cancer, the length of time after primary treatment for a cancer ends that the patient survives without any signs or symptoms of that cancer. In a clinical trial, measuring the disease-free survival is one way to see how well a new treatment works. Also called DFS, relapse-free survival, and RFS.
+
+**Distant Recurrence (see Metastases in [M](/{{page.root}}/myhthelperEduContent/M/index.html)))**
+
+**DNA (Deoxyribonucleic Acid)**
+
 The information contained in a gene.
 
-**Dose-Dense Therapy** 
-Chemotherapy given over a shorter (more condensed) time period compared to standard therapy. The frequency of treatment sessions is increased, so the length of the treatment period is  shortened.
+**Dose-Dense Therapy (Chemotherapy)**
 
-**Down-Staging** 
-Lowering the stage of a cancer from its original stage (or the stage it was thought to be). Down-staging occurs most often after a good response to neoadjuvant therapy. Neoadjuvant therapy is chemotherapy or hormone therapy used as a first treatment (before surgery) for some large or advanced breast cancers.
-Neoadjuvant therapy can shrink a tumor such that it lowers the stage of the breast cancer and a lumpectomy, instead of a mastectomy, can be done.
+It has been found that getting cycles of certain chemotherapy drugs closer together can reduce the chance of the cancer coming back and improve survival in some women with breast cancer. For example, a medication that would normally be given every 3 weeks (standard therapy) could be given every 2 weeks. The medical team analyzes with the pacient the pros and cons of dose-dense chemotherapy because it can cause additional side effects, so it is not an option for all women.
 
-**Duct (Milk Duct, Mammary Duct)** 
-A canal that carries milk from the lobules to a nipple opening during breastfeeding (see figure).
+**Down-Staging**
 
-**Ductal Carcinoma in Situ (DCIS, Intraductal Carcinoma)** 
-A non-invasive breast cancer that begins in the milk ducts of the breast, but has not invaded nearby breast tissue. Also called stage 0 or pre-invasive breast carcinoma.
+Lowering the stage of a cancer from its original stage (or the stage it was thought to be). Down-staging occurs most often after a good response to neoadjuvant therapy. Neoadjuvant therapy is chemotherapy or hormone therapy used as a first treatment (before surgery) for some large or advanced breast cancers. Neoadjuvant therapy can shrink a tumor such that it lowers the stage of the breast cancer and a lumpectomy, instead of a mastectomy, can be done.
+
+**Ductal Carcinoma in Situ (DCIS, Intraductal Carcinoma)**
+
+A noninvasive condition in which abnormal cells are found in the lining of a breast duct. The abnormal cells have not spread outside the duct to other tissues in the breast. Also called DCIS and intraductal carcinoma.
+
 
 **Ductal Papilloma** (see Intraductal Papilloma in [I](/{{page.root}}/myhthelperEduContent/I/index.html)) \ 
 
