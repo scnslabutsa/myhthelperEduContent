@@ -5,37 +5,44 @@ layout: lesson
 
 <a name="top"></a>
 
-**H&E (Hematoxylin and Eosin) Staining** 
-A laboratory test that gives color to cells so cell structures can be identified.
+**H&amp;E (Hematoxylin and Eosin) Staining**
 
-**HER2/neu (Human Epidermal Growth Factor Receptor 2, erbB2)** 
-A protein involved in cell growth and survival that appears on the surface of some breast cancer cells. HER2/neu-negative breast cancers have little or no HER2/neu protein. HER2/neu-positive breast cancers have a lot of HER2/neu protein.
-HER2/neu-positive tumors can be treated with the targeted therapy drug trastuzumab (Herceptin).
+A common laboratory method that uses two dyes called hematoxylin and eosin that make it easier to see different parts of the cell under a microscope. Hematoxylin and eosin staining helps identify different types of cells and tissues and provides important information about the pattern, shape, and structure of cells in a tissue sample. It is used to help diagnose diseases, such as cancer. Also called H and E staining.
 
-**Herceptin (see Trastuzumab in [T](/{{page.root}}/myhthelperEduContent/T/index.html))** 
+**HER2/neu (Human Epidermal Growth Factor Receptor 2, erbB2)**
 
-**Hereditary (see Genetic in [G](/{{page.root}}/myhthelperEduContent/G/index.html))** 
- 
-**Homeopathy (Homeopathic Medicine)** 
-A medical system based on a belief that “like cures like.” Natural substances are specially prepared in small amounts to restore health. These substances cause symptoms similar to the condition they are meant to treat in healthy people.
-There are limited data on the safety of these substances.
+A protein involved in normal cell growth. It is found on some types of cancer cells, including breast and ovarian. Cancer cells removed from the body may be tested for the presence of HER2/neu to help decide the best type of treatment.
 
-**Hormones** 
-Chemicals made by certain glands and tissues in the body, often in response to signals from the pituitary gland or the adrenal gland. Hormones have specific effects on specific target organs and tissues. Examples include estrogen and progesterone. Hormones can also be made in a laboratory.
+**Herceptin (see Trastuzumab in [T](/{{page.root}}/myhthelperEduContent/T/index.html))**
 
-**Hormone Receptors** 
-Specific proteins on cells that hormones attach to. A high number of hormone receptors on a breast cancer cell often means the cancer cell needs the hormone to grow.
+**Hereditary (see Genetic in [G](/{{page.root}}/myhthelperEduContent/G/index.html))**
 
-**Hormone Receptor Status** 
-Shows whether or not a breast cancer needs hormones to grow. A hormone receptor-positive (estrogen and/or progesterone receptor-positive) cancer needs hormones to grow. A hormone receptor-negative (estrogen and/or progesterone receptor-negative) cancer does not need hormones to grow. See Hormone    Receptor.
+**Homeopathy (Homeopathic Medicine)**
 
-**Hormone Replacement Therapy (see Menopausal Hormone Therapy in [M](/{{page.root}}/myhthelperEduContent/M/index.html))**  
+An alternative approach to medicine based on the belief that natural substances, prepared in a special way and used most often in very small amounts, restore health. According to these beliefs, in order for a remedy to be effective, it must cause in a healthy person the same symptoms being treated in the patient. Also called homeopathic medicine.
 
-**Hormone Therapy (Endocrine Therapy, Endocrine  Manipulation)** 
-Treatment that works by keeping cancer cells with hormone receptors from getting the hormones they need to grow.
+**Hormones**
 
-**Hyperplasia (Usual and Atypical Hyperplasia)** 
-A benign (not cancer) breast condition where breast cells are growing rapidly (proliferating). Although hyperplasia is not breast cancer, it increases the risk of breast cancer. In usual hyperplasia, the proliferating cells look normal under a microscope. In atypical hyperplasia, the proliferating cells look abnormal.
+Hormones are made by glands in the body that help control how certain types of cells and organs work. Some hormones can also be made in a lab.
+
+**Hormone Receptor**
+
+A cell protein that binds a specific hormone. The hormone receptor may be on the surface of the cell or inside the cell. Many changes take place in a cell after a hormone binds to its receptor.
+
+**Hormone Receptor Status**
+
+Shows whether or not a breast cancer needs hormones to grow. A hormone receptor-positive (estrogen and/or progesterone receptor-positive) cancer needs hormones to grow. A hormone receptor-negative (estrogen and/or progesterone receptor-negative) cancer does not need hormones to grow. See Hormone Receptor in [H](/{{page.root}}/myhthelperEduContent/H/index.html).
+
+**Hormone Replacement Therapy (see Menopausal Hormone Therapy in [M](/{{page.root}}/myhthelperEduContent/M/index.html))**
+
+**Hormone Therapy (Endocrine Therapy, Endocrine Manipulation)**
+
+Some types of breast cancer are affected by hormones, like estrogen and progesterone. The breast cancer cells have receptors (proteins) that attach to estrogen and progesterone, which helps them grow. Treatments that stop these hormones from attaching to these receptors are called hormone or endocrine therapy. Hormone therapy can reach cancer cells almost anywhere in the body and not just in the breast. It&#39;s
+recommended for women with tumors that are hormone receptor-positive. It does not help women whose tumors don&#39;t have hormone receptors (these tumors are called hormone receptor-negative).
+
+**Hyperplasia (Usual and Atypical Hyperplasia)**
+
+An increase in the number of cells in an organ or tissue. These cells appear normal under a microscope. They are not cancer, but may become cancer.
 
 <!--a href="#top">Back to top of page</a-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
