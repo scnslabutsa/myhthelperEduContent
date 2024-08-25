@@ -5,33 +5,41 @@ layout: lesson
 
 <a name="top"></a>
 
-**Early Breast Cancer** 
+**Early Breast Cancer**
+
 Cancer that is contained in the breast or has only spread to lymph nodes in the underarm area. This term often describes stage I and stage II breast cancer.
- 
-**Edema** 
-Excess fluid in body tissues that causes swelling.
 
-**Endocrine Manipulation** (see Hormone Therapy in [H](/{{page.root}}/myhthelperEduContent/H/index.html)))
+**Edema**
 
-**Enzyme** 
-A protein that speeds up biologic reactions in the body.
+Build-up of fluid in body tissues that causes swelling.
 
-**Estradiol** 
-The most biologically active, naturally occurring estrogen in women.
+**Endocrine Manipulation (see Hormone Therapy in [H](/{{page.root}}/myhthelperEduContent/H/index.html))**
 
-**Estrogen** 
-A female hormone produced by the ovaries and adrenal glands that is important to reproduction. Some cancers need estrogen to grow.
+**Enzymes**
 
-**Estrogen Receptors** 
-Specific proteins in cells that estrogen hormones attach to. A high number of estrogen receptors on a breast cancer cell often means the cancer cell needs estrogen to grow.
+Proteins that start, help, or speed up the rate of chemical reactions in cells.
 
-**Etiology** 
+**Estradiol**
+
+A form of the hormone estrogen.
+
+**Estrogen**
+
+A type of hormone made by the body that helps develop and maintain female sex characteristics and the growth of long bones. Estrogens can also be made in the laboratory. They may be used as a type of birth control and to treat symptoms of menopause, menstrual disorders, osteoporosis, and other conditions.
+
+**Estrogen Receptor**
+
+A protein found inside the cells of the female reproductive tissue, some other types of tissue, and some cancer cells. The hormone estrogen will bind to the receptors inside the cells and may cause the cells to grow. Also called ER.
+
+**Etiology**
+
 The cause(s) of a disease.
 
-**Excisional Biopsy** 
+**Excisional Biopsy**
+
 Surgical procedure that removes the entire abnormal area (plus some surrounding normal tissue) from the breast.
 
-**External Beam Radiation Therapy** (see Radiation Therapy in [R](/{{page.root}}/myhthelperEduContent/R/index.html)) 
+**External Beam Radiation Therapy (see Radiation Therapy in [R](/{{page.root}}/myhthelperEduContent/R/index.html))**
 
 <!--a href="#top">Back to top of page</a-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
