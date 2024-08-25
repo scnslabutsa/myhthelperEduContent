@@ -6,64 +6,66 @@ layout: lesson
 <a name="top"></a>
 
 **Immediate Family Member (First-Degree Relative)**
+
 A person’s mother, father, sister, brother or child.
 
-**Immunotherapy** 
-Therapies that use the immune system to fight cancer. These therapies target something specific to the biology of the cancer cell, as opposed to chemotherapy, which attacks all rapidly dividing cells. See Biological Therapy.
+**Immunotherapy**
 
-**Immunohistochemistry  (IHC)** 
+Treatments that use the body’s immune system to fight cancer by boosting or changing how the immune system works so it can find and attack cancer cells. See Biological Therapy.
+
+**Immunohistochemistry (IHC)**
+
 A laboratory test done on tumor tissue to detect the amount of HER2/neu protein on the surface of the cancer cells.
 
-**Implant (Breast Implant)** 
-An "envelope" containing silicone, saline or both, that is used to restore the breast form after a mastectomy (or for other cosmetic reasons).
+**Implant (Breast Implant)**
 
-**In Situ Carcinoma (see Carcinoma in Situ) In-Network Provider** 
-The health care providers and medical centers (hospitals and other treatment
-centers) that are part of a particular group health plan or health maintenance organization (HMO).
+An &quot;envelope&quot; containing silicone, saline or both, that is used to restore the breast form after a mastectomy (or for other cosmetic reasons).
 
-**Incisional Biopsy** 
-Surgical biopsy that removes only part of the tumor.
+**In Situ Carcinoma (see Carcinoma in Situ in [C](/{{page.root}}/myhthelperEduContent/C/index.html))**
 
-**Indemnity Policy** 
-A prepayment insurance plan that gives services or a cash payment for medical care needed in times of illness or disability.
+**Incisional Biopsy**
 
-**Induction Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**  
+A cut through the skin to remove a part of a tumor so that it can be looked at in the lab to see if there is cancer in the tumor.
 
-**Inflammatory Breast Cancer (IBC)** 
-A rare and aggressive form of invasive breast cancer. Its main symptoms are
-swelling (inflammation) and redness of the breast. The skin on the breast may look dimpled, like the skin of an orange, and may be warm to the touch.
+**Induction Chemotherapy (see Neoadjuvant Chemotherapy in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**
 
-**Informed Consent** 
-The process through which a person learns about the possible benefits and side effects of a treatment plan and then accepts or declines the treatment. The person is usually asked to sign a consent form, but may stop the treatment at any time and get other medical care.
+**Inflammatory Breast Cancer (IBC)**
+A rare and aggressive form of invasive (malignant) breast cancer. Its main symptoms are swelling (inflammation) and redness of the breast. The skin on the breast may look dimpled, like the skin of an orange, and may be warm to the touch.
 
-**Infraclavicular Lymph Nodes** 
-The lymph nodes below the clavicle (collarbone). See Lymph Nodes in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
+**Informed Consent**
 
-**Insurance Payment Cap** 
-A maximum amount an insurance company will pay out in a given time period.
+The process through which a person learns about the possible benefits and side effects of a treatment plan, asks all questions they may have, and then accepts or declines the treatment. The person is usually asked to sign a consent form, but may stop the treatment at any time and get other medical care.
 
-**Insurance Premium (Premium)** 
-The cost of insurance coverage for a certain period of time.
+**Infraclavicular Lymph Nodes**
 
-**Integrative Therapies (see Complementary Therapies in [C](/{{page.root}}/myhthelperEduContent/C/index.html))** 
+The lymph nodes below the clavicle (collarbone). See Lymph Nodes.
 
-**Intraductal** 
+**Integrative Therapies (see Complementary Therapies in [C](/{{page.root}}/myhthelperEduContent/C/index.html))**
+
+**Intraductal**
+
 Within the milk duct. Intraductal can describe a benign (not cancerous) or malignant (cancerous) process.
 
-**Intraductal Hyperplasia** 
-An excess of cells growing within the milk ducts of the breast.
+**Intraductal Hyperplasia or Atypcal Ductal Hyperplasia**
 
-**Intraductal Papilloma (Ductal Papilloma)** 
-Small, benign (not cancer) growths that begin in the ducts of the breast and usually cannot be felt. Symptoms include a bloody or clear nipple discharge.
+A benign (not cancer) condition in which there are more cells than normal in the lining of breast ducts and the cells look abnormal under a microscope. Having atypical ductal hyperplasia increases the risk of breast cancer. Also called ADH and atypical ductal breast hyperplasia.
 
-**Intravenous or IV** 
-Being within or entering the body through the veins.
+**Intraductal Papilloma (Ductal Papilloma)**
 
-**Invasive Breast Cancer** 
-Cancer that has spread from the original location (milk ducts or lobules) into the surrounding breast tissue and possibly into the lymph nodes and other parts of   the body. Invasive ductal cancer begins in the milk ducts. Invasive lobular cancer begins in the lobules of the breast.
+A benign (not cancer), wart-like growth in a milk duct of the breast. It is usually found close to the nipple and may cause a discharge from the nipple.
 
-**Investigational New Drug (New Experimental Treatment)** 
-A chemical or biological drug that has been approved for use by researchers in studies, but is not yet available outside of a clinical trial.
- 
+**Intravenous or IV**
+
+Being within or entering the body through the veins. Fluids and medicines are sometimes given to a patient through an IV.
+
+**Invasive Breast Cancer**
+
+Cancer that has spread from the original location (milk ducts or lobules) into the surrounding breast tissue and possibly into the lymph nodes and other parts of the body. Invasive ductal cancer begins in the milk ducts. Invasive lobular cancer begins in the lobules (milk glands) of the breast.
+
+**Investigational New Drug (New Experimental Treatment)**
+
+A drug that has been approved for use by researchers in studies, but is not yet available outside of a clinical trial.
+
+
 <!--a href="#top">Back to top of page</a-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
