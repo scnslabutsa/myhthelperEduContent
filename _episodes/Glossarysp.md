@@ -3,7 +3,7 @@ layout: lesson_glossary
 title: Glosario de Temas Relacionados con el Cáncer de Seno<!---<sup>43,44,45</sup>--->
 ---
 
-Hay tantas palabras nuevas para aprender que se relacionan con el cáncer de seno. Esta sección ofrece definiciones de las palabras que usted puede oír. Puede usarla para buscar palabras que no entiende. Cuando vaya a cita con el doctor puede pedirle que le explique con más detalle. 
+Hay tantas palabras nuevas para aprender que se relacionan con el cáncer de seno. Esta sección ofrece definiciones de las palabras que usted puede oír. Puede usarla para buscar palabras que no entiende. Cuando vaya a una cita con el doctor puede pedirle que le explique con más detalle. 
 
 Glosario de Cáncer de Seno
 
@@ -19,8 +19,8 @@ Glosario de Cáncer de Seno
 
 **Fuentes:**
 
-<span style="font-size:15px;">National Cancer Institute, n.d., NCI Dictionary of Cancer Terms. </span>
+<span style="font-size:15px;">National Cancer Institute, 2024, NCI Dictionary of Cancer Terms. </span>
 
-<span style="font-size:15px;">Susan G. Komen, 2017. Breast Cancer Glossary. </span>
+<span style="font-size:15px;">Susan G. Komen, 2024. Breast Cancer Glossary. </span>
 
-<span style="font-size:15px;">American Cancer Society, n.d.. Glossary: definitions & phonetic pronunciations. </span>
+<span style="font-size:15px;">American Cancer Society, n.d. Glossary: definitions & phonetic pronunciations. </span>
