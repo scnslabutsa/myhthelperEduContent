@@ -72,7 +72,7 @@ Primer tratamiento que se administra para una enfermedad. Con frecuencia, forma 
 Uso de radiación de alta energía proveniente de rayos X, rayos gamma, neutrones, protones y otras fuentes para destruir células cancerosas y reducir el tamaño de los tumores. La radiación se envía desde una máquina fuera del cuerpo (radioterapia de rayo o haz externo) o la libera un material radiactivo colocado en el cuerpo cerca de las células cancerosas (radioterapia interna o braquiterapia). Para la radioterapia sistémica se usa una sustancia radiactiva, como un anticuerpo monoclonal radiomarcado, que circula por la sangre y llega a los tejidos de todo el cuerpo.
 
 
-**Terapia de Radiación con Rayo Externo (ver Radioterapia (https://scnslabutsa.github.io/myhthelperEduContent/Rsp/index.html))**
+**Terapia de Radiación con Rayo Externo (ver Radioterapia (https://scnslabutsa.github.io/myhthelperEduContent/Rsp/index.html)**
 
 
 **Terapia Dirigida**
