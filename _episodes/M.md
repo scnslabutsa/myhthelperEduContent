@@ -5,87 +5,109 @@ layout: lesson
 
 <a name="top"></a>
 
-**Macrobiotics (Macrobiotic Diet)** 
-Integrative or complementary dietary therapy that includes a mostly vegetarian, organic food diet with certain methods of food preparation.
+**Macrobiotics (Macrobiotic Diet)**
 
-**Magnetic Resonance Imaging (see MRI)**  
+A diet that includes mostly vegetarian and organic foods. A macrobiotic diet is a type of integrative or complementary therapy.
 
-**Malignant** 
+**Magnetic Resonance Imaging (see MRI)**
+
+**Malignant**
+
 Cancerous.
 
-**Mammary Duct (see Duct in [D](/{{page.root}}/myhthelperEduContent/D/index.html))** 
+**Mammary Duct (Milk Duct, Duct)**
 
-**Mammary Duct Ectasia** 
-A benign (not cancer) breast condition resulting from inflammation (swelling) and enlargement of the ducts behind the nipple. Often there are no symptoms, but calcifications seen on a mammogram may point to its presence. No treatment is needed if the woman is not having symptoms (burning, pain or itching in the nipple area).
+A canal that carries milk from the lobules to a nipple opening during breastfeeding.
 
-**Mammary Glands** 
+**Mammary Duct Ectasia**
+
+A benign (not cancer) breast condition in which a milk duct under the nipple widens and thickens. This can cause the milk duct to become swollen with fluid build-up inside it. There are usually no symptoms, but sometimes there may be a thick nipple discharge or redness or tenderness of the nipple. No treatment is needed if the woman is not having symptoms (burning, pain, or itching in the nipple area).
+
+**Mammary Glands**
+
 The breast glands that produce milk.
 
-**Mammogram** 
+**Mammogram**
+
 An X-ray image of the breast.
 
-**Margins** 
-The rim of normal tissue surrounding a tumor that has been surgically removed. A margin is clean (also known as uninvolved, negative or clear) if there is only normal tissue (and no cancer cells) at the edges. Clean margins show the entire tumor was removed. With involved (also known as positive) margins, normal tissue does not completely surround the tumor. This means the entire tumor was not removed and more surgery is needed to get clean margins.
- 
-**Mastectomy** 
-Surgical removal of the breast. The exact procedure depends on the diagnosis. See Total Mastectomy and Modified Radical Mastectomy.
+**Margin**
 
-**Mastitis** 
+The edge or border of the tissue removed in cancer surgery. The margin is described as negative or clean when the pathologist finds no cancer cells at the edge of the tissue, suggesting that all of the cancer has been removed. The margin is described as positive or involved when the pathologist finds cancer cells at the edge of the tissue, suggesting that all of the cancer has not been removed.
+
+**Mastectomy**
+
+Surgery to remove part or all of the breast. There are different types of mastectomy that differ in the amount of tissue and lymph nodes removed.
+
+**Mastitis**
+
 An inflammation (swelling) of the breast usually occurring during breastfeeding. Symptoms include pain, nipple discharge, fever, redness and hardness over an area of the breast.
 
-**Mean Survival Time** 
-The average time from the start of treatment (or diagnosis) that people in a study stay alive.
+**Mean**
 
-**Medical Oncologist** 
-A physician specializing in the treatment of cancer using chemotherapy, hormone therapy and targeted therapy.
+A statistics term. The average value in a set of measurements. The mean is the sum of a set of numbers divided by how many numbers are in the set.
 
-**Menarche** 
+**Mean Survival Time**
+
+The average length of time from either the date of diagnosis or the start of treatment for a disease, such as cancer, that patients diagnosed with the disease are still alive. In a clinical trial, measuring mean survival is one way to see how well a new treatment works.
+
+**Medical Oncologist**
+
+A doctor who has special training in diagnosing and treating cancer in adults using chemotherapy, hormonal therapy, biological therapy, and targeted therapy. A medical oncologist often is the main health care provider for someone who has cancer. A medical oncologist also gives supportive care and may coordinate treatment given by other specialists.
+
+**Menarche**
+
 The first menstrual period.
 
-**Menopausal Hormone Therapy (Postmenopausal Hormone Use, Hormone Replacement Therapy)** 
-The use of hormone pills containing estrogen (with or without progestin) to ease symptoms of menopause.
+**Menopausal Hormone Therapy (Postmenopausal Hormone Use, Hormone Replacement Therapy)**
 
-**Menopause** 
-The ending of the normal menstrual cycle in women. It occurs most often in the late forties or early fifties.
+The use of hormone pills containing estrogen (with or without progestin) to help relieve symptoms of menopause. Symptoms may include hot flashes, night sweats, vaginal dryness, sleep problems, mood swings, and thinning of the bones. Menopausal hormone therapy is given to replace the natural hormones that are no longer made by the body. It can also be given to woman who went through early menopause due to cancer treatment. Also called MHT.
 
-**Meta-Analysis** 
-A method for taking the results reported in a group of studies and averaging them to come up with a single, summary result.
- 
-**Metabolized** 
-The chemical process whereby drugs and food are broken down by the body.
+**Menopause**
 
-**Metastases** 
-Spread of cancer to other organs through the lymphatic and/or circulatory system.
+The time of life when a woman’s ovaries stop producing hormones and menstrual periods stop. Natural menopause usually occurs around age 50. A woman is said to be in menopause when she hasn’t had a period for 12 months in a row. Symptoms of menopause include hot flashes, mood swings, night sweats, vaginal dryness, trouble concentrating, and infertility.
 
-**Microcalcifications** 
-Small, clustered deposits of calcium in the breast that may be seen on a mammogram. These may or may not be related to breast cancer.
+**Metabolized**
 
-**Microvascular Surgery** 
-Surgery that involves connecting small blood vessels.
+The chemical process when drugs and food are broken down by the body.
 
-**Modified Radical Mastectomy** 
+**Metastasis**
+
+The spread of cancer cells from the place where they first formed to another part of the body. In metastasis, cancer cells break away from the original (primary) tumor, travel through the blood or lymph system, and form a new tumor in other organs or tissues of the body. The new, metastatic tumor is the same type of cancer as the primary tumor. For example, if breast cancer spreads to the lung, the cancer cells in the lung are breast cancer cells, not lung cancer cells.
+
+**Microcalcifications**
+
+Tiny calcium deposits in the breast that may be seen on a mammogram. They are a sign of changes in the breast that may or may not be related to breast cancer.
+
+**Microvascular Surgery**
+
+Surgery that involves connecting small blood vessels to each other.
+
+**Modified Radical Mastectomy**
+
 Surgical removal of the breast, the lining of the chest muscles and some of the lymph nodes in the underarm area. Used to treat early and locally advanced breast cancer.
 
-**Molecular Breast Imaging (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**  
+**Molecular Breast Imaging (see Nuclear Medicine Imaging of the Breast in [N](/{{page.root}}/myhthelperEduContent/N/index.html))**
 
-**Monoclonal Antibodies** 
-Immune proteins that can locate and bind to cancer cells. They can be used alone
-or they can be used to deliver drugs, toxins or radioactive material directly to tumor cells. Trastuzumab (Herceptin) is an example of a monoclonal antibody used to treat breast cancer.
+**Monoclonal Antibodies**
 
-**Mortality Rate** 
+A type of protein that is made in the laboratory and can bind to certain targets in the body, such as antigens on the surface of cancer cells. There are many kinds of monoclonal antibodies, and each monoclonal antibody is made so that it binds to only one antigen. Monoclonal antibodies are being used in the diagnosis and treatment of many diseases, including some types of cancer. They can be used alone or to carry drugs, toxins, or radioactive substances directly to cancer cells.
+
+**Mortality Rate**
+
 Number of deaths in a given group of people over a certain period of time.
 
-**MRI (Magnetic Resonance Imaging)** 
-An imaging technique that uses a magnet linked to a computer to make detailed pictures of organs or soft tissues in the body.
+**MRI (Magnetic Resonance Imaging)**
 
-**Multifocal Tumors (Multicentric  Tumors)** 
-One or more tumors that develop from the original breast tumor.
+An imaging technique that uses a strong magnet connected to a computer to take detailed pictures of organs or soft tissues in the body that are hard to see using other imaging tests.
 
-**Multimodality Therapy** 
+**Multifocal Breast Cancer**
+
+Breast cancer in which there is more than one tumor, all of the tumors were created from one original tumor. The tumors are likely to be in the same section (or quadrant) of the breast.
+
+**Multimodality Therapy**
+
 Use of two or more treatment methods (such as surgery, radiation therapy, chemotherapy, hormone therapy and targeted therapy) in combination or one after the other to get the best results.
-
-**Mutation (Gene Mutation)** 
-Any change in the DNA (the information contained in a gene) of a cell. Gene mutations can be harmful, beneficial or have no effect.
 
 <!--a href="#top">Back to top of page</a-->
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
