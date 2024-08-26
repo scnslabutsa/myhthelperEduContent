@@ -5,13 +5,16 @@ layout: lesson
 
 <a name="top"></a>
 
-**Quadrantectomy** 
-Surgery where one quadrant or 25 percent of the breast is removed. See Lumpectomy.
+**Quadrantectomy
 
-**Quality of Care** 
+Surgery where one quadrant or 25 percent of the breast is removed. See Lumpectomy in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
+
+**Quality of Care**
+
 Measures of how well breast cancer is treated and how well a person is cared for during and after treatment.
 
-**Quality of Life** 
+**Quality of Life**
+
 A measure of a person’s well-being and his/her overall enjoyment of life.
 
 <!--a href="#top">Back to top of page</a-->
