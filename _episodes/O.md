@@ -5,31 +5,33 @@ layout: lesson
 
 <a name="top"></a>
 
-**Oncologist** 
-The physician in charge of planning and overseeing cancer treatment.
+**Oncologist**
 
-**Oophorectomy** 
+A doctor who has special training in diagnosing and treating cancer.
+
+**Oophorectomy**
+
 Surgical removal of the ovaries.
 
-**Opiate** 
-A drug that contains opium or a substance made from opium and is used to treat pain.
+**Opiate**
 
-**Opioid** 
-A drug that does not contain opium or any substances made from opium, but is used to treat pain.
+A substance used to treat pain or cause sleep. Opiates are made from opium or have opium in them. Opiates bind to opioid receptors in the central nervous system. Examples of opiates are codeine, heroin, and morphine. An opiate is a type of analgesic agent.
 
-**Osteoporosis** 
-A condition marked by a loss of bone mass and density that causes bones to become fragile.
+**Opioid**
 
-**Out-of-Network Provider** 
-Any health care provider or medical center (hospital or other treatment center) that is not part of a particular group health plan or health maintenance organization (HMO).
+A substance used to treat moderate to severe pain. Opioids are like opiates, such as morphine and codeine, but are not made from opium. Opioids bind to opioid receptors in the central nervous system. Opioids used to be called narcotics.
 
-**Over-Diagnosis** 
+**Osteoporosis**
+
+A condition in which there is a decrease in the amount and thickness of bone tissue. This causes the bones to become weak and break more easily. Osteoporosis may be caused by older age, hormone changes, taking certain medicines, and not eating enough foods with calcium and vitamin D. It may also be caused by certain types of cancer and cancer treatment. It is most common in white and Asian women.
+
+**Over-Diagnosis**
+
 Diagnosis that occurs when a mammogram finds ductal carcinoma in situ (DCIS) or a small, invasive breast cancer that would have never caused symptoms or problems if left untreated. These breast cancers may never grow or a person may die from another cause before the breast cancer becames a problem.
 
-**Over-Treatment** 
+**Over-Treatment**
+
 Treatment for ductal carcinoma in situ (DCIS) or a small, invasive breast cancer that would have never caused symptoms or problems if left untreated.
- 
-**Overall Survival (Overall Survival Rate, Survival)** 
-The percentage of people alive for a certain period of time after diagnosis with a disease (such as breast cancer) or treatment for a disease.
+
 
 <a href="https://scnslabutsa.github.io/myhthelperEduContent/Glossary/index.html">Back to Glossary</a>
