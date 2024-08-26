@@ -5,7 +5,7 @@ layout: lesson
 
 <a name="top"></a>
 
-**Quadrantectomy
+**Quadrantectomy**
 
 Surgery where one quadrant or 25 percent of the breast is removed. See Lumpectomy in [L](/{{page.root}}/myhthelperEduContent/L/index.html).
 
