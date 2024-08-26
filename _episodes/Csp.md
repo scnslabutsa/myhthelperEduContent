@@ -61,6 +61,7 @@ Un tipo de cáncer de seno en la que las células del tumor no tienen receptores
 
 
 **Cáncer Lobulillar in situ (CLIS)**
+
 Cuando las células anormales crecen dentro de los lóbulos del seno, pero no se han diseminado al tejido cercano o a otras partes del cuerpo, se llama cáncer lobulillar in situ (LCIS por sus siglas en inglés). Aunque el cáncer lobulillar in situ incluye la palabra “cáncer”, no es cáncer invasivo
 
 
