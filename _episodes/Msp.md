@@ -36,7 +36,9 @@ Mamografía tridimensional (3D) que se hace para guiar una biopsia con aguja.
 
 
 **Manipulación Endocrina (ver Terapia Hormonal)**
+
 Tratamiento que agrega, bloquea o extrae hormonas. Para ciertos trastornos (como la diabetes o la menopausia), se administran hormonas para ajustar las concentraciones bajas de hormonas. Las hormonas hacen que ciertos cánceres crezcan (como el cáncer de próstata o de seno). Es posible que se administren hormonas u otros medicamentos para bloquear las hormonas naturales del cuerpo y de esta manera demorar o impedir el crecimiento de un cáncer. A veces, se necesita una cirugía para extirpar la glándula que produce cierta hormona. También se llama terapia con hormonas, terapia endocrina, y tratamiento con hormonas.
+
 
 **Marcador Biológico (Biomarcador)**
 
