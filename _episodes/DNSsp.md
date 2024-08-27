@@ -15,7 +15,7 @@ Si necesita ayuda para dejar de fumar, aquí están algunos recursos valiosos qu
   
 * Yesquit.org: asesoramiento telefónico o programa en línea
 
-* American Cancer Society [https://www.cancer.org/es/cancer/prevencion-del-riesgo/tabaco/guia-para-dejar-de-fumar.html](https://www.cancer.org/es/cancer/prevencion-del-riesgo/tabaco/guia-para-dejar-de-fumar.html) información útil sobre dejar de fumar
+* American Cancer Society ([https://www.cancer.org/es/cancer/prevencion-del-riesgo/tabaco/guia-para-dejar-de-fumar.html](https://www.cancer.org/es/cancer/prevencion-del-riesgo/tabaco/guia-para-dejar-de-fumar.html)) información útil sobre dejar de fumar
   
 * Smokefree.gov: texto y programa en línea
 
