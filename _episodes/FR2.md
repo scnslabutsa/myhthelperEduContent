@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Phytochemicals - The Cancer Fighters in the Foods We Eat<sup>18</sup>--->
 ---
 
-Phytochemicals are naturally occurring plant chemicals (*phyto* means plant in Greek). They provide plants with color, odor and flavor. Once we eat them, however, research shows they can influence the chemical processes inside our bodies in helpful ways.
+Phytochemicals are naturally occurring plant chemicals (*phyto* means plant in Greek) that have health-protecting qualities. They are found in fruits, vegetables, whole grains, beans, nuts and seeds, and things made from plants, like tofu or tea. They provide plants with color, odor and flavor. Once we eat them, research shows they can influence the chemical processes inside our bodies in helpful ways.
 
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/fruits_veggies.jpg"/>
@@ -12,12 +12,12 @@ Phytochemicals are naturally occurring plant chemicals (*phyto* means plant in G
 Laboratory studies have shown that phytochemicals have the potential to:
 
 * Stimulate the immune system;
-* Block substances we eat, drink and breathe from becoming carcinogens;
+* Block substances we eat, drink and breathe from becoming carcinogens (cancer-causing substances);
 * Reduce the kind of inflammation that makes cancer growth more likely;
 * Prevent and help repair DNA damage;
 * Reduce the kind of oxidative damage to cells that can spark cancer;
 * Slow the growth rate of cancer cells;
-* Trigger damaged cells to commit suicide before they can reproduce; and
+* Trigger damaged cells to self-destruct before they can reproduce; and
 * Help to regulate hormones.
 
 This chart lists some of the phytochemicals now attracting serious scientific attention. The chart also identifies food sources and outlines potential benefits.
@@ -26,7 +26,7 @@ This chart lists some of the phytochemicals now attracting serious scientific at
    <strong>Phytochemicals</strong>
 </p>
 
-| Photochemical(s) | Plant Source | Possible Benefits |
+| Food | Compounds (Partial List) | Possible Protective Actions<sup>*</sup> |
 | --- | --- | --- |
 | Carotenoids (such as beta-carotene, lycopene, lutein, zeaxanthin) | Red, orange and green fruits and vegetables including broccoli, carrots, cooked tomatoes, leafy greens, sweet potatoes, winter squash, apricots, cantaloupe, oranges and watermelon | May inhibit cancer cell growth, work as antioxidants and improve immune response |
 | Flavonoids (such as anthocyanins and quercetin) | Apples, citrus fruits, onions, soybeans and soy products (tofu, soy milk, edamame, etc.), coffee and tea | May inhibit inflammation and tumor growth; may aid immunity and boost production of detoxifying enzymes in the body|
@@ -45,4 +45,6 @@ Foods to fight cancer [http://www.aicr.org/foods-that-fight-cancer/](http://www.
 
 **Source:**
 
-<span style="font-size:15px;">American Institute for Cancer Research, n.d. Phytochemicals: The Cancer Fighters in Your Foods.</span>
+<span style="font-size:15px;">American Institute for Cancer Research, n.d. The Cancer Fighters in Your Food.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2022, Benefits of Good Nutrition During Cancer Treatment.</span>
