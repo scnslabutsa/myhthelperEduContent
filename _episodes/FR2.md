@@ -28,7 +28,7 @@ This chart lists some of the phytochemicals now attracting serious scientific at
 
 | Food | Compounds (Partial List) | Possible Protective Actions<sup>*</sup> |
 | --- | --- | --- |
-| Apples | Flavonoids \n Anthocyanins (red apples) \n Epicatechin Quercetin | * Slowed development of colon, lung, and breast cancer cells in several stages of cancer development. |
+| Apples | Flavonoids<br/> Anthocyanins (red apples)<br/> Epicatechin Quercetin | * Slowed development of colon, lung, and breast cancer cells in several stages of cancer development. |
 | Flavonoids (such as anthocyanins and quercetin) | Apples, citrus fruits, onions, soybeans and soy products (tofu, soy milk, edamame, etc.), coffee and tea | May inhibit inflammation and tumor growth; may aid immunity and boost production of detoxifying enzymes in the body|
 | Indoles and Glucosinolates (sulforaphane) | Cruciferous vegetables (broccoli, cabbage, collard greens, kale, cauliflower and Brussels sprouts)| May induce detoxification of carcinogens, limit production of cancer-related hormones, block carcinogens and prevent tumor growth |
 | Inositol (phytic acid) | Bran from corn, oats, rice, rye and wheat, nuts, soybeans and soy products (tofu, soy milk, edamame, etc.) | May retard cell growth and work as antioxidant |
