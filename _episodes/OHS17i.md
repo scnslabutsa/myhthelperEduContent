@@ -3,34 +3,35 @@ layout: lesson
 <!---title: Weight Gain<sup>20</sup>--->
 ---
 
-Weight gain can be a result of cancer treatment in women with breast cancer for many reasons. It could be due to eating more, but being less active. It could also be due to medications that cause your body to hold extra fluid. It could be due to frequent snacking to avoid nausea. 
+Some cancer patients find they don’t lose weight during treatment, and some might even gain weight. Weight gain can be a result of cancer treatment in women with breast cancer for many reasons. It could be due to eating more, but being less active. It could also be due to changing hormone levels from your medication. It could also be due to medications that cause your body to hold extra fluid. It could be due
+to frequent snacking to avoid nausea. 
 
-Being overweight or obese increases the risk of breast cancer mortality (death from breast cancer), and overall mortality (death from any cause). Equally important, weight gain or being overweight usually doesn’t make us feel good about ourselves.
+Being overweight or obese increases the risk of breast cancer mortality (death from breast cancer), and
+overall mortality (death from any cause). Equally important, weight gain or being overweight usually doesn’t make us feel good about ourselves.
 
-It is important to talk to your healthcare team about weight gain in order to find out what may be causing this change. For any of the tips below, talk to your doctor about whether it is safe for you.
+**It is important to talk to your healthcare team** about weight gain in order to find out what may be causing this change. For any of the tips below, talk to your doctor about whether it is safe for you.
 
 Tips for Managing Weight Gain:
 
 * Talk with a Dietitian. Ask your healthcare team for a referral to a registered dietician to help develop a plan to meet your nutrition needs without gaining weight.
+     -  If you meet with a registered dietician, ask him/her to teach you what to look for on nutrition labels so that you can make the healthiest decisions when you’re grocery shopping.
 
-	− If you meet with a registered dietician, ask him/her to teach you what to look for on nutrition labels so that you can make the healthiest decisions when you’re grocery shopping.
-
-* Walk daily. There are so many ways to add walking to your daily routine. 
+* Walk daily. There are so many ways to add walking to your daily routine.
+     -  When you’re at work, use a bathroom that is in a different building or different floor.
+     -  Walk during your lunch time.
+     -  Walk around your neighborhood after dinner.
+     -  Walk your dog in the morning and before bed; if you don’t have a dog, maybe your neighbor needs help walking his/her dog.
+     -  Don’t text your children to come to the table for dinner. Walk to their rooms to tell them.
+     -  Park furthest away from building entrances.
+     -  If you use the bus, get off one stop early.
+     -  If somewhere you need to go is within walking distance, walk over there instead of driving.
+     -  Form a walking club with your co-workers to help you stay motivated to talk during the workday.
+     -  Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
       
   <p align="center">
   <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends_2.PNG">	
   </p>	
 
-	- When you’re at work, use a bathroom that is in a different building or different floor.
-	- Walk during your lunch time.
-	- Walk around your neighborhood after dinner.
-	- Walk your dog in the morning and before bed; if you don’t have a dog, maybe your neighbor needs help walking his/her dog.
-	- Don’t text your children to come to the table for dinner. Walk to their rooms to tell them.
-	- Park furthest away from building entrances.
-	- If you use the bus, get off one stop early.
-	- If somewhere you need to go is within walking distance, walk over there instead of driving.
-	- Form a walking club with your co-workers to help you stay motivated to talk during the workday.
-	- Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
 
 * Maintain a healthy diet. 
       
