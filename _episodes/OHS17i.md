@@ -52,4 +52,4 @@ Tips for Managing Weight Gain:
 
 **Sources:**
 
-<span style="font-size:15px;">American Cancer Society, 2015. Nutrition For The Person With Cancer During Treatment: Weight Gain.</span>	
+<span style="font-size:15px;">American Cancer Society, 2022. Weight Changes.</span>	
