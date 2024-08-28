@@ -29,14 +29,14 @@ Tips for Managing Weight Gain:
      -  Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
       
   <p align="center">
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Walking friends_2.PNG">	
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/ohs171.jpg">	
   </p>	
 
 
 * Maintain a healthy diet. 
       
   <p align="center">
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/mom kid supermarket.jpg">	
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/ohs172.jpg">	
   </p>
 
 	- Limit food portion sizes, especially with high-calorie foods and at restaurants. Most restaurants have serving sizes that far exceed daily calorie recommendations.
