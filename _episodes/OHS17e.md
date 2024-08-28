@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Dry Skin<sup>37</sup>--->
 ---
 
-Dry skin can cause itchy skin, so often the two symptoms happen together. 
+Dry skin can cause itchy skin, so often they two symptoms happen together. Dry skin can be rough, flaky, red, and sometimes painful. It’s often caused by not having enough oil and water in the layers of the skin. Dry skin can be a side effect of different cancer treatments or dehydration.
 
 Your doctor may be able to prescribe you a topical steroid cream. Talk with your healthcare team about how severely and how often you experience dry or itchy skin.
 
@@ -13,15 +13,23 @@ Tips for Managing Dry/Itchy Skin:
 * Apply an oil (such as baby oil) or cream after showering, within 15 minutes.
   
   <p align="center">
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/skincream.jpg">	
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/ohse.jpg">	
   </p>	
   
-* Avoid products that irritate skin (soaps, detergents, creams with fragrance/perfume or alcohol).
-* Avoid products that scratch or scrub (exfoliate) the skin (sponges, loofas, bath scrubs).
-* Shower and bathe with cool or warm water only; hot water can dry the skin even more.
-* If your skin is very dry or cracked, use moisturizers that contain the following ingredients: Salicylic acid, urea, ammonium lactate, lactic acid. These ingredients will soften the skin and allow water to be absorbed.
-* If your skin is very itchy, use moisturizers that contain menthol, camphor, or pramoxine.
+*	Avoid products that irritate skin (soaps, detergents, creams with fragrance/perfume or alcohol).
+*	Avoid products that scratch or scrub (exfoliate) the skin (sponges, loofas, bath scrubs).
+*	Gently pat your skin dry after bathing. 
+*	Shower and bathe with cool or warm water only; hot water can dry the skin even more.
+*	If your skin is very dry or cracked, use moisturizers that contain the following ingredients: Salicylic acid, urea, ammonium lactate, lactic acid. These ingredients will soften the skin and allow water to be absorbed.
+*	If your skin is very itchy, use moisturizers that contain menthol, camphor, or pramoxine.
+*	Protect your skin from cold and wind. Avoid hot water and heat, especially dry heat.
+
 
 **Sources:**
 
-<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Skin Conditions.</span>
+<span style="font-size:15px;">American Cancer Society, 2020. Dry Skin.</span>
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2019. Skin Conditions.</span>
+
+
+
