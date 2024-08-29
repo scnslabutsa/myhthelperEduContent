@@ -26,8 +26,9 @@ There are a variety of ways to cope with anxiety. Some may work for you, some ma
 	</p>	
 	- Yoga. Yoga combines breathing with certain stretches or postures that promote relaxation. This is also a form of physical activity and is also considered a form of meditation by some people.
 
-* •	Psychological Treatment. Mental health professionals include licensed counselors, psychologists, and psychiatrists. They provide tools to help you with coping skills, develop a support system, and reshape negative thoughts. Therapy can be individual therapy, couples therapy, family therapy, or group therapy. 
-•	Medication. If your anxiety symptoms are moderate to severe (in other words, your symptoms are greatly affecting your daily life), you may benefit from medication. Different types of medications are available and are carefully chosen by your doctor by considering your needs, potential side effects, other medications you take, and your medical history.
+* Psychological Treatment. Mental health professionals include licensed counselors, psychologists, and psychiatrists. They provide tools to help you with coping skills, develop a support system, and reshape negative thoughts. Therapy can be individual therapy, couples therapy, family therapy, or group therapy.
+  
+* Medication. If your anxiety symptoms are moderate to severe (in other words, your symptoms are greatly affecting your daily life), you may benefit from medication. Different types of medications are available and are carefully chosen by your doctor by considering your needs, potential side effects, other medications you take, and your medical history.
 
 **Sources:**
 
