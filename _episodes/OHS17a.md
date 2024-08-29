@@ -13,8 +13,7 @@ There are a variety of ways to cope with anxiety. Some may work for you, some ma
 
   <p align="center">
   <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/emotional health.PNG">	
-  </p>	
-  
+  </p>
          - Deep breathing. This technique involves taking deep breaths in, holding your breath for a few seconds, then slowly exhaling your breath.
 	 - Progressive muscle relaxation. This is a technique that involves tightening and then relaxing all the muscles in your body in a certain order. You can begin at your toes or your head and then slowly relax the muscles across the body.
 	 - Guided Imagery. This technique uses words and sounds to help you imagine positive and relaxing settings, experiences, and feelings.
