@@ -10,12 +10,13 @@ In general, anxiety is common for patients with a breast cancer diagnosis.
 There are a variety of ways to cope with anxiety. Some may work for you, some may not. Try them out and talk with your doctor or a professional counselor to find the best options for you. It is best not to keep feelings of anxiety inside.
 
 * Relaxation techniques. Any of these techniques may be used alone or together with other types of treatment.
+   - Deep breathing. This technique involves taking deep breaths in, holding your breath for a few seconds, then slowly exhaling your breath.
+
 
   <p align="center">
   <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/emotional health.PNG">	
   </p>
-   - Deep breathing. This technique involves taking deep breaths in, holding your breath for a few seconds, then slowly exhaling your breath.
-
+  
    - Progressive muscle relaxation. This is a technique that involves tightening and then relaxing all the muscles in your body in a certain order. You can begin at your toes or your head and then slowly relax the muscles across the body.
   
   - Guided Imagery. This technique uses words and sounds to help you imagine positive and relaxing settings, experiences, and feelings.
