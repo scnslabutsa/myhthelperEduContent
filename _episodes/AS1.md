@@ -15,7 +15,7 @@ layout: lesson
 
    * Bedtime routine: as soon as you lay down in bed.
 
-   * Use a pillbox. This makes it easy to see when you have taken your pill and when you have not. 
+* Use a pillbox. This makes it easy to see when you have taken your pill and when you have not. 
 
-   * Use a calendar or a medicine journal to check off every day that you take it. It is important to check off the day the moment you take the pill. Don’t rely on your memory at the end of the day.
+* Use a calendar or a medicine journal to check off every day that you take it. It is important to check off the day the moment you take the pill. Don’t rely on your memory at the end of the day.
 
