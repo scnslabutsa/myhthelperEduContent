@@ -11,7 +11,7 @@ layout: lesson
     - Walk your dog in the morning and before bed; if you don’t have a dog, maybe your neighbor needs help walking their dog.
     
     <p align="center">
-    <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/walking-cute-pup.jpg"/> 
+    <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/PA41.jpg"/> 
     </p>  
     
     - Don’t text your children to come to the table for dinner. Walk to their rooms to tell them.
@@ -27,7 +27,7 @@ layout: lesson
 * Do some yard work. Mow the grass or pull out weeds; rake leaves instead of using a leaf blower.
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/yardwork.jpg"/> 
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/PA42.jpg"/> 
 </p> 
 
 * Scrub your bathroom tubs and showers.
