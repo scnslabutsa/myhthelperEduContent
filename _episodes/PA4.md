@@ -3,7 +3,7 @@ layout: lesson
 <!---title: Tips to Add Physical Activity to Your Everyday Life--->
 ---
 
-* Walk daily. There are so many ways to add walking to your daily routine:
+* Walk daily. There are so many ways to add walking to your daily routine.
 
     - When you’re at work, use a bathroom that is in a different building or different floor.
     - Walk during your lunch time.
@@ -20,6 +20,7 @@ layout: lesson
     - If you need to go somewhere within walking distance, walk  instead of drive.
     - Form a walking club with your co-workers to help you stay motivated to walk during the workday.
     - Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
+    - If you like going on walks, try to plan a walk in the park with your family or friends.
 
 * Ride your bike.
 
@@ -41,6 +42,9 @@ layout: lesson
 
 * Use the stairs instead of the elevator or escalator.
 
-**Source:**
+**Sources:**
 
-<span style="font-size:15px;">American Cancer Society, 2014. Physical Activity and the Cancer Patient.</span>
+<span style="font-size:15px;">American Cancer Society, 2022. Physical Activity and the Person with Cancer.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2020. American Cancer Society Guideline for Diet and Physical Activity.</span>
+
