@@ -6,7 +6,7 @@ layout: lesson
 * Hormone therapy can reduce the risk of breast cancer recurrence and the risk of a new cancer developing in the other breast.
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_female_taking_medicine.jpg"/> 
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AS2.jpg"/> 
 </p> 
 
 * Try to see yourself in the future, being healthy and enjoying your loved ones and your life...doing the things you enjoy the most.
@@ -17,6 +17,6 @@ layout: lesson
 
 * Acknowledge your accomplishment. Tell yourself you did a good job and think about all the ways you are protecting your health. 
 
-* Reward yourself with something small when you hit a milestone. For example, if you take your pill every day for an entire month, reward yourself with a new pair of comfy socks, or an iced tea from your favorite café. The reward doesn’t have to be big!
+* Reward yourself with something small when you hit a milestone. For example, if you take your pill every day for an entire month, reward yourself with a new pair of comfy socks, or an iced tea from your favorite café. The reward doesn’t have to be big, just something that you can look forward to!
 
 * Talk with friends that are going through the same treatment or that have been through it. It is helpful to talk to someone who knows exactly what you are going through.
