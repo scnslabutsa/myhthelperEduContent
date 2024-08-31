@@ -9,7 +9,7 @@ When talking with your spouse or partner think about these key messages:
 
 *	Talk openly and honestly with your spouse or partner. It is also helpful to sensitively listen to your partner’s thoughts and feelings.
 
-*		Don’t put on a ‘happy face’ if you don’t really feel that way. While you might try to protect your partner’s feelings by acting as happy as possible, it will help you and your partner more if you share your true feelings.
+*	Don’t put on a ‘happy face’ if you don’t really feel that way. While you might try to protect your partner’s feelings by acting as happy as possible, it will help you and your partner more if you share your true feelings.
 
 *	You should also discuss practical concerns, such as treatment options and changes in routines, and future plans. However, allow yourself and your partner to keep life as normal as possible during your treatment.
 
