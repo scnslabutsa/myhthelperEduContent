@@ -3,15 +3,15 @@ layout: lesson
 <!---title: Local Support Groups--->
 ---
 
-*    **Name: Alamo Breast Cancer Foundation (ABCF)**
+*    **Name:       Alamo Breast Cancer Foundation (ABCF)**
 
-     **Address:** 3014 Rivas St. San Antonio TX 78228
+     **Address:**  3014 Rivas St. San Antonio TX 78228
 
-     **Phone:** 210-692-9535
+     **Phone:**    210-692-9535
 
-     **Email:** sandisues@sbcglobal.net OR info@alamobreastcancer.org
+     **Email:**    sandisues@sbcglobal.net OR info@alamobreastcancer.org
 
-     **Website:** [https://www.alamobreastcancer.org/](https://www.alamobreastcancer.org/) 
+     **Website:**  [https://www.alamobreastcancer.org/](https://www.alamobreastcancer.org/) 
     
      **Services:** Offers a breast cancer helpline that is answered by volunteers who have had a breast cancer experience. The helpline is available 24 hours a day and is bilingual.
 
