@@ -27,7 +27,7 @@ As you talk with your children, listen to their concerns and answer their questi
 
 *	Consider practicing the conversation with a trusted loved one who can give you feedback on your tone and choice of words. You will want to be as calm as possible while talking to children about a cancer diagnosis.
 
-*		Prepare your children for possible physical changes, such as hair or weight loss, before they happen.
+*	Prepare your children for possible physical changes, such as hair or weight loss, before they happen.
 
 *	Explain that, although sometimes you deal with side effects of treatment, it is ultimately working to help you get better and healthy again.
 
@@ -37,7 +37,7 @@ As you talk with your children, listen to their concerns and answer their questi
 
 *	Young children and teenagers can carry feelings of sadness or anger with them over the diagnosis, remind them to express their feelings in healthy ways, such as writing or drawing.
 
-*		It is a good idea to let your children’s teachers know what you are going through—especially for younger children. The teachers may be able to help the children cope if they spend most of the day at school.
+*	It is a good idea to let your children’s teachers know what you are going through—especially for younger children. The teachers may be able to help the children cope if they spend most of the day at school.
 
 *	Finally, just as your children depend on you, you can depend on them, too. They can be, and probably want to be, a source of support for you. They will want to listen to you, hug you, kiss you and spend time with you. Let them.
 
