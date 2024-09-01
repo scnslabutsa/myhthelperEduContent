@@ -43,13 +43,20 @@ Some foods have anti-inflammatory properties that may reduce your cancer risk, a
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Ant_inflammatory_Foods.png"/>	
 </p>
 
-**[Spices](http://www.aicr.org/enews/2015/11-november/enews-fall-spices-for-cancer-prevention.html)**: 	Cinnamon, ginger, turmeric, black cumin
+**[Spices]**: 	Cinnamon, ginger, turmeric, black cumin
+
 **Herbs**:	Chives, garlic, onion, cloves, rosemary, black pepper, chilies, oregano, thyme, lemongrass
+
 **Fatty fish**:	Salmon, cod, mackerel, sardines, tuna (fresh or canned)
+
 **Cooking oils**:	Olive, canola, grapeseed
+
 **Drinks**:	Green and black tea, red wine (in moderation)
+
 **Vegetables**:	Crucifers like cauliflower, broccoli, cabbage, kale, collards, Brussels sprouts, watercress
+
 **Fruit**:	Colorful fruit like cherries, grapes, melons, plums, blackberries, raspberries, pomegranate, blueberries, citrus (e.g., oranges)
+
 **Nuts**:	Nuts like almonds and walnuts
 
 Fruits and vegetables such as blueberries, apples, and leafy greens that are high in natural antioxidants and polyphenols—protective compounds found in plants.
