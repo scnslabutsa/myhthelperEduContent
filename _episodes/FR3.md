@@ -43,7 +43,7 @@ Some foods have anti-inflammatory properties that may reduce your cancer risk, a
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Ant_inflammatory_Foods.png"/>	
 </p>
 
-**[Spices]**: 	Cinnamon, ginger, turmeric, black cumin
+**Spices**: 	Cinnamon, ginger, turmeric, black cumin
 
 **Herbs**:	Chives, garlic, onion, cloves, rosemary, black pepper, chilies, oregano, thyme, lemongrass
 
