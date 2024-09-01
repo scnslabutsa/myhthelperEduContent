@@ -5,32 +5,46 @@ layout: lesson
 
 As you talk with your children, listen to their concerns and answer their questions to the best of your ability. Here are some tips to help talk with your children about cancer:
 
-* Use the term cancer. It gives your children specific information and reduces confusion and misunderstanding, particularly if they overhear you using the word with others.
+*	Use the term “cancer”. It gives your children specific information and reduces confusion and misunderstanding, particularly if they overhear you using the word with others.
 
-* Use age appropriate language. Younger children need simple explanations. A more detailed explanation helps reduce feelings of helplessness and fear for older children.
+*	Use age-appropriate language. Younger children need simple explanations. For older children, a more detailed explanation helps reduce feelings of helplessness and fear.
 
-* Reassure them that cancer is not contagious.
+     *	Children of different ages will understand a cancer diagnosis differently. The American Cancer Society has tips on how to explain cancer to children of different ages. [https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/intro.html](https://www.cancer.org/cancer/caregivers/helping-children-when-a-family-member-has-cancer/dealing-with-treatment/intro.html)
 
-* Let them know it is OK for them to have many different feelings. Explain that you have many of those same feelings, too.
+*	Reassure them that cancer is not contagious.
 
-- Be honest when answering questions. It is OK to say, “I don’t know.”
+*	Let them know it is OK for them to have many different feelings. Explain that you have many of those same feelings, too.
 
-- Try to keep your children’s routines as consistent as possible, but prepare them for the things that will change.
+*	Be honest and open with your children when answering questions. It is OK to say, “I don’t know.”
 
-- Provide opportunities for your children to help you so that they feel needed, valued, and helpful. However, don’t burden them with more responsibilities than they can handle.
+*	Try to keep your children’s routines as consistent as possible, but prepare them for the things that will change.
 
-- Consider joining a support group for families or attending family counseling/therapy.
+*	Help your children stay involved in after school activities and sports and keep them in contact with friends. Remind them that it’s OK to still have fun. 
 
-- Consider practicing the conversation with a trusted loved one who can give you feedback on your tone and choice of words. You will want to be as calm as possible while talking to children about a cancer diagnosis.
+*	Provide opportunities for your children to help you so that they feel needed, valued, and helpful. However, don’t burden them with more responsibilities than they can handle.
 
-- Prepare your children for possible physical changes, such as hair or weight loss, before they happen.
+*	Consider joining a support group for families or attending family counseling/therapy.
 
-- Explain that, although sometimes you deal with side effects of treatment, it is ultimately working to help you get better and healthy again.
+*	Consider practicing the conversation with a trusted loved one who can give you feedback on your tone and choice of words. You will want to be as calm as possible while talking to children about a cancer diagnosis.
 
-- Let your children know that they are free to ask questions. 
+*		Prepare your children for possible physical changes, such as hair or weight loss, before they happen.
 
-- It is a good idea to let your children’s teachers know what you are going through—especially for younger children. The teachers may be able to help the children cope if they spend most of the day at school.
+*	Explain that, although sometimes you deal with side effects of treatment, it is ultimately working to help you get better and healthy again.
 
-- Finally, just as your children depend on you, you can depend on them, too. They can be, and probably want to be, a source of support for you. They will want to listen to you, hug you, kiss you and spend time with you. Let them.
+*	Let your children know that they are free to ask questions. 
 
-- Encourage your whole family to talk with each other, so there is no confusion among the children in the family.
+*	If you have an age gap between your children, for example a difference of 4 or 5 years, it might be easier to explain your diagnosis one-on-one so that you can tailor the conversation based on their age.
+
+*	Young children and teenagers can carry feelings of sadness or anger with them over the diagnosis, remind them to express their feelings in healthy ways, such as writing or drawing.
+
+*		It is a good idea to let your children’s teachers know what you are going through—especially for younger children. The teachers may be able to help the children cope if they spend most of the day at school.
+
+*	Finally, just as your children depend on you, you can depend on them, too. They can be, and probably want to be, a source of support for you. They will want to listen to you, hug you, kiss you and spend time with you. Let them.
+
+*	Encourage your whole family to talk with each other, so there is no confusion among the children in the family.
+
+**Sources:**
+
+<span style="font-size:15px;">American Cancer Society, 2022. Telling a Child Someone They Love Has Cancer.</span>
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2019. Talking with Your Children About Cancer.</span>
