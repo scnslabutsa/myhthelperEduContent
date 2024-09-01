@@ -16,6 +16,7 @@ layout: lesson
      **Services:** Offers a breast cancer helpline that is answered by volunteers who have had a breast cancer experience. The helpline is available 24 hours a day and is bilingual.
 
 
+
 *   **Name: Cancer Care - Services**
 
     **Phone:** 1-800-813-HOPE (4673) 
@@ -25,6 +26,7 @@ layout: lesson
     **Website:**  [https://www.cancercare.org/](https://www.cancercare.org/)
     
     **Services:** Cancer Care is a national nonprofit organization that provides free, professional support services for anyone affected by cancer; including financial assistance for transportation and pain medication. They also offer counseling, online support groups, and educational services.
+
 
 
 *   **Name: Grace After Fire**
@@ -44,6 +46,8 @@ layout: lesson
     
     **Services:** Provides peer-to-peer support groups, community resource navigation, financial assistance, wellness programs (i.e., yoga, fitness groups, and creative classes) and annual retreats for Veterans. 
 
+
+
 *   **Name: Breast Cancer Support Group – Carver Branch Library**
 
     **Address:** 3350 E. Commerce, San Antonio, TX 78220
@@ -56,220 +60,183 @@ layout: lesson
 
     **Email:** [shauna.mendoza@sanantonio.gov](shauna.mendoza@sanantonio.gov)
     
-    **Services:** This group offers a safe and nurturing space where survivors, current cancer patients, and <br>
-their loved ones can openly discuss their experiences, challenges, and triumphs. This <br>
-group offers a place for cancer survivors and their support networks to connect, learn from <br>
-one another, and find comfort that they are not alone.
+    **Services:** This group offers a safe and nurturing space where survivors, current cancer patients, and their loved ones can openly discuss their experiences, challenges, and triumphs. This group offers a place for cancer survivors and their support networks to connect, learn from one another, and find comfort that they are not alone.
+
 
     
-*   **Name: Caring Hearts Support Group – Brooks Army Medical Center**
+*   **Name: Jewish Family Service San Antonio (JFS)**
 
-    **Address:** 3851 Roger Brook Drive, Fort Sam Houston, TX, 78234
-
-    **Phone:** 210-916-2261, 210-916-4141
-
-    **Services:** This support group is for women with breast or gynecological cancer and is led by health professionals.
-
-
-*   **Name: Harvest Fellowship Community Church Cancer Support Group**
-
-    **Address:** 1270 North Loop 1604, San Antonio, TX, 78232
-
-    **Phone:** 210-249-2400 
-    
-    **Services:** Support groups and counseling.
-
-
-*   **Name: Help and Hope for the Journey – University United Methodist Church**
-
-    **Address:** 5084 De Zavala #205, San Antonio, TX 78249
-    
-    **Phone:** 210-292-3795 
-    
-    **Meeting Days:** Support group meets every second and fourth Wednesday of the month from 7:00-8:00PM.
-
-
-*   **Name: Jewish Family & Children’s Services (JFCS)**
-
-    **Address:** 12500 NW Military Hwy #250, San Antonio TX 78231 (Northside location)<br>
-    1151 Mission Road, San Antonio, TX 78210 (Southside location)
+    **Address:** 12500 NW Military Hwy #250, San Antonio TX 78231 (Northside location) <br> 1151 Mission Road, San Antonio, TX 78210 (Southside location)
 
     **Phone:** 210-302-6920 (Northside location), 210-533-1112 (Southside location)
+
+    **Email:** [info@jfs-sa.org](info@jfs-sa.org)
+
+    **Website:** [https://jfs-sa.org/](https://jfs-sa.org/)
     
-    **Website:** [https://jfs-sa.org/](https://jfs-sa.org/) 
+    **Services:** Offers an ongoing supportive group for women and families coping with breast cancer. The Program is designed for those going through treatment or in remission.
 
-    **Services:** Offers an ongoing supportive group for women and families coping with breast cancer. The program is designed for those going through treatment or in remission.
-
-
-*   **Name: LACE (Life After Cancer Education) – *MILITARY WOMEN ONLY***
-
-    **Address:** 3851 Roger Brooke Drive, BAMC, General Surgery Clinic Conference Room, San Antonio, TX, 78219
-
-    **Phone:** 210-916-4212 (Bianca), 210-916-1312 (Sandy)
-    
-    **Contact:** Bianca Rodriguez, Sandy Terrazzino  
-
-    **Meeting Days:** Second Wednesday of each month, 10:00AM – 11:30AM
 
 
 *   **Name: Mays Cancer Center (MCC) at UT Health San Antonio – Individual Counseling**
 
-    **Address:** 979 Wurzbach Rd, San Antonio, TX, 78229
- 
-    **Phone:** 210-450-1000
-    
-    **Website:** [http://www.uthscsa.edu/patient-care/cancer-center/](http://www.uthscsa.edu/patient-care/cancer-center/) 
-
-    **Services:** Individual counseling, support groups, and cancer education and information.
-
-
-*   **Name: MCC - I Count Too, Children’s Support Group**
-
-    **Address:** 7979 Wurzbach Rd, San Antonio, TX, 78229
- 
-    **Phone:** 210-450-1565
-    
-    **Website:** [http://www.uthscsa.edu/patient-care/cancer-center/](http://www.uthscsa.edu/patient-care/cancer-center/) 
-
-    **Services:** Support group for children with a loved one affected by cancer.   
-
-
-*   **Name: MCC - Keep Abreast**
-
-    **Address:** 7979 Wurzbach Road, Mays Cancer Center, 1st Floor Grossman Library, San Antonio, TX, 78229
-
-    **Phone:** 210-365-1321
-
-    **Email:** [suzi.emanuel9@gmail.com](suzi.emanuel9@gmail.com)
-    
-    **Contact:** Suzi Emanuel   
-
-    **Meeting Days:** First Monday of each month (2nd Monday when 1st Monday is a holiday), 6:00PM – Metastatic/recurrence group – offers support and explores challnges faced when disease returns, 7:00PM – Regular group – offers support and education through guest speakers, group discussion, and field trips
-
-
-*   **Name: MCC – Make Today Count**
-
     **Address:** 7979 Wurzbach Rd, San Antonio, TX, 78229
 
-    **Phone:** 210-450-1738
+    **Phone:** 210-450-1000 or 210-450-5570
 
-    **Contact:** Patient & Family Services   
-
-    **Website:** [http://www.uthscsa.edu/patient-care/cancer-center/](http://www.uthscsa.edu/patient-care/cancer-center/)
-
-    **Services:** Offers a support group for patients with cancer, their families, and friends.
-
-    **Meeting Days:** Sessions are on the 2nd and 4th Thursdays of every month. Groups meet in English at 6:00PM and Spanish at 12:00PM
-
-*   **Name: Prayer Meeting – Methodist Hospital**
-
-    **Address:** 7700 Floyd Curl, San Antonio, TX, 78229
-
-    **Phone:** 210-575-4558
-
-    **Services:** Support group located on 8th floor in waiting room.
-
-    **Meeting Days:** Tuesdays at 6:00PM 
+    **Website:** [https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care](https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care)
+    
+    **Services:** Individual counseling, support groups (breast, lung, sarcoma) and cancer education and information.
 
 
-*   **Name: Reach to Recovery – American Cancer Society**
 
-    **Address:** 8115 Datapoint Dr, San Antonio, TX, 78229
+*   **Name: Keep Abreast**
 
-    **Phone:** 210-614-4211, 210-227-2345
+    **Address:** 5101 Medical Dr, San Antonio, TX 78229
 
-    **Services:** Provides one-to-one support system for women who have had breast surgery. A comfort bra and pillow are provided. Exercise for strengthening of arm can be demonstrated with doctor’s permission.
+    **Website:** [https://myconnectability.org/series/keep-abreast-3/](https://myconnectability.org/series/keep-abreast-3/)
 
+    **Hours:** First Monday of each month (2 nd Monday when 1 st Monday is a holiday) at 7:00PM (Virtual Zoom Meeting)
+    
+    **Phone:** 210-365-1321 or 210-819-4325
 
-*   **Name: Rogers Middle School**
+    **Email:** [suzi.emanuel9@gmail.com](suzi.emanuel9@gmail.com) OR [contact@myconnectability.org](contact@myconnectability.org)
 
-    **Address:** 314 Galway St. San Antonio, TX 78223
+    **Contact:** Suzi Emanuel
+    
+    **Services:** Always contact the organizer first to confirm meeting dates and times. Offers support and education for women who have been diagnosed with breast cancer or are survivors of breast cancer.
 
-    **Phone:** 210-438-6840, 210-333-7551
-
-    **Contact:** Naomi Cruz  
-
-    **Meeting Days:** Second Thursday of every month at 6:30PM
-
+    
 
 *   **Name: S.L.E.W. Counseling Services**
 
     **Address:** 12521 Nacogdoches Rd., Suite 101, San Antonio, TX, 78217
 
+    **Hours:** Closed on Mondays, Saturdays, and Sundays
+    
     **Phone:** 210-654-7900
+    
+    **Website:** [www.slewwellness.org](www.slewwellness.org) 
 
-    **Website:** [https://www.slewwellness.org/](https://www.slewwellness.org/)
-
-    **Services:** Emotional counseling is provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in the program.
-
-
-*   **Name: Susan G. Komen San Antonio**
-
-    **Address:** P.O. Box 6678 San Antonio, TX, 78209
-
-    **Phone:** 210-222-9009
-
-    **Email:** [info@sakomen.net](info@sakomen.net)
-
-    **Website:** [https://ww5.komen.org/](https://ww5.komen.org/) ; [https://komensanantonio.org/](https://komensanantonio.org/)
-
-    **Services:** Komen San Antonio offers a mentor program for people to connect with a survivor to provide emotional support during the process of care.
+    **Services:** Offers emotional counseling provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in theprogram.
 
 
-*   **Name: St. Matthews Catholic Church**
 
-    **Address:** 10703 Wurzbach Rd, San Antonio, TX, 78230
+*   **Name: Susan G. Komen - San Antonio**
 
-    **Phone:** 210-478-5000, 210-342-8860
+    **Address:** P.O. Box 6678, San Antonio, TX, 78209
 
-    **Contact:** Eleanor Freeman 
+    **Phone:** 210-222-9009 (local) OR 1-877-465-6636 (national)
+    
+    **Email:** [info@sakomen.net](info@sakomen.net) OR [helpline@komen.org](helpline@komen.org)
 
-    **Meeting Days:** Fourth Monday of every month at 7:30PM
+    **Website:** [www.komensanantonio.org](www.komensanantonio.org) OR [www.komen.org](www.komen.org)
 
-
-*   **Name: University Family Health Center**
-
-    **Address:** 1055 Ada St. San Antonio, TX 78223
-
-    **Phone:** 210-358-5703, 210-358-5530
-
-    **Contact:** Carol Mancinas 
-
-    **Meeting Days:** Third Thursday of every month at 2:00PM
+    **Meeting Days:** Komen San Antonio offers a mentor program for people to connect with a survivor to provide emotional support during the process of care.
 
 
-*   **Name: University Health Clinic**
 
-    **Address:** 527 N Leona St. San Antonio, TX 78207
+*   **Name: St. Matthews Catholic Church – McDonald Family Center**
 
-    **Phone:** 210-358-3620, 210-358-3555
+    **Address:** 10703 Wurzbach Rd, San Antonio, TX, 78230 <br> **Room 103**
 
-    **Contact:** Carmen Boudreau 
+    **Hours:** Fourth Monday of every month at 7:00PM
+    
+    **Phone:** 210-865-5671
 
-    **Meeting Days:** Every Wednesday at 9:00AM
-
-
-*   **Name: Wilford Hall Medical Center Support Group**
-
-    **Address:** 2200 Bergquist Dr., San Antonio, TX, 78236
-
-    **Phone:** 210-292-6914 or 210-292-3795
-
-    **Contact:** Cindy Burke or Dorothy Phillips
-
-    **Services:** Support group for the patient and family. Group meets in Family Room 6A.
-
-    **Meeting Days:** Every Thursday of the month at 1:00PM.
+    **Contact:** Ray Baird
+    
+    **Services:** Provides a support group for cancer survivors, counseling, and other services.
 
 
-*   **Name: Women with Cancer Support Group – First Baptist Church**
+*   **Name: Heart2Heart – First Baptist Church**
 
-    **Address:** 1401 Pat Booker Rd, San Antonio, TX, 78148
+    **Address:** 515 McCullough Avenue, San Antonio, TX 78215
 
-    **Phone:** 210-422-6880
+    **Hours:** Tuesdays of every month at 6:30PM
+ 
+    **Email:** [info@fbcsa.org](info@fbcsa.org)
+ 
+    **Phone:** 210-226-0363
+    
+    **Services:** This is a support group for cancer patients and their families.
 
-    **Services:** This is an educational program for women with cancer, primarily breast, their families and friends. This program includes doctors, nurses, social workers, and other health professionals who discuss issues related to cancer.
 
-    **Meeting Days:** Second Tuesday of every month at 6:30PM.
 
+*   **Name: Pink Warrior Advocates – Trusting Vulnerability (TV) Thursdays**
+
+    **Address:** 36 Nafta Cir, New Braunfels, TX 78132 (TV Thursdays for newly diagnosed patients) <br> 888 Landa St, New Braunfels, TX 78130 (TV Thursdays for survivors)
+
+    **Hours:** **For newly diagnosed:** Every First Thursday of the Month from 6:00-8:00PM <br> **For patients with Stage 4 diagnosis:** Every third Thursday of the Month from 6:00-8:00PM
+
+    **Email:** [hope@pinkwarrioradvocates.org](hope@pinkwarrioradvocates.org)
+
+    **Website:** [https://www.pinkwarrioradvocates.org/news-events](https://www.pinkwarrioradvocates.org/news-events)
+
+    **Phone:** 830-308-8855
+
+    **Services:** Providing various forms of support to those who have been diagnosed with breast cancer from financial, advocate support, care kit requests, and more.
+
+
+
+*   **Name: Methodist Cancer Care Rehabilitation Center**
+
+    **Address:** 4410 Medical Drive Suite 440 San Antonio, TX 78229
+
+    **Hours:** Monday – Thursday: 9:00am – 6:00pm; Friday: 8:00am – 4:00pm
+
+    **Website:** [https://sahealth.com/locations/methodist-cancer-care-rehabilitation-center/](https://sahealth.com/locations/methodist-cancer-care-rehabilitation-center/)
+
+    **Phone:** 210-575-9740
+
+    **Services:** Help address the long-term effects associated with cancer treatment with personalized care plans to help reduce or prevent the severity of side effects before and during your cancer treatment.
+
+
+
+*   **Name: Methodist Hospital Metropolitan – Breast Cancer Support Group**
+
+    **Address:** 1310 McCullough Ave, San Antonio, TX 78212 <br>
+    **Conference Room 3** – Basement (next to cafeteria)
+
+    **Hours:** Every third Wednesday of the month from 6:00pm – 8:00pm
+
+    **Website:** [https://www.sahealth.com/locations/methodist-hospital-metropolitan/specialties/oncology/breast-cancer](https://www.sahealth.com/locations/methodist-hospital-metropolitan/specialties/oncology/breast-cancer)
+    
+    **Phone:** 210-757-2546
+
+    **Email:** [Deborah.williams@mhshealth.com](Deborah.williams@mhshealth.com)
+
+    **Services:** Support group for breast cancer patients and their caregivers as well as social services, educational workshops, and patient navigation to help patients throughout their cancer journey.
+
+
+
+*   **Name: City Base Cancer Support Group – Brookhill Baptist Church**
+
+    **Address:** 631 Utopia Lane San Antonio, TX 78223 **(Education wing)**
+
+    **Hours:** Meetings every Thursday at 7:00pm
+
+    **Website:** [http://brookhillbaptistchurch.com/community-services/cancer-support-group.html](http://brookhillbaptistchurch.com/community-services/cancer-support-group.html)
+
+    **Phone:** (210) 333-4947 (main) OR 210-415-2830 (Brenda Fox)
+
+    **Contact:** Brenda Fox
+    
+    **Services:** Support groups for cancer patients and their caregivers.
+    
+
+
+*   **Name: Overcomers – Monthly Meetup Support Group**
+
+    **Address:** 18410 Sonterra Place, San Antonio, TX 78258 <br> **Room 242**
+
+    **Hours:** Monthly meetings on the third Tuesday of each month at 6:30pm-8:30pm
+
+    **Website:** [https://overcomersbreastcancer.com](https://overcomersbreastcancer.com)
+
+    **Phone:** 316-648-5466
+
+    **Email:** [metasistersovercomers@gmail.com](metasistersovercomers@gmail.com) (Kristi)
+
+    **Services:** Offering breast cancer support groups, free educational workshops, retreats, and financial assistance to breast cancer patients.
 
