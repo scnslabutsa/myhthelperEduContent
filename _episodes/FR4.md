@@ -3,6 +3,8 @@ layout: lesson
 <!---title: Healthy Eating Guidelines<sup>19,20</sup>--->
 ---
 
+Eating healthy is fun, delicious, and good for your body in countless ways. Here are some guidelines to help you maintain a healthy diet. Learn them, practice them, and share them with your family and friends!
+
 Check with your medical team to see if you have any food or diet restrictions, and if needed, consult with a dietitian to create a nutritious, balanced eating plan.
 
 <p align="center">
