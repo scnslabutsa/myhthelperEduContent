@@ -37,6 +37,8 @@ This chart lists some of the phytochemicals now attracting serious scientific at
 | Flaxseed| Lignans | •	Slow tumor growth and the ability to spread both estrogen receptor-positive (ER+) and -negative (ER-) breast cancer in animals<br/>• Decrease markers of inflammation, decrease number and size of colon cancer tumors and inhibit growth and spread of negative prostate cancers in animals|
 | Garlic (and onions, chives, leeks, scallions, and shallots)| Allium Compounds<br/>&nbsp;- Allicin<br/>&nbsp;- Alliin<br/>&nbsp;- Allyl sulfides<br/>Flavonoids| •	Reduce carcinogens’ ability to initiate cancer<br/>• Reduce growth of bladder, colon, prostate and stomach cancer cells<br/>•	Slow growth of breast, colon, esophageal, lung and stomach cancers in animals<br/>• Link to lower risk of colorectal cancer in humans|
 | Grapefruit (and other citrus fruits)| Carotenoids<br/>&nbsp;- Beta-carotene<br/>&nbsp;-	Lycopene<br/>Flavonoids<br/>&nbsp;-	Naringenin<br/>Limonoids| • Decrease free radical damage to DNA that can lead to cancer<br/>• Decrease growth and increase self-destruction of colon, mouth, skin, lung, breast and stomach cancers in animals|
+| Squash (winter) and other orange-fleshed vegetables like carrots and sweet potatoes; and fruits like apricots, cantaloupes, and mangoes| Carotenoids<br/>&nbsp;-	Alpha-carotene<br/>&nbsp;-	Beta-carotene<br/>&nbsp;- Beta-cryptoxanthin<br/>&nbsp;-	Lutein<br/>&nbsp;- Zeaxanthin| • Decrease free radical damage to DNA that can lead to cancer<br/>•	Help to control cell growth<br/>• Stimulate self-destruction and decrease growth and metastasis of several types of cancer cells|
+
 
 For more information visit the American Institute for Cancer Research:
 
