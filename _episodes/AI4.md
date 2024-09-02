@@ -17,7 +17,7 @@ Among postmenopausal women with hormone receptor-positive breast cancer, aromata
 
 
 
-**References:**
+**Sources:**
 
 <span style="font-size:15px;">American Cancer Society, 2021. Aromatase Inhibitors for Lowering Cancer Risk.</span>
 
