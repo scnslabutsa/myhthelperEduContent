@@ -3,13 +3,11 @@ layout: lesson
 <!---title:  ¿Cómo funcionan inhibidores de aromatasa? --->
 ---
 
-**Los inhibidores de aromatasa** son drogas que bloquean la actividad de una enzima llamada aromatasa, que el cuerpo usa para producir estrógeno en los ovarios y en otros tejidos. Los inhibidores de aromatasa se usan principalmente en mujeres posmenopáusicas. Sin embargo, pueden también usarse en mujeres premenopáusicas en combinación con drogas que suprimen la función de los ovarios.
+**Los inhibidores de aromatasa** son drogas que reducen los niveles de estrógeno bloqueando una enzima del tejido graso, llamada aromatasa, para que no convierta otras hormonas en estrógeno. (El estrógeno puede acelerar el crecimiento de células de cáncer de seno). Los inhibidores de aromatasa no impiden que los ovarios produzcan estrógeno. Estos se usan principalmente en mujeres posmenopáusicas porque los ovarios en mujeres premenopáusicas producen demasiada aromatasa para que los inhibidores la bloqueen eficazmente. Sin embargo, pueden también usarse en mujeres premenopáusicas en combinación con drogas que suprimen (o limitan) la función de los ovarios.
+
 
 <p align="center">
-<!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work_Spanish.png"/>
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1sp.png"/>
 </p>
 
-**Fuentes:**
 
-<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet</span>
