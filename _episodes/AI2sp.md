@@ -9,13 +9,16 @@ layout: lesson
 
 ***Nombres de marca comunes de aromatasa***
 * Anastrazole (Arimidex)
-* Exemestane (Aromasin)
-* Letrozole (Femara)
-
+  * anastrozol en español
+*	Exemestane (Aromasin)
+  *	exemestano en español
+*	Letrozole (Femara)
 
 
 **Fuentes:**
 
-<span style="font-size:15px;">National Cancer Institute, 2017. Hormone Therapy for Breast Cancer Fact Sheet.</span>
+<span style="font-size:15px;">American Cancer Society, 2021. Aromatase Inhibitors for Lowering Cancer Risk.</span>
 
-<span style="font-size:15px;">Susan G. Komen, 2018. Aromatase Inhibitors.</span>
+<span style="font-size:15px;">National Cancer Institute, 2022. Hormone Therapy for Breast Cancer.</span>
+
+<span style="font-size:15px;">Susan G. Komen, 2024. Aromatase Inhibitors.</span>
