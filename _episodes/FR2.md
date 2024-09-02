@@ -39,6 +39,7 @@ This chart lists some of the phytochemicals now attracting serious scientific at
 | Grapefruit (and other citrus fruits)| Carotenoids<br/>&nbsp;- Beta-carotene<br/>&nbsp;-	Lycopene<br/>Flavonoids<br/>&nbsp;-	Naringenin<br/>Limonoids| • Decrease free radical damage to DNA that can lead to cancer<br/>• Decrease growth and increase self-destruction of colon, mouth, skin, lung, breast and stomach cancers in animals|
 | Squash (winter) and other orange-fleshed vegetables like carrots and sweet potatoes; and fruits like apricots, cantaloupes, and mangoes| Carotenoids<br/>&nbsp;-	Alpha-carotene<br/>&nbsp;-	Beta-carotene<br/>&nbsp;- Beta-cryptoxanthin<br/>&nbsp;-	Lutein<br/>&nbsp;- Zeaxanthin| • Decrease free radical damage to DNA that can lead to cancer<br/>•	Help to control cell growth<br/>• Stimulate self-destruction and decrease growth and metastasis of several types of cancer cells|
 | Tomatoes| Carotenoids<br/>&nbsp;-	Beta-carotene<br/>&nbsp;- Lycopene| • Decrease free radical damage to DNA that can lead to cancer<br/>• Stimulate self-destruction and decrease growth and metastasis of several types of cancer cells<br/>|
+| Tea| Caffeine<br/>Flavonoids| • Stimulate enzymes that shut down carcinogens<br/>• Decrease tumor growth<br/>• Increase self-destruction of cancer cells<br/>• Restrain spread of cancer cells<br/>•	Decrease free radical damage to DNA that can lead to cancer|
 
 
 For more information visit the American Institute for Cancer Research:
