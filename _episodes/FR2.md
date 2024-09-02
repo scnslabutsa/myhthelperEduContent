@@ -41,15 +41,11 @@ This chart lists some of the phytochemicals now attracting serious scientific at
 | Tomatoes| Carotenoids<br/>&nbsp;-	Beta-carotene<br/>&nbsp;- Lycopene| • Decrease free radical damage to DNA that can lead to cancer<br/>• Stimulate self-destruction and decrease growth and metastasis of several types of cancer cells<br/>|
 | Tea| Caffeine<br/>Flavonoids| • Stimulate enzymes that shut down carcinogens<br/>• Decrease tumor growth<br/>• Increase self-destruction of cancer cells<br/>• Restrain spread of cancer cells<br/>•	Decrease free radical damage to DNA that can lead to cancer|
 | Walnuts| Elligatannins<br/>Flavonoids<br/>Phenolic acids<br/>Phytosterols| • Decrease inflammation and free radical damage to DNA that can lead to cancer<br/>•	Inhibit growth of cancer cells<br/>• Decrease growth of breast and colon tumors in animals|
+| Whole Grains| Flavonoids<br/>Lignans<br/>Phenolic acids<br/>Phytic acid<br/>Protease inhibitors<br/>Saponins| • Decrease growth of cancer cells<br/>•	Link to lower colorectal cancer risk|
+|<sup>*</sup>Most from laboratory studies.<br/>Human studies using whole foods have been conducted, but the results are limited and not conclusive.<br/>Most actions listed come from cell and animal studies. These often use phytochemicals or extracts from foods, and results could be different than results from consuming whole foods.<br/>AICR recommends eating a mostly plant-based diet that includes a wide variety of plant foods. For more discussion of current human studies, go to AICR’s Foods That Fight Cancer™ at [http://www.aicr.org/foods-that-fight-cancer/](http://www.aicr.org/foods-that-fight-cancer/).|
 
 
-For more information visit the American Institute for Cancer Research:
-
-Phytochemicals at [http://www.aicr.org/reduce-your-cancer-risk/diet/elements_phytochemicals.html](http://www.aicr.org/reduce-your-cancer-risk/diet/elements_phytochemicals.html)
-
-Foods to fight cancer [http://www.aicr.org/foods-that-fight-cancer/](http://www.aicr.org/foods-that-fight-cancer/)  
-
-**Source:**
+**Sources:**
 
 <span style="font-size:15px;">American Institute for Cancer Research, n.d. The Cancer Fighters in Your Food.</span>
 
