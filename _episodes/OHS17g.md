@@ -5,7 +5,7 @@ layout: lesson
 
 There are many ways people describe nausea: sick to my stomach, queasy, or upset stomach. Nausea can have other symptoms that happen at the same time, such as increased saliva, dizziness, trouble swallowing, or fast heart rate. A person can have nausea with or without vomiting.
 
-Sometimes, your cancer treatment or other medicines can cause nausea and vomiting in cancer patients. If nausea becomes severe, talk to your doctor. S/He may want to prescribe a medication that helps reduce nausea. However, beyond medication, there are certain things you can do to help.
+Sometimes, your cancer treatment or other medicines can cause nausea and vomiting in cancer patients. If nausea becomes severe, **talk to your doctor**. S/He may want to prescribe a medication that helps reduce nausea. However, beyond medication, there are certain things you can do to help.
 
 Tips to Manage Nausea:
 
