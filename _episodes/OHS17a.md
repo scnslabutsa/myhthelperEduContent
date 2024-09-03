@@ -7,7 +7,7 @@ Anxiety means feeling uncomfortable, worried, or scared about a real or possible
 
 In general, anxiety is common for patients with a breast cancer diagnosis. 
 
-There are a variety of ways to cope with anxiety. Some may work for you, some may not. Try them out and talk with your doctor or a professional counselor to find the best options for you. It is best not to keep feelings of anxiety inside.
+There are a variety of ways to cope with anxiety. Some may work for you, some may not. Try them out and **talk with your doctor or a professional counselor** to find the best options for you. It is best not to keep feelings of anxiety inside.
 
 * Relaxation techniques. Any of these techniques may be used alone or together with other types of treatment.
    - Deep breathing. This technique involves taking deep breaths in, holding your breath for a few seconds, then slowly exhaling your breath.
