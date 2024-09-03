@@ -3,7 +3,7 @@ layout: lesson
 <!---title: What is hormone therapy for breast cancer and how does it work? <sup>1</sup><sup>,</sup><sup>2</sup>--->
 ---
 
-Breast cancer cells have receptors (proteins) that attach to estrogen and progesterone, which helps them grow. Treatments that stop these hormones from attaching to these receptors are called hormone therapy (also called hormonal therapy, hormone treatment, or endocrine therapy). This is systemic therapy, which means it reaches cancer cells anywhere in the body, not just the breasts. Hormone therapy is recommended for women with hormone receptor-positive (ER-positive and/or PR-positive) breast cancers, not for women with hormone-negative tumors.
+Breast cancer cells have receptors, which are proteins in or on the cells that attach to certain substances in the blood, such as estrogen and progesterone, which helps them grow. Treatments that stop these hormones from attaching to these breast cancer cell receptors are called hormone therapy (also called hormonal therapy, hormone treatment, or endocrine therapy). Hormone therapy is one type of systemic therapy, which means it reaches cancer cells anywhere in the body, not just the breasts. Hormone therapy is recommended for women with hormone receptor-positive (ER-positive and/or PR-positive) breast cancers, not for women with hormone-negative tumors.
  
 
 ***Breast Cancer Types***
@@ -14,7 +14,7 @@ Breast cancer cells have receptors (proteins) that attach to estrogen and proges
 </p>
 They can attach to the hormones estrogen (estrogen- positive or ER-positive) and/or progesterone (progesterone positive or PR-positive). For these cancers, high estrogen levels help cancer cells grow and spread. About 75% of patients are diagnosed with hormone receptor-positive breast cancer. 
 
-* For ER-positive and PR-positive breast cancers, blocking or slowing estrogen and progesterone from attaching to receptors can help keep the cancer from growing and spreading.
+* For ER-positive and PR-positive breast cancers, blocking or slowing estrogen and progesterone from attaching to breast cancer cell receptors can help keep the cancer from growing and spreading.
 
 * Breast cancers with few or no hormone receptor cells are called hormone receptor-negative cancers. They can be estrogen receptor-negative (ER-negative) and/or progesterone receptor-negative (PR-negative).
 
