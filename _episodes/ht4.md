@@ -17,7 +17,7 @@ People who complete the full course have better survival than those who do not.
 If you miss a dose or two, do not panic. Continue taking your medicine as prescribed. If you have trouble remembering to take your medicine, a pillbox or setting an alarm on your watch or phone may help.
 
 The length of treatment coupled with side effects often makes it difficult to complete hormone therapy. 
-Although the menopausal symptoms related to hormone therapy can be hard to deal with, there are things you can do that may ease these side effects. If you have side effects, don’t suspend taking your medication; talk with your health care provider about ways to treat them.
+Although the menopausal symptoms related to hormone therapy can be hard to deal with, there are things you can do that may ease these side effects. If you have side effects, **don’t suspend taking your medication**; talk with your health care provider about ways to treat them.
 
 
 **Source:**
