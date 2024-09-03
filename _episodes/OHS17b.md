@@ -7,7 +7,7 @@ Constipation is when your bowels move less often and stools become harder to pas
 
 You might become constipated because there is not enough fluid in your digestive system or not enough movement in your bowels where stool is pushed through the body. Changes in activity levels, how much food you eat and water you drink are common causes of constipation.
 
-Contact your doctor if you haven’t had a bowel movement for 3 days or longer and before starting any kind of treatment for constipation, because some treatments may be harmful to certain people. Your healthcare team will be able to help you choose the best treatment.
+**Contact your doctor** if you haven’t had a bowel movement for 3 days or longer and before starting any kind of treatment for constipation, because some treatments may be harmful to certain people. Your healthcare team will be able to help you choose the best treatment.
 
 Tips to Manage Constipation:
 
