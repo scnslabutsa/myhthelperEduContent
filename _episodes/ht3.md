@@ -14,5 +14,6 @@ Hormone therapy can also be used to treat cancers that have come back after trea
 **Sources:**
 
 <span style="font-size:15px;">American Cancer Society, 2023. Treating Breast Cancer: Hormone Therapy for Breast Cancer</span>
+
 <span style="font-size:15px;">National Cancer Institute, 2022. Hormone Therapy for Breast Cancer</span>
 
