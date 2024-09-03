@@ -11,3 +11,10 @@ layout: lesson
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work.png"/>
 </p>
 
+**Sources:**
+
+<span style="font-size:15px;">American Cancer Society, 2021. Aromatase Inhibitors for Lowering Cancer Risk</span>
+
+<span style="font-size:15px;">National Cancer Institute, 2022. Hormone THerapy for Breast Cancer</span>
+
+<span style="font-size:15px;">Susan G. Komen, 2024. Aromatase Inhibitors.</span>
