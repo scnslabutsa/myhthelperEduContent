@@ -25,7 +25,7 @@ layout: lesson
 
     **Website:**  [https://www.cancercare.org/](https://www.cancercare.org/)
     
-    **Services:** Cancer Care is a national nonprofit organization that provides free, professional support services for anyone affected by cancer; including financial assistance for transportation and pain medication. They also offer counseling, online support groups, and educational services.
+    **Services:** Provides free, professional support services for anyone affected by cancer; including financial assistance for transportation and pain medication. They also offer counseling, online support groups, and educational services.
 
 
 
@@ -118,7 +118,7 @@ layout: lesson
     
     **Website:** [www.slewwellness.org](www.slewwellness.org) 
 
-    **Services:** Offers emotional counseling provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in theprogram.
+    **Services:** Offers emotional counseling provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in the program.
 
 
 
