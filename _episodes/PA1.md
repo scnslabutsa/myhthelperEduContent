@@ -2,6 +2,8 @@
 layout: lesson
 <!---title: Benefits of Physical Activity<sup>19,22,23</sup>--->
 ---
+**Always consult with your healthcare provider** before starting any type of physical activity.
+
 Physical activity has many benefits:
 
 *	Keep or improve your physical abilities
