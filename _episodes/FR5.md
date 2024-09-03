@@ -3,9 +3,9 @@ layout: lesson
 <!---title: Healthy Recipes--->
 ---
 
-For healthy recipes, please visit this page at [http://ww5.komen.org/RecipesIntroduction.html](http://ww5.komen.org/RecipesIntroduction.html).
+To find more healthy recipes, please visit the webpage from the American Cancer Society:
+[https://www.cancer.org/cancer/risk-prevention/diet-physical-activity/eat-healthy.html](https://www.cancer.org/cancer/risk-prevention/diet-physical-activity/eat-healthy.html).
 
-Recipe finder tool by Natural Standard
 
 **Sources:**
 
