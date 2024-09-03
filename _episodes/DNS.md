@@ -12,7 +12,7 @@ Most people know that smoking is bad for your health and the health of people ar
 
 If you need help quitting smoking, here are some valuable resources that help you create a plan to quit smoking: 
 
-* Quitxt: mobile texting program. Please text iquit for English or lodejo for Spanish to 844-332-2878
+* Quitxt: mobile texting program. Please text iquitmcc for English or lodejomcc for Spanish to 844-332-2878
 * Yesquit.org: phone counseling or online program
 * American Cancer Society [https://www.cancer.org/cancer/risk-prevention/tobacco/guide-quitting-smoking.html](https://www.cancer.org/cancer/risk-prevention/tobacco/guide-quitting-smoking.html): helpful information about smoking cessation (quitting smoking)
 * Smokefree.gov: text and online program 
