@@ -3,18 +3,18 @@ layout: lesson
 <!---title: Tips for Physical Activity--->
 ---
 
-* Talk to your doctor before you start any type of exercise. 
+* **Talk to your doctor** before you start any type of exercise. 
 
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/PA21.jpg"/>	
 </p>
 
-* Here are some questions to ask your doctor:
+* Here are some **questions to ask your doctor:**
 
     - Are there weight limits or certain exercises to avoid?
     - How long should I exercise at each session?
     - Should I keep my heart rate within a certain range?
-    - Ask your doctor who can help you set up a safe exercise program if this is the case.
+    - **Ask your doctor** who can help you set up a safe exercise program if this is the case.
 
 * Start slow. Even if you only do a few minutes of activity a day, it will help. The amount of time spent being active can be slowly increased. Your muscles will tell you when you need to slow down and rest.
 
