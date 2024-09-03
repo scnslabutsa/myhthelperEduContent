@@ -3,9 +3,9 @@ layout: lesson
 <!---title: Dry Skin<sup>37</sup>--->
 ---
 
-Dry skin can cause itchy skin, so often they two symptoms happen together. Dry skin can be rough, flaky, red, and sometimes painful. It’s often caused by not having enough oil and water in the layers of the skin. Dry skin can be a side effect of different cancer treatments or dehydration.
+Dry skin can cause itchy skin, so often the two symptoms happen together. Dry skin can be rough, flaky, red, and sometimes painful. It’s often caused by not having enough oil and water in the layers of the skin. Dry skin can be a side effect of different cancer treatments or dehydration.
 
-Your doctor may be able to prescribe you a topical steroid cream. Talk with your healthcare team about how severely and how often you experience dry or itchy skin.
+Your doctor may be able to prescribe you a topical steroid cream. **Talk with your healthcare team** about how severely and how often you experience dry or itchy skin.
 
 Tips for Managing Dry/Itchy Skin:
 
