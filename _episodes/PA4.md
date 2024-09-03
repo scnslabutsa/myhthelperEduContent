@@ -34,7 +34,7 @@ layout: lesson
 
 * Wash and wax your car.
 
-* Play active games with your kids, like freeze tag or jump rope.
+* Play active games with your kids, like Frisbee tag or jump rope.
 
 * Take a friend dancing or dance in your own living room.
 
