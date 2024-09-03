@@ -25,7 +25,7 @@ Tips for Managing Weight Gain:
      -  Park furthest away from building entrances.
      -  If you use the bus, get off one stop early.
      -  If somewhere you need to go is within walking distance, walk over there instead of driving.
-     -  Form a walking club with your co-workers to help you stay motivated to talk during the workday.
+     -  Form a walking club with your co-workers to help you stay motivated to walk during the workday.
      -  Wear a pedometer every day so that you see just how much you’re walking. Sometimes just seeing how little or how much you are walking can motivate you to walk more!
       
   <p align="center">
@@ -44,6 +44,7 @@ Tips for Managing Weight Gain:
 	- Choose only whole-grain breads, pastas, and cereals (for example, whole wheat bread instead of white bread, brown rice instead of white rice).
 	- Choose vegetables and fruits instead of calorie-dense foods. For example, eat apple slices with peanut butter instead of having a slice of apple pie; eat roasted potatoes instead of French fries; order a side of vegetables instead of fried okra. Always be on the lookout for a healthier choice.
 	- Whether you’re at home or at a restaurant, there are some add-on food items that you should avoid because they are high-calorie, high-fat foods. Here are some common examples: butter and butter sauces, salt, cream cheese, anything fried, adding extra cheese, mayonnaise, tartar sauce, cream sauces, buttermilk, heavy cream, whipped cream.
+        - Be aware that “low-fat” or “non-fat” does not always mean “low-calorie”.
 	- See our section on Healthy Eating for all the tips on how to eat healthier. [FR4.html](https://scnslabutsa.github.io/myhthelperEduContent/FR4/index.html)
 
 * Exercise Regularly.
