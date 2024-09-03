@@ -51,7 +51,7 @@ Some foods have anti-inflammatory properties that may reduce your cancer risk, a
 
 **Cooking oils**:	Olive, canola, grapeseed
 
-**Drinks**:	Green and black tea, red wine (in moderation)
+**Drinks**:	Green and black tea
 
 **Vegetables**:	Crucifers like cauliflower, broccoli, cabbage, kale, collards, Brussels sprouts, watercress
 
