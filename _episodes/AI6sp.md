@@ -51,7 +51,7 @@ Para prevenir la pérdida de densidad ósea, su doctor podría recomendar:
 * Medicinas llamadas bifosfonatos (bisphosphonates en inglés) o denosumab para ayudar a mantener la densidad ósea mientras está tomando los inhibidores de aromatasa.
 * Dejar de fumar para ayudar a fortalecer sus huesos.
 * Agregar ejercicio con pesas livianas y ejercicios de estiramiento a su rutina de ejercicio. La actividad física ofrece beneficios claves para las pacientes con cáncer. Le puede dar un impulso extra de energía durante o después de su tratamiento de cáncer. Le puede ayudar a disminuir su estrés, a mejorar sus patrones de sueño y a elevar su estado de ánimo.
-* Caminar rápidamente alrededor del bloque donde vive unas pocas veces puede ayudarla a sentirse mejor física y emocionalmente. Y debido a que el ejercicio puede ayudarla a que duerma bien, le ayuda también a combatir la fatiga. 
+* <ins>Caminar rápidamente alrededor del bloque donde vive unas pocas veces puede ayudarla a sentirse mejor física y emocionalmente.</ins> Y debido a que el ejercicio puede ayudarla a que duerma bien, le ayuda también a combatir la fatiga. 
 
 Simplemente tome algunos pasos para hacer su día más activo y siempre pregúntele a su doctor antes de empezar cualquier rutina o programa de ejercicio.
 
