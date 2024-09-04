@@ -36,7 +36,7 @@ Las siguientes medicinas pueden interferir con la efectividad del tamoxifeno:
 **CONSEJO:** Mantenga una lista de todas las medicinas que está tomando (incluyendo las de receta médica, las de venta libre como los productos naturales a base de hierbas) y muéstresela a su doctor o farmaceuta para asegurar que no hay interacción con el tamoxifeno. 
 
 
-**Fuente:**
+**Fuentes:**
 
 <span style="font-size:15px;">Breastcancer.org, 2024. Tamoxifen.</span>
 
