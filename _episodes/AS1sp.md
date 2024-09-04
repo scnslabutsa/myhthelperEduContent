@@ -10,9 +10,10 @@ layout: lesson
 * Ponga su pastillero en algún lugar donde lo puede ver todos los días. Un buen ejemplo es al lado de su cepillo de dientes o al lado de la cafetera—lo que sea que funcione para usted.  
 
 * Hágalo parte de una de sus rutinas. Por ejemplo:
+  * Rutina de la mañana: después de que se cepille los dientes, o cuando tome su café en la mañana 
+  * Rutina de la comida: justo antes o después de cenar (o cualquier comida que usted consuma en forma consistente)
+  * Rutina de acostarse: tan pronto como se acueste en la cama
+ 
 
-    - Rutina de la mañana: después de que se cepille los dientes, o cuando tome su café en la mañana 
-    - Rutina de la comida: justo antes o después de cenar (o cualquier comida que usted consuma en forma consistente)
-    - Rutina de acostarse: tan pronto como se acueste en la cama
+Use un calendario o diario de toma del medicamento para marcar cada día que haya tomado su pastilla. Es importante que lo marque justo al momento que tome su pastilla. No confíe en que lo va a recordar al final del día. 
 
-* Utilice un calendario o diario de toma del medicamento para marcar cada día que haya tomado su pastilla. Es importante que lo marque justo al momento que tome su pastilla. No confíe en que lo va a recordar al final del día. 
