@@ -13,13 +13,14 @@ Tenga en cuenta que para que su tratamiento sea efectivo en reducir su riesgo de
 
 Las mujeres que completan el curso completo de su tratamiento tienen una mejor supervivencia que las que no lo hacen. 
 
-Si olvida una dosis o dos, no se asuste. Continúe tomando su medicina como la formuló su doctor. 
+Si olvida una dosis o dos, no se asuste. Continúe tomando su medicina como lo prescribió su doctor. Si tiene problemas para recordar tomar su medicina, tener un pastillero (cajita para pastillas) o programar una alarma en su reloj o teléfono puede ser útil. 
 
-La duración del tratamiento, junto con los efectos secundarios, pueden hacer difícil completar la terapia hormonal. Aunque los síntomas de menopausia que están relacionados con la terapia hormonal pueden ser difíciles de manejar, hay cosas que usted puede hacer para aliviar estos síntomas. Si tiene efectos secundarios, <strong>no deje de tomar su medicina</strong>; hable con su doctor sobre cómo puede tratarlos.
+La duración del tratamiento, junto con los efectos secundarios, pueden hacer difícil completar la terapia hormonal. Aunque los síntomas de menopausia que están relacionados con la terapia hormonal pueden ser difíciles de manejar, hay cosas que usted puede hacer para aliviar estos síntomas. Si tiene efectos secundarios, no deje de tomar su medicina; hable con su doctor sobre cómo puede tratarlos.
+
 
 **Fuente:**
 
-<span style="font-size:15px;">Susan G. Komen, 2018. Importance of Completing Hormone Therapy.</span>
+<span style="font-size:15px;">Susan G. Komen, 2024. Importance of Completing Hormone Therapy.</span>
 
 
 
