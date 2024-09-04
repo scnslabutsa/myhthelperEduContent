@@ -7,9 +7,12 @@ La terapia hormonal se usa a menudo después de la cirugía (se llama “terapia
 
 A veces se inicia también antes de la cirugía (se llama “terapia neoadyuvante” y se hace como el primer paso antes del tratamiento principal). Generalmente se usa de 5 a 10 años. 
 
-La terapia hormonal puede usarse también para tratar cánceres que han reaparecido después del tratamiento o que se han extendido a otras partes del cuerpo.
+La terapia hormonal puede usarse también para tratar cánceres que han reaparecido (regresado) después del tratamiento o que se han extendido a otras partes del cuerpo.
 
-**Fuente:**
 
-<span style="font-size:15px;">American Cancer Society, 2016. Breast Cancer Treatment: Hormone Therapy for Breast Cancer</span>
+**Fuentes:**
+
+<span style="font-size:15px;">American Cancer Society, 2023. Treating Breast Cancer: Hormone Therapy for Breast Cancer</span>
+
+<span style="font-size:15px;">National Cancer Institute, 2022. Hormone Therapy for Breast Cancer</span>
 
