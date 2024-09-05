@@ -3,23 +3,34 @@ layout: lesson
 <!---title: Estreñimiento<sup>34</sup>--->
 ---
 
-El estreñimiento es cuando sus intestinos se muevan con menor frecuencia, lo que hace que la materia fecal se endurezca y sea difícil de evacuar. Va a sentir que necesita ir al baño (a hacer el número 2) pero no pude. 
+El estreñimiento es cuando sus intestinos se muevan con menor frecuencia, lo que hace que la materia fecal se endurezca y sea difícil de evacuar. Va a sentir que necesita ir al baño (a hacer el “número 2”) pero no pude. El estreñimiento frecuentemente puede causar incomodidad. 
 
-Hable con su doctor si usted no ha tenido un movimiento intestinal por 3 días o más y antes de comenzar cualquier tratamiento para el estreñimiento, porque algunos tratamientos pueden ser dañosos para ciertas personas. Su doctor podrá ayudarla a escoger el tratamiento mejor.
+Usted podría tener estreñimiento porque no hay suficiente liquido en su sistema digestivo o no hay suficiente movimiento en sus intestinos donde las heces son empujadas fuera del cuerpo. Los cambios en los niveles de actividad, la cantidad de comida que ingiere y el agua que bebe son causas comunes de estreñimiento.
+
+**Hable con su doctor** si usted no ha tenido un movimiento intestinal por 3 días o más y antes de comenzar cualquier tratamiento para el estreñimiento, porque algunos tratamientos pueden ser dañosos para ciertas personas. Su doctor podrá ayudarla a escoger el tratamiento mejor.
 
 Consejos para manejar el estreñimiento:
+
 * Consuma alimentos ricos en fibra. Los alimentos con alta fibra incluyen frutas, granos y cereales, frijoles, nueces, y vegetales. Añada estos alimentos a su dieta lentamente para evitar la inflamación y los gases. 
-* Beba fluidos extra. Tomar de 8-10 tazas de líquidos tales como agua, jugo de ciruela pasa, jugos tibios, tés o limonada caliente durante el día pueden ser de ayuda. 
+
+*	Beba fluidos extra. Tomar de 8-10 tazas de líquidos tales como agua, jugo de ciruela pasa, jugos tibios, tés o limonada caliente durante el día pueden ser de ayuda. Beber líquidos tibios o calientes en la mañana puede ser útil. 
 
   <p align="center">
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/drinkingWater2.jpg">
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/ohs17b.jpg">
   </p>	 
     
-* Si le es posible, aumente su actividad física. No hacer ejercicio es una de las causas de estreñimiento más comunes.
-* Solo use laxantes como lo indique su doctor. 
-* Adicionalmente a los laxantes, usted le puede preguntar a su doctor sobre suavizantes de heces, enemas o supositorios de venta libre.
+* Evite cualquier comida que pueda causar estreñimiento, como el queso o huevos.
+
+*	Si le es posible, aumente su actividad física. No hacer ejercicio es una de las causas de estreñimiento más comunes.
+
+*	Solo use laxantes como lo indique su doctor. 
+
+*	Adicionalmente a los laxantes, usted le puede preguntar a su doctor sobre suavizantes de heces, enemas o supositorios de venta libre.
 
 
-**Fuente:**
 
-<span style="font-size:15px;">American Society of Clinical Oncology, 2016. Nutrition for the Person with Cancer During Treatment: Constipation.</span>
+**Fuentes:**
+
+<span style="font-size:15px;">American Cancer Society, 2020. Constipation.</span>
+
+<span style="font-size:15px;">American Society of Clinical Oncology, 2023. Constipation.</span>
