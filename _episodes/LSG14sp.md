@@ -3,17 +3,17 @@ layout: lesson
 <!---title: Grupos de Apoyo Locales--->
 ---
 
-*    **Nombre: 	Alamo Breast Cancer Foundation (ABCF)**
+*   **Nombre: 	Alamo Breast Cancer Foundation (ABCF)**
   
-**Dirección:**	3014 Rivas St. San Antonio, TX 78228
+    **Dirección:** 3014 Rivas St. San Antonio, TX 78228
 
-**Teléfono:** 	210-692-9535 
+    **Teléfono:**  210-692-9535 
 
-**Email:** 	sandisues@sbcglobal.net o info@alamobreastcancer.org
+    **Email:** 	sandisues@sbcglobal.net o info@alamobreastcancer.org
 
-**Sito web:**	www.alamobreastcancer.org 
+    **Sito web:** www.alamobreastcancer.org 
 
-**Servicios:** 	Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
+    **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
 
 *  **Nombre: 	Cancer Care - Services**
 
