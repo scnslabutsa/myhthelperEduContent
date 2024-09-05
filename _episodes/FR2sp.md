@@ -3,7 +3,8 @@ layout: lesson
 <!---title: Fitoquímicos - los combatientes del cáncer en los alimentos que comemos<sup>18</sup>--->
 ---
 
-Los fitoquímicos son sustancias químicas de origen vegetal (fito significa planta en griego). Ellos les dan a las plantas color, olor y sabor. Una vez que las comemos, sin embargo, la investigación muestra que pueden influir de manera útil en los procesos químicos dentro de nuestros cuerpos.
+Los fitoquímicos, los combatientes del cáncer en los alimentos que comemos son sustancias químicas de origen vegetal (Fito significa planta en griego) que tienen cualidades protectoras de la salud. Se encuentran en frutas, verduras, cereales integrales, frijoles, nueces y semillas, y en productos hechos de plantas, como el tofu o el té. Ellos les dan a las plantas color, olor y sabor. Una vez que las comemos, sin embargo, la investigación muestra que pueden influir de manera útil en los procesos químicos dentro de nuestros cuerpos.
+
 
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/fruits_veggies.jpg"/>
@@ -11,15 +12,14 @@ Los fitoquímicos son sustancias químicas de origen vegetal (fito significa pla
 
 Los resultados de estudios de laboratorio han mostrado que los fitoquímicos tienen el potencial de:
 
-* Estimular el sistema inmune
-* Bloquear sustancias que comemos, bebemos y respiramos para que no se conviertan en carcinógenos
-* Reducir el tipo de inflamación que hace más probable que el cáncer crezca 
-* Prevenir el daño del ADN y ayudar a reparar el ADN
-* Reducir el tipo de daño oxidativo a las células que pueden provocar cáncer
-* Disminuir la rapidez de crecimiento de las células cancerosas
-* Provocar que las células dañadas se suiciden antes de que puedan reproducirse, y
-* Ayudar a regular las hormonas
-
+*	Estimular el sistema inmune;
+*	Bloquear sustancias que comemos, bebemos y respiramos para que no se conviertan en carcinógenos (sustancias que causan cáncer); 
+*	Reducir el tipo de inflamación que hace más probable que el cáncer crezca; 
+*	Prevenir el daño del ADN y ayudar a reparar el ADN;
+*	Reducir el tipo de daño oxidativo a las células que pueden provocar cáncer;
+*	Disminuir la rapidez de crecimiento de las células cancerosas;
+*	Provocar que las células dañadas se autodestruyan antes de que puedan reproducirse, y
+*	Ayudar a regular las hormonas.
 
 Esta tabla enumera algunos de los fitoquímicos que actualmente están atrayendo una atención científica seria. La tabla también identifica las fuentes de alimentos y describe los beneficios posibles.
 
@@ -27,7 +27,7 @@ Esta tabla enumera algunos de los fitoquímicos que actualmente están atrayendo
    <strong>Fitoquímicos</strong>
 </p>
 
-| Fitoquímico(s) | Fuente Vegetal | Beneficios Posibles |
+| Alimentos | Compuestos (Lista Parcial)| Acciones Protectoras Posibles<sup>*</sup> |
 | --- | --- | --- |
 | Carotenoides (como betacaroteno, licopeno, luteína, zeaxantina) | Frutas y verduras rojas, anaranjadas y verdes, incluyendo el brócoli, las zanahorias, los tomates cocidos, las hojas verdes, las papas dulces, la calabaza de invierno, los duraznos, el melón, las naranjas y la sandía | Pueden inhibir el crecimiento de las células cancerosas, funcionar como antioxidantes y mejorar la respuesta inmune. |
 | Flavonoides (como antocianinas y quercetina) | Manzanas, frutas cítricas, cebollas, soya y productos de soya (tofu, edamame, etc.), café y té| Pueden inhibir la inflamación y el crecimiento de los tumores; pueden ayudar al sistema inmune y aumentar la producción de enzimas desintoxicantes en el cuerpo |
@@ -44,6 +44,8 @@ Phytochemicals en [http://www.aicr.org/reduce-your-cancer-risk/diet/elements_phy
 
 Alimentos para combatir el cáncer [http://www.aicr.org/foods-that-fight-cancer/](http://www.aicr.org/foods-that-fight-cancer/)  
 
-**Fuente:**
+**Fuentes:**
 
-<span style="font-size:15px;">American Institute for Cancer Research, n.d. Phytochemicals: The Cancer Fighters in Your Foods.</span>
+<span style="font-size:15px;">American Institute for Cancer Research, n.d. The Cancer Fighters in Your Food.</span>
+
+<span style="font-size:15px;">American Cancer Society, 2022, Benefits of Good Nutrition During Cancer Treatment.</span>
