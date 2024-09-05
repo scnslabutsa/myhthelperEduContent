@@ -5,7 +5,7 @@ layout: lesson
 
 El beneficio más importante de la terapia hormonal es reducir la posibilidad de que vuelva a aparecer el cáncer de seno y el riesgo de desarrollar un cáncer nuevo en el otro seno.
 
-Tenga en cuenta que para que su tratamiento sea efectivo en reducir su riesgo de que el cáncer aparezca otra vez, es esencial que tome su medicina exactamente como la formuló su doctor.
+Tenga en cuenta que para que su tratamiento sea efectivo en reducir su riesgo de que el cáncer aparezca otra vez, es esencial que tome su medicina exactamente como lo prescribió su doctor.
 
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Komen_maledr_with_femalept2.png"/>
@@ -15,7 +15,7 @@ Las mujeres que completan el curso completo de su tratamiento tienen una mejor s
 
 Si olvida una dosis o dos, no se asuste. Continúe tomando su medicina como lo prescribió su doctor. Si tiene problemas para recordar tomar su medicina, tener un pastillero (cajita para pastillas) o programar una alarma en su reloj o teléfono puede ser útil. 
 
-La duración del tratamiento, junto con los efectos secundarios, pueden hacer difícil completar la terapia hormonal. Aunque los síntomas de menopausia que están relacionados con la terapia hormonal pueden ser difíciles de manejar, hay cosas que usted puede hacer para aliviar estos síntomas. Si tiene efectos secundarios, no deje de tomar su medicina; hable con su doctor sobre cómo puede tratarlos.
+La duración del tratamiento, junto con los efectos secundarios, pueden hacer difícil completar la terapia hormonal. Aunque los síntomas de menopausia que están relacionados con la terapia hormonal pueden ser difíciles de manejar, hay cosas que usted puede hacer para aliviar estos síntomas. Si tiene efectos secundarios, **no deje de tomar su medicina**; hable con su doctor sobre cómo puede tratarlos.
 
 
 **Fuente:**
