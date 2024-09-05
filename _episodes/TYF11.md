@@ -21,4 +21,4 @@ Finding support from others will not only help you—it could also help your par
 
 <span style="font-size:15px;">American Society of Clinical Oncology, 2022. Talking With Your Spouse or Partner About Cancer.</span>
 
-<span style="font-size:15px;">Susan G. Komen, 2020. Talking with Your Partner.</span>
+<span style="font-size:15px;">Susan G. Komen, 2021. Talking with Your Partner.</span>
