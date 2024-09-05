@@ -11,7 +11,7 @@ layout: lesson
 * Anastrazole (Arimidex)
   * anastrozol en español
 *	Exemestane (Aromasin)
-  *	exemestano en español
+	  * exemestano en español
 *	Letrozole (Femara)
 
 
