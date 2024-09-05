@@ -68,22 +68,31 @@ layout: lesson
 
   **Servicios:** Ofrece un grupo de apoyo para mujeres y familias que enfrentan el cáncer de seno. El programa está diseñado para quienes están en tratamiento o en remisión.
 
-Nombre: 	Mays Cancer Center (MCC) en UT Health San Antonio – Conserjería Individual
-Dirección: 	7979 Wurzbach Rd, San Antonio, TX, 78229
-Teléfono: 	210-450-1000 o 210-450-5570
-Sito web:	https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care 
-Servicios: 	Consejería individual, grupos de apoyo (seno, pulmón, sarcoma) y educación e información sobre el cáncer.
+* **Nombre: Mays Cancer Center (MCC) en UT Health San Antonio – Conserjería Individual**
+  
+  **Dirección:** 7979 Wurzbach Rd, San Antonio, TX, 78229
 
-Nombre: 	Keep Abreast 
-Dirreción:	5101 Medical Dr, San Antonio, TX 78229
-Sitio web:	https://myconnectability.org/series/keep-abreast-3/ 
-Días de reunión:	Primer lunes de cada mes (2ndo lunes cuando el 1er lunes es día festivo) a las 7:00PM
-Teléfono: 	210-365-1321 o 210-819-4325
-E-mail:	suzi.emanuel9@gmail.com o contact@myconnectability.org
-Contacto: 	Suzi Emanuel
-Información 
-de reunión: 	Siempre contacte a la organizadora primero para confirmar la fecha y hora de la reunión. 
-	Ofrece apoyo y educación para las mujeres que han sido diagnosticadas con cáncer de seno o que son sobrevivientes del cáncer de seno. 
+  **Teléfono:** 210-450-1000 o 210-450-5570
+
+  **Sito web:**	https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care 
+
+  **Servicios:** Consejería individual, grupos de apoyo (seno, pulmón, sarcoma) y educación e información sobre el cáncer.
+
+* **Nombre: Keep Abreast**
+  
+  **Dirreción:** 5101 Medical Dr, San Antonio, TX 78229
+
+  **Sitio web:** https://myconnectability.org/series/keep-abreast-3/ 
+
+  **Días de reunión:** Primer lunes de cada mes (2ndo lunes cuando el 1er lunes es día festivo) a las 7:00PM
+
+  **Teléfono:** 210-365-1321 o 210-819-4325
+
+  **E-mail:** suzi.emanuel9@gmail.com o contact@myconnectability.org
+
+  **Contacto:** Suzi Emanuel
+
+  **Información de reunión:** Siempre contacte a la organizadora primero para confirmar la fecha y hora de la reunión. Ofrece apoyo y educación para las mujeres que han sido diagnosticadas con cáncer de seno o que son sobrevivientes del cáncer de seno. 
 
 Nombre: 	S.L.E.W. Counseling Services
 Dirección: 	12521 Nacogdoches Rd., Suite 101, San Antonio, TX, 78217
@@ -157,8 +166,4 @@ Sitio web:	https://overcomersbreastcancer.com
 Teléfono: 	316-648-5466
 Email:	metasistersovercomers@gmail.com 
 Servicios: 	Ofrece grupos de apoyo para el cáncer de seno, talleres educativos gratuitos, retiros, y asistencia financiera para pacientes con cáncer de seno. 
-![image](https://github.com/user-attachments/assets/07a3e5e6-99e1-4364-a5a6-61d26a2fbd8b)
 
-
-*  
-    
