@@ -8,7 +8,7 @@ Las células de cáncer de seno tienen receptores que son proteínas en el inter
 
 ***Tipos de cáncer de seno***
 
-* A los cánceres de seno que tienen muchas células con receptores hormonales se les llama cánceres con receptores hormonales positivos. 
+* A los cánceres de seno que tienen muchas células con receptores hormonales se les llama cánceres positivos para receptores hormonales. 
 
 <p align="center">
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/HormoneReceptorCells_Spanish.png"/>
@@ -37,8 +37,8 @@ La terapia hormonal que el doctor prescribe depende de muchos factores, incluyen
 
 **Fuentes:** 
 
-<span style="font-size:15px;">National Cancer Institute, 2023. Treating Breast Cancer. Hormone Therapy for Breast Cancer</span>
+<span style="font-size:15px;">American Cancer Society, 2023. Treating Breast Cancer: Hormone Therapy for Breast Cancer</span>
 
-<span style="font-size:15px;">American Cancer Society, 2022. Hormone Therapy for Breast Cancer</span>
+<span style="font-size:15px;">National Cancer Institute, 2022. Terapia Hormonal para el Cáncer de Mama (Seno)</span>
 
 
