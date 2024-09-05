@@ -3,10 +3,6 @@ layout: lesson
 <!---title: Consejos Para Hablar con su Doctor--->
 ---
 
-Nadie conoce su cuerpo mejor que usted misma. Ni su pareja, ni su familia, ni siquiera su doctor.
-
-Cuando hable con cualquier doctor sobre su salud, recuerde que usted tiene información importante que ellos pueden usar. Usted conoce los cambios que tiene su cuerpo y cualquier problema que pueda estar teniendo. Comparta esa información con su doctor. La comunicación honesta y abierta entre usted y su doctor es una de las mejores maneras de asegurarse que usted reciba la atención médica que necesita. Así como usted confía en su doctor, su doctor confía en que usted sea abierta y honesta y que confié en él. Una buena comunicación entre usted y su doctor es importante para asegurarse de recibir atención de salud que es la mejor para usted. 
-
 * Tome un papel activo en la atención de su cáncer. Participar activamente puede ayudarla a obtener la mejor atención de salud de sus doctores, enfermeras y del equipo médico que la atiende.
 
 *	Esté preparada. Con frecuencia es útil reunir información sobre sus preocupaciones de salud – de la biblioteca (libros y revistas médicas), de sitios confiables de Internet, o de hojas informativas como las que ofrece la American Cancer Society. Entre más sepa, más cómoda se sentirá al hablar con su doctor.
