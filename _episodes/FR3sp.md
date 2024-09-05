@@ -27,7 +27,7 @@ Trate de evitar o limitar lo más posible estos alimentos:
 
 
 <p align="center">
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/InflammatoryFoodsRedMeat_Spanish.PNG"/>	
+<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/FR3.jpg"/>	
 </p>
 
 No es sorpresa que los mismos alimentos que contribuyen a la inflamación generalmente se consideran malos para nuestra salud, incluyendo las sodas y los carbohidratos refinados, como también la carne roja y las carnes procesadas. Los alimentos no saludables también contribuyen al aumento de peso, el cual es un factor de riesgo para la inflamación.
