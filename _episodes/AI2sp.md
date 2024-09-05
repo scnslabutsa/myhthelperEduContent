@@ -7,11 +7,11 @@ layout: lesson
 * Se toma una pastilla todos los días.
 * Se toma por 5-10 años. 
 
-***Nombres de marca comunes de aromatasa***
+**Nombres de marca comunes de aromatasa:**
 * Anastrazole (Arimidex)
   * anastrozol en español
 *	Exemestane (Aromasin)
- 	*	exemestano en español
+  *	exemestano en español
 *	Letrozole (Femara)
 
 
