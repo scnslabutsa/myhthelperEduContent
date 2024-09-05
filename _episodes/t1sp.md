@@ -12,5 +12,5 @@ El tamoxifeno y otras drogas similares interfieren con la capacidad del estróge
 
 **Fuente:**
 
-<span style="font-size:15px;">National Cancer Institute, 2022. Hormone Therapy for Breast Cancer</span>
+<span style="font-size:15px;">National Cancer Institute, 2022. Terapia Hormonal para el Cáncer de Mama (Seno)</span>
 
