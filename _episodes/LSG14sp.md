@@ -94,28 +94,43 @@ layout: lesson
 
   **Información de reunión:** Siempre contacte a la organizadora primero para confirmar la fecha y hora de la reunión. Ofrece apoyo y educación para las mujeres que han sido diagnosticadas con cáncer de seno o que son sobrevivientes del cáncer de seno. 
 
-Nombre: 	S.L.E.W. Counseling Services
-Dirección: 	12521 Nacogdoches Rd., Suite 101, San Antonio, TX, 78217
-Horario:	Cerrado los Lunes, Sábados, y Domingos 
-Teléfono: 	210-654-7900
-Sito web: 	www.slewwellness.org 	
-Servicios: 	Ofrece consejería emocional por un profesional entrenado para ayudar a las pacientes a identificar sus preocupaciones, considerar soluciones efectivas y encontrar recursos confiables. El asesoramiento nutricional se hace con un nutricionista. También se ofrecen demostraciones de cocina. Hay transporte disponible en camionetas para llevar a las pacientes que participan en el programa hasta y desde las instalaciones.
+* **Nombre: S.L.E.W. Counseling Services**
+  
+  **Dirección:** 12521 Nacogdoches Rd., Suite 101, San Antonio, TX, 78217
 
-Nombre: 	Susan G. Komen San Antonio 
-Dirección: 	P.O. Box 6678, 
-	San Antonio, TX, 78029
-Teléfono: 	210-222-9009 (local) o 1-877-465-6636 (nacional) 
-Email: 	info@sakomen.net o helpline@komen.org 
-Sito web: 	www.komensanantonio.org o www.komen.org 
-Servicios: 	Komen San Antonio ofrece un programa de mentores para que las personas se conecten con un sobreviviente y reciban apoyo emocional durante el proceso de atención médica.
+  **Horario:** Cerrado los Lunes, Sábados, y Domingos 
 
-Nombre: 	St. Matthews Catholic Church – McDonald Family Center 
-Dirección: 	10703 Wurzbach Rd., San Antonio, TX, 78230
-	Room 103 (Cuarto 103)
-Días de reunión:	Cuarto lunes de cada mes a las 7:00PM
-Teléfono: 	210-865-5671
-Contacto: 	Ray Baird
-Servicios:	Ofrece un grupo de apoyo para las sobrevivientes de cáncer, consejería, y otros servicios.
+  **Teléfono:** 210-654-7900
+
+  **Sito web:** www.slewwellness.org 	
+
+  **Servicios:** Ofrece consejería emocional por un profesional entrenado para ayudar a las pacientes a identificar sus preocupaciones, considerar soluciones efectivas y encontrar recursos confiables. El asesoramiento nutricional se hace con un nutricionista. También se ofrecen demostraciones de cocina. Hay transporte disponible en camionetas para llevar a las pacientes que participan en el programa hasta y desde las instalaciones.
+
+* **Nombre: Susan G. Komen San Antonio**
+  
+  **Dirección:** P.O. Box 6678,<br>
+  San Antonio, TX, 78029
+ 
+  **Teléfono:** 210-222-9009 (local) o 1-877-465-6636 (nacional) 
+
+  **Email:** info@sakomen.net o helpline@komen.org 
+
+  **Sito web:** www.komensanantonio.org o www.komen.org 
+
+  **Servicios:** Komen San Antonio ofrece un programa de mentores para que las personas se conecten con un sobreviviente y reciban apoyo emocional durante el proceso de atención médica.
+
+* **Nombre: St. Matthews Catholic Church – McDonald Family Center**
+  
+  **Dirección:** 10703 Wurzbach Rd., San Antonio, TX, 78230<br>
+  Room 103 (Cuarto 103)
+ 
+  **Días de reunión:**	Cuarto lunes de cada mes a las 7:00PM
+
+  **Teléfono:** 210-865-5671
+
+  **Contacto:** Ray Baird
+
+  **Servicios:** Ofrece un grupo de apoyo para las sobrevivientes de cáncer, consejería, y otros servicios.
 
 Nombre: 	Heart2Heart – First Baptist Church 
 Dirección: 	515 McCullough Avenue, San Antonio, TX 78215 
