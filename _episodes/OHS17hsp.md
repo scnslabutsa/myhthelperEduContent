@@ -27,9 +27,10 @@ Consejos para manejar el estrés:
 
 **Fuentes:**
 
-<span style="font-size:15px;">American Cancer Society. 2020. 6 Tips to Managing Stress.</span>
+<span style="font-size:12px;">American Cancer Society. 2020. 6 Tips to Managing Stress.</span>
 
-<span style="font-size:15px;">American Society of Clinical Oncology, 2019. Managing Stress.</span>
+<span style="font-size:12px;">American Society of Clinical Oncology, 2019. Managing Stress.</span>
+
 
 
 Otros Consejos Útiles:
@@ -53,6 +54,6 @@ Otros Consejos Útiles:
 
 **Fuentes:**
 
-<span style="font-size:15px;">American Cancer Society, 2020. 6 Tips for Managing Stress.</span>
+<span style="font-size:12px;">American Cancer Society, 2020. 6 Tips for Managing Stress.</span>
 
-<span style="font-size:15px;">American Society of Clinical Oncology, 2019. Managing Stress.</span>
+<span style="font-size:12px;">American Society of Clinical Oncology, 2019. Managing Stress.</span>
