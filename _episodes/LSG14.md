@@ -40,7 +40,7 @@ layout: lesson
 
     **Email:** Women Veteran Assistance: [intake@graceafterfire.org](intake@graceafterfire.org)
     
-	**General Inquiries:** [info@graceafterfire.org](intake@graceafterfire.org)
+    **General Inquiries:** [info@graceafterfire.org](intake@graceafterfire.org)
 
     **Website:** [https://www.graceafterfire.org/](https://www.graceafterfire.org/)
     
