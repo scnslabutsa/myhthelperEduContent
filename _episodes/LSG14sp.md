@@ -15,41 +15,58 @@ layout: lesson
 
     **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
 
-*  **Nombre: 	Cancer Care - Services**
+*  **Nombre: Cancer Care - Services**
 
-**Teléfono:**	1-800-813-HOPE (4673)
+   **Teléfono:** 1-800-813-HOPE (4673)
 
-**Email:** 	info@cancercare.org 
+   **Email:** 	info@cancercare.org 
 
-**Sitio web:**	https://www.cancercare.org/
+   **Sitio web:** https://www.cancercare.org/
 
-**Servicios:**	Ofrece servicios de apoyo profesional gratuitos para todas las personas afectadas por el cáncer; incluyendo asistencia financiera para transporte y medicamentos para el dolor.
+   **Servicios:** Ofrece servicios de apoyo profesional gratuitos para todas las personas afectadas por el cáncer; incluyendo asistencia financiera para transporte y medicamentos para el dolor.
 	También ofrecen consejería, grupos de apoyo en línea, y servicios educativos. 
 
-Nombre: 	Grace After Fire
-Dirección: 	7616 Culebra Road, San Antonio, TX 78251
-2929 McKinney St, Houston, TX 77003
-Horario:	9am-5pm (Lunes-Viernes)
-Teléfono:	(210) 864-2959 / (832) 769-6582
-Email:	info@graceafterfire.org o intake@graceafterfire.org 
-Sitio web:	https://www.graceafterfire.org/ 
-Servicios: 	Ofrece grupos de apoyo entre pacientes, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ej., yoga, grupos de entrenamiento o acondicionamiento físico, y clases creativas) y retiros anuales para veteranos. 
+* **Nombre: Grace After Fire**
+  
+  **Dirección:** 7616 Culebra Road, San Antonio, TX 78251<br>
+  2929 McKinney St, Houston, TX 77003
 
-Nombre: 	Breast Cancer Support Group – Carver Branch Library
-Dirección: 	3350 E. Commerce, San Antonio, TX 78220
-Días de reunión:	Cada primer y tercer lunes del mes de 6:30pm-8:00pm
-Contacto:	Shauna Mendoza
-Email:	shauna.mendoza@sanantonio.gov 
-Teléfono: 	210-207-9188
-Servicios:  	Este grupo ofrece un lugar seguro y favorable donde las sobrevivientes, pacientes de cáncer actuales, y sus seres queridos pueden discutir abiertamente sus experiencias, desafíos, y triunfos. Este grupo ofrece un lugar para sobrevivientes de cáncer y sus redes de apoyo para conectar, aprender unos de otros, y encontrar alivio al saber que no están solas. 
+  **Horario:** 9am-5pm (Lunes-Viernes)
 
-Nombre: 	Jewish Family Services San Antonio (JFS)
-Dirección: 	12500 NW Military Hwy #250, San Antonio TX 78231 (ubicación Northside)
-    	1151 Mission Rd., San Antonio, TX 78210 (ubicación Southside)
-Teléfono:	210-302-6920 (Northside), 210-533-1112 (Southside) 
-Email: 	info@jfs-sa.org
-Sito web: 	https://jfs-sa.org/ 
-Servicios: 	Ofrece un grupo de apoyo para mujeres y familias que enfrentan el cáncer de seno. El programa está diseñado para quienes están en tratamiento o en remisión.
+  **Teléfono:**	(210) 864-2959 / (832) 769-6582
+  
+  **Email:** info@graceafterfire.org o intake@graceafterfire.org 
+
+  **Sitio web:** https://www.graceafterfire.org/ 
+
+  **Servicios:** Ofrece grupos de apoyo entre pacientes, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ej., yoga, grupos de entrenamiento o acondicionamiento físico, y clases creativas) y retiros anuales para veteranos. 
+
+* **Nombre: Breast Cancer Support Group – Carver Branch Library**
+
+  **Dirección:** 3350 E. Commerce, San Antonio, TX 78220
+
+  **Días de reunión:** Cada primer y tercer lunes del mes de 6:30pm-8:00pm
+
+  **Contacto:**	Shauna Mendoza
+
+  **Email:** shauna.mendoza@sanantonio.gov
+  
+  **Teléfono:** 210-207-9188
+
+  **Servicios:**  Este grupo ofrece un lugar seguro y favorable donde las sobrevivientes, pacientes de cáncer actuales, y sus seres queridos pueden discutir abiertamente sus experiencias, desafíos, y triunfos. Este grupo ofrece un lugar para sobrevivientes de cáncer y sus redes de apoyo para conectar, aprender unos de otros, y encontrar alivio al saber que no están solas. 
+
+* **Nombre: Jewish Family Services San Antonio (JFS)**
+  
+  **Dirección:** 12500 NW Military Hwy #250, San Antonio TX 78231 (ubicación Northside)<br>
+  1151 Mission Rd., San Antonio, TX 78210 (ubicación Southside)
+
+  **Teléfono:**	210-302-6920 (Northside), 210-533-1112 (Southside)
+  
+  **Email:** info@jfs-sa.org
+  
+  **Sito web:** https://jfs-sa.org/ 
+
+  **Servicios:** Ofrece un grupo de apoyo para mujeres y familias que enfrentan el cáncer de seno. El programa está diseñado para quienes están en tratamiento o en remisión.
 
 Nombre: 	Mays Cancer Center (MCC) en UT Health San Antonio – Conserjería Individual
 Dirección: 	7979 Wurzbach Rd, San Antonio, TX, 78229
