@@ -23,7 +23,7 @@ Consejos para manejar bochornos:
 * Use aerosoles o toallas húmedas para ayudar a bajar la temperatura de su piel
 * Deje de fumar
 * Use técnicas de relajación 
-* Hágase acupuntura
+* Hágase acupuntura o masajes
 * Haga ejercicio (actividad física), incluyendo el yoga. Además de ayudarle con el dolor de las articulaciones y la pérdida de masa ósea, el ejercicio puede ayudarle con los bochornos.
 *	Mantenga un peso saludable 
 
