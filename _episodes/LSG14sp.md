@@ -132,31 +132,42 @@ layout: lesson
 
   **Servicios:** Ofrece un grupo de apoyo para las sobrevivientes de cáncer, consejería, y otros servicios.
 
-Nombre: 	Heart2Heart – First Baptist Church 
-Dirección: 	515 McCullough Avenue, San Antonio, TX 78215 
-Días de reunión:	Martes de cada mes a las 6:30PM
-Email:	info@fbcsa.org
-Teléfono: 	210-226-0363
-Servicios:	Este es un grupo de apoyo para pacientes con cáncer y sus familias. 
+* **Nombre: Heart2Heart – First Baptist Church**
+  
+  **Dirección:** 515 McCullough Avenue, San Antonio, TX 78215 
 
-Nombre: 		Pink Warrior Advocates – Trusting Vulnerability (TV) Thursdays 
-Dirección: 	36 Nafta Cir, New Braunfels, TX 78132 (TV Thursdays para pacientes recién diagnosticados) 
-	888 Landa St, New Braunfels, TX 78130 (TV Thursdays para sobrevivientes)
-Días de reunión:	Para pacientes recientemente diagnosticadas: Cada primer jueves del mes de 6:00-8:00PM
-	Para sobrevivientes con cáncer de seno: Cada último jueves del mes de 6:00-8:00PM
-Email:	hope@pinkwarrioradvocates.org 
-Sitio web:	https://www.pinkwarrioradvocates.org/news-events 
-Teléfono: 	830-308-8855
-Servicios: 	Ofrece diferentes formas de apoyo para pacientes que han sido diagnosticadas con cáncer de seno, desde apoyo financiero, apoyo de defensores, kits de cuidado, y más. 
+  **Días de reunión:**	Martes de cada mes a las 6:30PM
 
-Nombre: 		Methodist Cancer Care Rehabilitation Center 
+  **Email:** info@fbcsa.org
+
+  **Teléfono:** 210-226-0363
+  
+  **Servicios:** Este es un grupo de apoyo para pacientes con cáncer y sus familias. 
+
+*  **Nombre: Pink Warrior Advocates – Trusting Vulnerability (TV) Thursdays**
+  
+   **Dirección:** 36 Nafta Cir, New Braunfels, TX 78132 (TV Thursdays para pacientes recién diagnosticados)<br>
+   888 Landa St, New Braunfels, TX 78130 (TV Thursdays para sobrevivientes)
+
+   **Días de reunión:**	Para pacientes recientemente diagnosticadas: Cada primer jueves del mes de 6:00-8:00PM<br>
+   Para sobrevivientes con cáncer de seno: Cada último jueves del mes de 6:00-8:00PM
+
+   **Email:** hope@pinkwarrioradvocates.org 
+
+   **Sitio web:** https://www.pinkwarrioradvocates.org/news-events 
+
+   **Teléfono:** 830-308-8855
+   
+   **Servicios:** Ofrece diferentes formas de apoyo para pacientes que han sido diagnosticadas con cáncer de seno, desde apoyo financiero, apoyo de defensores, kits de cuidado, y más. 
+
+* Nombre: 		Methodist Cancer Care Rehabilitation Center 
 Dirección: 	4410 Medical Drive Suite 440 San Antonio, TX 78229
 Horario: 	Lunes – Jueves: 9:00am – 6:00pm; Viernes: 8:00am – 4:00pm 
 Sitio web:	https://sahealth.com/locations/methodist-cancer-care-rehabiliation-center/ 
 Teléfono: 	210-575-9740
 Servicios: 	Ayuda a resolver los efectos a largo plazo relacionados con el tratamiento de cáncer con planes de ayuda personalizados para ayudar a reducir o prevenir la severidad de los efectos secundarios durante y después del tratamiento de cáncer. 
 
-Nombre: 		Methodist Hospital Metropolitan – Breast Cancer Support Group
+* Nombre: 		Methodist Hospital Metropolitan – Breast Cancer Support Group
 Dirección: 	1310 McCullough Ave, San Antonio, TX 78212
 	Conference Room 3 (cuarto de conferencia 3) – Sótano (al lado de la cafetería)
 Días de reunión:	Cada tercer miércoles del mes de 6:00pm – 8:00 pm  
@@ -165,7 +176,7 @@ Teléfono: 	210-757-2546
 Email:	Deborah.williams@mhshealth.com
 Servicios: 	Grupo de apoyo para pacientes con cáncer de seno y sus cuidadores, así como también servicios sociales, talleres educativos, y navegación para pacientes para ayudar a las pacientes en su camino de recuperación. 
 
-Nombre: 		City Base Cancer Support Group – Brookhill Baptist Church
+* Nombre: 		City Base Cancer Support Group – Brookhill Baptist Church
 Dirección: 	631 Utopia Lane San Antonio, TX 78223 (Education wing)
 Días de reunión:	Reuniones cada jueves a las 7:00pm
 Sitio web:	https://brookhillbaptistchurch.com/community-services/cancer-support-group.html  
@@ -173,7 +184,7 @@ Teléfono: 	(210) 333-4947 (principal) o 210-415-2830 (Brenda Fox)
 Contacto:	Brenda Fox
 Servicios: 	Grupos de apoyo para pacientes con cáncer de seno y sus cuidadores. 
 
-Nombre: 		Overcomers – Monthly Meetup Support Group 
+* Nombre: 		Overcomers – Monthly Meetup Support Group 
 Dirección: 	18410 Sonterra Place, San Antonio, TX 78258
 	Room 242 (cuarto 242)
 Días de reunión: 	Reuniones mensuales en el tercer martes de cada mes a las 6:30pm-8:30pm
