@@ -18,7 +18,7 @@ Si escogemos los alimentos adecuados, podemos reducir nuestro riesgo de enfermed
 
 Trate de evitar o limitar lo más posible estos alimentos:
 
-*Carbohidratos refinados, como pan blanco y pasteles
+* Carbohidratos refinados, como pan blanco y pasteles
 * Papas fritas y otras comidas fritas
 * Soda y otras bebidas azucaradas
 * Carne roja (hamburguesas, carne de res) y carne procesada (perros calientes, salchichas, y carnes frías para sándwiches)
