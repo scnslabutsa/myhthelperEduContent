@@ -130,7 +130,7 @@ Algunas opciones de tratamientos incluyen:
 </p>
 
 * Los hidrantes vaginales, son hidrantes sin estrógeno y de venta libre. Se usan regularmente y no solo al momento del acto sexual. Estos mantienen el área vaginal hidratada, no como los lubricantes que solo hacen que el área vaginal este resbalosa y se usan por lo general al momento del acto sexual. 
-* Los lubricantes vaginales que están hechos a base de agua o silicona son usados durante las relaciones sexuales para aumentar el placer y la comodidad. 
+* Los lubricantes vaginales que están hechos a base de agua o silicona son usados durante las relaciones sexuales para aumentar el placer y la comodidad. Por ejemplo, geles y supositorios lubricantes (supositorios de gel blando).
 * La terapia física del suelo pélvico es útil para mujeres con músculos tensos o débiles. Trabajar en la salud de los músculos del piso pélvico puede ayudar mantener los músculos relajados y disminuir el dolor durante el sexo.
 * Los dilatadores vaginales pueden ser útiles para mujeres con dolor durante la penetración. El dilatador aumenta la comodidad durante el acto sexual al estirar la vagina y reducir la estrechez. 
 * La lidocaína vaginal es un tratamiento tópico que se aplica en la apertura vaginal antes del acto sexual y puede ayudar a disminuir el dolor.
