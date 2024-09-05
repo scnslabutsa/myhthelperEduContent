@@ -2,6 +2,7 @@
 layout: lesson
 <!---title: Beneficios de la Actividad Física<sup>19,22,23</sup>--->
 ---
+**Consulte siempre con su equipo médico** antes de iniciar cualquier tipo de actividad física. 
 
 La actividad física tiene muchos beneficios:
 
