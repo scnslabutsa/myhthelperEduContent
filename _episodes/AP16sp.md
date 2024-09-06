@@ -197,11 +197,15 @@ layout: lesson
 		 - Estacionamiento gratuito<br/>
 		 - Transportación gratuita desde y hacia los centros de tratamiento 
 
-Nombre: 	Extended Stay America with the American Cancer Society
-Dirección: 	4331 Spectrum One, San Antonio, TX 78230
-		1015 Central Pkwy. S., San Antonio, TX 78232
-		21103 Encino Commons Blvd, San Antonio, TX 78259
-Teléfono: 	(800) 227-2345
-Sitio web: 	https://www.cancer.org/about-us/our-partners/extended-stay-america.html
- 		https://www.extendedstayamerica.com 
-Servicios: 	La American Cancer Society en colaboración con Extended Stay America para ofrecer habitaciones de descuento para pacientes que tienen que estar fuera de casa para recibir tratamiento contra el cáncer. Cada habitación tiene cocinas totalmente equipadas, para que los huéspedes puedan mantener sus estrictas rutinas dietéticas. También hay Wi-Fi gratuito, servicios de lavandería, y habitaciones que permiten mascotas 
+* **Nombre: Extended Stay America with the American Cancer Society**
+
+  **Dirección:** 4331 Spectrum One, San Antonio, TX 78230<br/>
+		 1015 Central Pkwy. S., San Antonio, TX 78232<br/>
+		 21103 Encino Commons Blvd, San Antonio, TX 78259
+  
+  **Teléfono:** (800) 227-2345
+  
+  **Sitio web:** https://www.cancer.org/about-us/our-partners/extended-stay-america.html<br/>
+ 		 https://www.extendedstayamerica.com
+  
+  **Servicios:** La American Cancer Society en colaboración con Extended Stay America para ofrecer habitaciones de descuento para pacientes que tienen que estar fuera de casa para recibir tratamiento contra el cáncer. Cada habitación tiene cocinas totalmente equipadas, para que los huéspedes puedan mantener sus estrictas rutinas dietéticas. También hay Wi-Fi gratuito, servicios de lavandería, y habitaciones que permiten mascotas 
