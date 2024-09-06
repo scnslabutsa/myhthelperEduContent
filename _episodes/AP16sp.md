@@ -177,21 +177,25 @@ layout: lesson
 
   **Servicios:** Ofrece navegación personalizada gratuita por teléfono y en línea.  
 
-Nombre: 	American Cancer Society Hope Lodge – San Antonio, TX - PROXIMAMENTE
-Dirección: 	Ubicado cerca de los centros de tratamientos de cáncer en el Centro Medico en el sur de Texas 
-Teléfono: 	1-800-227-2345
-Sitio web:	https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/san-antonio.html
-Servicios: 	Algunas comodidades de la American Cancer Society Hope Lodge incluirán:
-	40 habitaciones de visita, cada una con bañera privada, televisión, y Wi-Fi gratis
-	Cocina y comedor compartidos
-	Despensa de autoservicio, incluidas ollas y sartenes
-	Acceso diario a sabanas limpias e instalaciones de lavanderías 
-	Sala de fitness, así como espacios de reflexión y meditación 
-	Una biblioteca de recursos con estación de computadoras
-	Salas de recreación familiar con sillas, sofás, y televisión 
-	Área de patio al aire libre y jardín curativo 
-	Estacionamiento gratuito 
-	Transportación gratuita desde y hacia los centros de tratamiento 
+* **Nombre: American Cancer Society Hope Lodge – San Antonio, TX - PROXIMAMENTE**
+
+  **Dirección:** Ubicado cerca de los centros de tratamientos de cáncer en el Centro Medico en el sur de Texas 
+
+  **Teléfono:** 1-800-227-2345
+
+  **Sitio web:** https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/san-antonio.html
+
+  **Servicios:** Algunas comodidades de la American Cancer Society Hope Lodge incluirán:<br/>
+                 - 40 habitaciones de visita, cada una con bañera privada, televisión, y Wi-Fi gratis<br/>
+  		 - Cocina y comedor compartidos<br/>
+  	         - Despensa de autoservicio, incluidas ollas y sartenes<br/>
+                 - Acceso diario a sabanas limpias e instalaciones de lavanderías<br/>
+                 - Sala de fitness, así como espacios de reflexión y meditación<br/>
+                 - Una biblioteca de recursos con estación de computadoras<br/>
+                 - Salas de recreación familiar con sillas, sofás, y televisión<br/>
+		 - Área de patio al aire libre y jardín curativo<br/>
+		 - Estacionamiento gratuito<br/>
+		 - Transportación gratuita desde y hacia los centros de tratamiento 
 
 Nombre: 	Extended Stay America with the American Cancer Society
 Dirección: 	4331 Spectrum One, San Antonio, TX 78230
