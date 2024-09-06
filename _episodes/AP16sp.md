@@ -3,30 +3,38 @@ layout: lesson
 <!---title: Programas de Asistencia--->
 ---
 
-*  Nombre: 	Alamo Breast Cancer Foundation (ABCF) – Línea de ayuda
-Teléfono: 	210-692-9535
-Contacto:	Jennifer Cook
-Email:	cook@uiwtx.edu o info@alamobreastcancer.org 
-Servicios: 	Los representantes están disponibles para responder preguntas sobre el cáncer, dar información sobre los programas ABCF y recursos disponibles en la comunidad.
+*  **Nombre: Alamo Breast Cancer Foundation (ABCF) – Línea de ayuda**
+  
+   **Teléfono:** 210-692-9535
 
-Nombre: 	CareLink (cuatro sitios) 
-Dirección: 	Robert B. Green Campus
-	9303 W. Martin, Historic Building, 1st Floor, San Antonio, TX, 78207
-	University Family Health Center – Clínica en el Sureste (South East)
-	1055 Ada St., San Antonio, TX, 78223
-	University Family Health Center – Clínica Suroeste (South West)
-	2121 SW 36th Street
-	CareLink North Office
-	126 West Rector St., Suite 116, San Antonio, TX, 78216
-Teléfono: 	210- 358-3400  Robert B. Green Campus
+   **Contacto:** Jennifer Cook
 
-	210-358-5515  University Family Health Center [Clínica Sureste]
+   **Email:** cook@uiwtx.edu o info@alamobreastcancer.org
 
-	210-358-5100  University Family Health Center [Clínica en el Suroeste]
+   **Servicios:** Los representantes están disponibles para responder preguntas sobre el cáncer, dar información sobre los programas ABCF y recursos disponibles en la comunidad.
 
-	210-358-0800  CareLink North Office
+* **Nombre: CareLink (cuatro sitios)**
+  **Dirección:	Robert B. Green Campus**<br/>
+                9303 W. Martin, Historic Building, 1st Floor, San Antonio, TX, 78207<br/>
 
-Servicios: 	Este es un programa para residentes del condado de Bexar que no tienen seguro de salud y que buscan servicios médicos de salud del University Health System.
+                **University Family Health Center – Clínica en el Sureste (South East)**<br/>
+                1055 Ada St., San Antonio, TX, 78223<br/>
+  
+                **University Family Health Center – Clínica Suroeste (South West)**<br/>
+                2121 SW 36th Street<br/>
+  
+                **CareLink North Office**<br/>
+                126 West Rector St., Suite 116, San Antonio, TX, 78216<br/>
+
+**Teléfono:**  210- 358-3400 -> Robert B. Green Campus<br/>
+
+	       210-358-5515 -> University Family Health Center [Clínica Sureste]<br/>
+
+	       210-358-5100 -> University Family Health Center [Clínica en el Suroeste]<br/>
+
+	       210-358-0800 -> CareLink North Office<br/>
+
+**Servicios:** Este es un programa para residentes del condado de Bexar que no tienen seguro de salud y que buscan servicios médicos de salud del University Health System.
 
 Nombre: 	Cancer Care
 Teléfono: 	1-800-813-HOPE (4673)
