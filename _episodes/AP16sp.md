@@ -153,19 +153,29 @@ layout: lesson
 
   **Servicios:** Ofrece educación sobre la salud de seno para las mujeres y sus familias que residen en el lado oeste (West Side) de San Antonio.  Un bus que ofrece mamografías viene al YWCA dos veces al mes; si está interesada, traiga una nota de su médico para tener acceso a estos servicios.
 
-Nombre: 	Young Survival Coalition 
-Dirección: 	405 Lexington Avenue, 26th Floor New York, NY 10174
-Teléfono: 	877-972-1011
-Email:	info@youngsurvival.org 
-Sitio web: 	https://youngsurvival.org/ 
-Servicios: 	Ofrece grupos de apoyo en línea, materiales educativos, y recursos para pacientes para sobrevivientes jóvenes de cáncer de seno 
+* **Nombre: Young Survival Coalition**
+  
+  **Dirección:** 405 Lexington Avenue, 26th Floor New York, NY 10174
 
-Nombre: 	Cancer Support Community 
-Dirección: 	5614 Connecticut Avenue, NW Suite 280 Washington, DC 20015
-Teléfono: 	888-793-9355 (línea de ayuda de apoyo al cáncer)
-	Disponible: Lunes-Jueves: 11am – 8pm ET; Friday: 11am – 6pm ET
-Sitio web: 	https://www.cancersupportcommunity.org/  
-Servicios: 	Ofrece navegación personalizada gratuita por teléfono y en línea.  
+  **Teléfono:** 877-972-1011
+  
+  **Email:** info@youngsurvival.org 
+
+  **Sitio web:** https://youngsurvival.org/ 
+
+  **Servicios:** Ofrece grupos de apoyo en línea, materiales educativos, y recursos para pacientes para sobrevivientes jóvenes de cáncer de seno 
+
+* **Nombre: Cancer Support Community**
+  
+  **Dirección:** 5614 Connecticut Avenue, NW Suite 280 Washington, DC 20015
+
+  **Teléfono:** 888-793-9355 (línea de ayuda de apoyo al cáncer)<br/>
+
+    Disponible: Lunes-Jueves: 11am – 8pm ET; Friday: 11am – 6pm ET
+  
+  **Sitio web:** https://www.cancersupportcommunity.org/  
+
+  **Servicios:** Ofrece navegación personalizada gratuita por teléfono y en línea.  
 
 Nombre: 	American Cancer Society Hope Lodge – San Antonio, TX - PROXIMAMENTE
 Dirección: 	Ubicado cerca de los centros de tratamientos de cáncer en el Centro Medico en el sur de Texas 
