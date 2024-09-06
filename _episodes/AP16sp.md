@@ -78,14 +78,20 @@ layout: lesson
  
   **Servicios:** Ofrece educación sobre la salud de seno a las mujeres y a sus familias que residen en el lado este (East Side) de San Antonio.  
 
-Nombre: 	Grace After Fire
-Dirección: 	7616 Culebra Road, San Antonio, TX 78251
-2929 McKinney St, Houston, TX 77003
-Horario:	9am-5pm (Lunes-Viernes)
-Teléfono:	(210) 864-2959 o (832) 769-6582
-Email:	info@graceafterfire.org o intake@graceafterfire.org 
-Sitio web:	https://www.graceafterfire.org/ 
-Servicios: 	Ofrece grupos de apoyo entre pares, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ejemplo, yoga, grupos fitness, y clases creativas) y retiros anuales para veteranos. 
+* **Nombre: Grace After Fire**
+
+  **Dirección:** 7616 Culebra Road, San Antonio, TX 78251<br/>
+  2929 McKinney St, Houston, TX 77003
+
+  **Horario:** 9am-5pm (Lunes-Viernes)
+
+  **Teléfono:**	(210) 864-2959 o (832) 769-6582
+
+  **Email:** info@graceafterfire.org o intake@graceafterfire.org 
+
+  **Sitio web:** https://www.graceafterfire.org/ 
+
+  **Servicios:** Ofrece grupos de apoyo entre pares, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ejemplo, yoga, grupos fitness, y clases creativas) y retiros anuales para veteranos. 
 
 Nombre: 	S.L.E.W. Fitness Services
 Dirección: 	2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
