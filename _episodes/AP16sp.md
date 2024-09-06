@@ -37,13 +37,18 @@ layout: lesson
 
 **Servicios:** Este es un programa para residentes del condado de Bexar que no tienen seguro de salud y que buscan servicios médicos de salud del University Health System.
 
-Nombre: 	Cancer Care
-Teléfono: 	1-800-813-HOPE (4673)
-Horario:	Lunes-Jueves: 10am – 6pm EST
-	Viernes: 10am – 5pm EST
-Sitio web:	https://www.cancercare.org/
-Email:	info@cancercare.org 
-Servicios: 	Ofrece servicios profesionales de apoyo gratuito para cualquier persona afectada por cáncer, incluyendo asistencia financiera para transporte y medicamentos para el dolor.
+* **Nombre: Cancer Care**
+  
+  **Teléfono:** 1-800-813-HOPE (4673)
+  
+  **Horario:**	Lunes-Jueves: 10am – 6pm EST<br/>
+  Viernes: 10am – 5pm EST
+  
+  **Sitio web:** https://www.cancercare.org/
+  
+  **Email:** info@cancercare.org
+  
+  **Servicios:** Ofrece servicios profesionales de apoyo gratuito para cualquier persona afectada por cáncer, incluyendo asistencia financiera para transporte y medicamentos para el dolor.
 
 Nombre: 	Christus Santa Rosa Friends Foundation
 Dirección: 	2827 Babcock Road San Antonio, Texas 78229
