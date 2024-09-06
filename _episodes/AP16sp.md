@@ -50,13 +50,17 @@ layout: lesson
   
   **Servicios:** Ofrece servicios profesionales de apoyo gratuito para cualquier persona afectada por cáncer, incluyendo asistencia financiera para transporte y medicamentos para el dolor.
 
-Nombre: 	Christus Santa Rosa Friends Foundation
-Dirección: 	2827 Babcock Road San Antonio, Texas 78229
-Teléfono: 	210-704-2800
-Email:	friendsfoundation@christushealth.org
-Website:		https://www.friendsfoundation.org/ 
-Servicios:  	Los donantes ayudan a financiar los hospitales de Christus Santa Rosa ubicados en el Centro Médico, Alamo Heights, Westover Hills, y New Braunfels, en el sur de Texas.  
-	La fundación permite a las personas con bajos recursos la oportunidad de recibir atención médica a pesar de su capacidad de pagar.  
+* **Nombre: Christus Santa Rosa Friends Foundation**
+  
+  **Dirección:** 2827 Babcock Road San Antonio, Texas 78229
+
+  **Teléfono:** 210-704-2800
+
+  **Email:** friendsfoundation@christushealth.org
+
+  **Website:** https://www.friendsfoundation.org/ 
+
+  **Servicios:**  Los donantes ayudan a financiar los hospitales de Christus Santa Rosa ubicados en el Centro Médico, Alamo Heights, Westover Hills, y New Braunfels, en el sur de Texas. La fundación permite a las personas con bajos recursos la oportunidad de recibir atención médica a pesar de su capacidad de pagar.  
 
 Nombre: 	Empower House SA (3 ubicaciones)
 Dirección: 	Lockwood Youth Center  801 N. Olive, San Antonio, TX 78202
