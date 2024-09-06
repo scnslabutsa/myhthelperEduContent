@@ -29,11 +29,11 @@ layout: lesson
 
 **Teléfono:**  210- 358-3400 -> Robert B. Green Campus<br/>
 
-	       210-358-5515 -> University Family Health Center [Clínica Sureste]<br/>
+210-358-5515 -> University Family Health Center [Clínica Sureste]<br/>
 
-	       210-358-5100 -> University Family Health Center [Clínica en el Suroeste]<br/>
+210-358-5100 -> University Family Health Center [Clínica en el Suroeste]<br/>
 
-	       210-358-0800 -> CareLink North Office<br/>
+210-358-0800 -> CareLink North Office<br/>
 
 **Servicios:** Este es un programa para residentes del condado de Bexar que no tienen seguro de salud y que buscan servicios médicos de salud del University Health System.
 
