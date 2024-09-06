@@ -15,17 +15,17 @@ layout: lesson
 
 * **Nombre: CareLink (cuatro sitios)**
 
-  **Dirección:** Robert B. Green Campus<br/>
-                 9303 W. Martin, Historic Building, 1st Floor, San Antonio, TX, 78207<br/>
+  **Dirección: Robert B. Green Campus**<br/>
+  9303 W. Martin, Historic Building, 1st Floor, San Antonio, TX, 78207<br/>
 
-                 **University Family Health Center – Clínica en el Sureste (South East)**<br/>
-                 1055 Ada St., San Antonio, TX, 78223<br/>
+  **University Family Health Center – Clínica en el Sureste (South East)**<br/>
+  1055 Ada St., San Antonio, TX, 78223<br/>
   
-                 **University Family Health Center – Clínica Suroeste (South West)**<br/>
-                 2121 SW 36th Street<br/>
+  **University Family Health Center – Clínica Suroeste (South West)**<br/>
+  2121 SW 36th Street<br/>
   
-                 **CareLink North Office**<br/>
-                 126 West Rector St., Suite 116, San Antonio, TX, 78216<br/>
+  **CareLink North Office**<br/>
+  126 West Rector St., Suite 116, San Antonio, TX, 78216<br/>
 
 **Teléfono:**  210- 358-3400 -> Robert B. Green Campus<br/>
 
