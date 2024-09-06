@@ -62,17 +62,21 @@ layout: lesson
 
   **Servicios:**  Los donantes ayudan a financiar los hospitales de Christus Santa Rosa ubicados en el Centro Médico, Alamo Heights, Westover Hills, y New Braunfels, en el sur de Texas. La fundación permite a las personas con bajos recursos la oportunidad de recibir atención médica a pesar de su capacidad de pagar.  
 
-Nombre: 	Empower House SA (3 ubicaciones)
-Dirección: 	Lockwood Youth Center  801 N. Olive, San Antonio, TX 78202
-	Horario escoloar: 11am – 8pm (Lunes-Viernes)
-	Horario de vacaciones de verano y primavera: 8am – 3pm (Lunes-Viernes)
-		Ubicación Oeste à 200 Donaldson, San Antonio, TX 78201
-		Horario: 8am-5pm (Lunes-Viernes)
-		Ubicación Este  901 E. Drexel Ave, San Antonio, TX 78210
-		Horario: 8am-5pm (Lunes-Viernes)
-Teléfono: 	210-908-9772 (Ubicación Oeste); 210-598-9640 (Youth Center); 210-957-1457 (Ubicación Este)
-Sitio web:	https://empowerhousesa.org 
-Servicios: 	Ofrece educación sobre la salud de seno a las mujeres y a sus familias que residen en el lado este (East Side) de San Antonio.  
+* **Nombre: Empower House SA (3 ubicaciones)**
+
+  **Dirección: Lockwood Youth Center ->** 801 N. Olive, San Antonio, TX 78202<br/>
+  **Horario escoloar:** 11am – 8pm (Lunes-Viernes)<br/>
+  **Horario de vacaciones de verano y primavera:** 8am – 3pm (Lunes-Viernes)<br/>
+  **Ubicación Oeste->** 200 Donaldson, San Antonio, TX 78201<br/>
+  **Horario:** 8am-5pm (Lunes-Viernes)<br/>
+  **Ubicación Este ->** 901 E. Drexel Ave, San Antonio, TX 78210<br/>
+  **Horario:** 8am-5pm (Lunes-Viernes)
+  
+  **Teléfono:** 	210-908-9772 (Ubicación Oeste); 210-598-9640 (Youth Center); 210-957-1457 (Ubicación Este)
+ 
+  **Sitio web:**	https://empowerhousesa.org 
+ 
+  **Servicios:** Ofrece educación sobre la salud de seno a las mujeres y a sus familias que residen en el lado este (East Side) de San Antonio.  
 
 Nombre: 	Grace After Fire
 Dirección: 	7616 Culebra Road, San Antonio, TX 78251
