@@ -93,11 +93,15 @@ layout: lesson
 
   **Servicios:** Ofrece grupos de apoyo entre pares, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ejemplo, yoga, grupos fitness, y clases creativas) y retiros anuales para veteranos. 
 
-Nombre: 	S.L.E.W. Fitness Services
-Dirección: 	2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
-Teléfono: 	210-654-7900
-Sitio Web:	https://www.slewwellness.org/services
-Servicios: 	Ofrece terapia física y manejo del dolor. Ayuda a las pacientes a reducir/eliminar las limitaciones físicas asociadas con el cáncer
+* **Nombre: S.L.E.W. Fitness Services**
+
+  **Dirección:** 2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
+  
+  **Teléfono:** 210-654-7900
+
+  **Sitio Web:** https://www.slewwellness.org/services
+
+  **Servicios:** Ofrece terapia física y manejo del dolor. Ayuda a las pacientes a reducir/eliminar las limitaciones físicas asociadas con el cáncer
 
 Nombre: 	S.L.E.W. Wellness Cancer Center 
 Dirección: 	2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
