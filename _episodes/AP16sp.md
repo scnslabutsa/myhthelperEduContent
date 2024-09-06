@@ -103,34 +103,55 @@ layout: lesson
 
   **Servicios:** Ofrece terapia física y manejo del dolor. Ayuda a las pacientes a reducir/eliminar las limitaciones físicas asociadas con el cáncer
 
-Nombre: 	S.L.E.W. Wellness Cancer Center 
-Dirección: 	2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
-Teléfono: 	210-654-7900 
-Sitio Web:	https://www.slewwellness.org/services 
-Servicios: 	Ofrece servicios para mujeres de bajo ingresos y sin seguro de salud que incluyen pelucas, sostenes, terapia de masajes, y consejería.  
+* **Nombre: S.L.E.W. Wellness Cancer Center**
 
-Nombre: 	Thrivewell Cancer Foundation
-Dirección: 	4383 Medical Drive, Suite 4078, San Antonio, TX, 78229
-Teléfono: 	210-593-5949
-Email:	info@thrivewell.org
-Sitio web:	https://thrivewell.org/
-Servicios: 	Programa que ayuda a pacientes de cáncer de seno elegibles, con asistencia financiera y transportación (para las pacientes con tratamiento activo en el área de San Antonio) para su tratamiento de cáncer.  
+  **Dirección:** 2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
 
-Nombre: 	WINGS
-Dirección: 	2929 Mossrock, Suite 205, San Antonio, TX 78230
-Horario: 	Lunes-Viernes de 10am-3pm (teléfono, teleconferencia, correo electrónico, y apoyo en persona)
-Teléfono: 	210-946-9464
-Email:	info@texaswings.org
-Sitio web:	https://texaswings.org/ 
-Servicios: 	Ofrece servicios de tratamiento sin costo alguno para mujeres diagnosticadas con cáncer de seno y que no tienen otra opción para recibir el cuidado de salud que necesitan.  
+  **Teléfono:** 210-654-7900 
 
-Nombre: 	YWCA San Antonio, ENCOREplus Program
-Dirección: 	503 Castroville Rd, San Antonio, TX 78237	
-Teléfono: 	210-433-9922 o 361-277-9717
-Contacto:	Norma Cruz
-Email:	ncruz@ywcasa.org
-Sitio web:	https://ywcasa.org/economic-empowerment
-Servicios: 	Ofrece educación sobre la salud de seno para las mujeres y sus familias que residen en el lado oeste (West Side) de San Antonio.  Un bus que ofrece mamografías viene al YWCA dos veces al mes; si está interesada, traiga una nota de su médico para tener acceso a estos servicios.
+  **Sitio Web:** https://www.slewwellness.org/services 
+
+  **Servicios:** Ofrece servicios para mujeres de bajo ingresos y sin seguro de salud que incluyen pelucas, sostenes, terapia de masajes, y consejería.  
+
+* **Nombre: Thrivewell Cancer Foundation**
+
+  **Dirección:** 4383 Medical Drive, Suite 4078, San Antonio, TX, 78229
+  
+  **Teléfono:** 210-593-5949
+  
+  **Email:** info@thrivewell.org
+  
+  **Sitio web:** https://thrivewell.org/
+  
+  **Servicios:** Programa que ayuda a pacientes de cáncer de seno elegibles, con asistencia financiera y transportación (para las pacientes con tratamiento activo en el área de San Antonio) para su tratamiento de cáncer.  
+
+* **Nombre: WINGS**
+
+  **Dirección:** 2929 Mossrock, Suite 205, San Antonio, TX 78230
+
+  **Horario:** Lunes-Viernes de 10am-3pm (teléfono, teleconferencia, correo electrónico, y apoyo en persona)
+
+  **Teléfono:** 210-946-9464
+
+  **Email:** info@texaswings.org
+
+  **Sitio web:** https://texaswings.org/ 
+
+  **Servicios:** Ofrece servicios de tratamiento sin costo alguno para mujeres diagnosticadas con cáncer de seno y que no tienen otra opción para recibir el cuidado de salud que necesitan.  
+
+* **Nombre: YWCA San Antonio, ENCOREplus Program**
+
+  **Dirección:** 503 Castroville Rd, San Antonio, TX 78237
+  
+  **Teléfono:** 210-433-9922 o 361-277-9717
+  
+  **Contacto:** Norma Cruz
+
+  **Email:** ncruz@ywcasa.org
+  
+  **Sitio web:** https://ywcasa.org/economic-empowerment
+
+  **Servicios:** Ofrece educación sobre la salud de seno para las mujeres y sus familias que residen en el lado oeste (West Side) de San Antonio.  Un bus que ofrece mamografías viene al YWCA dos veces al mes; si está interesada, traiga una nota de su médico para tener acceso a estos servicios.
 
 Nombre: 	Young Survival Coalition 
 Dirección: 	405 Lexington Avenue, 26th Floor New York, NY 10174
