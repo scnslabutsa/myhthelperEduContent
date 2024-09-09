@@ -19,6 +19,20 @@ Piensen en todos los buenos momentos que han compartido. Piensen en los momentos
 personas, el pasar por algo tan serio, como el cáncer de seno los une aún más. Ustedes comparten sus 
 temores y sus alegrías, y pueden superar el tratamiento y la recuperación del cáncer de seno juntos. Mantener a su esposo o pareja involucrado e informado sobre su enfermedad puede ayudarle a aliviar el peso de la enfermedad. Su pareja puede compartir su fortaleza y preocupaciones con usted, lo que puede ser útil para los dos.
 
+**Mensajes Clave Cuando Hable con su Esposo/Pareja:**
+
+Cuando hable con su esposo o pareja, piense también en estos mensajes clave:
+
+* A las parejas a veces les resulta difícil hablar sobre temas difíciles o tristes. Esto significa que pueden evitar hablar sobre emociones intensas y los cambios que vienen con un diagnóstico de cáncer.
+
+* Hable abierta y honestamente con su esposo o pareja. También ayuda escuchar con sensibilidad los pensamientos y sentimientos de su pareja.
+
+* No ponga una “cara feliz” si realmente no se siente así. Si bien puede tratar de proteger los sentimientos de su pareja actuando lo más feliz posible, compartir sus verdaderos sentimientos le ayudará más a usted y a su pareja.
+
+* También debe hablar sobre las preocupaciones prácticas, como las opciones de tratamiento y los cambios en las rutinas diarias, y los planes futuros. Sin embargo, permítase a usted y a su pareja mantener una vida de lo más normal posible durante su tratamiento.
+
+* Considere unirse a un grupo de apoyo o hablar con un consejero entrenado para que los ayude a ambos a enfrentar la situación a su propia manera.
+
 
 **Fuentes:**
 
