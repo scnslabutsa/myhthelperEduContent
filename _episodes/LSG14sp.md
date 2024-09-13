@@ -55,19 +55,6 @@ layout: lesson
 
   **Servicios:**  Este grupo ofrece un lugar seguro y favorable donde las sobrevivientes, pacientes de cáncer actuales, y sus seres queridos pueden discutir abiertamente sus experiencias, desafíos, y triunfos. Este grupo ofrece un lugar para sobrevivientes de cáncer y sus redes de apoyo para conectar, aprender unos de otros, y encontrar alivio al saber que no están solas. 
 
-* **Nombre: Jewish Family Services San Antonio (JFS)**
-  
-  **Dirección:** 12500 NW Military Hwy #250, San Antonio TX 78231 (ubicación Northside)<br>
-  1151 Mission Rd., San Antonio, TX 78210 (ubicación Southside)
-
-  **Teléfono:**	210-302-6920 (Northside), 210-533-1112 (Southside)
-  
-  **Email:** info@jfs-sa.org
-  
-  **Sito web:** https://jfs-sa.org/ 
-
-  **Servicios:** Ofrece un grupo de apoyo para mujeres y familias que enfrentan el cáncer de seno. El programa está diseñado para quienes están en tratamiento o en remisión.
-
 * **Nombre: Mays Cancer Center (MCC) en UT Health San Antonio – Conserjería Individual**
   
   **Dirección:** 7979 Wurzbach Rd, San Antonio, TX, 78229
