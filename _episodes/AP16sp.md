@@ -16,13 +16,13 @@ layout: lesson
 * **Nombre: CareLink (cuatro sitios)**
 
   **Dirección: Robert B. Green Campus**<br/>
-  9303 W. Martin, Historic Building, 1st Floor, San Antonio, TX, 78207<br/>
+  9303 W. Martin St., Historic Building, 1st Floor, San Antonio, TX, 78207<br/>
 
   **University Family Health Center – Clínica en el Sureste (South East)**<br/>
   1055 Ada St., San Antonio, TX, 78223<br/>
   
   **University Family Health Center – Clínica Suroeste (South West)**<br/>
-  2121 SW 36th Street<br/>
+  2121 SW 36th Street, San Antonio, TX 78237<br/>
   
   **CareLink North Office**<br/>
   126 West Rector St., Suite 116, San Antonio, TX, 78216<br/>
@@ -95,7 +95,7 @@ layout: lesson
 
 * **Nombre: S.L.E.W. Fitness Services**
 
-  **Dirección:** 2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
+  **Dirección:** 12521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
   
   **Teléfono:** 210-654-7900
 
@@ -105,7 +105,7 @@ layout: lesson
 
 * **Nombre: S.L.E.W. Wellness Cancer Center**
 
-  **Dirección:** 2521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
+  **Dirección:** 12521 Nacogdoches Road, Suite 104, San Antonio, TX, 78217
 
   **Teléfono:** 210-654-7900 
 
@@ -143,7 +143,7 @@ layout: lesson
 
   **Dirección:** 503 Castroville Rd, San Antonio, TX 78237
   
-  **Teléfono:** 210-433-9922 o 361-277-9717
+  **Teléfono:** 210-433-9922 ext. 212 o 361-277-9717
   
   **Contacto:** Norma Cruz
 
