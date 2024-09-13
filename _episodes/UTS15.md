@@ -22,7 +22,7 @@ The American Cancer Society has tips on how to find trusted sources of health in
 
 **Sources:**
 
-<span style="font-size:15px;">American Cancer Society, 2020. Finding Cancer Information on the Internet.</span>
+<span style="font-size:15px;">American Cancer Society, 2024. Finding Cancer Information on the Internet.</span>
 
 <span style="font-size:15px;">National Cancer Institute, 2023. How to Find Cancer Resources You Can Trust.</span>
 
