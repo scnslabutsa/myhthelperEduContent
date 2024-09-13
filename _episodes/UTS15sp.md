@@ -23,6 +23,6 @@ La American Cancer Society tiene consejos sobre cómo encontrar fuentes confiabl
 **Fuente:**
 
 
-<span style="font-size:15px;">American Cancer Society, 2020. Finding Cancer Information on the Internet.</span>
+<span style="font-size:15px;">American Cancer Society, 2024. Finding Cancer Information on the Internet.</span>
 
 <span style="font-size:15px;">National Cancer Institute, 2023. How to Find Cancer Resources You Can Trust.</span>
