@@ -63,20 +63,6 @@ layout: lesson
     **Services:** This group offers a safe and nurturing space where survivors, current cancer patients, and their loved ones can openly discuss their experiences, challenges, and triumphs. This group offers a place for cancer survivors and their support networks to connect, learn from one another, and find comfort that they are not alone.
 
 
-    
-*   **Name: Jewish Family Service San Antonio (JFS)**
-
-    **Address:** 12500 NW Military Hwy #250, San Antonio TX 78231 (Northside location) <br> 1151 Mission Road, San Antonio, TX 78210 (Southside location)
-
-    **Phone:** 210-302-6920 (Northside location), 210-533-1112 (Southside location)
-
-    **Email:** [info@jfs-sa.org](info@jfs-sa.org)
-
-    **Website:** [https://jfs-sa.org/](https://jfs-sa.org/)
-    
-    **Services:** Offers an ongoing supportive group for women and families coping with breast cancer. The Program is designed for those going through treatment or in remission.
-
-
 
 *   **Name: Mays Cancer Center (MCC) at UT Health San Antonio – Individual Counseling**
 
