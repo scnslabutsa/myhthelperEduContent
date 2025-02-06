@@ -7,8 +7,7 @@ The *HT Helper app* was created by the Institute for Health Promotion Research (
 
 The *HT* Helper study is funded by the American Cancer Society (ACS) and the Mays Cancer Center.
 
-**IHPR Team**
-
+**IHPR Team**<br/>
 Patricia Chalela, DrPH, Principal Investigator<br/>
 Amelie Ramirez, DrPH, Co-Investigator<br/>
 Vivian Cortez, MS, Research Coordinator<br/>
@@ -22,14 +21,13 @@ Alyssa Gonzales, BA, Video Producer<br/>
 Byeong Choi, PhD, Biostatistician<br/>
 Edgar Muñoz, MS, Statistician<br/>
 
-**SCNS Lab Team**
-
+**SCNS Lab Team**<br/>
 David Akopian, PhD<br/>
 Devasena Inupakutika, PhD
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
-Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.
+<small>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</small>
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
