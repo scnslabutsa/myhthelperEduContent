@@ -30,9 +30,11 @@ We would like to thank all breast cancer patients, oncologists, and nurses whose
 <small>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</small>
 
 <p float="left">
-  <img src="https://github.com/scnslabutsa/myhthelperEduContent/blob/gh-pages/Images/acs.png" width="100" />
-  <img src="https://github.com/scnslabutsa/myhthelperEduContent/blob/gh-pages/Images/mays.png" width="100" /> 
-  <img src="https://github.com/scnslabutsa/myhthelperEduContent/blob/gh-pages/Images/uthscsa.png" width="100" />
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/acs.png" width="100" />
+  &nbsp;
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/mays.png" width="100" /> 
+  &nbsp;
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/uthscsa.png" width="100" />
 </p>
 
 <p align="center">
