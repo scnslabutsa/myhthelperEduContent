@@ -30,16 +30,11 @@ We would like to thank all breast cancer patients, oncologists, and nurses whose
 <small>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</small>
 
 <p float="left">
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/acs.png" width="100" />
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/acs.png" width="100" />
   &nbsp;
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/mays.png" width="100" /> 
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/mays.png" width="100" /> 
   &nbsp;
-  <img src="https://scnslabutsa.github.io/myhthelperEduContent/blob/gh-pages/Images/uthscsa.png" width="100" />
-</p>
-
-<p align="center">
-<!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
-<img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work.png"/>
+  <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/uthscsa.png" width="100" />
 </p>
 
 <small>The information in this app is provided for general education for a research study and is not a substitute for professional medical advice. We encourage you to consult with your healthcare provider before taking action on this information. The app content is generally in accord with the standards accepted at the time of publication but may not be up-to-date or, in every respect, complete. UT Health San Antonio and the Institute for Health Promotion Research, as copyright owners, make no representation or warranties, expressed or implied about the use of this app or the materials in it. Content materials are subject to change without notice. The material is protected by federal copyright law and international treaties.</small>
