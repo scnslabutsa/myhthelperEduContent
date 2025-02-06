@@ -10,21 +10,21 @@ The *HT* Helper study is funded by the American Cancer Society (ACS) and the May
 **IHPR Team**
 
 Patricia Chalela, DrPH, Principal Investigator<br/>
-Amelie Ramirez, DrPH, Co-Investigator
-Vivian Cortez, MS, Research Coordinator
-Sandra Sivak, BS, Patient Navigator
-Armida Flores, CHW, Patient Navigator
-Martha De La Mora, BS, Patient Navigator
-Mauren Duran Zamora, BS, Patient Navigator
-Zully Garcia, BS, Patient Navigator
-Cliff Despres, BJ, Communications Director
-Alyssa Gonzales, BA, Video Producer
-Byeong Choi, PhD, Biostatistician
-Edgar Muñoz, MS, Statistician
+Amelie Ramirez, DrPH, Co-Investigator<br/>
+Vivian Cortez, MS, Research Coordinator<br/>
+Sandra Sivak, BS, Patient Navigator<br/>
+Armida Flores, CHW, Patient Navigator<br/>
+Martha De La Mora, BS, Patient Navigator<br/>
+Mauren Duran Zamora, BS, Patient Navigator<br/>
+Zully Garcia, BS, Patient Navigator<br/>
+Cliff Despres, BJ, Communications Director<br/>
+Alyssa Gonzales, BA, Video Producer<br/>
+Byeong Choi, PhD, Biostatistician<br/>
+Edgar Muñoz, MS, Statistician<br/>
 
 **SCNS Lab Team**
 
-David Akopian, PhD
+David Akopian, PhD<br/>
 Devasena Inupakutika, PhD
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
