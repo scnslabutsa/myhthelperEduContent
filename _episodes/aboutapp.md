@@ -9,7 +9,7 @@ The *HT* Helper study is funded by the American Cancer Society (ACS) and the May
 
 **IHPR Team**
 
-Patricia Chalela, DrPH, Principal Investigator
+Patricia Chalela, DrPH, Principal Investigator<br/>
 Amelie Ramirez, DrPH, Co-Investigator
 Vivian Cortez, MS, Research Coordinator
 Sandra Sivak, BS, Patient Navigator
