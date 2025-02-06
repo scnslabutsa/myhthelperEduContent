@@ -27,11 +27,11 @@ Devasena Inupakutika, PhD
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
-<sub><sup>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</sup></sub>
+<small>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</small>
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work.png"/>
 </p>
 
-The information in this app is provided for general education for a research study and is not a substitute for professional medical advice. We encourage you to consult with your healthcare provider before taking action on this information. The app content is generally in accord with the standards accepted at the time of publication but may not be up-to-date or, in every respect, complete. UT Health San Antonio and the Institute for Health Promotion Research, as copyright owners, make no representation or warranties, expressed or implied about the use of this app or the materials in it. Content materials are subject to change without notice. The material is protected by federal copyright law and international treaties. 
+<small>The information in this app is provided for general education for a research study and is not a substitute for professional medical advice. We encourage you to consult with your healthcare provider before taking action on this information. The app content is generally in accord with the standards accepted at the time of publication but may not be up-to-date or, in every respect, complete. UT Health San Antonio and the Institute for Health Promotion Research, as copyright owners, make no representation or warranties, expressed or implied about the use of this app or the materials in it. Content materials are subject to change without notice. The material is protected by federal copyright law and international treaties.</small>
