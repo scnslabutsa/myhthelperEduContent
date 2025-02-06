@@ -15,7 +15,7 @@ Topics, including the date, the presenter’s name, and the Zoom link, will be i
 
 This is an example:
 
-|| Date  || Topic || Presenter || Zoom link ||
-|| ----- || ----- || --------- || --------- ||
-|| December 6, 2025, at 4 pm|| Importance of hormone therapy|| Dr'.s name|| [Zoom Link]() ||
+| Date  | Topic | Presenter | Zoom link |
+|: ----- :|:-----:|:---------:|:---------:|
+| December 6, 2025, at 4 pm | Importance of hormone therapy | Dr'.s name | [Zoom Link]() |
 
