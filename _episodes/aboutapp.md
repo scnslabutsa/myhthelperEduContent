@@ -8,6 +8,7 @@ The *HT Helper app* was created by the Institute for Health Promotion Research (
 The *HT* Helper study is funded by the American Cancer Society (ACS) and the Mays Cancer Center.
 
 **IHPR Team**
+
 Patricia Chalela, DrPH, Principal Investigator
 Amelie Ramirez, DrPH, Co-Investigator
 Vivian Cortez, MS, Research Coordinator
@@ -22,6 +23,7 @@ Byeong Choi, PhD, Biostatistician
 Edgar Muñoz, MS, Statistician
 
 **SCNS Lab Team**
+
 David Akopian, PhD
 Devasena Inupakutika, PhD
 
