@@ -3,18 +3,35 @@ layout: lesson
 <!---title:  HT Helper About App---> 
 ---
 
-**Aromatase inhibitors (AIs)** are drugs that lower estrogen levels by stopping an enzyme in fat tissue (called aromatase) from changing other hormones into estrogen. (Estrogen can fuel the growth of breast cancer cells.) They don’t stop the ovaries from making estrogen. Aromatase inhibitors are used mostly in postmenopausal women, because the ovaries in premenopausal women produce too much aromatase for the inhibitors to block effectively. However, they can be used in premenopausal women in combination with drugs that suppress (or limit) ovarian function.
- 
+The *HT Helper app* was created by the Institute for Health Promotion Research (IHPR) at  UT Health San Antonio and developed by the Software Communications and Navigation Systems (SCNS) Laboratory at the University of Texas at San Antonio.
+
+The *HT* Helper study is funded by the American Cancer Society (ACS) and the Mays Cancer Center.
+
+**IHPR Team**
+Patricia Chalela, DrPH, Principal Investigator
+Amelie Ramirez, DrPH, Co-Investigator
+Vivian Cortez, MS, Research Coordinator
+Sandra Sivak, BS, Patient Navigator
+Armida Flores, CHW, Patient Navigator
+Martha De La Mora, BS, Patient Navigator
+Mauren Duran Zamora, BS, Patient Navigator
+Zully Garcia, BS, Patient Navigator
+Cliff Despres, BJ, Communications Director
+Alyssa Gonzales, BA, Video Producer
+Byeong Choi, PhD, Biostatistician
+Edgar Muñoz, MS, Statistician
+
+**SCNS Lab Team**
+David Akopian, PhD
+Devasena Inupakutika, PhD
+
+We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
+
+Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
 <img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/Aromatase_Work.png"/>
 </p>
 
-**Sources:**
-
-<span style="font-size:15px;">American Cancer Society, 2021. Aromatase Inhibitors for Lowering Cancer Risk</span>
-
-<span style="font-size:15px;">National Cancer Institute, 2022. Hormone THerapy for Breast Cancer</span>
-
-<span style="font-size:15px;">Susan G. Komen, 2024. Aromatase Inhibitors.</span>
+The information in this app is provided for general education for a research study and is not a substitute for professional medical advice. We encourage you to consult with your healthcare provider before taking action on this information. The app content is generally in accord with the standards accepted at the time of publication but may not be up-to-date or, in every respect, complete. UT Health San Antonio and the Institute for Health Promotion Research, as copyright owners, make no representation or warranties, expressed or implied about the use of this app or the materials in it. Content materials are subject to change without notice. The material is protected by federal copyright law and international treaties. 
