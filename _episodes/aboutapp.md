@@ -27,7 +27,7 @@ Devasena Inupakutika, PhD
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
-<small>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</small>
+<sub><sup>Images and graphics are from the Institute for Health Promotion Research at UT Health San Antonio, the American Cancer Society, the American Institute for Cancer Research, the National Breast Cancer Foundation, iStock, Pixabay, and Creative Commons.</sup></sub>
 
 <p align="center">
 <!--img src="https://scnslabutsa.github.io/myhthelperEduContent/Images/AI1.png"/-->
