@@ -17,7 +17,5 @@ This is an example:
 
 | Date  | Topic | Presenter | Zoom link |
 |: ----- :|:-----:|:---------:|:---------:|
-| Mar 6, 2025 at 01:00 PM Central Time (US and Canada) | Chat with Doctor - Notification Test | Dr'.s name | [Join ZoomGov Meeting](Https://uthealthsa.zoomgov.com/j/1601093103?pwd=2twtJ1ycEMbCFbTbwQnbuFKn7NTKcM.1) <br>
-Meeting ID: 160 109 3103 <br>
-Passcode: 6LtN@&Yv4@|
+| Mar 6, 2025 at 01:00 PM Central Time (US and Canada) | Chat with Doctor - Notification Test | Dr'.s name | [Join ZoomGov Meeting](Https://uthealthsa.zoomgov.com/j/1601093103?pwd=2twtJ1ycEMbCFbTbwQnbuFKn7NTKcM.1)|
 
