@@ -9,9 +9,9 @@ layout: lesson
 
     **Teléfono:**  210-692-9535 
 
-    **Email:** 	sandisues@sbcglobal.net o info@alamobreastcancer.org
+    **Correo Electrónico:** 	sandisues@sbcglobal.net o info@alamobreastcancer.org
 
-    **Sito web:** www.alamobreastcancer.org 
+    **Sitio web:** www.alamobreastcancer.org 
 
     **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
 
@@ -19,7 +19,7 @@ layout: lesson
 
    **Teléfono:** 1-800-813-HOPE (4673)
 
-   **Email:** 	info@cancercare.org 
+   **Correo Electrónico:** 	info@cancercare.org 
 
    **Sitio web:** https://www.cancercare.org/
 
@@ -35,7 +35,7 @@ layout: lesson
 
   **Teléfono:**	(210) 864-2959 / (832) 769-6582
   
-  **Email:** info@graceafterfire.org o intake@graceafterfire.org 
+  **Correo Electrónico:** info@graceafterfire.org o intake@graceafterfire.org 
 
   **Sitio web:** https://www.graceafterfire.org/ 
 
@@ -49,7 +49,7 @@ layout: lesson
 
   **Contacto:**	Shauna Mendoza
 
-  **Email:** shauna.mendoza@sanantonio.gov
+  **Correo Electrónico:** shauna.mendoza@sanantonio.gov
   
   **Teléfono:** 210-207-9188
 
@@ -75,7 +75,7 @@ layout: lesson
 
   **Teléfono:** 210-365-1321 o 210-819-4325
 
-  **E-mail:** suzi.emanuel9@gmail.com o contact@myconnectability.org
+  **Correo Electrónico:** suzi.emanuel9@gmail.com o contact@myconnectability.org
 
   **Contacto:** Suzi Emanuel
 
@@ -100,7 +100,7 @@ layout: lesson
  
   **Teléfono:** 210-222-9009 (local) o 1-877-465-6636 (nacional) 
 
-  **Email:** info@sakomen.net o helpline@komen.org 
+  **Correo Electrónico:** info@sakomen.net o helpline@komen.org 
 
   **Sito web:** www.komensanantonio.org o www.komen.org 
 
@@ -125,7 +125,7 @@ layout: lesson
 
   **Días de reunión:**	Martes de cada mes a las 6:30PM
 
-  **Email:** info@fbcsa.org
+  **Correo Electrónico:** info@fbcsa.org
 
   **Teléfono:** 210-226-0363
   
@@ -139,7 +139,7 @@ layout: lesson
    **Días de reunión:**	Para pacientes recientemente diagnosticadas: Cada primer jueves del mes de 6:00-8:00PM<br>
    Para sobrevivientes con cáncer de seno: Cada último jueves del mes de 6:00-8:00PM
 
-   **Email:** hope@pinkwarrioradvocates.org 
+   **Correo Electrónico:** hope@pinkwarrioradvocates.org 
 
    **Sitio web:** https://www.pinkwarrioradvocates.org/news-events 
 
@@ -170,7 +170,7 @@ layout: lesson
   
   **Teléfono:** 210-757-2546
 
-  **Email:** Deborah.williams@mhshealth.com
+  **Correo Electrónico:** Deborah.williams@mhshealth.com
   
   **Servicios:** Grupo de apoyo para pacientes con cáncer de seno y sus cuidadores, así como también servicios sociales, talleres educativos, y navegación para pacientes para ayudar a las pacientes en su camino de recuperación. 
 
@@ -199,7 +199,7 @@ layout: lesson
 
   **Teléfono:** 316-648-5466
   
-  **Email:** metasistersovercomers@gmail.com
+  **Correo Electrónico:** metasistersovercomers@gmail.com
   
   **Servicios:** Ofrece grupos de apoyo para el cáncer de seno, talleres educativos gratuitos, retiros, y asistencia financiera para pacientes con cáncer de seno. 
 
