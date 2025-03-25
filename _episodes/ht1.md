@@ -5,7 +5,7 @@ layout: lesson
 
 Some types of breast cancer are affected by hormones in the blood, like estrogen and progesterone. Hormones are proteins or substances the body makes that help control how certain types of cells work. These proteins function as chemical messengers in the body, activating or controlling certain cells.
 
-Estrogen and progesterone are produced by the ovaries in premenopausal (before menopause) women and by some other tissues, including fat and skin, in both premenopausal and postmenopausal (afer menopause) women and in men. Estrogen promotes the development and maintenance of female sex characteristics and the growth of long bones. Progesterone plays a role in the menstrual cycle and pregnancy. Some cancers depend on hormones to grow. Estrogen and progesterone promote the growth of some breast cancers, and they are called hormone-positive, hormone-sensitive, or hormone-dependent breast cancers.
+Estrogen and progesterone are produced by the ovaries in premenopausal (before menopause) women and by some other tissues, including fat and skin, in both premenopausal and postmenopausal (after menopause) women and in men. Estrogen promotes the development and maintenance of female sex characteristics and the growth of long bones. Progesterone plays a role in the menstrual cycle and pregnancy. Some cancers depend on hormones to grow. Estrogen and progesterone promote the growth of some breast cancers, and they are called hormone-positive, hormone-sensitive, or hormone-dependent breast cancers.
  
 
 **Sources:**
