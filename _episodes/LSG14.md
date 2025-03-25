@@ -102,7 +102,7 @@ layout: lesson
     
     **Phone:** 210-654-7900
     
-    **Website:** [www.slewwellness.org](www.slewwellness.org) 
+    **Website:** [https://www.slewwellness.org](https://www.slewwellness.org) 
 
     **Services:** Offers emotional counseling provided by a professional counselor trained to help patients identify their concerns, consider effective solutions, and find reliable resources. Nutritional counseling is done with a dietitian. Cooking demonstrations are also provided. Area-wide van transportation is available to and from the facilities for patients participating in the program.
 
@@ -116,7 +116,7 @@ layout: lesson
     
     **Email:** [info@sakomen.net](info@sakomen.net) OR [helpline@komen.org](helpline@komen.org)
 
-    **Website:** [www.komensanantonio.org](www.komensanantonio.org) OR [www.komen.org](www.komen.org)
+    **Website:** [https://www.komensanantonio.org](https://www.komensanantonio.org) OR [https://www.komen.org](https://www.komen.org)
 
     **Meeting Days:** Komen San Antonio offers a mentor program for people to connect with a survivor to provide emotional support during the process of care.
 
@@ -202,7 +202,7 @@ layout: lesson
 
     **Hours:** Meetings every Thursday at 7:00pm
 
-    **Website:** [http://brookhillbaptistchurch.com/community-services/cancer-support-group.html](http://brookhillbaptistchurch.com/community-services/cancer-support-group.html)
+    **Website:** [https://brookhillbaptistchurch.com/community-services/cancer-support-group.html](https://brookhillbaptistchurch.com/community-services/cancer-support-group.html)
 
     **Phone:** (210) 333-4947 (main) OR 210-415-2830 (Brenda Fox)
 
