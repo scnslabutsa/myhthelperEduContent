@@ -9,9 +9,10 @@ layout: lesson
 
     **Teléfono:**  210-692-9535 
 
-    **Correo Electrónico:** 	sandisues@sbcglobal.net o info@alamobreastcancer.org
+    **Correo Electrónico:** 	[sandisues@sbcglobal.net](sandisues@sbcglobal.net) o [info@alamobreastcancer.org](info@alamobreastcancer.org)
 
-    **Sitio web:** www.alamobreastcancer.org 
+    **Sitio web:** [https://www.alamobreastcancer.org](https://www.alamobreastcancer.org)
+
 
     **Servicios:** Ofrece una línea telefónica de ayuda que es atendida por voluntarias que han tenido experiencia con el cáncer de seno. La línea de ayuda está disponible las 24 horas y es bilingüe.
 
@@ -21,7 +22,8 @@ layout: lesson
 
    **Correo Electrónico:** 	info@cancercare.org 
 
-   **Sitio web:** https://www.cancercare.org/
+   **Sitio web:** [https://www.cancercare.org/](https://www.cancercare.org/)
+
 
    **Servicios:** Ofrece servicios de apoyo profesional gratuitos para todas las personas afectadas por el cáncer; incluyendo asistencia financiera para transporte y medicamentos para el dolor.
 	También ofrecen consejería, grupos de apoyo en línea, y servicios educativos. 
@@ -35,9 +37,9 @@ layout: lesson
 
   **Teléfono:**	(210) 864-2959 / (832) 769-6582
   
-  **Correo Electrónico:** info@graceafterfire.org o intake@graceafterfire.org 
+  **Correo Electrónico:** [info@graceafterfire.org](info@graceafterfire.org) o [intake@graceafterfire.org](intake@graceafterfire.org)
 
-  **Sitio web:** https://www.graceafterfire.org/ 
+  **Sitio web:** [https://www.graceafterfire.org](https://www.graceafterfire.org)
 
   **Servicios:** Ofrece grupos de apoyo entre pacientes, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ej., yoga, grupos de entrenamiento o acondicionamiento físico, y clases creativas) y retiros anuales para veteranos. 
 
@@ -49,7 +51,7 @@ layout: lesson
 
   **Contacto:**	Shauna Mendoza
 
-  **Correo Electrónico:** shauna.mendoza@sanantonio.gov
+  **Correo Electrónico:** [shauna.mendoza@sanantonio.gov](shauna.mendoza@sanantonio.gov)
   
   **Teléfono:** 210-207-9188
 
@@ -69,13 +71,13 @@ layout: lesson
   
   **Dirreción:** 5101 Medical Dr, San Antonio, TX 78229
 
-  **Sitio web:** https://myconnectability.org/series/keep-abreast-3/ 
+  **Sitio web:** [https://myconnectability.org/series/keep-abreast-3/](https://myconnectability.org/series/keep-abreast-3/) 
 
   **Días de reunión:** Primer lunes de cada mes (2ndo lunes cuando el 1er lunes es día festivo) a las 7:00PM
 
   **Teléfono:** 210-365-1321 o 210-819-4325
 
-  **Correo Electrónico:** suzi.emanuel9@gmail.com o contact@myconnectability.org
+  **Correo Electrónico:** [suzi.emanuel9@gmail.com](suzi.emanuel19@gmail.com) o [contact@myconnectability.org](contact@myconnectability.org)
 
   **Contacto:** Suzi Emanuel
 
@@ -89,7 +91,7 @@ layout: lesson
 
   **Teléfono:** 210-654-7900
 
-  **Sito web:** www.slewwellness.org 	
+  **Sito web:** [https://www.slewwellness.org](https://www.slewwellness.org) 	
 
   **Servicios:** Ofrece consejería emocional por un profesional entrenado para ayudar a las pacientes a identificar sus preocupaciones, considerar soluciones efectivas y encontrar recursos confiables. El asesoramiento nutricional se hace con un nutricionista. También se ofrecen demostraciones de cocina. Hay transporte disponible en camionetas para llevar a las pacientes que participan en el programa hasta y desde las instalaciones.
 
@@ -100,9 +102,9 @@ layout: lesson
  
   **Teléfono:** 210-222-9009 (local) o 1-877-465-6636 (nacional) 
 
-  **Correo Electrónico:** info@sakomen.net o helpline@komen.org 
+  **Correo Electrónico:** [info@sakomen.net](info@sakomen.net) o [helpline@komen.org](helpline@komen.org) 
 
-  **Sito web:** www.komensanantonio.org o www.komen.org 
+  **Sito web:** [https://www.komensanantonio.org](https://www.komensanantonio.org) o [https://www.komen.org](https://www.komen.org) 
 
   **Servicios:** Komen San Antonio ofrece un programa de mentores para que las personas se conecten con un sobreviviente y reciban apoyo emocional durante el proceso de atención médica.
 
@@ -125,7 +127,7 @@ layout: lesson
 
   **Días de reunión:**	Martes de cada mes a las 6:30PM
 
-  **Correo Electrónico:** info@fbcsa.org
+  **Correo Electrónico:** [info@fbcsa.org](info@fbcsa.org)
 
   **Teléfono:** 210-226-0363
   
@@ -139,9 +141,9 @@ layout: lesson
    **Días de reunión:**	Para pacientes recientemente diagnosticadas: Cada primer jueves del mes de 6:00-8:00PM<br>
    Para sobrevivientes con cáncer de seno: Cada último jueves del mes de 6:00-8:00PM
 
-   **Correo Electrónico:** hope@pinkwarrioradvocates.org 
+   **Correo Electrónico:** [hope@pinkwarrioradvocates.org](hope@pinkwarrioradvocates.org) 
 
-   **Sitio web:** https://www.pinkwarrioradvocates.org/news-events 
+   **Sitio web:** [https://www.pinkwarrioradvocates.org/news-events](https://www.pinkwarrioradvocates.org/news-events) 
 
    **Teléfono:** 830-308-8855
    
@@ -153,7 +155,7 @@ layout: lesson
 
   **Horario:** Lunes – Jueves: 9:00am – 6:00pm; Viernes: 8:00am – 4:00pm 
 
-  **Sitio web:** https://sahealth.com/locations/methodist-cancer-care-rehabiliation-center/ 
+  **Sitio web:** [https://www.sahealth.com/locations/methodist-cancer-care-rehabilitation-center](https://www.sahealth.com/locations/methodist-cancer-care-rehabilitation-center)
 
   **Teléfono:** 210-575-9740
 
@@ -166,11 +168,11 @@ layout: lesson
   
   **Días de reunión:**	Cada tercer miércoles del mes de 6:00pm – 8:00 pm
   
-  **Sitio web:** https://sahealth.com/specialties/breast-cancer/?location=methodist-hospital-metropolitan
+  **Sitio web:** [https://sahealth.com/specialties/breast-cancer/?location=methodist-hospital-metropolitan](https://sahealth.com/specialties/breast-cancer/?location=methodist-hospital-metropolitan)
   
   **Teléfono:** 210-757-2546
 
-  **Correo Electrónico:** Deborah.williams@mhshealth.com
+  **Correo Electrónico:** [Deborah.williams@mhshealth.com](Deborah.williams@mhshealth.com)
   
   **Servicios:** Grupo de apoyo para pacientes con cáncer de seno y sus cuidadores, así como también servicios sociales, talleres educativos, y navegación para pacientes para ayudar a las pacientes en su camino de recuperación. 
 
@@ -180,7 +182,7 @@ layout: lesson
 
   **Días de reunión:**	Reuniones cada jueves a las 7:00pm
 
-  **Sitio web:** https://brookhillbaptistchurch.com/community-services/cancer-support-group.html  
+  **Sitio web:** [https://brookhillbaptistchurch.com/community-services/cancer-support-group.html](https://brookhillbaptistchurch.com/community-services/cancer-support-group.html)  
 
   **Teléfono:** (210) 333-4947 (principal) o 210-415-2830 (Brenda Fox)
 
@@ -195,11 +197,11 @@ layout: lesson
 
   **Días de reunión:** 	Reuniones mensuales en el tercer martes de cada mes a las 6:30pm-8:30pm
 
-  **Sitio web:** https://overcomersbreastcancer.com 
+  **Sitio web:** [https://overcomersbreastcancer.com](https://overcomersbreastcancer.com)
 
   **Teléfono:** 316-648-5466
   
-  **Correo Electrónico:** metasistersovercomers@gmail.com
+  **Correo Electrónico:** [metasisterovercomers@gmail.com](metasistersovercomers@gmail.com)
   
   **Servicios:** Ofrece grupos de apoyo para el cáncer de seno, talleres educativos gratuitos, retiros, y asistencia financiera para pacientes con cáncer de seno. 
 
