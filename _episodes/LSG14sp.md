@@ -63,7 +63,7 @@ layout: lesson
 
   **Teléfono:** 210-450-1000 o 210-450-5570
 
-  **Sito web:**	https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care 
+  **Sitio web:**	https://cancer.uthscsa.edu/patients-and-families/services-during-cancer-care 
 
   **Servicios:** Consejería individual, grupos de apoyo (seno, pulmón, sarcoma) y educación e información sobre el cáncer.
 
@@ -91,7 +91,7 @@ layout: lesson
 
   **Teléfono:** 210-654-7900
 
-  **Sito web:** [https://www.slewwellness.org](https://www.slewwellness.org) 	
+  **Sitio web:** [https://www.slewwellness.org](https://www.slewwellness.org) 	
 
   **Servicios:** Ofrece consejería emocional por un profesional entrenado para ayudar a las pacientes a identificar sus preocupaciones, considerar soluciones efectivas y encontrar recursos confiables. El asesoramiento nutricional se hace con un nutricionista. También se ofrecen demostraciones de cocina. Hay transporte disponible en camionetas para llevar a las pacientes que participan en el programa hasta y desde las instalaciones.
 
@@ -104,7 +104,7 @@ layout: lesson
 
   **Correo Electrónico:** [info@sakomen.net](info@sakomen.net) o [helpline@komen.org](helpline@komen.org) 
 
-  **Sito web:** [https://www.komensanantonio.org](https://www.komensanantonio.org) o [https://www.komen.org](https://www.komen.org) 
+  **Sitio web:** [https://www.komensanantonio.org](https://www.komensanantonio.org) o [https://www.komen.org](https://www.komen.org) 
 
   **Servicios:** Komen San Antonio ofrece un programa de mentores para que las personas se conecten con un sobreviviente y reciban apoyo emocional durante el proceso de atención médica.
 
