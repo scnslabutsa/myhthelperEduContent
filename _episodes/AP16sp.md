@@ -9,7 +9,7 @@ layout: lesson
 
    **Contacto:** Jennifer Cook
 
-   **Email:** cook@uiwtx.edu o info@alamobreastcancer.org
+   **Correo Electrónico:** [cook@uiwtx.edu](cook@uiwtx.edu) o [info@alamobreastcancer.org](info@alamobreastcancer.org)
 
    **Servicios:** Los representantes están disponibles para responder preguntas sobre el cáncer, dar información sobre los programas ABCF y recursos disponibles en la comunidad.
 
@@ -44,9 +44,9 @@ layout: lesson
   **Horario:**	Lunes-Jueves: 10am – 6pm EST<br/>
   Viernes: 10am – 5pm EST
   
-  **Sitio web:** https://www.cancercare.org/
+  **Sitio web:** [https://www.cancercare.org/](https://www.cancercare.org)
   
-  **Email:** info@cancercare.org
+  **Correo Electrónico:** [info@cancercare.org](info@cancercare.org)
   
   **Servicios:** Ofrece servicios profesionales de apoyo gratuito para cualquier persona afectada por cáncer, incluyendo asistencia financiera para transporte y medicamentos para el dolor.
 
@@ -56,9 +56,9 @@ layout: lesson
 
   **Teléfono:** 210-704-2800
 
-  **Email:** friendsfoundation@christushealth.org
+  **Correo Electrónico:** [friendsfoundation@christushealth.org](friendsfoundation@christushealth.org)
 
-  **Website:** https://www.friendsfoundation.org/ 
+  **Sitio web:** [https://www.friendsfoundation.org/](https://www.friendsfoundation.org) 
 
   **Servicios:**  Los donantes ayudan a financiar los hospitales de Christus Santa Rosa ubicados en el Centro Médico, Alamo Heights, Westover Hills, y New Braunfels, en el sur de Texas. La fundación permite a las personas con bajos recursos la oportunidad de recibir atención médica a pesar de su capacidad de pagar.  
 
@@ -74,7 +74,7 @@ layout: lesson
   
   **Teléfono:** 	210-908-9772 (Ubicación Oeste); 210-598-9640 (Youth Center); 210-957-1457 (Ubicación Este)
  
-  **Sitio web:**	https://empowerhousesa.org 
+  **Sitio web:**	[https://empowerhousesa.org](https://empowerhousesa.org) 
  
   **Servicios:** Ofrece educación sobre la salud de seno a las mujeres y a sus familias que residen en el lado este (East Side) de San Antonio.  
 
@@ -87,9 +87,9 @@ layout: lesson
 
   **Teléfono:**	(210) 864-2959 o (832) 769-6582
 
-  **Email:** info@graceafterfire.org o intake@graceafterfire.org 
+  **Correo Electrónico:** [info@graceafterfire.org](info@graceafterfire.org) o [intake@graceafterfire.org](intake@graceafterfire.org) 
 
-  **Sitio web:** https://www.graceafterfire.org/ 
+  **Sitio web:** [https://www.graceafterfire.org/](https://www.graceafterfire.org) 
 
   **Servicios:** Ofrece grupos de apoyo entre pares, navegación de recursos de la comunidad, asistencia financiera, programas de bienestar (por ejemplo, yoga, grupos fitness, y clases creativas) y retiros anuales para veteranos. 
 
@@ -99,7 +99,7 @@ layout: lesson
   
   **Teléfono:** 210-654-7900
 
-  **Sitio Web:** https://www.slewwellness.org/services
+  **Sitio Web:** [https://www.slewwellness.org/services](https://www.slewwellness.org/services)
 
   **Servicios:** Ofrece terapia física y manejo del dolor. Ayuda a las pacientes a reducir/eliminar las limitaciones físicas asociadas con el cáncer
 
@@ -109,7 +109,7 @@ layout: lesson
 
   **Teléfono:** 210-654-7900 
 
-  **Sitio Web:** https://www.slewwellness.org/services 
+  **Sitio Web:** [https://www.slewwellness.org/services](https://www.slewwellness.org/services) 
 
   **Servicios:** Ofrece servicios para mujeres de bajo ingresos y sin seguro de salud que incluyen pelucas, sostenes, terapia de masajes, y consejería.  
 
@@ -119,9 +119,9 @@ layout: lesson
   
   **Teléfono:** 210-593-5949
   
-  **Email:** info@thrivewell.org
+  **Correo Electrónico:** [info@thrivewell.org](info@thrivewell.org)
   
-  **Sitio web:** https://thrivewell.org/
+  **Sitio web:** [https://thrivewell.org/](https://thrivewell.org)
   
   **Servicios:** Programa que ayuda a pacientes de cáncer de seno elegibles, con asistencia financiera y transportación (para las pacientes con tratamiento activo en el área de San Antonio) para su tratamiento de cáncer.  
 
@@ -133,9 +133,9 @@ layout: lesson
 
   **Teléfono:** 210-946-9464
 
-  **Email:** info@texaswings.org
+  **Correo Electrónico:** [info@texaswings.org](info@texaswings.org)
 
-  **Sitio web:** https://texaswings.org/ 
+  **Sitio web:** [https://texaswings.org/](https://texaswings.org) 
 
   **Servicios:** Ofrece servicios de tratamiento sin costo alguno para mujeres diagnosticadas con cáncer de seno y que no tienen otra opción para recibir el cuidado de salud que necesitan.  
 
@@ -147,9 +147,9 @@ layout: lesson
   
   **Contacto:** Norma Cruz
 
-  **Email:** ncruz@ywcasa.org
+  **Correo Electrónico:** [ncruz@ywcasa.org](ncruz@ywcasa.org)
   
-  **Sitio web:** https://ywcasa.org/economic-empowerment
+  **Sitio web:** [https://ywcasa.org/economic-empowerment](https://ywcasa.org/economic-empowerment)
 
   **Servicios:** Ofrece educación sobre la salud de seno para las mujeres y sus familias que residen en el lado oeste (West Side) de San Antonio.  Un bus que ofrece mamografías viene al YWCA dos veces al mes; si está interesada, traiga una nota de su médico para tener acceso a estos servicios.
 
@@ -159,9 +159,9 @@ layout: lesson
 
   **Teléfono:** 877-972-1011
   
-  **Email:** info@youngsurvival.org 
+  **Correo Electrónico:** [info@youngsurvival.org](info@youngsurvival.org) 
 
-  **Sitio web:** https://youngsurvival.org/ 
+  **Sitio web:** [https://youngsurvival.org/](https://youngsurvival.org) 
 
   **Servicios:** Ofrece grupos de apoyo en línea, materiales educativos, y recursos para pacientes para sobrevivientes jóvenes de cáncer de seno 
 
@@ -173,7 +173,7 @@ layout: lesson
 
     Disponible: Lunes-Jueves: 11am – 8pm ET; Friday: 11am – 6pm ET
   
-  **Sitio web:** https://www.cancersupportcommunity.org/  
+  **Sitio web:** [https://www.cancersupportcommunity.org/](https://www.cancersupportcommunity.org/)  
 
   **Servicios:** Ofrece navegación personalizada gratuita por teléfono y en línea.  
 
@@ -183,7 +183,7 @@ layout: lesson
 
   **Teléfono:** 1-800-227-2345
 
-  **Sitio web:** https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/san-antonio.html
+  **Sitio web:** [https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/san-antonio.html](https://www.cancer.org/support-programs-and-services/patient-lodging/hope-lodge/san-antonio.html)
 
   **Servicios:** Algunas comodidades de la American Cancer Society Hope Lodge incluirán:<br/>
                  - 40 habitaciones de visita, cada una con bañera privada, televisión, y Wi-Fi gratis<br/>
@@ -205,7 +205,7 @@ layout: lesson
   
   **Teléfono:** (800) 227-2345
   
-  **Sitio web:** https://www.cancer.org/about-us/our-partners/extended-stay-america.html<br/>
- 		 https://www.extendedstayamerica.com
+  **Sitio web:** [https://www.cancer.org/about-us/our-partners/extended-stay-america.html](https://www.cancer.org/about-us/our-partners/extended-stay-america.html)<br/>
+ 		 [https://www.extendedstayamerica.com](https://www.extendedstayamerica.com)
   
   **Servicios:** La American Cancer Society en colaboración con Extended Stay America para ofrecer habitaciones de descuento para pacientes que tienen que estar fuera de casa para recibir tratamiento contra el cáncer. Cada habitación tiene cocinas totalmente equipadas, para que los huéspedes puedan mantener sus estrictas rutinas dietéticas. También hay Wi-Fi gratuito, servicios de lavandería, y habitaciones que permiten mascotas 
