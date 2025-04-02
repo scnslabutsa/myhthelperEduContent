@@ -22,5 +22,9 @@ Details for each chat will be shared below:
 
 **Speaker:** Dr'.s name
 
-**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) Meeting ID: 160 647 2430 <br /> Passcode: Bn8iV%3ry#
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) 
+
+               Meeting ID: 160 647 2430 
+               
+               Passcode: Bn8iV%3ry#
 
