@@ -5,17 +5,18 @@ layout: lesson
 
 Welcome to Chat with the Doctor!
 
-In collaboration with the Breast Clinic Team at the Mays Cancer Center at UT Health San Antonio, our HT Helper Study Team is pleased to offer patients 20-minute chat sessions with their oncologists every 2 months. During these chat sessions (called pláticas in Spanish), oncologists will provide education on hormone therapy-related topics, including the importance of taking the hormone therapy medication as prescribed by the doctor (adherence), common side effects, and how to manage them, etc. 
+In partnership with the Breast Clinic at the Mays Cancer Center, we’re excited to offer short virtual sessions (15–20 minutes) on Zoom every two months. These chats will be led by oncologists and other healthcare providers and focus on hormone therapy topics, like why it’s important to take your medication as prescribed, common side effects, and how to manage them.
 
-Patients can also ask questions and interact with medical team members and other breast cancer patients participating in this study.
+You will also have the opportunity to ask questions, talk with the presenter, and connect with other breast
+cancer patients in the study.
 
-These chats/pláticas will be conducted virtually via Zoom. A link to join will be provided here and can also be sent to patients through the HT Helper App notifications, email, or text.
+If you are unable to join live, don’t worry—we’ll make recordings of the speaker’s presentation available on YouTube.
 
-Topics, including the date, the presenter’s name, and the Zoom link, will be included below. 
+Details for each chat will be shared below:
 
-This is an example:
-
-| Date  | Topic | Presenter | Zoom link |
-|: ----- :|:-----:|:---------:|:---------:|
-| Mar 20, 2025 03:00 PM Central Time (US and Canada) | Vivian Cortez's Zoom Meeting | Dr'.s name | [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) <br /> Meeting ID: 160 647 2430 <br /> Passcode: Bn8iV%3ry#|
+**Topic:** Vivian Cortez's Zoom Meeting
+**Date:** April 3, 2025  
+**Time:** 03:00 PM Central Time (US and Canada)
+**Speaker:** Dr'.s name
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) Meeting ID: 160 647 2430 <br /> Passcode: Bn8iV%3ry#
 
