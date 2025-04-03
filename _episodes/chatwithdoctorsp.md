@@ -2,19 +2,24 @@
 layout: lesson
 <!---title:  HT Helper About App Spanish---> 
 ---
+¡Bienvenida a la Plática con el Doctor(a)!
 
-¡Bienvenida a Plática con el Doctor!
+En colaboración con la Clínica del Seno del Mays Cancer Center, nos complace ofrecer sesiones virtuales cortas (de 15 a 20 minutos) por Zoom cada dos meses. Estas pláticas o charlas estarán a cargo de oncólogos y otros profesionales de salud, y se enfocarán en temas relacionados con la terapia hormonal, como la importancia de tomar el medicamento como lo indicó su doctor, los efectos secundarios más comunes y cómo manejarlos.
 
-En colaboración con el Equipo de la Clínica del Seno del Mays Cancer Center a UT Health San Antonio, nuestro Equipo del Estudio HT Helper se complace en ofrecer a las pacientes sesiones educativas de 20 minutos, cada dos meses, presentadas por los oncólogos. Durante estas sesiones o pláticas (llamadas chats en inglés), los oncólogos brindarán educación sobre temas relacionados con la terapia hormonal, incluyendo la importancia de tomar la medicina de terapia hormonal como lo prescribió el doctor (adherencia), los efectos secundarios comunes y cómo manejarlos, etc.
+También tendrá la oportunidad de hacer preguntas, hablar con el presentador(a) y charlar con otras pacientes con cáncer de seno que participan en este estudio.
 
-Las pacientes tendrán la oportunidad de hacer preguntas e interactuar con los miembros del equipo médico y con otras pacientes con cáncer de seno que están participando en este estudio.
+Si no puede participar el dia de la plática, no se preocupe—tendremos disponible en YouTube la grabación de cada presentación por parte de los ponentes.
 
-Estas pláticas/chats se llevarán a cabo virtualmente a través de Zoom. Aquí se incluirá el enlace para participar, el cual puede también ser enviado a las pacientes a través de las notificaciones en la aplicación HT Helper, correo electrónico o mensajes de texto.
+Los detalles de cada plática se compartirán a continuación:
 
-Los temas a presentarse, junto con la fecha, el nombre del presentador(a) y el enlace Zoom se incluirán seguidamente.
+**Tema:** Importancia de la terapia hormonal
 
-Este es un ejemplo:
+**Fecha:** 6 de diciembre, 2025
 
-| Fecha  | Tema | Presentador(a) | Enlace Zoom |
-|: ----- :|:-----:|:---------:|:---------:|
-| 6 de diciembre, 2025, a las 4 pm | Importancia de la terapia hormonal | Nombre del doctor(a) | [Enlace Zoom]() |
+**Hora:** 4pm
+
+**Ponente:** Nombre del doctor(a)
+
+**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) 
+                    Meeting ID: 160 647 2430
+                    Passcode: Bn8iV%3ry#
