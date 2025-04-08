@@ -15,7 +15,7 @@ Sleep problems can include:
 * Sleeping too much but still feeling tired
 * Feeling tired or with low energy throughout the day
 
-Poor sleep can affect both your physical and mental health, so getting good rest is very important. If you are having serious sleep issues that affect your daily life, it is important that you talk to your doctor.
+Poor sleep can affect both your physical and mental health, so getting good rest is very important. If you are having serious sleep issues that affect your daily life, it is important that you **talk to your doctor.**
 
 **Tips to Improve Your Sleep**
 Try the tips below to help you sleep better:
