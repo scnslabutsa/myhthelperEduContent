@@ -41,7 +41,7 @@ and negative thoughts that interfere with sleep.
 * Keep your alarm clock out of sight so you’re not tempted to check the time if you wake up during the night.
 * Get a back rub or foot massage. A gentle back rub or foot massage from your partner or caregiver before bed can help you relax and prepare for sleep.
 * Drink a warm, calming beverage like warm milk or chamomile tea before bed.
-  For tips about how to start an exercise plan, stay motivated, and find different ways to be physically active, please see our section on Physical Activity. [PA1.html](https://scnslabutsa.github.io/myhthelperEduContent/PA1/index.html), [PA2.html](https://scnslabutsa.github.io/myhthelperEduContent/PA2/index.html), [PA3.html](https://scnslabutsa.github.io/myhthelperEduContent/PA3/index.html) and [PA4.html](https://scnslabutsa.github.io/myhthelperEduContent/PA4/index.html)
+  
 
 **Sources:**
 
