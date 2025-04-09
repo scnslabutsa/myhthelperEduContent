@@ -1,6 +1,6 @@
 ---
 layout: lesson
-<!---title: Sleep Problems<sup>20</sup>--->
+<!---title: Problemas del sueño<sup>20</sup>--->
 ---
 
 Es normal tener dificultades para dormir durante el tratamiento para el cáncer o en el primer año después de finalizar el tratamiento. Estos problemas de sueño pueden ocurrir por muchas razones, tales como:
@@ -42,7 +42,7 @@ Trate los siguientes consejos para ayudarlw a dormir mejor:
 * Reciba un masaje en la espalda o los pies. Un masaje suave en la espalda o los pies por parte de su pareja, familiar o persona que la cuida, antes de dormir puede ayudarle a relajarse y prepararse para dormir.
 * Tome una bebida tibia y calmante como leche caliente o té de manzanilla antes de acostarse.
 
-**Sources:**
+**Fuentes:**
 
 <span style="font-size:15px;">American Cancer Society, 2024. Sleep Problems.</span>	
 
