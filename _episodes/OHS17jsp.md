@@ -20,7 +20,7 @@ Los problemas de sueño pueden incluir:
 Dormir mal puede afectar tanto su salud física como mental, por eso es muy importante descansar bien. Si tiene problemas serios de sueño que afectan su vida diaria, es importante que **hable con su doctor.**
 
 **Consejos para mejorar el sueño**
-Trate los siguientes consejos para ayudarlw a dormir mejor:
+Trate los siguientes consejos para ayudarle a dormir mejor:
 * Apague la televisión y otros dispositivos electrónicos (celular, tableta, computador) por lo menos de 30 a 60 minutos antes de acostarte. La luz de las pantallas puede dificultar que su cerebro se relaje para dormir.
 * Establezca una rutina relajante antes de dormir, como leer, escuchar música tranquila, meditar, hacer ejercicios de respiración profunda o tomar un baño tibio.
 * Trate de acostarse a la misma hora todas las noches para ayudar a su cuerpo a establecer una rutina.
