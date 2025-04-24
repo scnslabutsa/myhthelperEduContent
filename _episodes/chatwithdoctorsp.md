@@ -14,9 +14,9 @@ Los detalles de cada plática se compartirán a continuación:
 
 **Tema:** Importancia de la terapia hormonal
 
-**Fecha:** 6 de diciembre, 2025
+**Fecha:** 30 de aprile, 2025
 
-**Hora:** 4pm
+**Hora:** 1:30pm
 
 **Ponente:** Nombre del doctor(a)
 
