@@ -16,9 +16,9 @@ Details for each chat will be shared below:
 
 **Topic:** Vivian Cortez's Zoom Meeting
 
-**Date:** April 3, 2025  
+**Date:** April 30, 2025  
 
-**Time:** 03:00 PM Central Time (US and Canada)
+**Time:** 01:30 PM Central Time (US and Canada)
 
 **Speaker:** Dr'.s name
 
