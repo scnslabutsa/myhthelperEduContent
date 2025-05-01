@@ -12,14 +12,12 @@ Si no puede participar el dia de la plática, no se preocupe—tendremos disponi
 
 Los detalles de cada plática se compartirán a continuación:
 
-**Tema:** Importancia de la terapia hormonal
+**Tema:** Chatear con la doctora - Examen
 
-**Fecha:** 30 de aprile, 2025
+**Fecha:** 2 de Mayo, 2025
 
-**Hora:** 1:30pm
+**Hora:** 1:30pm Hora central (EE. UU. y Canadá)
 
 **Ponente:** Nombre del doctor(a)
 
-**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) 
-                    Meeting ID: 160 647 2430
-                    Passcode: Bn8iV%3ry#
+**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1609084955?pwd=KCbLi4rJm4zwULwqteFmegl66KCSTS.1)
