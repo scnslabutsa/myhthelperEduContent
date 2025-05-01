@@ -14,15 +14,13 @@ If you are unable to join live, don’t worry—we’ll make recordings of the s
 
 Details for each chat will be shared below:
 
-**Topic:** Vivian Cortez's Zoom Meeting
+**Topic:** Chat with Doctor - Test
 
-**Date:** April 30, 2025  
+**Date:** May 2, 2025  
 
-**Time:** 01:30 PM Central Time (US and Canada)
+**Time:** 01:00 PM Central Time (US and Canada)
 
 **Speaker:** Dr'.s name
 
-**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1606472430?pwd=o2LYbqAdwln8bDN6O0rd6O3Xz7rkzN.1) 
-               Meeting ID: 160 647 2430
-               Passcode: Bn8iV%3ry#
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1609084955?pwd=KCbLi4rJm4zwULwqteFmegl66KCSTS.1) 
 
