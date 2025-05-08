@@ -14,10 +14,10 @@ Los detalles de cada plática se compartirán a continuación:
 
 **Tema:** Chatear con la doctora - Examen
 
-**Fecha:** 2 de Mayo, 2025
+**Fecha:** 16 de Mayo, 2025
 
-**Hora:** 1:30pm Hora central (EE. UU. y Canadá)
+**Hora:** 4:00pm Hora central (EE. UU. y Canadá)
 
 **Ponente:** Nombre del doctor(a)
 
-**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1609084955?pwd=KCbLi4rJm4zwULwqteFmegl66KCSTS.1)
+**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1616392638?pwd=lhcP0GmLjpZgygEvMtdAYEzKbSz5gI.1)
