@@ -16,11 +16,11 @@ Details for each chat will be shared below:
 
 **Topic:** Chat with Doctor - Test
 
-**Date:** May 2, 2025  
+**Date:** May 16, 2025  
 
-**Time:** 01:00 PM Central Time (US and Canada)
+**Time:** 04:00 PM Central Time (US and Canada)
 
 **Speaker:** Dr'.s name
 
-**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1609084955?pwd=KCbLi4rJm4zwULwqteFmegl66KCSTS.1) 
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1616392638?pwd=lhcP0GmLjpZgygEvMtdAYEzKbSz5gI.1)
 
