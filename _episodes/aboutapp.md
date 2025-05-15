@@ -13,9 +13,9 @@ Amelie Ramirez, DrPH, Co-Investigator<br/>
 Vivian Cortez, MS, Research Coordinator<br/>
 Sandra Sivak, BS, Patient Navigator<br/>
 Armida Flores, CHW, Patient Navigator<br/>
-Martha De La Mora, BS, Patient Navigator<br/>
-Mauren Duran Zamora, BS, Patient Navigator<br/>
 Zully Garcia, BS, Patient Navigator<br/>
+Mauren Duran Zamora, BS, Patient Navigator<br/>
+Shayannie Sierra, BS, Patient Navigator<br/>
 Cliff Despres, BJ, Communications Director<br/>
 Alyssa Gonzales, BA, Video Producer<br/>
 Byeong Choi, PhD, Biostatistician<br/>
