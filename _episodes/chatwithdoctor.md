@@ -16,7 +16,7 @@ Details for each chat will be shared below:
 
 **Topic:** Chat with Doctor - Test
 
-**Date:** May 16, 2025  
+**Date:** May 23, 2025  
 
 **Time:** 04:00 PM Central Time (US and Canada)
 
