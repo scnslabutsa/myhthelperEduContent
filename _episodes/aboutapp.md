@@ -11,7 +11,7 @@ The *HT* Helper study is funded by the American Cancer Society (ACS) and the May
 Patricia Chalela, DrPH, Principal Investigator<br/>
 Amelie Ramirez, DrPH, Co-Investigator<br/>
 Vivian Cortez, MS, Research Coordinator<br/>
-Sandra Sivak, BS, Patient Navigator<br/>
+Sandra Sivak, MS, Patient Navigator<br/>
 Armida Flores, CHW, Patient Navigator<br/>
 Zully Garcia, BS, Patient Navigator<br/>
 Mauren Duran Zamora, BS, Patient Navigator<br/>
