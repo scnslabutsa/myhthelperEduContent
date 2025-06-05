@@ -14,7 +14,7 @@ Los detalles de cada plática se compartirán a continuación:
 
 **Tema:** Chatear con la doctora - Examen
 
-**Fecha:** 23 de Mayo, 2025
+**Fecha:** 6 de Junio, 2025
 
 **Hora:** 4:00pm Hora central (EE. UU. y Canadá)
 
