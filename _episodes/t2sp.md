@@ -9,14 +9,14 @@ layout: lesson
 *	Se toma por 5-10 años.
 
 
-**Fuente:**
-
-<span style="font-size:15px;">American Cancer Society, 2021. Tamoxifen and Raloxifene for Lower Breast Cancer Risk.</span>
-
-
 ***Nombres de marca comunes del Tamoxifeno***
 * Nolvadex
 *	Tomifen (Tomifeno)
 *	Tamofen
 *	Soltamox (forma líquida)
+
   
+**Fuente:**
+
+<span style="font-size:15px;">American Cancer Society, 2021. Tamoxifen and Raloxifene for Lower Breast Cancer Risk.</span>
+
