@@ -22,8 +22,8 @@ Edgar Muñoz, MS, Statistician<br/>
 
 **SCNS Lab Team**<br/>
 David Akopian, PhD<br/>
-Devasena Inupakutika, PhD
-Sergio De Leon
+Devasena Inupakutika, PhD<br/>
+Sergio De Leon<br/>
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
