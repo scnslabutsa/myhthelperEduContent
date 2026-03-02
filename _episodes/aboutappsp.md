@@ -25,7 +25,7 @@ Edgar Muñoz, MS, Estadístico<br/>
 **Equipo del Lab SCNS**<br/>
 David Akopian, PhD<br/>
 Devasena Inupakutika, PhD<br/>
-Sergio DeLeon
+Sergio DeLeon<br/>
 
 Queremos agradecer de manera especial a todas las pacientes de cáncer de seno, a los oncólogos, y a las enfermeras quienes con su apoyo hacen posible este estudio.
 
