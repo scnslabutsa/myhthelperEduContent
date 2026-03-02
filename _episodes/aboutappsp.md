@@ -16,7 +16,6 @@ Sandra Sivak, MS, Navegadora de Pacientes<br/>
 Armida Flores, CHW, Navegadora de Pacientes<br/> 
 Zully Garcia, BS, Navegadora de Pacientes<br/>
 Mauren Duran Zamora, BS, Navegadora de Pacientes<br/> 
-Shayannie Sierra, BS, Navegadora de Pacientes<br/> 
 Cliff Despres, BJ, Director de Comunicaciones<br/>
 Alyssa Gonzales, BA, Productora de Video<br/>
 Byeong Choi, PhD, Bioestadístico<br/>
@@ -26,7 +25,7 @@ Edgar Muñoz, MS, Estadístico<br/>
 **Equipo del Lab SCNS**<br/>
 David Akopian, PhD<br/>
 Devasena Inupakutika, PhD<br/>
-
+Sergio DeLeon
 
 Queremos agradecer de manera especial a todas las pacientes de cáncer de seno, a los oncólogos, y a las enfermeras quienes con su apoyo hacen posible este estudio.
 
