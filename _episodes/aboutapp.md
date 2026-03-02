@@ -15,7 +15,6 @@ Sandra Sivak, MS, Patient Navigator<br/>
 Armida Flores, CHW, Patient Navigator<br/>
 Zully Garcia, BS, Patient Navigator<br/>
 Mauren Duran Zamora, BS, Patient Navigator<br/>
-Shayannie Sierra, BS, Patient Navigator<br/>
 Cliff Despres, BJ, Communications Director<br/>
 Alyssa Gonzales, BA, Video Producer<br/>
 Byeong Choi, PhD, Biostatistician<br/>
@@ -24,6 +23,7 @@ Edgar Muñoz, MS, Statistician<br/>
 **SCNS Lab Team**<br/>
 David Akopian, PhD<br/>
 Devasena Inupakutika, PhD
+Sergio De Leon
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
