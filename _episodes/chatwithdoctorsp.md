@@ -19,7 +19,7 @@ Los detalles de nuestra próxima plática se encuentran a continuación:
 
 **Hora:** 12:00pm Hora central (EE. UU. y Canadá)
 
-**Ponente:** **Speaker:** Dr. Marcela Mazo-Canola<br>
+**Ponente:** Dr. Marcela Mazo-Canola<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oncología Médica del Seno<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
 
