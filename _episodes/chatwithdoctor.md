@@ -14,13 +14,16 @@ If you are unable to join live, don’t worry—we’ll make recordings of the s
 
 Details for each chat will be shared below:
 
-**Topic:** Chat with Doctor - Test
+**Topic:** Why is Hormone Therapy Adherence Important
 
-**Date:** June 6, 2025  
+**Date:** June 26, 2026  
 
-**Time:** 04:00 PM Central Time (US and Canada)
+**Time:** 12:00pm Central Time (US and Canada)
 
-**Speaker:** Dr'.s name
+**Speaker:**  Dr. Marcela Mazo-Canola
+              Breast Medical Oncology
+              Mays Cancer Center
 
-**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1616392638?pwd=lhcP0GmLjpZgygEvMtdAYEzKbSz5gI.1)
+
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
 
