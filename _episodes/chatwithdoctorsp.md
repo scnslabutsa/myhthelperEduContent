@@ -8,16 +8,19 @@ En colaboración con la Clínica del Seno del Mays Cancer Center, nos complace o
 
 También tendrá la oportunidad de hacer preguntas, hablar con el presentador(a) y charlar con otras pacientes con cáncer de seno que participan en este estudio.
 
-Si no puede participar el dia de la plática, no se preocupe—tendremos disponible en YouTube la grabación de cada presentación por parte de los ponentes.
+Si no puede participar el dia de la plática, no se preocupe—tendremos disponible en YouTube la grabación de cada presentación por parte de los ponentes. 
 
-Los detalles de cada plática se compartirán a continuación:
+Los detalles de nuestra próxima plática se encuentran a continuación:  
 
-**Tema:** Chatear con la doctora - Examen
 
-**Fecha:** 6 de Junio, 2025
+**Tema:** Por qué es importante la adherencia a la terapia hormonal
 
-**Hora:** 4:00pm Hora central (EE. UU. y Canadá)
+**Fecha:** 26 de junio de 2026
 
-**Ponente:** Nombre del doctor(a)
+**Hora:** 12:00pm Hora central (EE. UU. y Canadá)
 
-**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1616392638?pwd=lhcP0GmLjpZgygEvMtdAYEzKbSz5gI.1)
+**Ponente:** **Speaker:** Dr. Marcela Mazo-Canola<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oncología Médica del Seno<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
+
+**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
