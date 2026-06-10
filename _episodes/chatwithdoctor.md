@@ -20,11 +20,9 @@ Details for each chat will be shared below:
 
 **Time:** 12:00pm Central Time (US and Canada)
 
-**Speaker:**  <div style="margin-left: 40px;">
-  <b>Dr. Marcela Mazo-Canola</b><br>
-  <b>Breast Medical Oncology</b><br>
-  <b>Mays Cancer Center</b>
-</div>
+**Speaker:** Dr. Marcela Mazo-Canola<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breast Medical Oncology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
 
 
 **Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
