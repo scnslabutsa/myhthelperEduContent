@@ -27,3 +27,10 @@ Details for each chat will be shared below:
 
 **Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
 
+---
+
+### Past Sessions
+
+| Topic: | Speaker: | Video Link: |
+| :--- | :--- | :--- |
+| **Why is Hormone Therapy Adherence Important** | Dr. Marcela Mazo-Canola | [Watch on YouTube](https://www.youtube.com/watch?si=IKEiCc5W3C6Qn6s2&v=iQXnZKB8v9I&feature=youtu.be) |
