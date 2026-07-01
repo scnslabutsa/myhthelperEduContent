@@ -24,3 +24,11 @@ Los detalles de nuestra próxima plática se encuentran a continuación:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
 
 **Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
+
+---
+
+### Sesiones Anteriores
+
+| Tema: | Ponente: | Enlace del Video: |
+| :--- | :--- | :--- |
+| **Por qué es importante la adherencia a la terapia hormonal** | Dra. Marcela Mazo-Canola | [Ver en YouTube](https://www.youtube.com/watch?si=IKEiCc5W3C6Qn6s2&v=iQXnZKB8v9I&feature=youtu.be) |
