@@ -56,7 +56,7 @@ layout: lesson
 
 <h2>Data Retention Policy</h2>
 <p>We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
-<p>Usage Data will generally be retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods. If you request account or data deletion, your personal information will be purged from our active databases within 30 days, unless a longer retention period is required by law.</p>
+<p>Usage Data will generally be retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods. If you request account or data deletion, your personal information will be purged from our active databases within 90 days, unless a longer retention period is required by law.</p>
 
 <h2>Data Deletion Request Process</h2>
 <p>Users have the right to request the deletion of their personal data collected by the HT Patient Helper app. You may request data deletion at any time by taking the following steps:</p>
