@@ -1,19 +1,15 @@
 ---
 layout: lesson
-<!---title:  How do aromatase inhibitors work?---> 
 ---
 <h1>Privacy Policy</h1>
 
-
-<p>Effective date: April 10, 2019</p>
-
+<p>Effective date: August 20, 2026</p>
 
 <p>HT Patient Helper ("us", "we", or "our") operates the HT Patient Helper mobile application (the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for HT Patient Helper is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
-
 
 <h2>Information Collection And Use</h2>
 
@@ -26,7 +22,9 @@ layout: lesson
 <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
 
 <ul>
-<li>Email address</li><li>First name and last name</li><li>Cookies and Usage Data</li>
+  <li>Email address</li>
+  <li>First name and last name</li>
+  <li>Cookies and Usage Data</li>
 </ul>
 
 <h4>Usage Data</h4>
@@ -39,23 +37,34 @@ layout: lesson
 <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
 <p>Examples of Cookies we use:</p>
 <ul>
-    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
-    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
-    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+  <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+  <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+  <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
 </ul>
 
 <h2>Use of Data</h2>
-    
-<p>HT Patient Helper uses the collected data for various purposes:</p>    
+<p>HT Patient Helper uses the collected data for various purposes:</p>
 <ul>
-    <li>To provide and maintain the Service</li>
-    <li>To notify you about changes to our Service</li>
-    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
-    <li>To provide customer care and support</li>
-    <li>To provide analysis or valuable information so that we can improve the Service</li>
-    <li>To monitor the usage of the Service</li>
-    <li>To detect, prevent and address technical issues</li>
+  <li>To provide and maintain the Service</li>
+  <li>To notify you about changes to our Service</li>
+  <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+  <li>To provide customer care and support</li>
+  <li>To provide analysis or valuable information so that we can improve the Service</li>
+  <li>To monitor the usage of the Service</li>
+  <li>To detect, prevent and address technical issues</li>
 </ul>
+
+<h2>Data Retention Policy</h2>
+<p>We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
+<p>Usage Data will generally be retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods. If you request account or data deletion, your personal information will be purged from our active databases within 30 days, unless a longer retention period is required by law.</p>
+
+<h2>Data Deletion Request Process</h2>
+<p>Users have the right to request the deletion of their personal data collected by the HT Patient Helper app. You may request data deletion at any time by taking the following steps:</p>
+<ol>
+  <li><strong>Submit a Deletion Request via Email:</strong> Send an email to <a href="mailto:ehtappscnslab@gmail.com">ehtappscnslab@gmail.com</a> with the subject line "Data Deletion Request".</li>
+  <li><strong>Required Details:</strong> In the body of the email, please provide your full name and the registered email address associated with your HT Patient Helper account or app usage so we can identify your records.</li>
+  <li><strong>Processing Timeline:</strong> Upon receiving your request, we will verify your identity and permanently delete or anonymize all Personal Data associated with your account within 30 days. You will receive a confirmation email once the deletion process is complete.</li>
+</ol>
 
 <h2>Transfer Of Data</h2>
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
@@ -68,11 +77,11 @@ layout: lesson
 <h3>Legal Requirements</h3>
 <p>HT Patient Helper may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
-    <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of HT Patient Helper</li>
-    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
-    <li>To protect the personal safety of users of the Service or the public</li>
-    <li>To protect against legal liability</li>
+  <li>To comply with a legal obligation</li>
+  <li>To protect and defend the rights or property of HT Patient Helper</li>
+  <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+  <li>To protect the personal safety of users of the Service or the public</li>
+  <li>To protect against legal liability</li>
 </ul>
 
 <h2>Security Of Data</h2>
@@ -83,41 +92,38 @@ layout: lesson
 <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
 
 <h3>Analytics</h3>
-<p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p>    
+<p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p>
 <ul>
-        <li>
-        <p><strong>Google Analytics</strong></p>
-        <p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
-                <p>You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>        <p>For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-    </li>
-            <li>
-        <p><strong>Firebase</strong></p>
-        <p>Firebase is analytics service provided by Google Inc.</p>
-        <p>You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-        <p>We also encourage you to review the Google's policy for safeguarding your data: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-    </li>
-                        </ul>
-
+  <li>
+    <p><strong>Google Analytics</strong></p>
+    <p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
+    <p>You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+    <p>For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+  </li>
+  <li>
+    <p><strong>Firebase</strong></p>
+    <p>Firebase is analytics service provided by Google Inc.</p>
+    <p>You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+    <p>We also encourage you to review the Google's policy for safeguarding your data: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>. For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+  </li>
+</ul>
 
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
-
 <h2>Children's Privacy</h2>
 <p>Our Service does not address anyone under the age of 18 ("Children").</p>
 <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
-
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
-
 <h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<p>If you have any questions or data deletion requests regarding this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: ehtappscnslab@gmail.com</li>
-        <li>By phone number: 2105443450</li>
- </ul>
+  <li>By email: ehtappscnslab@gmail.com</li>
+  <li>By phone number: 2105443450</li>
+</ul>
