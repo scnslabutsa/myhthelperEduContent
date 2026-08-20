@@ -1,42 +1,38 @@
 ---
 layout: lesson
-<!---title:  How do aromatase inhibitors work?---> 
 ---
-<h1>Política de privacidad</h1>
+<h1>Política de Privacidad</h1>
 
-
-<p>Fecha efectiva: April 10, 2019</p>
-
+<p>Fecha de entrada en vigor: 20 de agosto de 2026</p>
 
 <p>HT Patient Helper ("nosotros", "a nosotros", "nuestro") opera la aplicación móvil HT Patient Helper (en adelante, el "Servicio").</p>
 
-<p>Esta página le informa de nuestras políticas en materia de recopilación, uso y divulgación de datos personales cuando utiliza nuestro Servicio y de las opciones de las que dispone en relación con esos datos. Our Privacy Policy  for HT Patient Helper is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
+<p>Esta página le informa de nuestras políticas en materia de recopilación, uso y divulgación de datos personales cuando utiliza nuestro Servicio y de las opciones de las que dispone en relación con esos datos.</p>
 
-<p>Utilizamos sus datos para prestarle el Servicio y mejorarlo. Al utilizar el Servicio, usted acepta la recopilación y el uso de información de conformidad con esta política. A menos que esta Política de privacidad defina lo contrario, los términos utilizados en ella tienen los mismos significados que nuestros Términos y Condiciones.</p>
+<p>Utilizamos sus datos para prestarle el Servicio y mejorarlo. Al utilizar el Servicio, usted acepta la recopilación y el uso de información de conformidad con esta política. A menos que esta Política de privacidad defina lo contrario, los términos utilizados en ella tienen los mismos significados que en nuestros Términos y Condiciones.</p>
 
 <h2>Definiciones</h2>
 <ul>
-    <li>
-        <p><strong>Servicio</strong></p>
-                <p>Servicio es la aplicación móvil HT Patient Helper operada por HT Patient Helper</p>
-            </li>
-    <li>
-        <p><strong>Datos personales</strong></p>
-        <p>Datos personales significa los datos sobre una persona física viva que puede ser identificada a partir de esos datos (o con esos datos y otra información de la que dispongamos o probablemente podamos disponer).</p>
-    </li>
-    <li>
-        <p><strong>Datos de uso</strong></p>
-        <p>Datos de uso son los datos recopilados automáticamente, generados por el uso del Servicio o por la propia infraestructura del Servicio (por ejemplo, la duración de la visita a una página).</p>
-    </li>
-    <li>
-        <p><strong>Cookies</strong></p>
-        <p>Las cookies son pequeños archivos ialmacenados en su dispositivo (ordenador o dispositivo móvil).</p>
-    </li>
+  <li>
+    <p><strong>Servicio</strong></p>
+    <p>Servicio es la aplicación móvil HT Patient Helper operada por HT Patient Helper.</p>
+  </li>
+  <li>
+    <p><strong>Datos personales</strong></p>
+    <p>Datos personales significa los datos sobre una persona física viva que puede ser identificada a partir de esos datos (o con esos datos y otra información de la que dispongamos o probablemente podamos disponer).</p>
+  </li>
+  <li>
+    <p><strong>Datos de uso</strong></p>
+    <p>Datos de uso son los datos recopilados automáticamente, generados por el uso del Servicio o por la propia infraestructura del Servicio (por ejemplo, la duración del uso de la aplicación).</p>
+  </li>
+  <li>
+    <p><strong>Cookies</strong></p>
+    <p>Las cookies son pequeños archivos almacenados en su dispositivo (ordenador o dispositivo móvil).</p>
+  </li>
 </ul>
 
 <h2>Recopilación y uso de la información</h2>
-<p>Recopilamos diferentes tipos de información con diversas finalidades para prestarle el
-Servicio y mejorarlo.</p>
+<p>Recopilamos diferentes tipos de información con diversas finalidades para prestarle el Servicio y mejorarlo.</p>
 
 <h3>Tipos de datos recopilados</h3>
 
@@ -44,12 +40,13 @@ Servicio y mejorarlo.</p>
 <p>Cuando utilice nuestro Servicio, es posible que le pidamos que nos proporcione determinada información personalmente identificable que podrá ser utilizada para contactar con usted o para identificarle ("Datos personales"). La información personalmente identificable puede incluir, entre otras, la siguiente:</p>
 
 <ul>
-    <li>Dirección de e-mail</li>    <li>Nombre y apellidos</li>            <li>Cookies y datos de uso</li>
+  <li>Dirección de correo electrónico</li>
+  <li>Nombre y apellidos</li>
+  <li>Cookies y datos de uso</li>
 </ul>
 
 <h4>Datos de uso</h4>
-
-<p>Cuando accede al Servicio econ un dispositivo móvil, podemos recopilar determinada información automáticamente, incluyendo, entre otros, el tipo de dispositivo móvil que utiliza, el identificador exclusivo de su dispositivo móvil, la dirección de IP de su dispositivo móvil, el sistema operativo de su dispositivo móvil, el tipo de navegador de Internet que utiliza su dispositivo móvil, identificadores exclusivos de dispositivos y otros datos de diagnóstico ("Datos de uso").</p>
+<p>Cuando accede al Servicio con un dispositivo móvil, podemos recopilar determinada información automáticamente, incluyendo, entre otros, el tipo de dispositivo móvil que utiliza, el identificador exclusivo de su dispositivo móvil, la dirección IP de su dispositivo móvil, el sistema operativo de su dispositivo móvil, el tipo de navegador de Internet que utiliza su dispositivo móvil, identificadores exclusivos de dispositivos y otros datos de diagnóstico ("Datos de uso").</p>
 
 <h4>Datos de cookies y seguimiento</h4>
 <p>Utilizamos cookies y tecnologías de seguimiento similares para rastrear la actividad de nuestro Servicio y mantener determinada información.</p>
@@ -57,26 +54,38 @@ Servicio y mejorarlo.</p>
 <p>Usted puede ordenar a su navegador que rechace todas las cookies o que le avise cuando se envía una cookie. Sin embargo, si no acepta cookies, es posible que no pueda utilizar algunas partes de nuestro Servicio.</p>
 <p>Ejemplos de Cookies que utilizamos:</p>
 <ul>
-    <li><strong>Cookies de sesión.</strong> Utilizamos Cookies de sesión para operar nuestro Servicio.</li>
-    <li><strong>Cookies de preferencia.</strong> Utilizamos Cookies de preferencia para recordar sus preferencias y diversos ajustes.</li>
-    <li><strong>Cookies de seguridad.</strong> Utilizamos Cookies de seguridad para fines de seguridad.</li>
+  <li><strong>Cookies de sesión.</strong> Utilizamos Cookies de sesión para operar nuestro Servicio.</li>
+  <li><strong>Cookies de preferencia.</strong> Utilizamos Cookies de preferencia para recordar sus preferencias y diversos ajustes.</li>
+  <li><strong>Cookies de seguridad.</strong> Utilizamos Cookies de seguridad para fines de seguridad.</li>
 </ul>
 
-<h2>Uso de datos</h2> 
-<p>HT Patient Helper utiliza los datos recopilados con diversas finalidades:</p>    
+<h2>Uso de datos</h2>
+<p>HT Patient Helper utiliza los datos recopilados con diversas finalidades:</p>
 <ul>
-    <li>Suministrar y mantener nuestro Servicio</li>
-    <li>Notificarle cambios en nuestro Servicio</li>
-    <li>Permitirle participar en funciones interactivas de nuestro Servicio cuando decida hacerlo</li>
-    <li>Prestar asistencia al cliente</li>
-    <li>Recopilar análisis o información valiosa que nos permitan mejorar nuestro Servicio</li>
-    <li>Controlar el uso de nuestro Servicio</li>
-    <li>Detectar, evitar y abordar problemas técnicos</li>
+  <li>Suministrar y mantener nuestro Servicio</li>
+  <li>Notificarle cambios en nuestro Servicio</li>
+  <li>Permitirle participar en funciones interactivas de nuestro Servicio cuando decida hacerlo</li>
+  <li>Prestar asistencia al cliente</li>
+  <li>Recopilar análisis o información valiosa que nos permitan mejorar nuestro Servicio</li>
+  <li>Controlar el uso de nuestro Servicio</li>
+  <li>Detectar, evitar y abordar problemas técnicos</li>
 </ul>
+
+<h2>Política de retención de datos</h2>
+<p>Conservaremos sus Datos personales únicamente durante el tiempo que sea necesario para los fines establecidos en esta Política de privacidad. Conservaremos y utilizaremos sus Datos personales en la medida necesaria para cumplir con nuestras obligaciones legales (por ejemplo, si se nos exige conservar sus datos para cumplir con las leyes aplicables), resolver disputas y hacer cumplir nuestros acuerdos y políticas legales.</p>
+<p>Los Datos de uso generalmente se conservarán durante un período más corto, excepto cuando estos datos se utilicen para reforzar la seguridad o mejorar la funcionalidad de nuestro Servicio, o cuando estemos legalmente obligados a conservar estos datos durante períodos más largos. Si solicita la eliminación de su cuenta o sus datos, sus datos personales se eliminarán de nuestras bases de datos activas en un plazo de 30 días, a menos que la ley exija un período de conservación más largo.</p>
+
+<h2>Proceso de solicitud de eliminación de datos</h2>
+<p>Los usuarios tienen derecho a solicitar la eliminación de sus datos personales recopilados por la aplicación HT Patient Helper. Puede solicitar la eliminación de sus datos en cualquier momento siguiendo estos pasos:</p>
+<ol>
+  <li><strong>Enviar una solicitud por correo electrónico:</strong> Envíe un correo electrónico a <a href="mailto:ehtappscnslab@gmail.com">ehtappscnslab@gmail.com</a> con el asunto "Solicitud de eliminación de datos".</li>
+  <li><strong>Detalles requeridos:</strong> En el cuerpo del correo electrónico, proporcione su nombre completo y la dirección de correo electrónico registrada asociada con su cuenta o uso de la aplicación HT Patient Helper para que podamos identificar sus registros.</li>
+  <li><strong>Plazo de procesamiento:</strong> Tras recibir su solicitud, verificaremos su identidad y eliminaremos permanentemente o anonimizaremos todos los Datos personales asociados a su cuenta en un plazo de 90 días. Recibirá un correo electrónico de confirmación una vez completado el proceso de eliminación.</li>
+</ol>
 
 <h2>Transferencia de datos</h2>
 <p>Su información, incluyendo Datos personales, puede ser transferida a —y mantenida en— ordenadores localizados fuera de su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden diferir de las de su jurisdicción.</p>
-<p>Si usted se encuentra fuera de United States y decide facilitarnos información, tenga en cuenta que nosotros transferimos los datos, incluyendo Datos personales, a United States y que los tratamos allí.</p>
+<p>Si usted se encuentra fuera de Estados Unidos y decide facilitarnos información, tenga en cuenta que nosotros transferimos los datos, incluyendo Datos personales, a Estados Unidos y que los tratamos allí.</p>
 <p>Su aceptación de esta Política de privacidad seguida de su envío de esta información representa que está de acuerdo con dicha transferencia.</p>
 <p>HT Patient Helper emprenderá todas las medidas razonables necesarias para garantizar que sus datos sean tratados de forma segura y de conformidad con esta Política de privacidad y no se realizará ninguna transferencia de sus Datos personales a una organización o país, salvo que existan unos controles adecuados establecidos incluyendo la seguridad de sus datos y otra información personal.</p>
 
@@ -85,11 +94,11 @@ Servicio y mejorarlo.</p>
 <h3>Requisitos legales</h3>
 <p>HT Patient Helper puede divulgar sus Datos personales de buena fe cuando considere que esta acción es necesaria para lo siguiente:</p>
 <ul>
-    <li>Cumplir una obligación legal</li>
-    <li>Proteger y defender los derechos o bienes de HT Patient Helper</li>
-    <li>Prevenir o investigar posibles infracciones en relación con el Servicio</li>
-    <li>Proteger la seguridad personal de usuarios del Servicio o del público</li>
-    <li>Protegerse frente a consecuencias legales</li>
+  <li>Cumplir una obligación legal</li>
+  <li>Proteger y defender los derechos o bienes de HT Patient Helper</li>
+  <li>Prevenir o investigar posibles infracciones en relación con el Servicio</li>
+  <li>Proteger la seguridad personal de usuarios del Servicio o del público</li>
+  <li>Protegerse frente a consecuencias legales</li>
 </ul>
 
 <h2>Seguridad de los datos</h2>
@@ -100,42 +109,39 @@ Servicio y mejorarlo.</p>
 <p>Estos terceros tienen acceso a sus Datos personales únicamente para realizar estas tareas en nuestro nombre y están obligados a no divulgarlos ni utilizarlos con ningún otro fin.</p>
 
 <h3>Análisis</h3>
-<p>Podemos utilizar Proveedores de servicios terceros para controlar y analizar el uso de nuestro Servicio.</p>    
+<p>Podemos utilizar Proveedores de servicios terceros para controlar y analizar el uso de nuestro Servicio.</p>
 <ul>
-        <li>
-        <p><strong>Google Analytics</strong></p>
-        <p>Google Analytics es un servicio de analítica web ofrecido por Google que rastrea e informa del tráfico de los sitios web. Google utiliza los datos recopilados para rastrear y controlar el uso de nuestro Servicio. Estos datos son compartidos con otros servicios de Google. Google puede utilizar los datos recopilados para contextualizar y personalizar los anuncios de su propia red de publicidad.</p>
-                <p>Puede optar por inhabilitar determinadas características de Google Analytics a través de la configuración de su dispositivo móvil, como la configuración de la publicidad en el dispositivo, o siguiendo las instrucciones proporcionadas por Google en su Política de privacidad: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>        <p>Para más información sobre las prácticas de privacidad de Google, visite la página web de Privacidad y Condiciones de Google: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-    </li>
-            <li>
-        <p><strong>Firebase</strong></p>
-        <p>Firebase es un servicio de analítica prestado por Google Inc.</p>
-        <p>Puede optar por inhabilitar determinadas características de Firebase a través de la configuración de su dispositivo móvil, como la configuración de la publicidad en el dispositivo, o siguiendo las instrucciones proporcionadas por Google en su Política de privacidad: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-        <p>Le recomendamos que revise la política de Google de protección de sus datos: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>.</p>
-        <p>Para más información sobre el tipo de información que recopila Firebase, visite la página web de Privacidad y condiciones de Google: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
-    </li>
-                            </ul>
-
+  <li>
+    <p><strong>Google Analytics</strong></p>
+    <p>Google Analytics es un servicio de analítica web ofrecido por Google que rastrea e informa del tráfico de los sitios web. Google utiliza los datos recopilados para rastrear y controlar el uso de nuestro Servicio. Estos datos son compartidos con otros servicios de Google. Google puede utilizar los datos recopilados para contextualizar y personalizar los anuncios de su propia red de publicidad.</p>
+    <p>Puede optar por inhabilitar determinadas características de Google Analytics a través de la configuración de su dispositivo móvil, como la configuración de la publicidad en el dispositivo, o siguiendo las instrucciones proporcionadas por Google en su Política de privacidad: <a href="https://policies.google.com/privacy?hl=es">https://policies.google.com/privacy?hl=es</a></p>
+    <p>Para más información sobre las prácticas de privacidad de Google, visite la página web de Privacidad y Condiciones de Google: <a href="https://policies.google.com/privacy?hl=es">https://policies.google.com/privacy?hl=es</a></p>
+  </li>
+  <li>
+    <p><strong>Firebase</strong></p>
+    <p>Firebase es un servicio de analítica prestado por Google Inc.</p>
+    <p>Puede optar por inhabilitar determinadas características de Firebase a través de la configuración de su dispositivo móvil, como la configuración de la publicidad en el dispositivo, o siguiendo las instrucciones proporcionadas por Google en su Política de privacidad: <a href="https://policies.google.com/privacy?hl=es">https://policies.google.com/privacy?hl=es</a></p>
+    <p>Le recomendamos que revise la política de Google de protección de sus datos: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>.</p>
+    <p>Para más información sobre el tipo de información que recopila Firebase, visite la página web de Privacidad y condiciones de Google: <a href="https://policies.google.com/privacy?hl=es">https://policies.google.com/privacy?hl=es</a></p>
+  </li>
+</ul>
 
 <h2>Enlaces a otros sitios</h2>
 <p>Nuestro Servicio puede contener enlaces a otros sitios no operados por nosotros. Si hace clic en el enlace de un tercero, será dirigido al sitio de ese tercero. Le recomendamos encarecidamente que revise la Política de privacidad de todos los sitios que visite.</p>
 <p>No tenemos ningún control ni asumimos responsabilidad alguna con respecto al contenido, las políticas o prácticas de privacidad de sitios o servicios de terceros.</p>
 
-
 <h2>Privacidad del menor</h2>
 <p>Nuestro servicio no está dirigido a ningún menor de 18 años (en adelante, "Menor").</p>
 <p>No recopilamos de forma consciente información personalmente identificable de menores de 18 años. Si es usted un padre/madre o tutor y tiene conocimiento de que su hijo nos ha facilitado Datos personales, contacte con nosotros. Si tenemos conocimiento de que hemos recopilado Datos personales de menores sin verificación del consentimiento parental, tomamos medidas para eliminar esa información de nuestros servidores.</p>
 
-
 <h2>Cambios en esta Política de privacidad</h2>
 <p>Podemos actualizar nuestra Política de privacidad periódicamente. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página.</p>
-<p>Le informaremos a través del e-mail y/o de un aviso destacado sobre nuestro Servicio antes de que el cambio entre en vigor y actualizaremos la «fecha efectiva» en la parte superior de esta Política de privacidad.</p>
+<p>Le informaremos a través del correo electrónico y/o de un aviso destacado sobre nuestro Servicio antes de que el cambio entre en vigor y actualizaremos la «fecha de entrada en vigor» en la parte superior de esta Política de privacidad.</p>
 <p>Le recomendamos que revise esta Política de privacidad periódicamente para comprobar si se ha introducido algún cambio. Los cambios en esta Política de privacidad entran en vigor cuando se publican en esta página.</p>
 
-
 <h2>Contacte con nosotros</h2>
-<p>Si tiene alguna pregunta sobre esta Política de privacidad, contacte con nosotros: </p>
+<p>Si tiene alguna pregunta o solicitud de eliminación de datos sobre esta Política de privacidad, contacte con nosotros:</p>
 <ul>
-        <li>Por e-mail: ehtappscnslab@gmail.com</li>
-        <li>A través del número de teléfono: 2105443450</li>
+  <li>Por correo electrónico: ehtappscnslab@gmail.com</li>
+  <li>A través del número de teléfono: 2105443450</li>
 </ul>
