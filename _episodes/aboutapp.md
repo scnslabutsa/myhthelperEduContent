@@ -13,8 +13,8 @@ Amelie Ramirez, DrPH, Co-Investigator<br/>
 Vivian Cortez, MS, Research Coordinator<br/>
 Sandra Sivak, MS, Patient Navigator<br/>
 Armida Flores, CHW, Patient Navigator<br/>
-Zully Garcia, BS, Patient Navigator<br/>
 Mauren Duran Zamora, BS, Patient Navigator<br/>
+Ivana Padron, BS, Patient Navigator<br/>
 Cliff Despres, BJ, Communications Director<br/>
 Alyssa Gonzales, BA, Video Producer<br/>
 Byeong Choi, PhD, Biostatistician<br/>
@@ -23,7 +23,7 @@ Edgar Muñoz, MS, Statistician<br/>
 **SCNS Lab Team**<br/>
 David Akopian, PhD<br/>
 Devasena Inupakutika, PhD<br/>
-Sergio De Leon<br/>
+Carlos Torres Valle, MS<br/>
 
 We would like to thank all breast cancer patients, oncologists, and nurses whose support makes this study possible.
 
