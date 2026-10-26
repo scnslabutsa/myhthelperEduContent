@@ -14,9 +14,9 @@ If you are unable to join live, don’t worry—we’ll make recordings of the s
 
 Details for each chat will be shared below:
 
-**Topic:** Why is Hormone Therapy Adherence Important
+**Topic:** Managing side effects – Musculoskeletal symptoms: joint pain and reduced bone density
 
-**Date:** June 26, 2026  
+**Date:** October 30, 2026
 
 **Time:** 12:00pm Central Time (US and Canada)
 
@@ -25,7 +25,7 @@ Details for each chat will be shared below:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
 
 
-**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
+**Zoom Link:** [Join ZoomGov Meeting](https://uthealthsa.zoomgov.com/j/1654638842?pwd=upH9rrTao8V8lQpQSBDhQPMvSBCoUN.1)
 
 ---
 
