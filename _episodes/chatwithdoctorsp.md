@@ -13,9 +13,9 @@ Si no puede participar el dia de la plática, no se preocupe—tendremos disponi
 Los detalles de nuestra próxima plática se encuentran a continuación:  
 
 
-**Tema:** Por qué es importante la adherencia a la terapia hormonal
+**Tema:** Manejo de efectos secundarios –Síntomas musculoesqueléticos: dolor en las articulaciones y disminución de la densidad ósea
 
-**Fecha:** 26 de junio de 2026
+**Fecha:** 30 de octubre de 2026
 
 **Hora:** 12:00pm Hora central (EE. UU. y Canadá)
 
@@ -23,7 +23,7 @@ Los detalles de nuestra próxima plática se encuentran a continuación:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oncología Médica del Seno<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mays Cancer Center
 
-**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1659788556?pwd=ARmokY55ejzXhUPOmrq17bNX2ltf9V.1&jst=1)
+**Enlace de Zoom:** [Enlace Zoom](https://uthealthsa.zoomgov.com/j/1654638842?pwd=upH9rrTao8V8lQpQSBDhQPMvSBCoUN.1)
 
 ---
 
